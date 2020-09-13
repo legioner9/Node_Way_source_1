@@ -73,6 +73,12 @@
 
     git checkout HEAD~2
     
+## remote
+
+### -v
+
+    git remote -v
+    
 
 
 
