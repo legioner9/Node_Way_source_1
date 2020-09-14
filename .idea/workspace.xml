@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Part_I/content/Docs/site_docs.com/_site_docs.com.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Part_I/content/Docs/site_docs.com/_site_docs.com.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Part_I/content/_content.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Part_I/content/_content.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Part_I/contaners/contaner_2/learngitbranching.js.org/_learngitbranching.js.org.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Part_I/contaners/contaner_2/learngitbranching.js.org/_src/rebase_afer_rebase_c3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Part_I/contaners/contaner_2/learngitbranching.js.org/_src/rebase_before.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Part_I/contaners/contaner_2/learngitbranching.js.org/_src/rebase_c3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Part_I/contaners/contaner_2/learngitbranching.js.org/_src/Скриншот 2020-09-13 23.54.40.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Part_I/contaners/contaner_2/learngitbranching.js.org/_src/Скриншот 2020-09-13 23.55.08.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -401,6 +404,7 @@
       <workItem from="1599819533238" duration="544000" />
       <workItem from="1599831402142" duration="883000" />
       <workItem from="1599958530543" duration="784000" />
+      <workItem from="1600058651304" duration="165000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
