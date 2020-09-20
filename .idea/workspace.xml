@@ -2,10 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/content/Docs/git-scm.com/Point_learn/Branching_and_Merging/cloneFilesToDir.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/content/Docs/git-scm.com/Point_learn/Debugging/cloneFilesToDir.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/content/Docs/git-scm.com/Point_learn/Email/cloneFilesToDir.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/content/Docs/git-scm.com/Point_learn/External_Systems/cloneFilesToDir.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/content/Docs/git-scm.com/Point_learn/Getting_and_Creating_Projects/cloneFilesToDir.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/content/Docs/git-scm.com/Point_learn/Guides/cloneFilesToDir.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/content/Docs/git-scm.com/Point_learn/Inspection_and_Comparison/cloneFilesToDir.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/content/Docs/git-scm.com/Point_learn/Patching/cloneFilesToDir.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/content/Docs/git-scm.com/Point_learn/Plumbing_Commands/cloneFilesToDir.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/content/Docs/git-scm.com/Point_learn/Server_Admin/cloneFilesToDir.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/content/Docs/git-scm.com/Point_learn/Setup_and_Config/cloneFilesToDir.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/content/Docs/git-scm.com/Point_learn/Sharing_and_Updating_Projects/cloneFilesToDir.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir/Test/cloneFilesToDir.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir/Test/1.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir/Test/1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ini/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ini/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir/Test/1.js" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/content/Docs/git-scm.com/Point_learn/Basic_Snapshotting/cloneFilesToDir.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_2_level/Test/1.1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_2_level/Test/1.js" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/content/Docs/git-scm.com/Point_learn/Administration/cloneFilesToDir.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_2_level/Test/other.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_2_level/Test/w/w_file.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_2_level/Test/w/w_in/w_in_file.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_2_level/index.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -108,7 +125,7 @@
     <property name="add_unversioned_files" value="$PROJECT_DIR$/Jobs/SetGlobLoggers/ModLogger_1/Core/Logs/eLogs.txt&#10;true" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="11.6.0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/NBase/_Md/_Index/_Git/content/Docs/git-scm.com/Point_learn/Sharing_and_Updating_Projects" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.jscs" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -141,14 +158,14 @@
       <recent name="D:\Node_Projects_v.2\Node_Way\NBase\_Md\_Index\_HPW\Part_I\content\Courses\Fundamentals\arrObjClassProto\_@_Practice" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1\SetDirFile\SearchDirFile" />
-      <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1\SetDirFile\SearchDirFile\DirMappingCloneFileToDir\Test" />
-      <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1\SetDirFile\SearchDirFile\DirMappingCloneFileToDir" />
-      <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1\SetDirFile\SearchDirFile\DirMappingToFile\Test" />
-      <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1" />
+      <recent name="E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\git-scm.com\Point_learn\Sharing_and_Updating_Projects" />
+      <recent name="E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\git-scm.com\Point_learn\Plumbing_Commands" />
+      <recent name="E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\git-scm.com\Point_learn\Inspection_and_Comparison" />
+      <recent name="E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\git-scm.com\Point_learn\Guides" />
+      <recent name="E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\git-scm.com\Point_learn\Getting_and_Creating_Projects" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.dev_examp">
+  <component name="RunManager" selected="Node.js.cloneFilesToDir.js (1)">
     <configuration name="a.html" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/Node_Way/Node_Docs/Education/IlKan/learn.javascript.ru/Browser/1/1.1/a.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -158,59 +175,38 @@
     <configuration name="Object.create.js" type="NodeJSConfigurationType" nameIsGenerated="true" node-parameters="ndb" path-to-js-file="$PROJECT_DIR$/node_modules/st_doc1/js_DOCS/Function/_@_FunctionEngendering/InheritsEgeneringModel/Object.create.js" working-dir="$PROJECT_DIR$/node_modules/st_doc1/js_DOCS/Function/_@_FunctionEngendering">
       <method v="2" />
     </configuration>
-    <configuration name="module_1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/NBase/_Md/_Index/_JS/Jsdoc/content/Usage/Example/Project_1/1/module_1.js" working-dir="$PROJECT_DIR$/NBase/_Md/_Index/_JS/Jsdoc/content/Usage/Example/Project_1">
+    <configuration name="cloneFilesToDir.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/NBase/_Md/_Index/_Git/content/Docs/git-scm.com/Point_learn/Sharing_and_Updating_Projects/cloneFilesToDir.js" working-dir="$PROJECT_DIR$/NBase/_Md/_Index/_Git/content/Docs/git-scm.com/Point_learn/Sharing_and_Updating_Projects">
       <method v="2" />
     </configuration>
-    <configuration name="test.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/NBase/_Md/_Index/_Metarhia/_Repos_Metarchia_05_06_2020/concolor-master/test.js" working-dir="$PROJECT_DIR$/NBase/_Md/_Index/_Metarhia/_Repos_Metarchia_05_06_2020/concolor-master">
+    <configuration name="cloneFilesToDir.js (3)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/NBase/_Md/_Index/_Git/content/Docs/git-scm.com/Point_learn/Getting_and_Creating_Projects/cloneFilesToDir.js" working-dir="$PROJECT_DIR$/NBase/_Md/_Index/_Git/content/Docs/git-scm.com/Point_learn/Getting_and_Creating_Projects">
       <method v="2" />
     </configuration>
-    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
-      <package-json value="$PROJECT_DIR$/package.json" />
-      <command value="run" />
-      <scripts>
-        <script value="dev" />
-      </scripts>
-      <node-interpreter value="project" />
-      <envs />
+    <configuration name="cloneFilesToDir.js (4)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/NBase/_Md/_Index/_Git/content/Docs/git-scm.com/Point_learn/Guides/cloneFilesToDir.js" working-dir="$PROJECT_DIR$/NBase/_Md/_Index/_Git/content/Docs/git-scm.com/Point_learn/Guides">
       <method v="2" />
     </configuration>
-    <configuration name="dev_examp" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
-      <package-json value="$PROJECT_DIR$/package.json" />
-      <command value="run" />
-      <scripts>
-        <script value="dev_examp" />
-      </scripts>
-      <node-interpreter value="project" />
-      <envs />
+    <configuration name="cloneFilesToDir.js (5)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/NBase/_Md/_Index/_Git/content/Docs/git-scm.com/Point_learn/Inspection_and_Comparison/cloneFilesToDir.js" working-dir="$PROJECT_DIR$/NBase/_Md/_Index/_Git/content/Docs/git-scm.com/Point_learn/Inspection_and_Comparison">
       <method v="2" />
     </configuration>
-    <configuration name="dev_st_doc1" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
-      <package-json value="$PROJECT_DIR$/package.json" />
-      <command value="run" />
-      <scripts>
-        <script value="dev_st_doc1" />
-      </scripts>
-      <node-interpreter value="project" />
-      <envs />
+    <configuration name="cloneFilesToDir.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/NBase/_Md/_Index/_Git/content/Docs/git-scm.com/Point_learn/Plumbing_Commands/cloneFilesToDir.js" working-dir="$PROJECT_DIR$/NBase/_Md/_Index/_Git/content/Docs/git-scm.com/Point_learn/Plumbing_Commands">
       <method v="2" />
     </configuration>
     <list>
       <item itemvalue="JavaScript Debug.a.html" />
       <item itemvalue="Node.js.6-parse_1.js" />
       <item itemvalue="Node.js.Object.create.js" />
-      <item itemvalue="Node.js.module_1.js" />
-      <item itemvalue="Node.js.test.js" />
-      <item itemvalue="npm.dev_st_doc1" />
-      <item itemvalue="npm.dev" />
-      <item itemvalue="npm.dev_examp" />
+      <item itemvalue="Node.js.cloneFilesToDir.js (3)" />
+      <item itemvalue="Node.js.cloneFilesToDir.js (4)" />
+      <item itemvalue="Node.js.cloneFilesToDir.js (5)" />
+      <item itemvalue="Node.js.cloneFilesToDir.js" />
+      <item itemvalue="Node.js.cloneFilesToDir.js (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="npm.dev_examp" />
-        <item itemvalue="npm.dev" />
-        <item itemvalue="Node.js.test.js" />
-        <item itemvalue="npm.dev_st_doc1" />
-        <item itemvalue="Node.js.module_1.js" />
+        <item itemvalue="Node.js.cloneFilesToDir.js (1)" />
+        <item itemvalue="Node.js.cloneFilesToDir.js" />
+        <item itemvalue="Node.js.cloneFilesToDir.js (5)" />
+        <item itemvalue="Node.js.cloneFilesToDir.js (4)" />
+        <item itemvalue="Node.js.cloneFilesToDir.js (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -851,6 +847,10 @@
       <screen x="-1440" y="0" width="1440" height="900" />
     </state>
     <state x="-981" y="31" key="#a.html/0.0.1366.728/-1440.0.1440.900@-1440.0.1440.900" timestamp="1595139067928" />
+    <state x="361" y="199" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600611214321">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="361" y="199" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1600611214321" />
     <state x="436" y="348" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1597595569356">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
@@ -864,26 +864,26 @@
     </state>
     <state x="461" y="204" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1597595554793" />
     <state x="-921" y="187" width="730" height="606" key="FileChooserDialogImpl/0.0.1366.728/-1440.0.1440.900@-1440.0.1440.900" timestamp="1595139980231" />
-    <state width="1171" height="109" key="GridCell.Tab.0.bottom" timestamp="1600598982112">
+    <state width="1171" height="112" key="GridCell.Tab.0.bottom" timestamp="1600612006287">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1272" height="182" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1595261214870" />
-    <state width="1171" height="109" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1600598982112" />
-    <state width="1171" height="109" key="GridCell.Tab.0.center" timestamp="1600598982112">
+    <state width="1171" height="112" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1600612006287" />
+    <state width="1171" height="112" key="GridCell.Tab.0.center" timestamp="1600612006287">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1272" height="182" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1595261214870" />
-    <state width="1171" height="109" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1600598982112" />
-    <state width="1171" height="109" key="GridCell.Tab.0.left" timestamp="1600598982111">
+    <state width="1171" height="112" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1600612006287" />
+    <state width="1171" height="112" key="GridCell.Tab.0.left" timestamp="1600612006287">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1272" height="182" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1595261214870" />
-    <state width="1171" height="109" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1600598982111" />
-    <state width="1171" height="109" key="GridCell.Tab.0.right" timestamp="1600598982112">
+    <state width="1171" height="112" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1600612006287" />
+    <state width="1171" height="112" key="GridCell.Tab.0.right" timestamp="1600612006287">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1272" height="182" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1595261214870" />
-    <state width="1171" height="109" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1600598982112" />
+    <state width="1171" height="112" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1600612006287" />
     <state x="1579" y="111" width="1141" height="913" key="SettingsEditor" timestamp="1600595500207">
       <screen x="1440" y="0" width="1280" height="1024" />
     </state>
