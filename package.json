@@ -4,8 +4,8 @@
   "description": "\"# Node_Docs\"",
   "main": "index.js",
   "scripts": {
-    "dev": "ndb Education/IlKan/learn.javascript.ru/VJs/async_await/1.js",
-    "dev_examp": "ndb node_modules/st_ex1/SetRegExp/RegExp/Exec_test/Test/1.js",
+    "dev": "ndb node_modules/st_ex1/SetDirFile/__/_/index.js",
+    "dev_examp": "ndb node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir/Test/1.js",
     "dev_st_doc1": "ndb node_modules/st_doc1/js_DOCS/Object/Docs/Assign/1.js",
     "node": "node node_modules/st_ex1/SetComandLine/SimpleLines/ExampleLogin/T est/1.js",
     "dev_Gzip": "node nodejs.org_DOCS/Stream/StepTwo/TransformStream/ChainPipe/fs_decripto_zlib_fs_on_ClassReportProgress_on_done.js data",
@@ -34,12 +34,12 @@
     "ndb-inspect": "^0.0.1"
   },
   "dependencies": {
-    "eslint": "^7.1.0",
-    "hpw": "^0.1.11",
-    "metasync": "^0.3.31",
+    "eslint": "^7.9.0",
+    "hpw": "^0.1.14",
+    "metasync": "^0.3.32",
     "minimist": "^1.2.5",
     "st_doc1": "^1.0.29",
-    "st_ex1": "^1.2.25",
+    "st_ex1": "^1.2.27",
     "st_ini": "^1.0.10"
   }
 }

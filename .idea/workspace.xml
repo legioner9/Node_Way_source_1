@@ -2,12 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Part_I/contaners/contaner_2/learngitbranching.js.org/_learngitbranching.js.org.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Part_I/contaners/contaner_2/learngitbranching.js.org/_src/rebase_afer_rebase_c3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Part_I/contaners/contaner_2/learngitbranching.js.org/_src/rebase_before.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Part_I/contaners/contaner_2/learngitbranching.js.org/_src/rebase_c3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Part_I/contaners/contaner_2/learngitbranching.js.org/_src/Скриншот 2020-09-13 23.54.40.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Part_I/contaners/contaner_2/learngitbranching.js.org/_src/Скриншот 2020-09-13 23.55.08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/content/Docs/git-scm.com/Point_learn/Administration/__ copy 2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/content/Docs/git-scm.com/Point_learn/Administration/__ copy 3.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/content/Docs/git-scm.com/Point_learn/Administration/__ copy.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/content/Docs/git-scm.com/Point_learn/Administration/__.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/content/Docs/git-scm.com/Point_learn/External_Systems/__ copy 2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/content/Docs/git-scm.com/Point_learn/External_Systems/__ copy 3.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/content/Docs/git-scm.com/Point_learn/External_Systems/__ copy.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/content/Docs/git-scm.com/Point_learn/External_Systems/__.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/content/Docs/git-scm.com/Point_learn/Plumbing_Commands/__ copy 2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/content/Docs/git-scm.com/Point_learn/Plumbing_Commands/__ copy 3.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/content/Docs/git-scm.com/Point_learn/Plumbing_Commands/__ copy.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/content/Docs/git-scm.com/Point_learn/Plumbing_Commands/__.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/content/Docs/git-scm.com/Point_learn/Server_Admin/__ copy 2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/content/Docs/git-scm.com/Point_learn/Server_Admin/__ copy 3.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/content/Docs/git-scm.com/Point_learn/Server_Admin/__ copy.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/content/Docs/git-scm.com/Point_learn/Server_Admin/__.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_doc1/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_doc1/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ex1/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ini/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ini/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,10 +90,6 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RESET_MODE" value="HARD" />
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/NBase/_Md/_Index/_HPW/Part_I/content/Courses/Fundamentals/funcLambdConextClosure/Function-master/JavaScript/3-abstraction.js" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/NBase/_Md/_Index/_HPW/Part_I/content/Courses/Fundamentals/automaticLabCheck/DataTypes-master/Exercises/2-by-value.js" root0="FORCE_HIGHLIGHTING" />
-  </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
     <exe-path />
@@ -113,7 +125,7 @@
     <property name="add_unversioned_files" value="$PROJECT_DIR$/Jobs/SetGlobLoggers/ModLogger_1/Core/Logs/eLogs.txt&#10;true" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="11.6.0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingToFile/Test" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.jscs" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -133,27 +145,27 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="gitextensions.ui.GitExtensionsSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="settings.editor.splitter.proportion" value="0.23273855" />
     <property name="ts.external.directory.path" value="D:\Program Files\JetBrains\IntelliJ IDEA 2020.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Node_Projects_v.2\Node_Way\NBase\_Md\_Index\_HPW\Part_I\content\Courses\Fundamentals\strTemplateUnicode\_@_Practice\Resume" />
-      <recent name="D:\Node_Projects_v.2\Node_Way\NBase\_Md\_Index\_HPW\Part_I\content\Courses\Fundamentals\arrObjClassProto\_@_Practice\Resume" />
-      <recent name="D:\Node_Projects_v.2\Node_Way\NBase\_Md\_Index\_HPW\Part_I\content\Courses\Fundamentals\arrObjClassProto\_@_Practice" />
-      <recent name="D:\Node_Projects_v.2\Node_Way\node_modules\st_doc1\js_DOCS\Function\_@_FunctionEngendering\InheritsEgeneringModel" />
-      <recent name="D:\Node_Projects_v.2\Node_Way\node_modules\st_doc1\js_DOCS\Function" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1\SetDirFile\SearchDirFile\DirMappingToFile\Test" />
+      <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1" />
       <recent name="D:\Node_Projects_v.2\Node_Way\node_modules\st_doc1\js_DOCS\_js._@_Practice" />
       <recent name="D:\Node_Projects_v.2\Node_Way\NBase\_Md\_Index\_HPW\Part_I\content\Courses\Fundamentals\strTemplateUnicode\_@_Practice\Resume\TemplateStrings" />
       <recent name="D:\Node_Projects_v.2\Node_Way\NBase\_Md\_Index\_Metarhia" />
-      <recent name="D:\Node_Projects_v.2\Node_Way\node_modules\st_ex1\SetRegExp" />
-      <recent name="D:\Node_Projects_v.2\Node_Way\NBase\_Md\_Index\_HPW\Part_I\content\Courses\Fundamentals\strTemplateUnicode\TimurMasters\String-master\JavaScript" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1\SetDirFile\SearchDirFile\DirMappingToFile\Test\w" />
+      <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1\SetDirFile\SearchDirFile\DirMappingToFile\Test" />
+      <recent name="D:\Node_Projects_v.2\Node_Way\NBase\_Md\_Index\_HPW\Part_I\content\Courses\Fundamentals\strTemplateUnicode\_@_Practice\Resume" />
+      <recent name="D:\Node_Projects_v.2\Node_Way\NBase\_Md\_Index\_HPW\Part_I\content\Courses\Fundamentals\arrObjClassProto\_@_Practice\Resume" />
+      <recent name="D:\Node_Projects_v.2\Node_Way\NBase\_Md\_Index\_HPW\Part_I\content\Courses\Fundamentals\arrObjClassProto\_@_Practice" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.dev">
+  <component name="RunManager" selected="npm.dev_examp">
     <configuration name="a.html" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/Node_Way/Node_Docs/Education/IlKan/learn.javascript.ru/Browser/1/1.1/a.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -211,9 +223,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="npm.dev_examp" />
         <item itemvalue="npm.dev" />
         <item itemvalue="Node.js.test.js" />
-        <item itemvalue="npm.dev_examp" />
         <item itemvalue="npm.dev_st_doc1" />
         <item itemvalue="Node.js.module_1.js" />
       </list>
@@ -405,6 +417,8 @@
       <workItem from="1599831402142" duration="883000" />
       <workItem from="1599958530543" duration="784000" />
       <workItem from="1600058651304" duration="165000" />
+      <workItem from="1600444597855" duration="343000" />
+      <workItem from="1600444978074" duration="11304000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
@@ -857,35 +871,39 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="436" y="348" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1280.984@0.0.1280.984" timestamp="1597595569356" />
+    <state x="331" y="36" key="#dev" timestamp="1600446252770">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="331" y="36" key="#dev/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1600446252770" />
     <state x="461" y="204" width="730" height="606" key="FileChooserDialogImpl" timestamp="1597595554793">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="461" y="204" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1597595554793" />
     <state x="-921" y="187" width="730" height="606" key="FileChooserDialogImpl/0.0.1366.728/-1440.0.1440.900@-1440.0.1440.900" timestamp="1595139980231" />
-    <state width="1272" height="182" key="GridCell.Tab.0.bottom" timestamp="1595261214870">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1243" height="185" key="GridCell.Tab.0.bottom/0.0.1366.728/-1440.0.1440.900@-1440.0.1440.900" timestamp="1591344963457" />
-    <state width="1272" height="182" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1595261214870" />
-    <state width="1272" height="182" key="GridCell.Tab.0.center" timestamp="1595261214870">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1243" height="185" key="GridCell.Tab.0.center/0.0.1366.728/-1440.0.1440.900@-1440.0.1440.900" timestamp="1591344963457" />
-    <state width="1272" height="182" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1595261214870" />
-    <state width="1272" height="182" key="GridCell.Tab.0.left" timestamp="1595261214870">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1243" height="185" key="GridCell.Tab.0.left/0.0.1366.728/-1440.0.1440.900@-1440.0.1440.900" timestamp="1591344963457" />
-    <state width="1272" height="182" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1595261214870" />
-    <state width="1272" height="182" key="GridCell.Tab.0.right" timestamp="1595261214870">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1243" height="185" key="GridCell.Tab.0.right/0.0.1366.728/-1440.0.1440.900@-1440.0.1440.900" timestamp="1591344963457" />
-    <state width="1272" height="182" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1595261214870" />
-    <state x="78" y="0" width="1360" height="900" key="SettingsEditor" timestamp="1599958706621">
+    <state width="1162" height="192" key="GridCell.Tab.0.bottom" timestamp="1600579620213">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
+    <state width="1272" height="182" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1595261214870" />
+    <state width="1162" height="192" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1600579620213" />
+    <state width="1162" height="192" key="GridCell.Tab.0.center" timestamp="1600579620213">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1272" height="182" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1595261214870" />
+    <state width="1162" height="192" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1600579620213" />
+    <state width="1162" height="192" key="GridCell.Tab.0.left" timestamp="1600579620213">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1272" height="182" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1595261214870" />
+    <state width="1162" height="192" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1600579620213" />
+    <state width="1162" height="192" key="GridCell.Tab.0.right" timestamp="1600579620213">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1272" height="182" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1595261214870" />
+    <state width="1162" height="192" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1600579620213" />
+    <state x="1579" y="123" width="1141" height="860" key="SettingsEditor" timestamp="1600444954748">
+      <screen x="1440" y="0" width="1280" height="1024" />
+    </state>
     <state x="-1362" y="0" width="1360" height="900" key="SettingsEditor/0.0.1366.728/-1440.0.1440.900@-1440.0.1440.900" timestamp="1595141729666" />
-    <state x="78" y="0" key="SettingsEditor/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1599958706621" />
+    <state x="1579" y="123" width="1141" height="860" key="SettingsEditor/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1600444954748" />
   </component>
 </project>
