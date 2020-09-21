@@ -2,28 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/content/Docs/git-scm.com/Point_learn/Branching_and_Merging/cloneFilesToDir.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/content/Docs/git-scm.com/Point_learn/Debugging/cloneFilesToDir.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/content/Docs/git-scm.com/Point_learn/Email/cloneFilesToDir.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/content/Docs/git-scm.com/Point_learn/External_Systems/cloneFilesToDir.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/content/Docs/git-scm.com/Point_learn/Getting_and_Creating_Projects/cloneFilesToDir.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/content/Docs/git-scm.com/Point_learn/Guides/cloneFilesToDir.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/content/Docs/git-scm.com/Point_learn/Inspection_and_Comparison/cloneFilesToDir.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/content/Docs/git-scm.com/Point_learn/Patching/cloneFilesToDir.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/content/Docs/git-scm.com/Point_learn/Plumbing_Commands/cloneFilesToDir.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/content/Docs/git-scm.com/Point_learn/Server_Admin/cloneFilesToDir.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/content/Docs/git-scm.com/Point_learn/Setup_and_Config/cloneFilesToDir.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/content/Docs/git-scm.com/Point_learn/Sharing_and_Updating_Projects/cloneFilesToDir.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir/Test/cloneFilesToDir.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir/Test/1.js" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/content/Docs/git-scm.com/Point_learn/Basic_Snapshotting/cloneFilesToDir.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_2_level/Test/1.1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_2_level/Test/1.js" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/content/Docs/git-scm.com/Point_learn/Administration/cloneFilesToDir.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_2_level/Test/other.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_2_level/Test/w/w_file.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_2_level/Test/w/w_in/w_in_file.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_2_level/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_doc1/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_doc1/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ex1/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ini/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ini/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
