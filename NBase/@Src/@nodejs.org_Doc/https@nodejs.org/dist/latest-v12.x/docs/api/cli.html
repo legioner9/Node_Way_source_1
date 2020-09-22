@@ -94,7 +94,7 @@
             <li>
               <a href="cli.json">View as JSON</a>
             </li>
-            
+
     <li class="version-picker">
       <a href="#">View another version <span>&#x25bc;</span></a>
       <ol class="version-picker"><li><a href="../../../../docs/latest-v13.x/api/cli.html">13.x</a></li>
@@ -107,7 +107,7 @@
 <li><a href="../../../../docs/latest-v6.x/api/cli.html">6.x</a></li>
 <li><a href="../../../../docs/latest-v5.x/api/cli.html">5.x</a></li></ol>
     </li>
-  
+
             <li class="edit_on_github"><a href="../../../../../https@github.com/nodejs/node/edit/master/doc/api/cli.md"><span class="github_icon"><svg height="16" width="16" viewBox="0 0 16.1 16.1" fill="currentColor"><path d="M8 0a8 8 0 0 0-2.5 15.6c.4 0 .5-.2.5-.4v-1.5c-2 .4-2.5-.5-2.7-1 0-.1-.5-.9-.8-1-.3-.2-.7-.6 0-.6.6 0 1 .6 1.2.8.7 1.2 1.9 1 2.4.7 0-.5.2-.9.5-1-1.8-.3-3.7-1-3.7-4 0-.9.3-1.6.8-2.2 0-.2-.3-1 .1-2 0 0 .7-.3 2.2.7a7.4 7.4 0 0 1 4 0c1.5-1 2.2-.8 2.2-.8.5 1.1.2 2 .1 2.1.5.6.8 1.3.8 2.2 0 3-1.9 3.7-3.6 4 .3.2.5.7.5 1.4v2.2c0 .2.1.5.5.4A8 8 0 0 0 16 8a8 8 0 0 0-8-8z"/></svg></span>Edit on GitHub</a></li>
           </ul>
         </div>
@@ -324,7 +324,7 @@ before exit.</p>
 in the current working directory.</p>
 <p>If <code>--cpu-prof-name</code> is not specified, the generated profile will be
 named <code>CPU.${yyyymmdd}.${hhmmss}.${pid}.${tid}.${seq}.cpuprofile</code>.</p>
-<pre><code class="language-console">$ node --cpu-prof index.js
+<pre><code class="language-console">$ node --cpu-prof index.5.js
 $ ls *.cpuprofile
 CPU.20190409.202950.15293.0.0.cpuprofile
 </code></pre>
@@ -443,10 +443,10 @@ be added.</p>
 <p>Enables a signal handler that causes the Node.js process to write a heap dump
 when the specified signal is received. <code>signal</code> must be a valid signal name.
 Disabled by default.</p>
-<pre><code class="language-console">$ node --heapsnapshot-signal=SIGUSR2 index.js &#x26;
+<pre><code class="language-console">$ node --heapsnapshot-signal=SIGUSR2 index.5.js &#x26;
 $ ps aux
 USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
-node         1  5.5  6.1 787252 247004 ?       Ssl  16:43   0:02 node --heapsnapshot-signal=SIGUSR2 index.js
+node         1  5.5  6.1 787252 247004 ?       Ssl  16:43   0:02 node --heapsnapshot-signal=SIGUSR2 index.5.js
 $ kill -USR2 1
 $ ls
 Heap.20190718.133405.15554.0.001.heapsnapshot
@@ -462,7 +462,7 @@ before exit.</p>
 in the current working directory.</p>
 <p>If <code>--heap-prof-name</code> is not specified, the generated profile will be
 named <code>Heap.${yyyymmdd}.${hhmmss}.${pid}.${tid}.${seq}.heapprofile</code>.</p>
-<pre><code class="language-console">$ node --heap-prof index.js
+<pre><code class="language-console">$ node --heap-prof index.5.js
 $ ls *.heapprofile
 Heap.20190409.202950.15293.0.001.heapprofile
 </code></pre>
@@ -647,14 +647,14 @@ illustrated in the example below, the default behavior causes an exception to
 be thrown if <code>moduleA</code> attempts to require <code>moduleB</code> as a peer dependency:</p>
 <pre><code class="language-text">{appDir}
  ├── app
- │   ├── index.js
+ │   ├── index.5.js
  │   └── node_modules
  │       ├── moduleA -> {appDir}/moduleA
  │       └── moduleB
- │           ├── index.js
+ │           ├── index.5.js
  │           └── package.json
  └── moduleA
-     ├── index.js
+     ├── index.5.js
      └── package.json
 </code></pre>
 <p>The <code>--preserve-symlinks</code> command line flag instructs Node.js to use the

@@ -94,7 +94,7 @@
             <li>
               <a href="esm.json">View as JSON</a>
             </li>
-            
+
     <li class="version-picker">
       <a href="#">View another version <span>&#x25bc;</span></a>
       <ol class="version-picker"><li><a href="../../../../docs/latest-v13.x/api/esm.html">13.x</a></li>
@@ -104,7 +104,7 @@
 <li><a href="../../../../docs/latest-v9.x/api/esm.html">9.x</a></li>
 <li><a href="../../../../docs/latest-v8.x/api/esm.html">8.x</a></li></ol>
     </li>
-  
+
             <li class="edit_on_github"><a href="../../../../../https@github.com/nodejs/node/edit/master/doc/api/esm.md"><span class="github_icon"><svg height="16" width="16" viewBox="0 0 16.1 16.1" fill="currentColor"><path d="M8 0a8 8 0 0 0-2.5 15.6c.4 0 .5-.2.5-.4v-1.5c-2 .4-2.5-.5-2.7-1 0-.1-.5-.9-.8-1-.3-.2-.7-.6 0-.6.6 0 1 .6 1.2.8.7 1.2 1.9 1 2.4.7 0-.5.2-.9.5-1-1.8-.3-3.7-1-3.7-4 0-.9.3-1.6.8-2.2 0-.2-.3-1 .1-2 0 0 .7-.3 2.2.7a7.4 7.4 0 0 1 4 0c1.5-1 2.2-.8 2.2-.8.5 1.1.2 2 .1 2.1.5.6.8 1.3.8 2.2 0 3-1.9 3.7-3.6 4 .3.2.5.7.5 1.4v2.2c0 .2.1.5.5.4A8 8 0 0 0 16 8a8 8 0 0 0-8-8z"/></svg></span>Edit on GitHub</a></li>
           </ul>
         </div>
@@ -338,7 +338,7 @@ import 'commonjs-package';
 // Loaded as CommonJS since ./node_modules/commonjs-package/package.json
 // lacks a "type" field or contains "type": "commonjs".
 
-import './node_modules/commonjs-package/index.js';
+import './node_modules/commonjs-package/index.5.js';
 // Loaded as CommonJS since ./node_modules/commonjs-package/package.json
 // lacks a "type" field or contains "type": "commonjs".
 </code></pre>
@@ -401,16 +401,16 @@ module via <code>import</code>.</p>
 <pre><code class="language-js">// ./node_modules/es-module-package/package.json
 {
   "type": "module",
-  "main": "./src/index.js"
+  "main": "./src/index.5.js"
 }
 </code></pre>
 <pre><code class="language-js">// ./my-app.mjs
 
 import { something } from 'es-module-package';
-// Loads from ./node_modules/es-module-package/src/index.js
+// Loads from ./node_modules/es-module-package/src/index.5.js
 </code></pre>
 <p>An attempt to <code>require</code> the above <code>es-module-package</code> would attempt to load
-<code>./node_modules/es-module-package/src/index.js</code> as CommonJS, which would throw
+<code>./node_modules/es-module-package/src/index.5.js</code> as CommonJS, which would throw
 an error as Node.js would not be able to parse the <code>export</code> statement in
 CommonJS.</p>
 <p>As with <code>import</code> statements, for ES module usage the value of <code>"main"</code> must be
@@ -493,7 +493,7 @@ Node.js and the browser can be written:</p>
 <pre><code class="language-js">// ./node_modules/pkg/package.json
 {
   "type": "module",
-  "main": "./index.js",
+  "main": "./index.5.js",
   "exports": {
     "./feature": {
       "import": "./feature-default.js",
@@ -859,7 +859,7 @@ property:</p>
 <h2>Differences Between ES Modules and CommonJS<span><a class="mark" href="#esm_differences_between_es_modules_and_commonjs" id="esm_differences_between_es_modules_and_commonjs">#</a></span></h2>
 <h3>Mandatory file extensions<span><a class="mark" href="#esm_mandatory_file_extensions" id="esm_mandatory_file_extensions">#</a></span></h3>
 <p>A file extension must be provided when using the <code>import</code> keyword. Directory
-indexes (e.g. <code>'./startup/index.js'</code>) must also be fully specified.</p>
+indexes (e.g. <code>'./startup/index.5.js'</code>) must also be fully specified.</p>
 <p>This behavior matches how <code>import</code> behaves in browser environments, assuming a
 typically configured server.</p>
 <h3>No <code>NODE_PATH</code><span><a class="mark" href="#esm_no_node_path" id="esm_no_node_path">#</a></span></h3>

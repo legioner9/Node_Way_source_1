@@ -2,12 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/@Src/@nodejs.org_Doc/https@nodejs.org/dist/latest-v12.x/docs/api/cli.html" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/@Src/@nodejs.org_Doc/https@nodejs.org/dist/latest-v12.x/docs/api/cli.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/@Src/@nodejs.org_Doc/https@nodejs.org/dist/latest-v12.x/docs/api/debugger.html" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/@Src/@nodejs.org_Doc/https@nodejs.org/dist/latest-v12.x/docs/api/debugger.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/@Src/@nodejs.org_Doc/https@nodejs.org/dist/latest-v12.x/docs/api/deprecations.html" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/@Src/@nodejs.org_Doc/https@nodejs.org/dist/latest-v12.x/docs/api/deprecations.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/@Src/@nodejs.org_Doc/https@nodejs.org/dist/latest-v12.x/docs/api/esm.html" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/@Src/@nodejs.org_Doc/https@nodejs.org/dist/latest-v12.x/docs/api/esm.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/@Src/@nodejs.org_Doc/https@nodejs.org/dist/latest-v12.x/docs/api/modules.html" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/@Src/@nodejs.org_Doc/https@nodejs.org/dist/latest-v12.x/docs/api/modules.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/Ctrl/Box/Hist/Tests/TryCatch/TestLog/test_log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ex1/Ctrl/Box/Hist/Tests/TryCatch/TestLog/test_log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/Ctrl/Box/Hist/Tests/TryCatch/TestLog/test_log_mes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ex1/Ctrl/Box/Hist/Tests/TryCatch/TestLog/test_log_mes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_4/Test/other.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_4/Test/other.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_5/Test/level_2.dir/level_3A.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_5/Test/level_2.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_5/Test/main_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_5/Test/main_test.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_5/Test/other.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_5/Test/other.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_5/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_5/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ini/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ini/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_5/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_6/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_6/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetLoggers/Box/Hist/Test/LogTo/TestLog/test_log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ex1/SetLoggers/Box/Hist/Test/LogTo/TestLog/test_log.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,7 +118,7 @@
     <property name="add_unversioned_files" value="$PROJECT_DIR$/Jobs/SetGlobLoggers/ModLogger_1/Core/Logs/eLogs.txt&#10;true" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="11.6.0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_5/Test" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.jscs" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -134,13 +143,6 @@
     <property name="ts.external.directory.path" value="D:\Program Files\JetBrains\IntelliJ IDEA 2020.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1\SetDirFile\SearchDirFile" />
-      <recent name="E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\git-scm.com\Cheat_Sheets" />
-      <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1\SetDirFile\SearchDirFile\DirMappingCloneFileToDir\Test" />
-      <recent name="E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\git-scm.com\Live_learn\A3.Appendix_C_Команды_Git" />
-      <recent name="E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\git-scm.com\Live_learn\A2.Appendix_B_Встраивание_Git_в_ваши_приложения" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1\SetDirFile\SearchDirFile\DirMappingToFile\Test\w" />
       <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1\SetDirFile\SearchDirFile\DirMappingToFile\Test" />
@@ -148,8 +150,15 @@
       <recent name="D:\Node_Projects_v.2\Node_Way\NBase\_Md\_Index\_HPW\Part_I\content\Courses\Fundamentals\arrObjClassProto\_@_Practice\Resume" />
       <recent name="D:\Node_Projects_v.2\Node_Way\NBase\_Md\_Index\_HPW\Part_I\content\Courses\Fundamentals\arrObjClassProto\_@_Practice" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1\SetDirFile\SearchDirFile\DirMappingCloneFileToDir_5\Test" />
+      <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1\SetDirFile\SearchDirFile\DirMappingCloneFileToDir_5" />
+      <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1\SetDirFile\SearchDirFile" />
+      <recent name="E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\git-scm.com\Cheat_Sheets" />
+      <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1\SetDirFile\SearchDirFile\DirMappingCloneFileToDir\Test" />
+    </key>
   </component>
-  <component name="RunManager" selected="npm.dev_examp">
+  <component name="RunManager" selected="Node.js.main_test.js (2)">
     <configuration name="a.html" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/Node_Way/Node_Docs/Education/IlKan/learn.javascript.ru/Browser/1/1.1/a.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -193,9 +202,9 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="npm.dev_examp" />
-        <item itemvalue="Node.js.main_test.js (3)" />
         <item itemvalue="Node.js.main_test.js (2)" />
+        <item itemvalue="Node.js.main_test.js (3)" />
+        <item itemvalue="npm.dev_examp" />
         <item itemvalue="Node.js.main_test.js" />
         <item itemvalue="Node.js.main_test.js (1)" />
       </list>
@@ -394,7 +403,7 @@
       <workItem from="1600444978074" duration="22368000" />
       <workItem from="1600595662001" duration="3428000" />
       <workItem from="1600666460337" duration="10280000" />
-      <workItem from="1600801901440" duration="3053000" />
+      <workItem from="1600801901440" duration="4238000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
@@ -860,35 +869,35 @@
     </state>
     <state x="461" y="204" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1597595554793" />
     <state x="-921" y="187" width="730" height="606" key="FileChooserDialogImpl/0.0.1366.728/-1440.0.1440.900@-1440.0.1440.900" timestamp="1595139980231" />
-    <state width="1174" height="111" key="GridCell.Tab.0.bottom" timestamp="1600803882141">
+    <state width="1174" height="111" key="GridCell.Tab.0.bottom" timestamp="1600806086569">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1272" height="182" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1595261214870" />
-    <state width="1174" height="111" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1600803882141" />
-    <state width="1174" height="111" key="GridCell.Tab.0.center" timestamp="1600803882141">
+    <state width="1174" height="111" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1600806086569" />
+    <state width="1174" height="111" key="GridCell.Tab.0.center" timestamp="1600806086568">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1272" height="182" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1595261214870" />
-    <state width="1174" height="111" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1600803882141" />
-    <state width="1174" height="111" key="GridCell.Tab.0.left" timestamp="1600803882141">
+    <state width="1174" height="111" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1600806086568" />
+    <state width="1174" height="111" key="GridCell.Tab.0.left" timestamp="1600806086568">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1272" height="182" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1595261214870" />
-    <state width="1174" height="111" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1600803882141" />
-    <state width="1174" height="111" key="GridCell.Tab.0.right" timestamp="1600803882141">
+    <state width="1174" height="111" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1600806086568" />
+    <state width="1174" height="111" key="GridCell.Tab.0.right" timestamp="1600806086569">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1272" height="182" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1595261214870" />
-    <state width="1174" height="111" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1600803882141" />
+    <state width="1174" height="111" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1600806086569" />
     <state x="1579" y="111" width="1141" height="913" key="SettingsEditor" timestamp="1600595500207">
       <screen x="1440" y="0" width="1280" height="1024" />
     </state>
     <state x="-1362" y="0" width="1360" height="900" key="SettingsEditor/0.0.1366.728/-1440.0.1440.900@-1440.0.1440.900" timestamp="1595141729666" />
     <state x="1579" y="111" width="1141" height="913" key="SettingsEditor/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1600595500207" />
-    <state x="1652" y="42" width="922" height="951" key="dock-window-1" timestamp="1600713493297">
+    <state x="1654" y="60" width="914" height="907" key="dock-window-1" timestamp="1600806153657">
       <screen x="1440" y="0" width="1280" height="1024" />
     </state>
-    <state x="1652" y="42" width="922" height="951" key="dock-window-1/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1600713493297" />
+    <state x="1654" y="60" width="914" height="907" key="dock-window-1/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1600806153657" />
     <state x="1694" y="79" width="906" height="897" key="dock-window-2" timestamp="1600742398742">
       <screen x="1440" y="0" width="1280" height="1024" />
     </state>

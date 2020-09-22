@@ -94,7 +94,7 @@
             <li>
               <a href="modules.json">View as JSON</a>
             </li>
-            
+
     <li class="version-picker">
       <a href="#">View another version <span>&#x25bc;</span></a>
       <ol class="version-picker"><li><a href="../../../../docs/latest-v13.x/api/modules.html">13.x</a></li>
@@ -110,7 +110,7 @@
 <li><a href="../../../../docs/latest-v0.12.x/api/modules.html">0.12.x</a></li>
 <li><a href="../../../../docs/latest-v0.10.x/api/modules.html">0.10.x</a></li></ol>
     </li>
-  
+
             <li class="edit_on_github"><a href="../../../../../https@github.com/nodejs/node/edit/master/doc/api/modules.md"><span class="github_icon"><svg height="16" width="16" viewBox="0 0 16.1 16.1" fill="currentColor"><path d="M8 0a8 8 0 0 0-2.5 15.6c.4 0 .5-.2.5-.4v-1.5c-2 .4-2.5-.5-2.7-1 0-.1-.5-.9-.8-1-.3-.2-.7-.6 0-.6.6 0 1 .6 1.2.8.7 1.2 1.9 1 2.4.7 0-.5.2-.9.5-1-1.8-.3-3.7-1-3.7-4 0-.9.3-1.6.8-2.2 0-.2-.3-1 .1-2 0 0 .7-.3 2.2.7a7.4 7.4 0 0 1 4 0c1.5-1 2.2-.8 2.2-.8.5 1.1.2 2 .1 2.1.5.6.8 1.3.8 2.2 0 3-1.9 3.7-3.6 4 .3.2.5.7.5 1.4v2.2c0 .2.1.5.5.4A8 8 0 0 0 16 8a8 8 0 0 0-8-8z"/></svg></span>Edit on GitHub</a></li>
           </ul>
         </div>
@@ -326,7 +326,7 @@ LOAD_AS_FILE(X)
 4. If X.node is a file, load X.node as binary addon.  STOP
 
 LOAD_INDEX(X)
-1. If X/index.js is a file, load X/index.js as JavaScript text.  STOP
+1. If X/index.5.js is a file, load X/index.5.js as JavaScript text.  STOP
 2. If X/index.json is a file, parse X/index.json to a JavaScript object. STOP
 3. If X/index.node is a file, load X/index.node as binary addon.  STOP
 
@@ -514,11 +514,11 @@ look like this:</p>
 <p>This is the extent of Node.js's awareness of <code>package.json</code> files.</p>
 <p>If there is no <code>package.json</code> file present in the directory, or if the
 <code>'main'</code> entry is missing or cannot be resolved, then Node.js
-will attempt to load an <code>index.js</code> or <code>index.node</code> file out of that
+will attempt to load an <code>index.5.js</code> or <code>index.node</code> file out of that
 directory. For example, if there was no <code>package.json</code> file in the above
 example, then <code>require('./some-library')</code> would attempt to load:</p>
 <ul>
-<li><code>./some-library/index.js</code></li>
+<li><code>./some-library/index.5.js</code></li>
 <li><code>./some-library/index.node</code></li>
 </ul>
 <p>If these attempts fail, then Node.js will report the entire module as missing
