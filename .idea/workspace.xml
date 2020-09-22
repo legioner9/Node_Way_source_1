@@ -2,48 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/content/Docs/git-scm.com/Cheat_Sheets/cloneFilesToDir_2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/content/Docs/git-scm.com/Cheat_Sheets/main_cheat_cheets.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/content/Docs/git-scm.com/Cheat_Sheets/main_cheat_cheets.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_2/Test/1.1_О_системе_контроля_версий.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_2/Test/1.1_О_системе_контроля_версий.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_2/Test/1.1_О_системе_контроля_версий.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_2/Test/1.1_О_системе_контроля_версий.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_2/Test/1.1_О_системе_контроля_версий.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_2/Test/1.2_Краткая_история_Git.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_2/Test/1.2_Краткая_история_Git.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_2/Test/1.2_Краткая_история_Git.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_2/Test/1.2_Краткая_история_Git.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_2/Test/1.2_Краткая_история_Git.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_2/Test/1.3_Основы_Git.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_2/Test/1.3_Основы_Git.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_2/Test/1.3_Основы_Git.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_2/Test/1.3_Основы_Git.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_2/Test/1.3_Основы_Git.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_2/Test/1.4_Командная_строка.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_2/Test/1.4_Командная_строка.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_2/Test/1.4_Командная_строка.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_2/Test/1.4_Командная_строка.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_2/Test/1.4_Командная_строка.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_2/Test/1.5_Установка_Git.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_2/Test/1.5_Установка_Git.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_2/Test/1.5_Установка_Git.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_2/Test/1.5_Установка_Git.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_2/Test/1.5_Установка_Git.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_2/Test/1.6_Первоначальная_настройка_Git.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_2/Test/1.6_Первоначальная_настройка_Git.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_2/Test/1.6_Первоначальная_настройка_Git.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_2/Test/1.6_Первоначальная_настройка_Git.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_2/Test/1.6_Первоначальная_настройка_Git.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_2/Test/1.7_Как_получить_помощь&amp;.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_2/Test/1.7_Как_получить_помощь&amp;.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_2/Test/1.7_Как_получить_помощь&amp;.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_2/Test/1.7_Как_получить_помощь&amp;.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_2/Test/1.7_Как_получить_помощь&amp;.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_2/Test/1.8_Заключение.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_2/Test/1.8_Заключение.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_2/Test/1.8_Заключение.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_2/Test/1.8_Заключение.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_2/Test/1.8_Заключение.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_3/Test/__list.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_3/Test/cloneFilesToDir.tmp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_3/Test/main_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_3/Test/main_test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_3/index.-1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_3/index.1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_3/index.2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_3/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_3/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ini/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ini/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -185,7 +153,7 @@
       <recent name="D:\Node_Projects_v.2\Node_Way\NBase\_Md\_Index\_HPW\Part_I\content\Courses\Fundamentals\arrObjClassProto\_@_Practice" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.cloneFilesToDir_2.js (2)">
+  <component name="RunManager" selected="Node.js.main_test.js">
     <configuration name="a.html" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/Node_Way/Node_Docs/Education/IlKan/learn.javascript.ru/Browser/1/1.1/a.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -195,13 +163,7 @@
     <configuration name="Object.create.js" type="NodeJSConfigurationType" nameIsGenerated="true" node-parameters="ndb" path-to-js-file="$PROJECT_DIR$/node_modules/st_doc1/js_DOCS/Function/_@_FunctionEngendering/InheritsEgeneringModel/Object.create.js" working-dir="$PROJECT_DIR$/node_modules/st_doc1/js_DOCS/Function/_@_FunctionEngendering">
       <method v="2" />
     </configuration>
-    <configuration name="cloneFilesToDir_2.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/NBase/_Md/_Index/_Git/content/Docs/git-scm.com/Live_learn/10.Git_изнутри/cloneFilesToDir_2.js" working-dir="$PROJECT_DIR$/NBase/_Md/_Index/_Git/content/Docs/git-scm.com/Live_learn/10.Git_изнутри">
-      <method v="2" />
-    </configuration>
     <configuration name="cloneFilesToDir_2.js (2)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/NBase/_Md/_Index/_Git/content/Docs/git-scm.com/Cheat_Sheets/cloneFilesToDir_2.js" working-dir="$PROJECT_DIR$/NBase/_Md/_Index/_Git/content/Docs/git-scm.com/Cheat_Sheets">
-      <method v="2" />
-    </configuration>
-    <configuration name="cloneFilesToDir_2.js (3)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/NBase/_Md/_Index/_Git/content/Docs/git-scm.com/Live_learn/9.Git_и_другие_системы_контроля_версий/cloneFilesToDir_2.js" working-dir="$PROJECT_DIR$/NBase/_Md/_Index/_Git/content/Docs/git-scm.com/Live_learn/9.Git_и_другие_системы_контроля_версий">
       <method v="2" />
     </configuration>
     <configuration name="cloneFilesToDir_2.js (4)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/NBase/_Md/_Index/_Git/content/Docs/git-scm.com/Live_learn/A1.Appendix_A_Git_в_других_окружениях/cloneFilesToDir_2.js" working-dir="$PROJECT_DIR$/NBase/_Md/_Index/_Git/content/Docs/git-scm.com/Live_learn/A1.Appendix_A_Git_в_других_окружениях">
@@ -210,23 +172,36 @@
     <configuration name="cloneFilesToDir_2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/NBase/_Md/_Index/_Git/content/Docs/git-scm.com/Live_learn/A3.Appendix_C_Команды_Git/cloneFilesToDir_2.js" working-dir="$PROJECT_DIR$/NBase/_Md/_Index/_Git/content/Docs/git-scm.com/Live_learn/A3.Appendix_C_Команды_Git">
       <method v="2" />
     </configuration>
+    <configuration name="main_test.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_3/Test/main_test.js" working-dir="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_3/Test">
+      <method v="2" />
+    </configuration>
+    <configuration name="dev_examp" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev_examp" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="JavaScript Debug.a.html" />
       <item itemvalue="Node.js.6-parse_1.js" />
       <item itemvalue="Node.js.Object.create.js" />
-      <item itemvalue="Node.js.cloneFilesToDir_2.js (3)" />
-      <item itemvalue="Node.js.cloneFilesToDir_2.js (1)" />
       <item itemvalue="Node.js.cloneFilesToDir_2.js (4)" />
       <item itemvalue="Node.js.cloneFilesToDir_2.js" />
       <item itemvalue="Node.js.cloneFilesToDir_2.js (2)" />
+      <item itemvalue="Node.js.main_test.js" />
+      <item itemvalue="npm.dev_examp" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.main_test.js" />
+        <item itemvalue="npm.dev_examp" />
         <item itemvalue="Node.js.cloneFilesToDir_2.js (2)" />
         <item itemvalue="Node.js.cloneFilesToDir_2.js" />
         <item itemvalue="Node.js.cloneFilesToDir_2.js (4)" />
-        <item itemvalue="Node.js.cloneFilesToDir_2.js (1)" />
-        <item itemvalue="Node.js.cloneFilesToDir_2.js (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -885,26 +860,26 @@
     </state>
     <state x="461" y="204" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1597595554793" />
     <state x="-921" y="187" width="730" height="606" key="FileChooserDialogImpl/0.0.1366.728/-1440.0.1440.900@-1440.0.1440.900" timestamp="1595139980231" />
-    <state width="1210" height="125" key="GridCell.Tab.0.bottom" timestamp="1600740778200">
+    <state width="1210" height="125" key="GridCell.Tab.0.bottom" timestamp="1600746470388">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1272" height="182" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1595261214870" />
-    <state width="1210" height="125" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1600740778200" />
-    <state width="1210" height="125" key="GridCell.Tab.0.center" timestamp="1600740778200">
+    <state width="1210" height="125" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1600746470388" />
+    <state width="1210" height="125" key="GridCell.Tab.0.center" timestamp="1600746470388">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1272" height="182" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1595261214870" />
-    <state width="1210" height="125" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1600740778200" />
-    <state width="1210" height="125" key="GridCell.Tab.0.left" timestamp="1600740778200">
+    <state width="1210" height="125" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1600746470388" />
+    <state width="1210" height="125" key="GridCell.Tab.0.left" timestamp="1600746470388">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1272" height="182" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1595261214870" />
-    <state width="1210" height="125" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1600740778200" />
-    <state width="1210" height="125" key="GridCell.Tab.0.right" timestamp="1600740778200">
+    <state width="1210" height="125" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1600746470388" />
+    <state width="1210" height="125" key="GridCell.Tab.0.right" timestamp="1600746470388">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1272" height="182" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1595261214870" />
-    <state width="1210" height="125" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1600740778200" />
+    <state width="1210" height="125" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1600746470388" />
     <state x="1579" y="111" width="1141" height="913" key="SettingsEditor" timestamp="1600595500207">
       <screen x="1440" y="0" width="1280" height="1024" />
     </state>
@@ -914,9 +889,13 @@
       <screen x="1440" y="0" width="1280" height="1024" />
     </state>
     <state x="1652" y="42" width="922" height="951" key="dock-window-1/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1600713493297" />
-    <state x="1733" y="61" width="758" height="920" key="dock-window-2" timestamp="1600599098479">
+    <state x="1694" y="79" width="906" height="897" key="dock-window-2" timestamp="1600742398742">
       <screen x="1440" y="0" width="1280" height="1024" />
     </state>
-    <state x="1733" y="61" width="758" height="920" key="dock-window-2/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1600599098479" />
+    <state x="1694" y="79" width="906" height="897" key="dock-window-2/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1600742398742" />
+    <state x="1772" y="158" width="730" height="828" key="dock-window-3" timestamp="1600742398742">
+      <screen x="1440" y="0" width="1280" height="1024" />
+    </state>
+    <state x="1772" y="158" width="730" height="828" key="dock-window-3/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1600742398742" />
   </component>
 </project>
