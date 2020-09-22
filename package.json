@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "ndb node_modules/st_ex1/SetDirFile/__/_/index.js",
-    "dev_examp": "ndb node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_4/Test/main_test.js",
+    "dev_examp": "ndb node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_5/Test/main_test.js",
     "dev_st_doc1": "ndb node_modules/st_doc1/js_DOCS/Object/Docs/Assign/1.js",
     "node": "node node_modules/st_ex1/SetComandLine/SimpleLines/ExampleLogin/T est/1.js",
     "dev_Gzip": "node nodejs.org_DOCS/Stream/StepTwo/TransformStream/ChainPipe/fs_decripto_zlib_fs_on_ClassReportProgress_on_done.js data",
