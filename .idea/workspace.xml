@@ -3,11 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_4/Test/__list.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_4/Test/_cloneFilesToDir_2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_4/Test/cloneFilesToDir.tmp.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_4/Test/main_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_4/Test/main_test.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_4/Test/other.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_4/Test/other.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_4/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_4/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/st_ini/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ini/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -193,13 +195,16 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="npm.dev_examp" />
         <item itemvalue="Node.js.main_test.js (2)" />
+        <item itemvalue="npm.dev_examp" />
         <item itemvalue="Node.js.main_test.js" />
         <item itemvalue="Node.js.main_test.js (1)" />
         <item itemvalue="Node.js.cloneFilesToDir_2.js (2)" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_CLASSES" />
   </component>
   <component name="SvnConfiguration">
     <configuration>C:\Users\STM.STM-ПК\AppData\Roaming\Subversion</configuration>
@@ -856,26 +861,26 @@
     </state>
     <state x="461" y="204" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1597595554793" />
     <state x="-921" y="187" width="730" height="606" key="FileChooserDialogImpl/0.0.1366.728/-1440.0.1440.900@-1440.0.1440.900" timestamp="1595139980231" />
-    <state width="1210" height="125" key="GridCell.Tab.0.bottom" timestamp="1600755440468">
+    <state width="1210" height="125" key="GridCell.Tab.0.bottom" timestamp="1600768291069">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1272" height="182" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1595261214870" />
-    <state width="1210" height="125" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1600755440468" />
-    <state width="1210" height="125" key="GridCell.Tab.0.center" timestamp="1600755440468">
+    <state width="1210" height="125" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1600768291069" />
+    <state width="1210" height="125" key="GridCell.Tab.0.center" timestamp="1600768291068">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1272" height="182" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1595261214870" />
-    <state width="1210" height="125" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1600755440468" />
-    <state width="1210" height="125" key="GridCell.Tab.0.left" timestamp="1600755440467">
+    <state width="1210" height="125" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1600768291068" />
+    <state width="1210" height="125" key="GridCell.Tab.0.left" timestamp="1600768291068">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1272" height="182" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1595261214870" />
-    <state width="1210" height="125" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1600755440467" />
-    <state width="1210" height="125" key="GridCell.Tab.0.right" timestamp="1600755440468">
+    <state width="1210" height="125" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1600768291068" />
+    <state width="1210" height="125" key="GridCell.Tab.0.right" timestamp="1600768291069">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1272" height="182" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1595261214870" />
-    <state width="1210" height="125" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1600755440468" />
+    <state width="1210" height="125" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1600768291069" />
     <state x="1579" y="111" width="1141" height="913" key="SettingsEditor" timestamp="1600595500207">
       <screen x="1440" y="0" width="1280" height="1024" />
     </state>
