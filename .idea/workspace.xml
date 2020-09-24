@@ -3,11 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Intro_to_this/Common/ancors.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Intro_to_this/Common/ancors.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Use_this/First_steps/backcommit.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Use_this/First_steps/backcommit.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Use_this/First_steps/backommit.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Use_this/First_steps/gitconfig.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Use_this/First_steps/gitconfig.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Use_this/First_steps/new_repository.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Use_this/First_steps/new_repository.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ini/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ini/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,7 +106,7 @@
     <property name="add_unversioned_files" value="$PROJECT_DIR$/Jobs/SetGlobLoggers/ModLogger_1/Core/Logs/eLogs.txt&#10;true" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="11.6.0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_4" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.jscs" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -134,19 +131,19 @@
     <property name="ts.external.directory.path" value="D:\Program Files\JetBrains\IntelliJ IDEA 2020.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1\SetDirFile" />
+      <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1\SetDirFile\SearchDirFile\DirMappingCloneFileToDir_4" />
+      <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1\SetDirFile\SearchDirFile\DirMappingCloneFileToDir_4\Test" />
+      <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1\SetDirFile\SearchDirFile\DirMappingCloneFileToDir_5\Test" />
+      <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1\SetDirFile\SearchDirFile\DirMappingCloneFileToDir_5" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1\SetDirFile\SearchDirFile\DirMappingCloneFileToDir_4" />
       <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1\SetDirFile\SearchDirFile\DirMappingToFile\Test\w" />
       <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1\SetDirFile\SearchDirFile\DirMappingToFile\Test" />
       <recent name="D:\Node_Projects_v.2\Node_Way\NBase\_Md\_Index\_HPW\Part_I\content\Courses\Fundamentals\strTemplateUnicode\_@_Practice\Resume" />
       <recent name="D:\Node_Projects_v.2\Node_Way\NBase\_Md\_Index\_HPW\Part_I\content\Courses\Fundamentals\arrObjClassProto\_@_Practice\Resume" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1\SetDirFile\SearchDirFile\DirMappingCloneFileToDir_4" />
-      <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1\SetDirFile\SearchDirFile\DirMappingCloneFileToDir_4\Test" />
-      <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1\SetDirFile\SearchDirFile\DirMappingCloneFileToDir_5\Test" />
-      <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1\SetDirFile\SearchDirFile\DirMappingCloneFileToDir_5" />
-      <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1\SetDirFile\SearchDirFile" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.main_test.js (4)">
@@ -193,11 +190,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="npm.dev_examp" />
         <item itemvalue="Node.js.main_test.js (4)" />
         <item itemvalue="Node.js.main_test.js" />
         <item itemvalue="Node.js.main_test.js (2)" />
         <item itemvalue="Node.js.main_test.js (3)" />
-        <item itemvalue="npm.dev_examp" />
       </list>
     </recent_temporary>
   </component>
