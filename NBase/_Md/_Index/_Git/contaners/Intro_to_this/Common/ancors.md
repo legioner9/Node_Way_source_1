@@ -6,3 +6,4 @@
 - https://www.atlassian.com/
 - https://mirror.yandex.ru/
 - https://git.wiki.kernel.org/
+- https://nuancesprog.ru/

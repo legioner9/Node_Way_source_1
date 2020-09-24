@@ -1,6 +1,6 @@
 Чтобы посмотреть все установленные настройки и узнать где именно они заданы, используйте команду:
 
-$ git config --list --show-origin
+    $ git config --list --show-origin
 
 - This comp C:/Users/StNN/.gitconfig
 

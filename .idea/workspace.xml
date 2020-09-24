@@ -3,8 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_4/Test/other.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_4/Test/other.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_4/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_4/index.4.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Intro_to_this/Common/ancors.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Intro_to_this/Common/ancors.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Use_this/First_steps/backcommit.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Use_this/First_steps/backcommit.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Use_this/First_steps/backommit.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Use_this/First_steps/gitconfig.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Use_this/First_steps/gitconfig.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Use_this/First_steps/new_repository.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Use_this/First_steps/new_repository.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -185,8 +188,8 @@
       <item itemvalue="Node.js.main_test.js" />
       <item itemvalue="Node.js.main_test.js (2)" />
       <item itemvalue="Node.js.main_test.js (3)" />
-      <item itemvalue="npm.dev_examp" />
       <item itemvalue="Node.js.main_test.js (4)" />
+      <item itemvalue="npm.dev_examp" />
     </list>
     <recent_temporary>
       <list>
@@ -391,7 +394,8 @@
       <workItem from="1600444978074" duration="22368000" />
       <workItem from="1600595662001" duration="3428000" />
       <workItem from="1600666460337" duration="10280000" />
-      <workItem from="1600801901440" duration="5171000" />
+      <workItem from="1600801901440" duration="5876000" />
+      <workItem from="1600869167949" duration="515000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
@@ -886,10 +890,10 @@
       <screen x="1440" y="0" width="1280" height="1024" />
     </state>
     <state x="1654" y="60" width="914" height="907" key="dock-window-1/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1600806153657" />
-    <state x="1558" y="68" width="924" height="852" key="dock-window-2" timestamp="1600806531861">
+    <state x="1569" y="68" width="913" height="872" key="dock-window-2" timestamp="1600869697073">
       <screen x="1440" y="0" width="1280" height="1024" />
     </state>
-    <state x="1558" y="68" width="924" height="852" key="dock-window-2/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1600806531861" />
+    <state x="1569" y="68" width="913" height="872" key="dock-window-2/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1600869697073" />
     <state x="1772" y="158" width="730" height="828" key="dock-window-3" timestamp="1600742398742">
       <screen x="1440" y="0" width="1280" height="1024" />
     </state>
