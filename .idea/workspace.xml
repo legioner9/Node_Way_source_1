@@ -2,11 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/NBase/_Md/_Index/__/Frame_fs_from_Git/blocks_fs.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/tree.fs.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/tree.fs.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/tree.fs_construct.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/tree.fs_construct.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__/Frame_fs/Tech_frame.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/__/Frame_fs_from_Git/Tech_frame.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__/Frame_fs_from_Git/blocks_fs.js" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/__/Frame_fs_from_Git/blocks_fs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/CreateDirFile/CreateTechDir_2/Test/A" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/CreateDirFile/CreateTechDir_2/Test/B" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/CreateDirFile/CreateTechDir_2/Test/B0/BA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/CreateDirFile/CreateTechDir_2/Test/B0/BB" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/CreateDirFile/CreateTechDir_2/Test/B0/BB0/BBA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/CreateDirFile/CreateTechDir_2/Test/B0/BB0/BBB" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/CreateDirFile/CreateTechDir_2/Test/main_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/CreateDirFile/CreateTechDir_2/Test/main_test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/CreateDirFile/CreateTechDir_2/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/CreateDirFile/CreateTechDir_2/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ini/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ini/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,10 +141,10 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1\SetDirFile\CreateDirFile" />
+      <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1\SetDirFile\CreateDirFile\CreateTechDir_2\Test" />
       <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1\SetDirFile" />
       <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1\SetDirFile\SearchDirFile\DirMappingCloneFileToDir_4" />
       <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1\SetDirFile\SearchDirFile\DirMappingCloneFileToDir_4\Test" />
-      <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1\SetDirFile\SearchDirFile\DirMappingCloneFileToDir_5\Test" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1\SetDirFile\SearchDirFile\DirMappingCloneFileToDir_4" />
@@ -148,7 +154,7 @@
       <recent name="D:\Node_Projects_v.2\Node_Way\NBase\_Md\_Index\_HPW\Part_I\content\Courses\Fundamentals\arrObjClassProto\_@_Practice\Resume" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.main_test.js (3)">
+  <component name="RunManager" selected="Node.js.main_test.js (2)">
     <configuration name="a.html" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/Node_Way/Node_Docs/Education/IlKan/learn.javascript.ru/Browser/1/1.1/a.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -161,13 +167,13 @@
     <configuration name="main_test.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/CreateDirFile/CreateTechDir_1/Test/main_test.js" working-dir="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/CreateDirFile/CreateTechDir_1/Test">
       <method v="2" />
     </configuration>
+    <configuration name="main_test.js (2)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/CreateDirFile/CreateTechDir_3/Test/main_test.js" working-dir="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/CreateDirFile/CreateTechDir_3/Test">
+      <method v="2" />
+    </configuration>
     <configuration name="main_test.js (3)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/CreateDirFile/CreateTechDir_2/Test/main_test.js" working-dir="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/CreateDirFile/CreateTechDir_2/Test">
       <method v="2" />
     </configuration>
     <configuration name="main_test.js (4)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir/Test/main_test.js" working-dir="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir/Test">
-      <method v="2" />
-    </configuration>
-    <configuration name="main_test.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_3/Test/main_test.js" working-dir="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_3/Test">
       <method v="2" />
     </configuration>
     <configuration name="dev_examp" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
@@ -184,19 +190,19 @@
       <item itemvalue="JavaScript Debug.a.html" />
       <item itemvalue="Node.js.6-parse_1.js" />
       <item itemvalue="Node.js.Object.create.js" />
-      <item itemvalue="Node.js.main_test.js" />
       <item itemvalue="Node.js.main_test.js (4)" />
       <item itemvalue="npm.dev_examp" />
       <item itemvalue="Node.js.main_test.js (1)" />
       <item itemvalue="Node.js.main_test.js (3)" />
+      <item itemvalue="Node.js.main_test.js (2)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.main_test.js (2)" />
         <item itemvalue="Node.js.main_test.js (3)" />
         <item itemvalue="Node.js.main_test.js (1)" />
         <item itemvalue="npm.dev_examp" />
         <item itemvalue="Node.js.main_test.js (4)" />
-        <item itemvalue="Node.js.main_test.js" />
       </list>
     </recent_temporary>
   </component>
@@ -860,26 +866,26 @@
     </state>
     <state x="461" y="204" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1597595554793" />
     <state x="-921" y="187" width="730" height="606" key="FileChooserDialogImpl/0.0.1366.728/-1440.0.1440.900@-1440.0.1440.900" timestamp="1595139980231" />
-    <state width="1174" height="111" key="GridCell.Tab.0.bottom" timestamp="1600966886439">
+    <state width="1174" height="111" key="GridCell.Tab.0.bottom" timestamp="1600994262424">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1272" height="182" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1595261214870" />
-    <state width="1174" height="111" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1600966886439" />
-    <state width="1174" height="111" key="GridCell.Tab.0.center" timestamp="1600966886439">
+    <state width="1174" height="111" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1600994262424" />
+    <state width="1174" height="111" key="GridCell.Tab.0.center" timestamp="1600994262424">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1272" height="182" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1595261214870" />
-    <state width="1174" height="111" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1600966886439" />
-    <state width="1174" height="111" key="GridCell.Tab.0.left" timestamp="1600966886438">
+    <state width="1174" height="111" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1600994262424" />
+    <state width="1174" height="111" key="GridCell.Tab.0.left" timestamp="1600994262424">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1272" height="182" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1595261214870" />
-    <state width="1174" height="111" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1600966886438" />
-    <state width="1174" height="111" key="GridCell.Tab.0.right" timestamp="1600966886439">
+    <state width="1174" height="111" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1600994262424" />
+    <state width="1174" height="111" key="GridCell.Tab.0.right" timestamp="1600994262424">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1272" height="182" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1595261214870" />
-    <state width="1174" height="111" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1600966886439" />
+    <state width="1174" height="111" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1600994262424" />
     <state x="1579" y="111" width="1141" height="913" key="SettingsEditor" timestamp="1600595500207">
       <screen x="1440" y="0" width="1280" height="1024" />
     </state>
