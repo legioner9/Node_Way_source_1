@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDebug/DebugAsObject/DebLogToFile/Test/1.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ex1/SetDebug/DebugAsObject/DebLogToFile/Test/1.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/CreateDirFile/CreateTechDir_4/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/CreateDirFile/CreateTechDir_4/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/st_ini/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ini/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ini_deep1/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ini_deep1/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -199,8 +200,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="npm.dev_examp" />
         <item itemvalue="npm.dev" />
+        <item itemvalue="npm.dev_examp" />
         <item itemvalue="Node.js.main_test.js (1)" />
         <item itemvalue="Node.js.main_test.js (2)" />
         <item itemvalue="Node.js.main_test.js" />
@@ -858,35 +859,35 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="436" y="348" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1280.984@0.0.1280.984" timestamp="1597595569356" />
-    <state x="331" y="36" key="#dev" timestamp="1600446252770">
+    <state x="331" y="36" key="#dev" timestamp="1601282678680">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="331" y="36" key="#dev/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1600446252770" />
+    <state x="331" y="36" key="#dev/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1601282678680" />
     <state x="461" y="204" width="730" height="606" key="FileChooserDialogImpl" timestamp="1597595554793">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="461" y="204" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1597595554793" />
     <state x="-921" y="187" width="730" height="606" key="FileChooserDialogImpl/0.0.1366.728/-1440.0.1440.900@-1440.0.1440.900" timestamp="1595139980231" />
-    <state width="1174" height="165" key="GridCell.Tab.0.bottom" timestamp="1601268647047">
+    <state width="1174" height="165" key="GridCell.Tab.0.bottom" timestamp="1601282722784">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1272" height="182" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1595261214870" />
-    <state width="1174" height="165" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1601268647047" />
-    <state width="1174" height="165" key="GridCell.Tab.0.center" timestamp="1601268647047">
+    <state width="1174" height="165" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1601282722784" />
+    <state width="1174" height="165" key="GridCell.Tab.0.center" timestamp="1601282722784">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1272" height="182" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1595261214870" />
-    <state width="1174" height="165" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1601268647047" />
-    <state width="1174" height="165" key="GridCell.Tab.0.left" timestamp="1601268647047">
+    <state width="1174" height="165" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1601282722784" />
+    <state width="1174" height="165" key="GridCell.Tab.0.left" timestamp="1601282722784">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1272" height="182" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1595261214870" />
-    <state width="1174" height="165" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1601268647047" />
-    <state width="1174" height="165" key="GridCell.Tab.0.right" timestamp="1601268647047">
+    <state width="1174" height="165" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1601282722784" />
+    <state width="1174" height="165" key="GridCell.Tab.0.right" timestamp="1601282722784">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1272" height="182" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1595261214870" />
-    <state width="1174" height="165" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1601268647047" />
+    <state width="1174" height="165" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1601282722784" />
     <state x="1579" y="111" width="1141" height="913" key="SettingsEditor" timestamp="1600595500207">
       <screen x="1440" y="0" width="1280" height="1024" />
     </state>
@@ -900,10 +901,10 @@
       <screen x="1440" y="0" width="1280" height="1024" />
     </state>
     <state x="1569" y="68" width="913" height="872" key="dock-window-2/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1600869697073" />
-    <state x="1772" y="158" width="730" height="828" key="dock-window-3" timestamp="1600742398742">
+    <state x="1707" y="138" width="767" height="866" key="dock-window-3" timestamp="1601297485736">
       <screen x="1440" y="0" width="1280" height="1024" />
     </state>
-    <state x="1772" y="158" width="730" height="828" key="dock-window-3/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1600742398742" />
+    <state x="1707" y="138" width="767" height="866" key="dock-window-3/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1601297485736" />
     <state x="1607" y="48" width="929" height="911" key="dock-window-4" timestamp="1600755206069">
       <screen x="1440" y="0" width="1280" height="1024" />
     </state>
