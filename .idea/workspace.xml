@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="" />
+    <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/Set_/_/_versions.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ex1/Set_/_/_versions.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/Set__/__/_/_versions.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ex1/Set__/__/_/_versions.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -129,10 +132,10 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1\Set_\_" />
+      <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1\Set__\__\_" />
       <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1\SetDirFile\ExampCreateArr\CreateArrLikeGit" />
       <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1\SetDirFile\CreateDirFile\CreateTechDir_4\Test\_testDirForTestLikeGity" />
       <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1\SetDirFile\CreateDirFile\CreateTechDir_4\Test" />
-      <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1\SetDirFile\CreateDirFile\CreateTechDir_4" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1\SetDirFile\ExampCreateArr\CreateArrLikeGit" />
