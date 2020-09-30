@@ -2,8 +2,256 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/.idea/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/.idea/_Git_AutoCreate.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Containers/Containers.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Containers/Intro_to_this/Common_this/Common_this.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Containers/Intro_to_this/Common_this/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Containers/Intro_to_this/Common_this/_src/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Containers/Intro_to_this/Common_this/_src/_src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Containers/Intro_to_this/Docs_this/Docs_this.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Containers/Intro_to_this/Docs_this/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Containers/Intro_to_this/Docs_this/_src/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Containers/Intro_to_this/Docs_this/_src/_src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Containers/Intro_to_this/Intro_to_this.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Containers/Intro_to_this/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Containers/Intro_to_this/_src/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Containers/Intro_to_this/_src/_src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Containers/Intro_to_this/www_this/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Containers/Intro_to_this/www_this/_src/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Containers/Intro_to_this/www_this/_src/_src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Containers/Intro_to_this/www_this/www_this.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Containers/Live_learn/Common_this/Common_this.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Containers/Live_learn/Common_this/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Containers/Live_learn/Common_this/_src/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Containers/Live_learn/Common_this/_src/_src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Containers/Live_learn/Docs_this/Docs_this.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Containers/Live_learn/Docs_this/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Containers/Live_learn/Docs_this/_src/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Containers/Live_learn/Docs_this/_src/_src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Containers/Live_learn/Live_learn.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Containers/Live_learn/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Containers/Live_learn/_.Reference.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Containers/Live_learn/_src/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Containers/Live_learn/_src/_src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Containers/Live_learn/www_this/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Containers/Live_learn/www_this/_src/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Containers/Live_learn/www_this/_src/_src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Containers/Live_learn/www_this/www_this.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Containers/Point_learn/Point_learn.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Containers/Point_learn/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Containers/Point_learn/_.Reference.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Containers/Point_learn/_src/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Containers/Point_learn/_src/_src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Containers/Point_learn/the_part_of_this/Common_this/Common_this.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Containers/Point_learn/the_part_of_this/Common_this/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Containers/Point_learn/the_part_of_this/Common_this/_src/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Containers/Point_learn/the_part_of_this/Common_this/_src/_src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Containers/Point_learn/the_part_of_this/Docs_this/Docs_this.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Containers/Point_learn/the_part_of_this/Docs_this/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Containers/Point_learn/the_part_of_this/Docs_this/_src/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Containers/Point_learn/the_part_of_this/Docs_this/_src/_src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Containers/Point_learn/the_part_of_this/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Containers/Point_learn/the_part_of_this/_src/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Containers/Point_learn/the_part_of_this/_src/_src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Containers/Point_learn/the_part_of_this/the_part_of_this.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Containers/Point_learn/the_part_of_this/www_this/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Containers/Point_learn/the_part_of_this/www_this/_src/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Containers/Point_learn/the_part_of_this/www_this/_src/_src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Containers/Point_learn/the_part_of_this/www_this/www_this.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Containers/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Containers/Use_this/First_steps/First_steps.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Containers/Use_this/First_steps/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Containers/Use_this/First_steps/_src/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Containers/Use_this/First_steps/_src/_src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Containers/Use_this/Hints/Hints.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Containers/Use_this/Hints/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Containers/Use_this/Hints/_src/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Containers/Use_this/Hints/_src/_src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Containers/Use_this/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Containers/Use_this/Use_this.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Containers/Workout_this/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Containers/Workout_this/Workout_this.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Containers/Workout_this/_src/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Containers/Workout_this/_src/_src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Containers/_src/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Containers/_src/_src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Content/Content.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Content/Docs/Docs.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Content/Docs/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Content/Docs/www.com/Cheat_Sheets/Cheat_Sheets.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Content/Docs/www.com/Cheat_Sheets/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Content/Docs/www.com/Live_learn/Common_this/Common_this.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Content/Docs/www.com/Live_learn/Common_this/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Content/Docs/www.com/Live_learn/Common_this/_src/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Content/Docs/www.com/Live_learn/Common_this/_src/_src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Content/Docs/www.com/Live_learn/Docs_this/Docs_this.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Content/Docs/www.com/Live_learn/Docs_this/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Content/Docs/www.com/Live_learn/Docs_this/_src/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Content/Docs/www.com/Live_learn/Docs_this/_src/_src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Content/Docs/www.com/Live_learn/Live_learn.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Content/Docs/www.com/Live_learn/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Content/Docs/www.com/Live_learn/_.Reference.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Content/Docs/www.com/Live_learn/_src/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Content/Docs/www.com/Live_learn/_src/_src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Content/Docs/www.com/Live_learn/www_this/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Content/Docs/www.com/Live_learn/www_this/_src/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Content/Docs/www.com/Live_learn/www_this/_src/_src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Content/Docs/www.com/Live_learn/www_this/www_this.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Content/Docs/www.com/Point_learn/Point_learn.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Content/Docs/www.com/Point_learn/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Content/Docs/www.com/Point_learn/_.Reference.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Content/Docs/www.com/Point_learn/_src/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Content/Docs/www.com/Point_learn/_src/_src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Content/Docs/www.com/Point_learn/the_part_of_this/Common_this/Common_this.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Content/Docs/www.com/Point_learn/the_part_of_this/Common_this/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Content/Docs/www.com/Point_learn/the_part_of_this/Common_this/_src/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Content/Docs/www.com/Point_learn/the_part_of_this/Common_this/_src/_src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Content/Docs/www.com/Point_learn/the_part_of_this/Docs_this/Docs_this.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Content/Docs/www.com/Point_learn/the_part_of_this/Docs_this/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Content/Docs/www.com/Point_learn/the_part_of_this/Docs_this/_src/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Content/Docs/www.com/Point_learn/the_part_of_this/Docs_this/_src/_src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Content/Docs/www.com/Point_learn/the_part_of_this/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Content/Docs/www.com/Point_learn/the_part_of_this/_src/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Content/Docs/www.com/Point_learn/the_part_of_this/_src/_src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Content/Docs/www.com/Point_learn/the_part_of_this/the_part_of_this.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Content/Docs/www.com/Point_learn/the_part_of_this/www_this/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Content/Docs/www.com/Point_learn/the_part_of_this/www_this/_src/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Content/Docs/www.com/Point_learn/the_part_of_this/www_this/_src/_src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Content/Docs/www.com/Point_learn/the_part_of_this/www_this/www_this.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Content/Docs/www.com/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Content/Docs/www.com/www.com.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/Content/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/CreateDirLikeGit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/_Git.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/_src/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/_src/_src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/tree.fs.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate/tree.fs_construct.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Containers/Containers.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Containers/Intro_to_this/Common_this/Common_this.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Containers/Intro_to_this/Common_this/ReadMe.md.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Containers/Intro_to_this/Common_this/_src/ReadMe.md.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Containers/Intro_to_this/Common_this/_src/_src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Containers/Intro_to_this/Docs_this/Docs_this.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Containers/Intro_to_this/Docs_this/ReadMe.md.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Containers/Intro_to_this/Docs_this/_src/ReadMe.md.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Containers/Intro_to_this/Docs_this/_src/_src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Containers/Intro_to_this/Intro_to_this.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Containers/Intro_to_this/ReadMe.md.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Containers/Intro_to_this/_src/ReadMe.md.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Containers/Intro_to_this/_src/_src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Containers/Intro_to_this/www_this/ReadMe.md.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Containers/Intro_to_this/www_this/_src/ReadMe.md.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Containers/Intro_to_this/www_this/_src/_src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Containers/Intro_to_this/www_this/www_this.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Containers/Live_learn/Common_this/Common_this.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Containers/Live_learn/Common_this/ReadMe.md.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Containers/Live_learn/Common_this/_src/ReadMe.md.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Containers/Live_learn/Common_this/_src/_src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Containers/Live_learn/Docs_this/Docs_this.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Containers/Live_learn/Docs_this/ReadMe.md.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Containers/Live_learn/Docs_this/_src/ReadMe.md.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Containers/Live_learn/Docs_this/_src/_src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Containers/Live_learn/Live_learn.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Containers/Live_learn/ReadMe.md.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Containers/Live_learn/_.Reference.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Containers/Live_learn/_src/ReadMe.md.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Containers/Live_learn/_src/_src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Containers/Live_learn/www_this/ReadMe.md.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Containers/Live_learn/www_this/_src/ReadMe.md.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Containers/Live_learn/www_this/_src/_src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Containers/Live_learn/www_this/www_this.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Containers/Point_learn/Point_learn.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Containers/Point_learn/ReadMe.md.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Containers/Point_learn/_.Reference.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Containers/Point_learn/_src/ReadMe.md.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Containers/Point_learn/_src/_src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Containers/Point_learn/the_part_of_this/Common_this/Common_this.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Containers/Point_learn/the_part_of_this/Common_this/ReadMe.md.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Containers/Point_learn/the_part_of_this/Common_this/_src/ReadMe.md.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Containers/Point_learn/the_part_of_this/Common_this/_src/_src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Containers/Point_learn/the_part_of_this/Docs_this/Docs_this.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Containers/Point_learn/the_part_of_this/Docs_this/ReadMe.md.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Containers/Point_learn/the_part_of_this/Docs_this/_src/ReadMe.md.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Containers/Point_learn/the_part_of_this/Docs_this/_src/_src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Containers/Point_learn/the_part_of_this/ReadMe.md.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Containers/Point_learn/the_part_of_this/_src/ReadMe.md.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Containers/Point_learn/the_part_of_this/_src/_src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Containers/Point_learn/the_part_of_this/the_part_of_this.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Containers/Point_learn/the_part_of_this/www_this/ReadMe.md.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Containers/Point_learn/the_part_of_this/www_this/_src/ReadMe.md.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Containers/Point_learn/the_part_of_this/www_this/_src/_src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Containers/Point_learn/the_part_of_this/www_this/www_this.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Containers/ReadMe.md.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Containers/Use_this/First_steps/First_steps.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Containers/Use_this/First_steps/ReadMe.md.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Containers/Use_this/First_steps/_src/ReadMe.md.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Containers/Use_this/First_steps/_src/_src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Containers/Use_this/Hints/Hints.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Containers/Use_this/Hints/ReadMe.md.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Containers/Use_this/Hints/_src/ReadMe.md.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Containers/Use_this/Hints/_src/_src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Containers/Use_this/ReadMe.md.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Containers/Use_this/Use_this.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Containers/Workout_this/ReadMe.md.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Containers/Workout_this/Workout_this.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Containers/Workout_this/_src/ReadMe.md.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Containers/Workout_this/_src/_src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Containers/_src/ReadMe.md.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Containers/_src/_src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Content/Content.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Content/Docs/Docs.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Content/Docs/ReadMe.md.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Content/Docs/www.com/Cheat_Sheets/Cheat_Sheets.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Content/Docs/www.com/Cheat_Sheets/ReadMe.md.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Content/Docs/www.com/Live_learn/Common_this/Common_this.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Content/Docs/www.com/Live_learn/Common_this/ReadMe.md.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Content/Docs/www.com/Live_learn/Common_this/_src/ReadMe.md.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Content/Docs/www.com/Live_learn/Common_this/_src/_src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Content/Docs/www.com/Live_learn/Docs_this/Docs_this.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Content/Docs/www.com/Live_learn/Docs_this/ReadMe.md.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Content/Docs/www.com/Live_learn/Docs_this/_src/ReadMe.md.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Content/Docs/www.com/Live_learn/Docs_this/_src/_src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Content/Docs/www.com/Live_learn/Live_learn.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Content/Docs/www.com/Live_learn/ReadMe.md.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Content/Docs/www.com/Live_learn/_.Reference.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Content/Docs/www.com/Live_learn/_src/ReadMe.md.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Content/Docs/www.com/Live_learn/_src/_src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Content/Docs/www.com/Live_learn/www_this/ReadMe.md.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Content/Docs/www.com/Live_learn/www_this/_src/ReadMe.md.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Content/Docs/www.com/Live_learn/www_this/_src/_src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Content/Docs/www.com/Live_learn/www_this/www_this.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Content/Docs/www.com/Point_learn/Point_learn.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Content/Docs/www.com/Point_learn/ReadMe.md.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Content/Docs/www.com/Point_learn/_.Reference.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Content/Docs/www.com/Point_learn/_src/ReadMe.md.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Content/Docs/www.com/Point_learn/_src/_src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Content/Docs/www.com/Point_learn/the_part_of_this/Common_this/Common_this.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Content/Docs/www.com/Point_learn/the_part_of_this/Common_this/ReadMe.md.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Content/Docs/www.com/Point_learn/the_part_of_this/Common_this/_src/ReadMe.md.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Content/Docs/www.com/Point_learn/the_part_of_this/Common_this/_src/_src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Content/Docs/www.com/Point_learn/the_part_of_this/Docs_this/Docs_this.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Content/Docs/www.com/Point_learn/the_part_of_this/Docs_this/ReadMe.md.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Content/Docs/www.com/Point_learn/the_part_of_this/Docs_this/_src/ReadMe.md.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Content/Docs/www.com/Point_learn/the_part_of_this/Docs_this/_src/_src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Content/Docs/www.com/Point_learn/the_part_of_this/ReadMe.md.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Content/Docs/www.com/Point_learn/the_part_of_this/_src/ReadMe.md.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Content/Docs/www.com/Point_learn/the_part_of_this/_src/_src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Content/Docs/www.com/Point_learn/the_part_of_this/the_part_of_this.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Content/Docs/www.com/Point_learn/the_part_of_this/www_this/ReadMe.md.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Content/Docs/www.com/Point_learn/the_part_of_this/www_this/_src/ReadMe.md.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Content/Docs/www.com/Point_learn/the_part_of_this/www_this/_src/_src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Content/Docs/www.com/Point_learn/the_part_of_this/www_this/www_this.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Content/Docs/www.com/ReadMe.md.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Content/Docs/www.com/www.com.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/Content/ReadMe.md.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/_src/ReadMe.md.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr/CreateArrLikeGit/Test/_src/_src.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +353,7 @@
     <property name="add_unversioned_files" value="$PROJECT_DIR$/Jobs/SetGlobLoggers/ModLogger_1/Core/Logs/eLogs.txt&#10;true" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="11.6.0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/NBase/_Md/_Index/_Git_AutoCreate" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.jscs" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -131,11 +379,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1\SetDirFile\ExampCreateArr" />
       <recent name="E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git_AutoCreate" />
       <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1\SetDirFile\CreateDirFile\CreateTechDir_4\Production" />
       <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1\SetDirFile\SearchDirFile\DirMappingCloneFileToDir_5" />
       <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1\SetDirFile\ExampCreateArr\CreateArrLikeGit" />
-      <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1\Set_\_" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git" />
