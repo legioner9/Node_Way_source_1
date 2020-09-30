@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2" />
+    <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Windows_PowerShell_{LG2}/Content/Docs/docs.microsoft.com/Point_learn/Command_of_windows/Set_of_All.Command_of_windows/tree.dir/tree.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Windows_PowerShell_{LG2}/Content/Docs/docs.microsoft.com/Point_learn/Command_of_windows/Set_of_All.Command_of_windows/tree.dir/tree.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Windows_PowerShell_{LG2}/Content/Docs/docs.microsoft.com/Point_learn/Команды_Windows/Common_this/Common_this.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Windows_PowerShell_{LG2}/Content/Docs/docs.microsoft.com/Point_learn/Команды_Windows/Common_this/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Windows_PowerShell_{LG2}/Content/Docs/docs.microsoft.com/Point_learn/Команды_Windows/Common_this/_src/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Windows_PowerShell_{LG2}/Content/Docs/docs.microsoft.com/Point_learn/Команды_Windows/Common_this/_src/_src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Windows_PowerShell_{LG2}/Content/Docs/docs.microsoft.com/Point_learn/Команды_Windows/Docs_this/Docs_this.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Windows_PowerShell_{LG2}/Content/Docs/docs.microsoft.com/Point_learn/Команды_Windows/Docs_this/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Windows_PowerShell_{LG2}/Content/Docs/docs.microsoft.com/Point_learn/Команды_Windows/Docs_this/_src/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Windows_PowerShell_{LG2}/Content/Docs/docs.microsoft.com/Point_learn/Команды_Windows/Docs_this/_src/_src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Windows_PowerShell_{LG2}/Content/Docs/docs.microsoft.com/Point_learn/Команды_Windows/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Windows_PowerShell_{LG2}/Content/Docs/docs.microsoft.com/Point_learn/Команды_Windows/Set_of_All.Команды_Windows/Set_of_All.Команды_Windows.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Windows_PowerShell_{LG2}/Content/Docs/docs.microsoft.com/Point_learn/Команды_Windows/Set_of_All.Команды_Windows/cloneFileToDir_in_2_3_level.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Windows_PowerShell_{LG2}/Content/Docs/docs.microsoft.com/Point_learn/Команды_Windows/_src/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Windows_PowerShell_{LG2}/Content/Docs/docs.microsoft.com/Point_learn/Команды_Windows/_src/_src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Windows_PowerShell_{LG2}/Content/Docs/docs.microsoft.com/Point_learn/Команды_Windows/_src/Команды_Windows.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Windows_PowerShell_{LG2}/Content/Docs/docs.microsoft.com/Point_learn/Команды_Windows/www_this/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Windows_PowerShell_{LG2}/Content/Docs/docs.microsoft.com/Point_learn/Команды_Windows/www_this/_src/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Windows_PowerShell_{LG2}/Content/Docs/docs.microsoft.com/Point_learn/Команды_Windows/www_this/_src/_src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Windows_PowerShell_{LG2}/Content/Docs/docs.microsoft.com/Point_learn/Команды_Windows/www_this/www_this.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Windows_PowerShell_{LG2}/Content/Docs/docs.microsoft.com/Point_learn/Команды_Windows/Команды_Windows.md" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -395,6 +416,7 @@
       <workItem from="1600801901440" duration="5876000" />
       <workItem from="1600869167949" duration="515000" />
       <workItem from="1601458577379" duration="9118000" />
+      <workItem from="1601490948291" duration="783000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
