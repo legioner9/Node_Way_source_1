@@ -2,9 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/CreateDirFile/CreateTechDir_4/Production/CreateDirLikeGit_2{LG2}.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/CreateDirFile/CreateTechDir_4/Production/CreateDirLikeGit_2{LG2}.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/CreateDirFile/CreateTechDir_4/Production/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/CreateDirFile/CreateTechDir_4/Production/ReadMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/CreateDirFile/CreateTechDir_3/Test/A" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/CreateDirFile/CreateTechDir_3/Test/B" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/CreateDirFile/CreateTechDir_3/Test/B0/B0.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/CreateDirFile/CreateTechDir_3/Test/B0/BA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/CreateDirFile/CreateTechDir_3/Test/B0/BB" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/CreateDirFile/CreateTechDir_3/Test/B0/BB0/BB0.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/CreateDirFile/CreateTechDir_3/Test/B0/BB0/BBA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/CreateDirFile/CreateTechDir_3/Test/B0/BB0/BBB" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/CreateDirFile/CreateTechDir_3/Test/B0/BB0/ReadMe.md.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/CreateDirFile/CreateTechDir_3/Test/B0/ReadMe.md.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/CreateDirFile/CreateTechDir_3/Test/B0/empty_dir/ReadMe.md.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/CreateDirFile/CreateTechDir_3/Test/B0/empty_dir/empty_dir.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/CreateDirFile/CreateTechDir_3/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/CreateDirFile/CreateTechDir_3/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/CreateDirFile/CreateTechDir_4/Production/_nameDir.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/CreateDirFile/CreateTechDir_4/Production/_nameDir.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/CreateDirFile/CreateTechDir_4/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/CreateDirFile/CreateTechDir_4/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/st_ex1_deep1/SetLogical/LogicalDebug/L_fsLog/fsLog/log.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ex1_deep1/SetLogical/LogicalDebug/L_fsLog/fsLog/log.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +121,7 @@
     <property name="add_unversioned_files" value="$PROJECT_DIR$/Jobs/SetGlobLoggers/ModLogger_1/Core/Logs/eLogs.txt&#10;true" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="11.6.0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/NBase/_Md/_Index/_Windows_PowerShell_{LG2}/Containers/Intro_to_this/habr.com/RUVDS.com" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/CreateDirFile/CreateTechDir_4/Test" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.jscs" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -131,6 +146,13 @@
     <property name="ts.external.directory.path" value="D:\Program Files\JetBrains\IntelliJ IDEA 2020.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1\SetDirFile\CreateDirFile\CreateTechDir_4\Test" />
+      <recent name="E:\Node_projects\Node_Way\NBase\_Md\_Index\_Windows_PowerShell_{LG2}\Containers\Intro_to_this\habr.com\RUVDS.com" />
+      <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1\SetDirFile\SearchDirFile\DirMappingCloneFileToDir_8\Test" />
+      <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1\SetDirFile\SearchDirFile\DirMappingCloneFileToDir_7\Test" />
+      <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1\SetDirFile\SearchDirFile\DirMappingCloneFileToDir_7\Production" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1\SetDirFile\SearchDirFile\DirMappingCloneFileToDir_8\Production" />
       <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1\SetDirFile\SearchDirFile\DirMappingCloneFileToDir_7\Production" />
@@ -138,15 +160,8 @@
       <recent name="E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git" />
       <recent name="E:\Node_projects\Node_Way\NBase\_Md\_Index" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\Node_projects\Node_Way\NBase\_Md\_Index\_Windows_PowerShell_{LG2}\Containers\Intro_to_this\habr.com\RUVDS.com" />
-      <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1\SetDirFile\SearchDirFile\DirMappingCloneFileToDir_8\Test" />
-      <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1\SetDirFile\SearchDirFile\DirMappingCloneFileToDir_7\Test" />
-      <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1\SetDirFile\SearchDirFile\DirMappingCloneFileToDir_7\Production" />
-      <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1\SetDirFile\SearchDirFile\DirMappingCloneFileToDir_8\Production" />
-    </key>
   </component>
-  <component name="RunManager" selected="Node.js.CreateDirLikeGit_2{LG2}.js">
+  <component name="RunManager" selected="Node.js.main_test.js (2)">
     <configuration name="a.html" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/Node_Way/Node_Docs/Education/IlKan/learn.javascript.ru/Browser/1/1.1/a.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -159,26 +174,26 @@
     <configuration name="Object.create.js" type="NodeJSConfigurationType" nameIsGenerated="true" node-parameters="ndb" path-to-js-file="$PROJECT_DIR$/node_modules/st_doc1/js_DOCS/Function/_@_FunctionEngendering/InheritsEgeneringModel/Object.create.js" working-dir="$PROJECT_DIR$/node_modules/st_doc1/js_DOCS/Function/_@_FunctionEngendering">
       <method v="2" />
     </configuration>
-    <configuration name="cloneFileToDir_in_2_3_level.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_8/Production/cloneFileToDir_in_2_3_level.js" working-dir="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_8/Production">
-      <method v="2" />
-    </configuration>
-    <configuration name="cloneFileToDir_in_2_3_level.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/NBase/_Md/_Index/_Windows_PowerShell_{LG2}/Containers/Intro_to_this/habr.com/RUVDS.com/cloneFileToDir_in_2_3_level.js" working-dir="$PROJECT_DIR$/NBase/_Md/_Index/_Windows_PowerShell_{LG2}/Containers/Intro_to_this/habr.com/RUVDS.com">
-      <method v="2" />
-    </configuration>
     <configuration name="cloneFileToDir_in_2_3_level.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_8/Production/cloneFileToDir_in_2_3_level.js" working-dir="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_8/Production">
       <method v="2" />
     </configuration>
     <configuration name="cloneFileToDir_in_num_2_3_level.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/NBase/_Md/_Index/_Windows_PowerShell_{LG2}/Containers/Intro_to_this/habr.com/RUVDS.com/cloneFileToDir_in_num_2_3_level.js" working-dir="$PROJECT_DIR$/NBase/_Md/_Index/_Windows_PowerShell_{LG2}/Containers/Intro_to_this/habr.com/RUVDS.com">
       <method v="2" />
     </configuration>
+    <configuration name="main_test.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/CreateDirFile/CreateTechDir_3/Test/main_test.js" working-dir="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/CreateDirFile/CreateTechDir_3/Test">
+      <method v="2" />
+    </configuration>
+    <configuration name="main_test.js (2)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/CreateDirFile/CreateTechDir_4/Test/main_test.js" working-dir="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/CreateDirFile/CreateTechDir_4/Test">
+      <method v="2" />
+    </configuration>
     <configuration name="main_test.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_3/Test/main_test.js" working-dir="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_3/Test">
       <method v="2" />
     </configuration>
-    <configuration name="dev_st_doc1" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+    <configuration name="dev_examp" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
       <scripts>
-        <script value="dev_st_doc1" />
+        <script value="dev_examp" />
       </scripts>
       <node-interpreter value="project" />
       <envs />
@@ -188,19 +203,19 @@
       <item itemvalue="JavaScript Debug.a.html" />
       <item itemvalue="Node.js.6-parse_1.js" />
       <item itemvalue="Node.js.Object.create.js" />
-      <item itemvalue="Node.js.cloneFileToDir_in_2_3_level.js (1)" />
-      <item itemvalue="Node.js.cloneFileToDir_in_2_3_level.js" />
       <item itemvalue="Node.js.main_test.js" />
-      <item itemvalue="npm.dev_st_doc1" />
       <item itemvalue="Node.js.CreateDirLikeGit_2{LG2}.js" />
+      <item itemvalue="Node.js.main_test.js (1)" />
+      <item itemvalue="npm.dev_examp" />
+      <item itemvalue="Node.js.main_test.js (2)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.main_test.js (2)" />
         <item itemvalue="Node.js.CreateDirLikeGit_2{LG2}.js" />
+        <item itemvalue="Node.js.main_test.js (1)" />
+        <item itemvalue="npm.dev_examp" />
         <item itemvalue="Node.js.main_test.js" />
-        <item itemvalue="Node.js.cloneFileToDir_in_2_3_level.js (1)" />
-        <item itemvalue="npm.dev_st_doc1" />
-        <item itemvalue="Node.js.cloneFileToDir_in_2_3_level.js" />
       </list>
     </recent_temporary>
   </component>
@@ -400,7 +415,7 @@
       <workItem from="1600801901440" duration="5876000" />
       <workItem from="1600869167949" duration="515000" />
       <workItem from="1601458577379" duration="9118000" />
-      <workItem from="1601490948291" duration="1960000" />
+      <workItem from="1601490948291" duration="4268000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
@@ -849,10 +864,10 @@
       <screen x="-1440" y="0" width="1440" height="900" />
     </state>
     <state x="-981" y="31" key="#a.html/0.0.1366.728/-1440.0.1440.900@-1440.0.1440.900" timestamp="1595139067928" />
-    <state x="361" y="199" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601523780760">
+    <state x="361" y="199" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601525342669">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="361" y="199" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1601523780760" />
+    <state x="361" y="199" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1601525342669" />
     <state x="436" y="348" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1597595569356">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
@@ -871,26 +886,26 @@
     <state x="461" y="204" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1597595554793" />
     <state x="-921" y="187" width="730" height="606" key="FileChooserDialogImpl/0.0.1366.728/-1440.0.1440.900@-1440.0.1440.900" timestamp="1595139980231" />
     <state x="519" y="178" key="FileChooserDialogImpl/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1601399325623" />
-    <state width="1247" height="126" key="GridCell.Tab.0.bottom" timestamp="1601524298373">
+    <state width="1247" height="126" key="GridCell.Tab.0.bottom" timestamp="1601526487048">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1272" height="182" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1595261214870" />
-    <state width="1247" height="126" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1601524298373" />
-    <state width="1247" height="126" key="GridCell.Tab.0.center" timestamp="1601524298372">
+    <state width="1247" height="126" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1601526487048" />
+    <state width="1247" height="126" key="GridCell.Tab.0.center" timestamp="1601526487048">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1272" height="182" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1595261214870" />
-    <state width="1247" height="126" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1601524298372" />
-    <state width="1247" height="126" key="GridCell.Tab.0.left" timestamp="1601524298372">
+    <state width="1247" height="126" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1601526487048" />
+    <state width="1247" height="126" key="GridCell.Tab.0.left" timestamp="1601526487048">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1272" height="182" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1595261214870" />
-    <state width="1247" height="126" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1601524298372" />
-    <state width="1247" height="126" key="GridCell.Tab.0.right" timestamp="1601524298372">
+    <state width="1247" height="126" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1601526487048" />
+    <state width="1247" height="126" key="GridCell.Tab.0.right" timestamp="1601526487048">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1272" height="182" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1595261214870" />
-    <state width="1247" height="126" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1601524298372" />
+    <state width="1247" height="126" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1601526487048" />
     <state x="1579" y="111" width="1141" height="913" key="SettingsEditor" timestamp="1601438294238">
       <screen x="1440" y="0" width="1280" height="1024" />
     </state>
@@ -900,10 +915,10 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="459" y="311" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1601435468980" />
-    <state x="1654" y="60" width="914" height="907" key="dock-window-1" timestamp="1600806153657">
+    <state x="1674" y="200" width="663" height="803" key="dock-window-1" timestamp="1601525512583">
       <screen x="1440" y="0" width="1280" height="1024" />
     </state>
-    <state x="1654" y="60" width="914" height="907" key="dock-window-1/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1600806153657" />
+    <state x="1674" y="200" width="663" height="803" key="dock-window-1/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1601525512583" />
     <state x="1569" y="68" width="913" height="872" key="dock-window-2" timestamp="1600869697073">
       <screen x="1440" y="0" width="1280" height="1024" />
     </state>
