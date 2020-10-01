@@ -609,6 +609,8 @@ for (var i in api.dom.styleProps) {
 //
 api.dom.confirmation = function(title, message, eventYes, buttons) {
   // TODO: implement api.dom.confirmation
+    // todo: fdsadf
+    // - vdf
 };
 
 // Input dialog
