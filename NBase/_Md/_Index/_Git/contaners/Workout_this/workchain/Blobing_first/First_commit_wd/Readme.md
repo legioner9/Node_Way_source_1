@@ -1,3 +1,5 @@
+# History    
+    
     $ git init
         Initialized empty Git repository in E:/Node_projects/Pre_Git/.git/
     
@@ -38,20 +40,46 @@
     $ cat mas1
         comm1
     
-    $ echo comm_add_to_comm1 >> mas1
+# checkup init   
+    
+    $ ls
+        mas1
+        
     $ cat mas1
         comm1
-        comm_add_to_comm1
-        
+
     $ git st
-    On branch master
-    Changes not staged for commit:
-      (use "git add <file>..." to update what will be committed)
-      (use "git restore <file>..." to discard changes in working directory)
-            modified:   mas1
+        On branch master
+        nothing to commit, working tree clean
+        
+    $ git lg
+        * 96ef719 - (HEAD -> master) my first commit (52 minutes ago) <legioner9>
+        
     
-    no changes added to commit (use "git add" and/or "git commit -a")
-    
+# changes WD (work Dir)
+
+    $ echo change_comm1 >> mas1  
+    $ cat mas1
+        comm1
+        change_comm1  
+
+    $ git st
+        On branch master
+        Changes not staged for commit:
+        (use "git add <file>..." to update what will be committed)
+        (use "git restore <file>..." to discard changes in working directory)
+                modified:   mas1
+
+        no changes added to commit (use "git add" and/or "git commit -a")
+
+# onward
+
+
+
+
+
+
+        
 
     
     
