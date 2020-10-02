@@ -74,9 +74,27 @@
 
 # onward
 
+    $ git add .
 
+    $ git st
+        On branch master
+        Changes to be committed:
+        (use "git restore --staged <file>..." to unstage)
+                modified:   mas1
 
+    $ git commit --amend -m amended_commit_first_anyway
+        [master 6ccc546] amended_commit_first_anyway
+        Date: Fri Oct 2 20:36:17 2020 +0700
+        1 file changed, 2 insertions(+)
+        create mode 100644 mas1
 
+    $ git lg
+        * 6ccc546 - (HEAD -> master) amended_commit_first_anyway (53 seconds ago) <legioner9>
+# Result
+`96ef719 - (HEAD -> master) my first commit`
+
+transformed into  
+`6ccc546 - (HEAD -> master) amended_commit_first_anyway`
 
 
         

@@ -2,5 +2,10 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/First_commit_wd copy 2/blob" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/First_commit_wd copy 3/blob" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/First_commit_wd copy/blob" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/First_commit_wd/blob" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/First_commit_wd_amend/blob" vcs="Git" />
   </component>
 </project>
