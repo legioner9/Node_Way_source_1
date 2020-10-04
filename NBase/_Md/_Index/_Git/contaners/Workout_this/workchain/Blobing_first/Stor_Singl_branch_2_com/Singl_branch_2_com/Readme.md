@@ -119,7 +119,7 @@
         comm1
         change_comm1
         
-# onward
+
 
     $ git commit . -m 'modified mas1'
 
@@ -127,7 +127,11 @@
         * ca34649 - (HEAD -> master) modified mas1 (20 minutes ago) <legioner9>
         * 96ef719 - my first commit (2 days ago) <legioner9>
 
+
+![](_src/git_0.png)
+# onward
     
+
     
     
     

@@ -7,5 +7,16 @@
     <mapping directory="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/First_commit_wd copy/blob" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/First_commit_wd/blob" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/First_commit_wd_amend/blob" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_First_com_ch/First_com_ch/blob" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_First_com_ch/First_com_ch_reset/blob" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_First_com_ch/First_com_ch_restore/blob" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_First_com_ch/First_com_ch_stash/blob" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_First_com_ch_add/First_com_ch_add/blob" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_First_com_ch_add/First_com_ch_add_amend/blob" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_Singl_branch_2_com/Singl_branch_2_com - копия (2)/blob" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_Singl_branch_2_com/Singl_branch_2_com - копия (3)/blob" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_Singl_branch_2_com/Singl_branch_2_com - копия (4)/blob" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_Singl_branch_2_com/Singl_branch_2_com/blob" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_Singl_branch_2_com/Singl_branch_2_com_checkout/blob" vcs="Git" />
   </component>
 </project>
