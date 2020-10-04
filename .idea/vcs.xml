@@ -13,10 +13,14 @@
     <mapping directory="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_First_com_ch/First_com_ch_stash/blob" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_First_com_ch_add/First_com_ch_add/blob" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_First_com_ch_add/First_com_ch_add_amend/blob" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_New_branch/New_branch/blob" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_New_branch/New_branch_checkout/blob" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_New_branch/New_branch_switch _-c/blob" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_Singl_branch_2_com/Singl_branch_2_com - копия (2)/blob" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_Singl_branch_2_com/Singl_branch_2_com - копия (3)/blob" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_Singl_branch_2_com/Singl_branch_2_com - копия (4)/blob" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_Singl_branch_2_com/Singl_branch_2_com/blob" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_Singl_branch_2_com/Singl_branch_2_com_checkout/blob" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_Singl_branch_2_com/Singl_branch_2_com_reset/blob" vcs="Git" />
   </component>
 </project>

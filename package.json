@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "ndb node_modules/st_ex1_prod1/SetFs/CreateDirSistem/CreateDirLikeGit_2/Test/1.js",
-    "dev_examp": "ndb node_modules/st_ex1/SetDirFile/CreateDirFile/CreateTechDir_3/Test/main_test.js",
+    "dev_examp": "ndb node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_9/Test/main_test.js",
     "dev_st_ex1_prod1": "ndb NBase/_Md/_Index/__Create_LikeGit/create.js",
     "dev_st_doc1": "ndb NBase/_Md/_Index/_Windows_PowerShell_{LG2}/Containers/Intro_to_this/habr.com/RUVDS.com/cloneFileToDir_in_num_2_3_level.js",
     "node": "node node_modules/st_ex1/SetComandLine/SimpleLines/ExampleLogin/T est/1.js",

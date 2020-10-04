@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:src_repo" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
@@ -8,9 +26,8 @@
       <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_First_com_ch/First_com_ch_stash/blob/mas1" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_First_com_ch/First_com_ch_stash/blob/mas1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_First_com_ch_add/First_com_ch_add/blob/mas1" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_First_com_ch_add/First_com_ch_add/blob/mas1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_First_com_ch_add/First_com_ch_add_amend/blob/mas1" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_First_com_ch_add/First_com_ch_add_amend/blob/mas1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_Singl_branch_2_com/Singl_branch_2_com - копия/Readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_Singl_branch_2_com/Singl_branch_2_com - копия/blob" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_Singl_branch_2_com/Singl_branch_2_com/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_Singl_branch_2_com/Singl_branch_2_com/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ini/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ini/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +130,7 @@
     <property name="add_unversioned_files" value="$PROJECT_DIR$/Jobs/SetGlobLoggers/ModLogger_1/Core/Logs/eLogs.txt&#10;true" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="11.6.0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_Singl_branch_2_com/Singl_branch_2_com_checkout/blob" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_9/Production" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.jscs" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -138,6 +155,13 @@
     <property name="ts.external.directory.path" value="D:\Program Files\JetBrains\IntelliJ IDEA 2020.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1\SetDirFile\SearchDirFile\DirMappingCloneFileToDir_9\Production" />
+      <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1\SetDirFile\SearchDirFile" />
+      <recent name="E:\Node_projects\Node_Way\NBase\_Md\_Index\_Bash_{LG2}\Containers\Live_learn\Advanced_Bash-Scripting _Guide\Book_content_files" />
+      <recent name="E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\git-scm.com\Live_learn\A1.Appendix_A_Git_в_других_окружениях\A1.7_Git_в_Bash.dir" />
+      <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1_prod1\SetFs\CreateDirSistem\_" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1\SetDirFile\SearchDirFile\DirMappingCloneFileToDir_8\Production" />
       <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1\SetDirFile\SearchDirFile\DirMappingCloneFileToDir_7\Production" />
@@ -145,15 +169,8 @@
       <recent name="E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git" />
       <recent name="E:\Node_projects\Node_Way\NBase\_Md\_Index" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\Node_projects\Node_Way\NBase\_Md\_Index\_Bash_{LG2}\Containers\Live_learn\Advanced_Bash-Scripting _Guide\Book_content_files" />
-      <recent name="E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\git-scm.com\Live_learn\A1.Appendix_A_Git_в_других_окружениях\A1.7_Git_в_Bash.dir" />
-      <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1_prod1\SetFs\CreateDirSistem\_" />
-      <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1_prod1\Set__\__\_" />
-      <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1_prod1\Set_\_" />
-    </key>
   </component>
-  <component name="RunManager" selected="Node.js.cloneFileToDir_in_2_3_level.js">
+  <component name="RunManager" selected="Node.js.cloneFileToDirStrucure.js">
     <configuration name="a.html" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/Node_Way/Node_Docs/Education/IlKan/learn.javascript.ru/Browser/1/1.1/a.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -163,37 +180,23 @@
     <configuration name="Object.create.js" type="NodeJSConfigurationType" nameIsGenerated="true" node-parameters="ndb" path-to-js-file="$PROJECT_DIR$/node_modules/st_doc1/js_DOCS/Function/_@_FunctionEngendering/InheritsEgeneringModel/Object.create.js" working-dir="$PROJECT_DIR$/node_modules/st_doc1/js_DOCS/Function/_@_FunctionEngendering">
       <method v="2" />
     </configuration>
+    <configuration name="cloneFileToDirStrucure.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_9/Production/cloneFileToDirStrucure.js" working-dir="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_9/Production">
+      <method v="2" />
+    </configuration>
     <configuration name="cloneFileToDir_in_2_3_level.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/NBase/_Md/_Index/_Bash_{LG2}/Containers/Live_learn/Advanced_Bash-Scripting _Guide/Book_content_files/cloneFileToDir_in_2_3_level.js" working-dir="$PROJECT_DIR$/NBase/_Md/_Index/_Bash_{LG2}/Containers/Live_learn/Advanced_Bash-Scripting _Guide/Book_content_files">
       <method v="2" />
     </configuration>
     <configuration name="create.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/NBase/_Md/_Index/__Create_LikeGit/create.js" working-dir="$PROJECT_DIR$/NBase/_Md/_Index/__Create_LikeGit">
       <method v="2" />
     </configuration>
-    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
-      <package-json value="$PROJECT_DIR$/package.json" />
-      <command value="run" />
-      <scripts>
-        <script value="dev" />
-      </scripts>
-      <node-interpreter value="project" />
-      <envs />
+    <configuration name="main_test.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_9/Test/main_test.js" working-dir="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_9/Test">
       <method v="2" />
     </configuration>
-    <configuration name="dev_st_ex1_prod1" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+    <configuration name="dev_examp" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
       <scripts>
-        <script value="dev_st_ex1_prod1" />
-      </scripts>
-      <node-interpreter value="project" />
-      <envs />
-      <method v="2" />
-    </configuration>
-    <configuration name="node" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
-      <package-json value="$PROJECT_DIR$/package.json" />
-      <command value="run" />
-      <scripts>
-        <script value="node" />
+        <script value="dev_examp" />
       </scripts>
       <node-interpreter value="project" />
       <envs />
@@ -205,17 +208,17 @@
       <item itemvalue="Node.js.Object.create.js" />
       <item itemvalue="Node.js.create.js" />
       <item itemvalue="Node.js.cloneFileToDir_in_2_3_level.js" />
-      <item itemvalue="npm.dev" />
-      <item itemvalue="npm.node" />
-      <item itemvalue="npm.dev_st_ex1_prod1" />
+      <item itemvalue="npm.dev_examp" />
+      <item itemvalue="Node.js.main_test.js" />
+      <item itemvalue="Node.js.cloneFileToDirStrucure.js" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.cloneFileToDirStrucure.js" />
+        <item itemvalue="Node.js.main_test.js" />
+        <item itemvalue="npm.dev_examp" />
         <item itemvalue="Node.js.cloneFileToDir_in_2_3_level.js" />
         <item itemvalue="Node.js.create.js" />
-        <item itemvalue="npm.dev_st_ex1_prod1" />
-        <item itemvalue="npm.dev" />
-        <item itemvalue="npm.node" />
       </list>
     </recent_temporary>
   </component>
@@ -417,7 +420,7 @@
       <workItem from="1601458577379" duration="9118000" />
       <workItem from="1601490948291" duration="20112000" />
       <workItem from="1601578549115" duration="4049000" />
-      <workItem from="1601658131836" duration="3006000" />
+      <workItem from="1601658131836" duration="5417000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
@@ -892,26 +895,26 @@
     <state x="461" y="204" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1597595554793" />
     <state x="-921" y="187" width="730" height="606" key="FileChooserDialogImpl/0.0.1366.728/-1440.0.1440.900@-1440.0.1440.900" timestamp="1595139980231" />
     <state x="519" y="178" width="699" height="606" key="FileChooserDialogImpl/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1601802728599" />
-    <state width="1247" height="112" key="GridCell.Tab.0.bottom" timestamp="1601641538320">
+    <state width="1247" height="170" key="GridCell.Tab.0.bottom" timestamp="1601822133891">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1272" height="182" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1595261214870" />
-    <state width="1247" height="112" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1601641538320" />
-    <state width="1247" height="112" key="GridCell.Tab.0.center" timestamp="1601641538320">
+    <state width="1247" height="170" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1601822133891" />
+    <state width="1247" height="170" key="GridCell.Tab.0.center" timestamp="1601822133891">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1272" height="182" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1595261214870" />
-    <state width="1247" height="112" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1601641538320" />
-    <state width="1247" height="112" key="GridCell.Tab.0.left" timestamp="1601641538320">
+    <state width="1247" height="170" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1601822133891" />
+    <state width="1247" height="170" key="GridCell.Tab.0.left" timestamp="1601822133891">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1272" height="182" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1595261214870" />
-    <state width="1247" height="112" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1601641538320" />
-    <state width="1247" height="112" key="GridCell.Tab.0.right" timestamp="1601641538320">
+    <state width="1247" height="170" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1601822133891" />
+    <state width="1247" height="170" key="GridCell.Tab.0.right" timestamp="1601822133891">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1272" height="182" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1595261214870" />
-    <state width="1247" height="112" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1601641538320" />
+    <state width="1247" height="170" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1601822133891" />
     <state x="1579" y="111" width="1141" height="913" key="SettingsEditor" timestamp="1601802310053">
       <screen x="1440" y="0" width="1280" height="1024" />
     </state>
