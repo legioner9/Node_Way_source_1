@@ -74,16 +74,33 @@
 
 # onward
 
+    $ git stash
+
+        warning: LF will be replaced by CRLF in mas1.
+        The file will have its original line endings in your working directory
+        Saved working directory and index state WIP on master: 96ef719 my first commit
 
 
+    $ git st
 
-
-
+        On branch master
+        nothing to commit, working tree clean
         
+    $ git stash list
 
+        stash@{0}: WIP on master: 96ef719 my first commit
     
+    $ git stash apply stash@{0}
+
+        On branch master
+        Changes not staged for commit:
+        (use "git add <file>..." to update what will be committed)
+        (use "git restore <file>..." to discard changes in working directory)
+                modified:   mas1
+
+        no changes added to commit (use "git add" and/or "git commit -a")
     
-    
+# RESULT: restore unidexed files!   
     
     
 
