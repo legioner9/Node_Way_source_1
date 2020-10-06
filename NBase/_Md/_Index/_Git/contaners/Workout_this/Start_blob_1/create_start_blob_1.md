@@ -1,71 +1,52 @@
-## create {shape_}
+## {st} - (blob|ident) area :ident{stash}::blob: + :blob:
+## {fs} - (file) area :file:
+## {wd} - ident area :wd::file: - label on unstage file 
+## {in} - ident area :in::file: - label on stage file
+## {lr} - (blob|ident) area :ident{local repo}::blob: + :blob:
+## {ur} - (blob|ident) area :ident{upstr repo}::blob: + :blob:
+
+
+## git init
     $ git init
-        Initialized empty Git repository in E:/Node_projects/Pre_Git/Start_set_1/Plan_proj_init_1/.git/
-
-
-
+        Initialized empty Git repository in E:/Node_projects/Pre_Git/Start_set_1/Start_blob_1/.git/
 
     {shape_1}={
         {st}={}
+        {fs}={}
         {ws}={}
         {in}={}
         {lr}={}
         {ur}={}
         }
 
-## create (change of) {wd} 
+## create mas1
 
-$ touch mas1
+    $ touch mas1
 
     {shape_1}={
         {st}={}
+        {fs}={}
         {ws}={}
         {in}={}
         {lr}={}
         {ur}={}
         }
-            (*)
-            {{wd} lo {wd}}[touch <mas1>]
+            (*) 
+            {{fs} lo}[touch <mas1>]
     {shape_2}={
         {st}={}
-        {ws}={mas1:''}
+        {fs}={
+            mas1:'',
+        }
+        {ws}={}
         {in}={}
         {lr}={}
         {ur}={}
         }
+         
+##  add mas1
 
-    $ git lg
-        fatal: your current branch 'master' does not have any commits yet
-
-    $ git st
-        On branch master
-
-        No commits yet
-
-        Untracked files:
-        (use "git add <file>..." to include in what will be committed)
-                mas1
-
-## create (change of) {in}
     $ git add mas1
-
-    {shape_2}={
-        {st}={}
-        {ws}={mas1:''}
-        {in}={}
-        {lr}={}
-        {ur}={}
-        }
-            (*)
-            {{wd} up {in}}[git add <mas1>]
-    {shape_2}={
-        {st}={}
-        {ws}={}
-        {in}={mas1:''}
-        {lr}={}
-        {ur}={}
-        }
-
     $ git st
         On branch master
 
@@ -73,39 +54,29 @@ $ touch mas1
 
         Changes to be committed:
         (use "git rm --cached <file>..." to unstage)
-                new file:   mas1    
-
-## first commit 
-
-    $ git co mas1 -m 'first commit'
-        [master (root-commit) 4e18bc0] first commit
-        1 file changed, 0 insertions(+), 0 deletions(-)
-        create mode 100644 mas1    
-
-    $ git lg
-        * 4e18bc0 - (HEAD -> master) first commit (8 minutes ago) <legioner9>
-
-![](_src/git_comm_1.png)
-![](_src/git_diff_1.png)
+                new file:   mas1
 
     {shape_2}={
         {st}={}
-        {ws}={}
-        {in}={mas1:''}
+        {fs}={
+            mas1:'',
+        }
+        {ws}={
+            mas1:'',
+        }
+        {in}={}
         {lr}={}
         {ur}={}
         }
             (*)
-            {{in} up {lr}}[git co <mas1> [-m 'first commit']]
-    {shape_2}={
-        {st}={}
-        {ws}={}
-        {in}={}
-        {lr}={
-            4e18bc0[
-                mas1:'',
-            ]
+            {{ws} up {in}}[git add <mas1>]
+        {fs}={
+            mas1:'',
         }
+        {ws}={
+            mas1:'',
+        }
+        {in}={}
+        {lr}={}
         {ur}={}
         }
-
