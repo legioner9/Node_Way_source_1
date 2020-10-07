@@ -20,79 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/0.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_First_com_ch/First_com_ch/Readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_First_com_ch/First_com_ch/blob" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_First_com_ch/First_com_ch_reset/Readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_First_com_ch/First_com_ch_reset/blob" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_First_com_ch/First_com_ch_restore/Readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_First_com_ch/First_com_ch_restore/blob" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_First_com_ch/First_com_ch_stash/Readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_First_com_ch/First_com_ch_stash/blob" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_First_com_ch_add/First_com_ch_add/Readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_First_com_ch_add/First_com_ch_add/blob" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_First_com_ch_add/First_com_ch_add_amend/Readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_First_com_ch_add/First_com_ch_add_amend/blob" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_New_branch/New_branch/Readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_New_branch/New_branch/_src/git_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_New_branch/New_branch/blob" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_New_branch/New_branch_checkout/Readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_New_branch/New_branch_checkout/_src/git_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_New_branch/New_branch_checkout/blob" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_New_branch/New_branch_switch _-c/Readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_New_branch/New_branch_switch _-c/_src/git_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_New_branch/New_branch_switch _-c/blob" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_Singl_branch_2_com/Singl_branch_2_com - копия (2)/Readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_Singl_branch_2_com/Singl_branch_2_com - копия (2)/_src/git_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_Singl_branch_2_com/Singl_branch_2_com - копия (2)/blob" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_Singl_branch_2_com/Singl_branch_2_com - копия (3)/Readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_Singl_branch_2_com/Singl_branch_2_com - копия (3)/_src/git_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_Singl_branch_2_com/Singl_branch_2_com - копия (3)/blob" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_Singl_branch_2_com/Singl_branch_2_com - копия (4)/Readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_Singl_branch_2_com/Singl_branch_2_com - копия (4)/_src/git_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_Singl_branch_2_com/Singl_branch_2_com - копия (4)/blob" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_Singl_branch_2_com/Singl_branch_2_com/Readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_Singl_branch_2_com/Singl_branch_2_com/_src/git_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_Singl_branch_2_com/Singl_branch_2_com/blob" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_Singl_branch_2_com/Singl_branch_2_com_checkout/Readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_Singl_branch_2_com/Singl_branch_2_com_checkout/_src/git_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_Singl_branch_2_com/Singl_branch_2_com_checkout/_src/git_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_Singl_branch_2_com/Singl_branch_2_com_checkout/blob" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_Singl_branch_2_com/Singl_branch_2_com_reset/Readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_Singl_branch_2_com/Singl_branch_2_com_reset/_src/git_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_Singl_branch_2_com/Singl_branch_2_com_reset/_src/git_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_Singl_branch_2_com/Singl_branch_2_com_reset/blob" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_Singl_branch_3_com_ch/Singl_branch_3_com_ch - копия (2)/Readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_Singl_branch_3_com_ch/Singl_branch_3_com_ch - копия (2)/_src/git_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_Singl_branch_3_com_ch/Singl_branch_3_com_ch - копия (2)/_src/git_4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_Singl_branch_3_com_ch/Singl_branch_3_com_ch - копия (2)/blob" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_Singl_branch_3_com_ch/Singl_branch_3_com_ch - копия (3)/Readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_Singl_branch_3_com_ch/Singl_branch_3_com_ch - копия (3)/_src/git_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_Singl_branch_3_com_ch/Singl_branch_3_com_ch - копия (3)/_src/git_4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_Singl_branch_3_com_ch/Singl_branch_3_com_ch - копия (3)/blob" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_Singl_branch_3_com_ch/Singl_branch_3_com_ch - копия/Readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_Singl_branch_3_com_ch/Singl_branch_3_com_ch - копия/_src/git_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_Singl_branch_3_com_ch/Singl_branch_3_com_ch - копия/_src/git_4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_Singl_branch_3_com_ch/Singl_branch_3_com_ch - копия/_src/git_6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_Singl_branch_3_com_ch/Singl_branch_3_com_ch - копия/blob" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_Singl_branch_3_com_ch/Singl_branch_3_com_ch/Readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_Singl_branch_3_com_ch/Singl_branch_3_com_ch/_src/git_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_Singl_branch_3_com_ch/Singl_branch_3_com_ch/_src/git_4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_Singl_branch_3_com_ch/Singl_branch_3_com_ch/blob" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_Singl_branch_3_com_ch/Singl_branch_3_com_ch_reset/Readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_Singl_branch_3_com_ch/Singl_branch_3_com_ch_reset/_src/git_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_Singl_branch_3_com_ch/Singl_branch_3_com_ch_reset/_src/git_4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_Singl_branch_3_com_ch/Singl_branch_3_com_ch_reset/_src/git_5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_Singl_branch_3_com_ch/Singl_branch_3_com_ch_reset/blob" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_Singl_branch_3_com_ch/Singl_branch_3_com_ch_restore/Readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_Singl_branch_3_com_ch/Singl_branch_3_com_ch_restore/_src/git_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_Singl_branch_3_com_ch/Singl_branch_3_com_ch_restore/_src/git_4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_Singl_branch_3_com_ch/Singl_branch_3_com_ch_restore/_src/git_5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/Stor_Singl_branch_3_com_ch/Singl_branch_3_com_ch_restore/blob" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/main_cheat_cheets.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/ReadMe.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/main_singl_chain.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/Start_blob_1/create_start_blob_1.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/Start_blob_1/create_start_blob_1.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -480,6 +409,7 @@
       <workItem from="1601578549115" duration="4049000" />
       <workItem from="1601658131836" duration="5417000" />
       <workItem from="1601952460835" duration="402000" />
+      <workItem from="1601961115392" duration="1445000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>

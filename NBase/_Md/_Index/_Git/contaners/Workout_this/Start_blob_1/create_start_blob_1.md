@@ -1,7 +1,7 @@
 ## {st} - (blob|ident) area :ident{stash}::blob: + :blob:
 ## {fs} - (file) area :file:
-## {wd} - ident area :wd::file: - label on unstage file 
-## {in} - ident area :in::file: - label on stage file
+## {ws} - (ident) area :wd::file: - label on unstage file 
+## {in} - (ident) area :in::file: - label on stage file
 ## {lr} - (blob|ident) area :ident{local repo}::blob: + :blob:
 ## {ur} - (blob|ident) area :ident{upstr repo}::blob: + :blob:
 
@@ -70,13 +70,38 @@
         }
             (*)
             {{ws} up {in}}[git add <mas1>]
+    {shape_3}={
+        {st}={}
         {fs}={
             mas1:'',
         }
-        {ws}={
+        {ws}={}
+        {in}={
             mas1:'',
         }
-        {in}={}
         {lr}={}
         {ur}={}
         }
+
+## commit mas1
+
+    $ git commit mas1 -m 'commit mas1'
+        [master (root-commit) ae177be] commit mas1
+        1 file changed, 0 insertions(+), 0 deletions(-)
+        create mode 100644 mas1
+
+![](_src/2git_add_mas1.png)
+
+    {shape_3}={
+        {st}={}
+        {fs}={
+            mas1:'',
+        }
+        {ws}={}
+        {in}={
+            mas1:'',
+        }
+        {lr}={}
+        {ur}={}
+        }
+        
