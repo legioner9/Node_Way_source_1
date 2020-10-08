@@ -20,12 +20,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
+      <change afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/content/Docs/C_Program_Files_Git_mingw64_share_doc_git-doc/Point_learn/git-doc_converted/.git-add.html.dir/Git_what_trane{}@1.ign/Start_blob_1@1.1/cl_in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/content/Docs/C_Program_Files_Git_mingw64_share_doc_git-doc/Point_learn/git-doc_converted/.git-add.html.dir/Git_what_trane{}@1.ign/Start_blob_1@1.1/mo_in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/content/Docs/C_Program_Files_Git_mingw64_share_doc_git-doc/Point_learn/git-doc_converted/.git-add.html.dir/Git_what_trane{}@1.ign/blob_Git_what_trane/cl_in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/content/Docs/C_Program_Files_Git_mingw64_share_doc_git-doc/Point_learn/git-doc_converted/.git-add.html.dir/Git_what_trane{}@1.ign/blob_Git_what_trane/mo_in" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/src/Git_what_trane@1.ign/Git_what_trane@1/Start_blob_1@1.1/cl_in" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/src/Git_what_trane@1.ign/Git_what_trane@1/Start_blob_1@1.1/mo_in" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/src/Git_what_trane@1.ign/Git_what_trane@1/blob_Git_what_trane/cl_in" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/src/Git_what_trane@1.ign/Git_what_trane@1/blob_Git_what_trane/mo_in" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/src/Git_what_trane@1.ign.rar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/src/blob_Git_{}.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/content/Docs/C_Program_Files_Git_mingw64_share_doc_git-doc/Point_learn/git-doc_converted/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/content/Docs/C_Program_Files_Git_mingw64_share_doc_git-doc/Point_learn/git-doc_converted/ReadMe.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -413,7 +419,7 @@
       <workItem from="1601578549115" duration="4049000" />
       <workItem from="1601658131836" duration="5417000" />
       <workItem from="1601952460835" duration="402000" />
-      <workItem from="1601961115392" duration="3110000" />
+      <workItem from="1601961115392" duration="4077000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
@@ -912,11 +918,11 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="155" y="99" key="IDE.errors.dialog/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1601823408556" />
-    <state x="1579" y="111" width="1141" height="913" key="SettingsEditor" timestamp="1601802310053">
+    <state x="1579" y="111" width="1141" height="913" key="SettingsEditor" timestamp="1602175106743">
       <screen x="1440" y="0" width="1280" height="1024" />
     </state>
     <state x="-1362" y="0" width="1360" height="900" key="SettingsEditor/0.0.1366.728/-1440.0.1440.900@-1440.0.1440.900" timestamp="1595141729666" />
-    <state x="1579" y="111" width="1141" height="913" key="SettingsEditor/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1601802310053" />
+    <state x="1579" y="111" width="1141" height="913" key="SettingsEditor/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1602175106743" />
     <state x="459" y="311" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601435468980">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
