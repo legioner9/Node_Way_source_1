@@ -100,3 +100,7 @@ typings/
 # archives
 *.zip
 /NBase/_Md/_Index/_Metarhia/Archiv_Metarchia_05_06_2020/
+
+# .ign directories
+
+**/*.ign/
