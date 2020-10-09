@@ -104,4 +104,4 @@ typings/
 # .ign directories
 **/*.ign/*
 
-**/.git/*
+# **/.git/*

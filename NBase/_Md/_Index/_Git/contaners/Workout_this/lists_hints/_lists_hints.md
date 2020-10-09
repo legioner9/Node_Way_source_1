@@ -9,3 +9,5 @@ habr.com.519138 [Как убрать из Git-репозитория файлы 
 nikolaj-sarry.info [GIT-ШПАРГАЛКА: ОСНОВНЫЕ КОМАНДЫ](https://nikolaj-sarry.info/razrabotka/git/git-shpargalka-osnovnye-komandy/)
 
 pingvinus.ru.1581 [Как отменить коммит в Git](https://pingvinus.ru/git/1581)
+
+habr.com.472600 [Введение в Git](https://habr.com/ru/post/472600/)

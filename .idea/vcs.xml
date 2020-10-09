@@ -2,6 +2,8 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/NBase/_Md/_Index/_Git/_tmp/e_git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/NBase/_Md/_Index/_Git/_tmp/exp_git" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/First_commit_wd copy 2/blob" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/First_commit_wd copy 3/blob" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/Blobing_first/First_commit_wd copy/blob" vcs="Git" />
@@ -44,6 +46,7 @@
     <mapping directory="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/_arh/Blobing_second/First_com_ch_add_co_reset-s/blob" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/NBase/_Md/_Index/_Git/content/Docs/C_Program_Files_Git_mingw64_share_doc_git-doc/Point_learn/git-doc_converted/.git-add.html.dir/Git_what_trane{}@1.ign/Start_blob_1@1.1" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/NBase/_Md/_Index/_Git/content/Docs/C_Program_Files_Git_mingw64_share_doc_git-doc/Point_learn/git-doc_converted/.git-add.html.dir/Git_what_trane{}@1.ign/blob_Git_what_trane" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/NBase/_Md/_Index/_Git/content/Docs/C_Program_Files_Git_mingw64_share_doc_git-doc/Point_learn/git-doc_converted/.git-add.html.dir/_src/Git_store{}@1/Git_what_trane{add}@1/blob_Git_what_trane{add -i}" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/NBase/_Md/_Index/_Git/src/Git_what_trane@1.ign/Git_what_trane@1/Start_blob_1@1.1" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/NBase/_Md/_Index/_Git/src/Git_what_trane@1.ign/Git_what_trane@1/blob_Git_what_trane" vcs="Git" />
   </component>
