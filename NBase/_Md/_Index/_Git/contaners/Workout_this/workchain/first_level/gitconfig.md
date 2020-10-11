@@ -13,7 +13,26 @@ git config --global user.email "your_email@example.com"
 ouer case:
 git config --global core.longpaths true
 
+## result .gitconfig
+
+    [user]
+        email = legioner9@inbox.ru
+        name = legioner9
+    [core]
+        editor = 'C:/Program Files (x86)/Notepad++/notepad++.exe' -multiInst -notabbar -nosession -noPlugin
+        longpaths = true
+    [alias]
+            lg = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
+            
+            lg2 = log --graph --abbrev-commit --decorate --date=relative --format=format:'%C(bold blue)%h%C(reset) - %C(bold green)(%ar)%C(reset) %C(white)%s%C(reset) %C(dim white)- %an%C(reset)%C(bold yellow)%d%C(reset)' --all
+            
+            co = commit
+            aa = add .
+            ch = checkout
+            st = status
 
 # [merge tools config](https://www.atlassian.com/ru/git/tutorials/setting-up-a-repository/git-config)
 
 git config --global merge.tool kdiff3
+
+
