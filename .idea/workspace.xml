@@ -26,23 +26,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/Repo_train_git_command/repo{add-i}/HEAD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/Repo_train_git_command/repo{add-i}/config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/Repo_train_git_command/repo{add-i}/description" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/Repo_train_git_command/repo{add-i}/hooks/applypatch-msg.sample" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/Repo_train_git_command/repo{add-i}/hooks/commit-msg.sample" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/Repo_train_git_command/repo{add-i}/hooks/fsmonitor-watchman.sample" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/Repo_train_git_command/repo{add-i}/hooks/post-update.sample" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/Repo_train_git_command/repo{add-i}/hooks/pre-applypatch.sample" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/Repo_train_git_command/repo{add-i}/hooks/pre-commit.sample" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/Repo_train_git_command/repo{add-i}/hooks/pre-merge-commit.sample" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/Repo_train_git_command/repo{add-i}/hooks/pre-push.sample" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/Repo_train_git_command/repo{add-i}/hooks/pre-rebase.sample" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/Repo_train_git_command/repo{add-i}/hooks/pre-receive.sample" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/Repo_train_git_command/repo{add-i}/hooks/prepare-commit-msg.sample" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/Repo_train_git_command/repo{add-i}/hooks/update.sample" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/Repo_train_git_command/repo{add-i}/info/exclude" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/Git_what_trane{add-i}@1/create_what_trane{}.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/Git_what_trane{add-i}@1/create_what_trane{}.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +92,7 @@
         <entry key="$PROJECT_DIR$" value="27.01.2020" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/Git_what_trane{add-i}@1/blob_Git_what_trane{add-i}" />
     <option name="RESET_MODE" value="HARD" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
@@ -447,7 +433,7 @@
       <workItem from="1601961115392" duration="5372000" />
       <workItem from="1602228523249" duration="1809000" />
       <workItem from="1602230886343" duration="2746000" />
-      <workItem from="1602390324236" duration="5967000" />
+      <workItem from="1602390324236" duration="16558000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
@@ -920,6 +906,10 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="331" y="36" key="#dev/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1601535803438" />
+    <state x="449" y="257" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1602432363098">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="449" y="257" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1602432363098" />
     <state x="100" y="0" key="CommitChangelistDialog2" timestamp="1601802462986">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
