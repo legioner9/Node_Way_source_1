@@ -26,15 +26,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
-      <change afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/Git_what_trane{add-i}@1/blob_Git_what_trane{add-i}/cl_in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/Git_what_trane{add-i}@1/blob_Git_what_trane{add-i}/mo_in" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/first_level/gitconfig.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/workchain/first_level/gitconfig.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1_deep1/SetLogical/LogicalDebug/L_fsLog/fsLog/log.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ex1_deep1/SetLogical/LogicalDebug/L_fsLog/fsLog/log.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1_prod1/SetFs/CreateDirSistem/CreateDirLikeGit_2/Test/fsLog/log.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ex1_prod1/SetFs/CreateDirSistem/CreateDirLikeGit_2/Test/fsLog/log.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,7 +129,7 @@
     <property name="add_unversioned_files" value="$PROJECT_DIR$/Jobs/SetGlobLoggers/ModLogger_1/Core/Logs/eLogs.txt&#10;true" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="11.6.0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/Git_what_trane{add-i}@1/blob_Git_what_trane{add-i}" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.jscs" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -439,7 +431,7 @@
       <workItem from="1601961115392" duration="5372000" />
       <workItem from="1602228523249" duration="1809000" />
       <workItem from="1602230886343" duration="2746000" />
-      <workItem from="1602390324236" duration="1574000" />
+      <workItem from="1602390324236" duration="4176000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
@@ -900,10 +892,10 @@
       <screen x="-1440" y="0" width="1440" height="900" />
     </state>
     <state x="-981" y="31" key="#a.html/0.0.1366.728/-1440.0.1440.900@-1440.0.1440.900" timestamp="1595139067928" />
-    <state x="361" y="199" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602230279839">
+    <state x="361" y="199" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602400360496">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="361" y="199" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1602230279839" />
+    <state x="361" y="199" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1602400360496" />
     <state x="436" y="348" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1597595569356">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
@@ -920,32 +912,32 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="188" y="110" width="1094" height="614" key="DiffContextDialog/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1601802454025" />
-    <state x="519" y="178" width="699" height="606" key="FileChooserDialogImpl" timestamp="1602266439269">
+    <state x="519" y="178" width="699" height="606" key="FileChooserDialogImpl" timestamp="1602394708972">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="461" y="204" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1597595554793" />
     <state x="-921" y="187" width="730" height="606" key="FileChooserDialogImpl/0.0.1366.728/-1440.0.1440.900@-1440.0.1440.900" timestamp="1595139980231" />
-    <state x="519" y="178" width="699" height="606" key="FileChooserDialogImpl/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1602266439269" />
-    <state width="569" height="160" key="GridCell.Tab.0.bottom" timestamp="1602391729974">
+    <state x="519" y="178" width="699" height="606" key="FileChooserDialogImpl/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1602394708972" />
+    <state width="569" height="150" key="GridCell.Tab.0.bottom" timestamp="1602394148280">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1272" height="182" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1595261214870" />
-    <state width="569" height="160" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1602391729974" />
-    <state width="569" height="160" key="GridCell.Tab.0.center" timestamp="1602391729974">
+    <state width="569" height="150" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1602394148280" />
+    <state width="569" height="150" key="GridCell.Tab.0.center" timestamp="1602394148280">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1272" height="182" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1595261214870" />
-    <state width="569" height="160" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1602391729974" />
-    <state width="569" height="160" key="GridCell.Tab.0.left" timestamp="1602391729974">
+    <state width="569" height="150" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1602394148280" />
+    <state width="569" height="150" key="GridCell.Tab.0.left" timestamp="1602394148280">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1272" height="182" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1595261214870" />
-    <state width="569" height="160" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1602391729974" />
-    <state width="569" height="160" key="GridCell.Tab.0.right" timestamp="1602391729974">
+    <state width="569" height="150" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1602394148280" />
+    <state width="569" height="150" key="GridCell.Tab.0.right" timestamp="1602394148280">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1272" height="182" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1595261214870" />
-    <state width="569" height="160" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1602391729974" />
+    <state width="569" height="150" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1602394148280" />
     <state x="155" y="99" key="IDE.errors.dialog" timestamp="1601823408556">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
