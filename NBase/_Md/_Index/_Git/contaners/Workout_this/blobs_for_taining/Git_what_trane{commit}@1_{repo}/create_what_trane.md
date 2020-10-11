@@ -82,7 +82,7 @@ Instead of staging files after each individual change, you can tell `git commit`
     $ git commit -a
 The command `git commit -a` first looks at your working tree, notices that you have modified hello.c and removed goodbye.c, and performs necessary `git add` and `git rm` for you.
 
-Команда `git commit -a`сначала смотрит на ваше рабочее дереве, замечает , что вы изменили hello.c и снятую goodbye.c и выполняемые необходимы `git add`и `git rm`для вас.
+Команда `git commit -a`сначала смотрит на ваше рабочее дереве, замечает , что вы изменили `hello.c` и снятую `goodbye.c` и выполняемые необходимы `git add`и `git rm`для вас.
 
 After staging changes to many files, you can alter the order the changes are recorded in, by giving pathnames to git commit. When pathnames are given, the command makes a commit that only records the changes made to the named paths:
 
@@ -93,7 +93,9 @@ After staging changes to many files, you can alter the order the changes are rec
 This makes a commit that records the modification to Makefile. The changes staged for hello.c and hello.h are not included in the resulting commit. However, their changes are not lost — they are still staged and merely held back. After the above sequence, if you do:
 
     $ git commit
-this second commit would record the changes to hello.c and hello.h as expected.
+this second commit would record the changes to `hello.c` and `hello.h` as expected.
+
+это второе обязательство будет записывать изменения `hello.c`и , `hello.h`как ожидалось.
 
 After a merge (initiated by git merge or git pull) stops because of conflicts, cleanly merged paths are already staged to be committed for you, and paths that conflicted are left in unmerged state. You would have to first check which paths are conflicting with git status and after fixing them manually in your working tree, you would stage the result as usual with git add:
 
