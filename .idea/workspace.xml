@@ -27,7 +27,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/add/Git_what_trane{add}@1_{repo}/create_what_trane.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/add/Git_what_trane{add}@1_{repo}/create_what_trane.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,7 +129,7 @@
     <property name="add_unversioned_files" value="$PROJECT_DIR$/Jobs/SetGlobLoggers/ModLogger_1/Core/Logs/eLogs.txt&#10;true" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="11.6.0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/reset" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.jscs" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -163,11 +162,11 @@
       <recent name="E:\Node_projects\Node_Way\NBase\_Md\_Index" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\reset" />
+      <recent name="E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\MyFirstObjectWalk" />
+      <recent name="E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\MyFirstContribution" />
+      <recent name="E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\bash" />
       <recent name="E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining" />
-      <recent name="E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\Point_learn\git-doc_converted\.git-add.html.dir\_src\Git_store{}@1\Git_what_trane{add}@1" />
-      <recent name="E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\_src\doc\git-doc_converted\technical" />
-      <recent name="E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\_src\doc\git-doc_converted\howto" />
-      <recent name="E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\_src\doc\git-doc_converted" />
     </key>
   </component>
   <component name="RunManager" selected="npm.dev_examp">
@@ -432,7 +431,7 @@
       <workItem from="1601961115392" duration="5372000" />
       <workItem from="1602228523249" duration="1809000" />
       <workItem from="1602230886343" duration="2746000" />
-      <workItem from="1602390324236" duration="21305000" />
+      <workItem from="1602390324236" duration="23867000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
