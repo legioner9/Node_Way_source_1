@@ -63,3 +63,22 @@
 ![](_src/create_start_blob_1@1.1_{ws}.png)
 
 ![](_src/create_start_blob_1@1.1_{st}.png)
+
+## NAME
+git-revert - Revert some existing commits
+git-revert - Отменить некоторые существующие коммиты
+
+## SYNOPSIS
+    git revert [--[no-]edit] [-n] [-m parent-number] [-s] [-S[<keyid>]] <commit>…​
+    git revert (--continue | --skip | --abort | --quit)
+## DESCRIPTION
+Given one or more existing commits, revert the changes that the related patches introduce, and record some new commits that record them. This requires your working tree to be clean (no modifications from the HEAD commit).
+
+Учитывая один или несколько существующих коммитов, отмените изменения, вносимые соответствующими патчами, и запишите некоторые новые коммиты, которые их записывают. Это требует, чтобы ваше рабочее дерево было чистым (без изменений из фиксации HEAD).
+
+Note: `git revert` is used to record some new commits to reverse the effect of some earlier commits (often only a faulty one). If you want to throw away all uncommitted changes in your working directory, you should see git-reset(1), particularly the `--hard` option. If you want to extract specific files as they were in another commit, you should see git-restore(1), specifically the `--source` option. Take care with these alternatives as both will discard uncommitted changes in your working directory.
+
+Примечание: `git revert` используется для записи некоторых новых коммитов, чтобы отменить эффект некоторых более ранних коммитов (часто только ошибочных). Если вы хотите выбросить все незафиксированные изменения в вашем рабочем каталоге, вы должны увидеть git-reset (1) , особенно `--hard`параметр. Если вы хотите извлечь определенные файлы, как они были в другом коммите, вы должны увидеть git-restore (1) , в частности `--source` параметр. Будьте осторожны с этими альтернативами, так как оба будут отбрасывать незафиксированные изменения в вашем рабочем каталоге.
+
+See "Reset, restore and revert" in git(1) for the differences between the three commands.
+

@@ -198,12 +198,18 @@ or to restore all working tree files with top pathspec magic (see gitglossary(7)
     $ git restore :/
 To restore a file in the index to match the version in HEAD (this is the same as using git-reset(1))
 
+Чтобы восстановить файл в индексе, чтобы он соответствовал версии в HEAD(это то же самое, что использовать git-reset (1) )
+
 
 
     $ git restore --staged hello.c
 or you can restore both the index and the working tree (this the same as using git-checkout(1))
 
+или вы можете восстановить как индекс, так и рабочее дерево (это то же самое, что и при использовании git-checkout (1) )
+
     $ git restore --source=HEAD --staged --worktree hello.c
 or the short form which is more practical but less readable:
+
+или краткая форма, более практичная, но менее читаемая:
 
     $ git restore -s@ -SW hello.c
