@@ -207,3 +207,65 @@ Unlike variables like color.ui and core.editor the receive.fsck.skipList and fet
 Older versions of Git (before 2.20) documented that the object names list should be sorted. This was never a requirement, the object names could appear in any order, but when reading the list we tracked whether the list was sorted for the purposes of an internal binary search implementation, which could save itself some work with an already sorted list. Unless you had a humongous list there was no reason to go out of your way to pre-sort the list. After Git version 2.20 a hash implementation is used instead, so there’s now no reason to pre-sort the list.
 
 В более старых версиях Git (до 2.20) указывалось, что список имен объектов должен быть отсортирован. Это никогда не было обязательным требованием, имена объектов могли появляться в любом порядке, но при чтении списка мы отслеживали, был ли список отсортирован для целей реализации внутреннего двоичного поиска, что могло сэкономить некоторую работу с уже отсортированным списком. Если у вас нет огромного списка, не было причин стараться изо всех сил предварительно отсортировать список. После Git версии 2.20 вместо него используется хеш-реализация, поэтому теперь нет причин для предварительной сортировки списка.
+
+## DISCUSSION
+git-fsck tests SHA-1 and general object sanity, and it does full tracking of the resulting reachability and everything else. It prints out any corruption it finds (missing or bad objects), and if you use the --unreachable flag it will also print out objects that exist but that aren’t reachable from any of the specified head nodes (or the default set, as mentioned above).
+
+git-fsck проверяет SHA-1 и общую работоспособность объекта, а также полностью отслеживает полученную достижимость и все остальное. Он распечатывает все найденные повреждения (отсутствующие или поврежденные объекты), и если вы используете --unreachableфлаг, он также распечатает объекты, которые существуют, но недоступны ни с одного из указанных головных узлов (или набора по умолчанию, как указано выше. ).
+
+Any corrupt objects you will have to find in backups or other archives (i.e., you can just remove them and do an rsync with some other site in the hopes that somebody else has the object you have corrupted).
+
+Любые поврежденные объекты, которые вам придется найти в резервных копиях или других архивах (т.е. вы можете просто удалить их и выполнить rsync с каким-либо другим сайтом в надежде, что у кого-то есть объект, который вы испортили).
+
+If core.commitGraph is true, the commit-graph file will also be inspected using git commit-graph verify. See git-commit-graph(1).
+
+Если core.commitGraph имеет значение true, файл commit-graph также будет проверен с помощью git commit-graph verify . См. Git-commit-graph (1) .
+
+## Extracted Diagnostics
+### expect dangling commits - potential heads - due to lack of head information
+You haven’t specified any nodes as heads so it won’t be possible to differentiate between un-parented commits and root nodes.
+
+ожидайте висящих коммитов - потенциальных голов - из-за отсутствия информации о голове
+Вы не указали какие-либо узлы в качестве заголовков, поэтому будет невозможно отличить коммиты без родителей от корневых узлов.
+
+### missing sha1 directory \<dir>
+The directory holding the sha1 objects is missing.
+
+Каталог, содержащий объекты sha1, отсутствует.
+
+### unreachable \<type> \<object>
+The \<type> object \<object>, isn’t actually referred to directly or indirectly in any of the trees or commits seen. This can mean that there’s another root node that you’re not specifying or that the tree is corrupt. If you haven’t missed a root node then you might as well delete unreachable nodes since they can’t be used.
+
+Объект \<type> \<object> на самом деле не упоминается прямо или косвенно ни в одном из наблюдаемых деревьев или коммитов. Это может означать, что есть еще один корневой узел, который вы не указываете, или что дерево повреждено. Если вы не пропустили корневой узел, вы также можете удалить недоступные узлы, поскольку их нельзя использовать.
+
+### missing \<type> \<object>
+The \<type> object \<object>, is referred to but isn’t present in the database.
+
+На объект \<type> \<object> есть ссылка, но он отсутствует в базе данных.
+
+### dangling \<type> \<object>
+The \<type> object \<object>, is present in the database but never directly used. A dangling commit could be a root node.
+
+\<type> объект \<object> присутствует в базе данных, но никогда напрямую не используется. Висящий коммит может быть корневым узлом.
+
+### hash mismatch \<object>
+The database has an object whose hash doesn’t match the object database value. This indicates a serious data integrity problem.
+
+В базе данных есть объект, хэш которого не соответствует значению базы данных объектов. Это указывает на серьезную проблему целостности данных.
+
+## Environment Variables
+    GIT_OBJECT_DIRECTORY
+used to specify the object database root (usually $GIT_DIR/objects)
+
+используется для указания корня базы данных объектов (обычно $ GIT_DIR / objects)
+
+    GIT_INDEX_FILE
+used to specify the index file of the index
+
+используется для указания индексного файла индекса
+
+    GIT_ALTERNATE_OBJECT_DIRECTORIES
+     
+used to specify additional object database roots (usually unset)
+
+используется для указания дополнительных корней базы данных объектов (обычно не задано)
