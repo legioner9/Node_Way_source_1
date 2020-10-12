@@ -11,3 +11,5 @@ nikolaj-sarry.info [GIT-ШПАРГАЛКА: ОСНОВНЫЕ КОМАНДЫ](htt
 pingvinus.ru.1581 [Как отменить коммит в Git](https://pingvinus.ru/git/1581)
 
 habr.com.472600 [Введение в Git](https://habr.com/ru/post/472600/)
+
+habr.com.60347 [Git Wizardry](https://habr.com/ru/post/60347/)
