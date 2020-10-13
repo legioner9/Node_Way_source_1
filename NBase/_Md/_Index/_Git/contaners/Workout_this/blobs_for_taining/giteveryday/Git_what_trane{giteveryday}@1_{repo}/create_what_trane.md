@@ -102,15 +102,25 @@ A standalone individual developer does not exchange patches with other people, a
 Автономный индивидуальный разработчик не обменивается патчами с другими людьми и работает самостоятельно в едином репозитории, используя следующие команды.
 
 * git-init(1) to create a new repository.
+для создания нового репозитория.
 * git-log(1) to see what happened.
+чтобы узнать, что произошло.
 * git-switch(1) and git-branch(1) to switch branches.
+для переключения ветвей.
 * git-add(1) to manage the index file.
+для управления индексным файлом.
 * git-diff(1) and git-status(1) to see what you are in the middle of doing.
+чтобы узнать, чем вы занимаетесь.
 * git-commit(1) to advance the current branch.
+чтобы продвинуть текущую ветку.
 * git-restore(1) to undo changes.
+для отмены изменений.
 * git-merge(1) to merge between local branches.
+для слияния локальных веток.
 * git-rebase(1) to maintain topic branches.
+для слияния локальных веток.
 * git-tag(1) to mark a known point.
+для слияния локальных веток.
 
 ### Examples
 #### Use a tarball as a starting point for a new repository.
