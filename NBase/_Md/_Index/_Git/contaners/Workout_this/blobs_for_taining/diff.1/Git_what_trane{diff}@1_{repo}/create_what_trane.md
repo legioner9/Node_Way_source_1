@@ -39,23 +39,23 @@
         Refresh index: 100% (5/5), done.
         On branch master
         Changes to be committed:
-        (use "git restore --staged <file>..." to unstage)
+        (use "git restore --staged \<file>..." to unstage)
                 new file:   cl_in
                 new file:   mo_in
 
         Changes not staged for commit:
-        (use "git add <file>..." to update what will be committed)
-        (use "git restore <file>..." to discard changes in working directory)
+        (use "git add \<file>..." to update what will be committed)
+        (use "git restore \<file>..." to discard changes in working directory)
                 modified:   mo_in
 
         Untracked files:
-        (use "git add <file>..." to include in what will be committed)
+        (use "git add \<file>..." to include in what will be committed)
                 cl_ws
 
     $ git lg
-        * bc9d637 - (HEAD -> master) commit mas3 (20 hours ago) <legioner9>
-        * e3874cc - commit mas2 (24 hours ago) <legioner9>
-        * ae177be - commit mas1 (32 hours ago) <legioner9>
+        * bc9d637 - (HEAD -> master) commit mas3 (20 hours ago) \<legioner9>
+        * e3874cc - commit mas2 (24 hours ago) \<legioner9>
+        * ae177be - commit mas1 (32 hours ago) \<legioner9>
 
     $ git stash list
         stash@{0}: WIP on master: e3874cc commit mas2
@@ -70,67 +70,67 @@
 `git-diff` - Показать изменения между коммитами, коммитом и рабочим деревом и т. д.
 
 ## SYNOPSIS
-    git diff [<options>] [<commit>] [--] [<path>…​]
-    git diff [<options>] --cached [<commit>] [--] [<path>…​]
-    git diff [<options>] <commit> [<commit>…​] <commit> [--] [<path>…​]
-    git diff [<options>] <commit>…​<commit> [--] [<path>…​]
-    git diff [<options>] <blob> <blob>
-    git diff [<options>] --no-index [--] <path> <path>
+    git diff [\<options>] [\<commit>] [--] [\<path>…​]
+    git diff [\<options>] --cached [\<commit>] [--] [\<path>…​]
+    git diff [\<options>] \<commit> [\<commit>…​] \<commit> [--] [\<path>…​]
+    git diff [\<options>] \<commit>…​\<commit> [--] [\<path>…​]
+    git diff [\<options>] \<blob> \<blob>
+    git diff [\<options>] --no-index [--] \<path> \<path>
     
 ## DESCRIPTION
 Show changes between the working tree and the index or a tree, changes between the index and a tree, changes between two trees, changes resulting from a merge, changes between two blob objects, or changes between two files on disk.
 
 Отображение изменений между рабочим деревом и индексом или деревом, изменениями между индексом и деревом, изменениями между двумя деревьями, изменениями в результате слияния, изменениями между двумя объектами BLOB-объектов или изменениями между двумя файлами на диске.
 
-### git diff [<options>] [--] [<path>…​]
+### git diff [\<options>] [--] [\<path>…​]
 This form is to view the changes you made relative to the index (staging area for the next commit). In other words, the differences are what you could tell Git to further add to the index but you still haven’t. You can stage these changes by using git-add(1).
 
 Эта форма предназначена для просмотра изменений, которые вы внесли относительно индекса (промежуточная область для следующей фиксации). Другими словами, различия заключаются в том, что вы могли бы сказать Git о дальнейшем добавлении в индекс, но вы этого еще не сделали. Вы можете выполнить эти изменения с помощью git-add (1) .
 
-### git diff [<options>] --no-index [--] <path> <path>
+### git diff [\<options>] --no-index [--] \<path> \<path>
 This form is to compare the given two paths on the filesystem. You can omit the --no-index option when running the command in a working tree controlled by Git and at least one of the paths points outside the working tree, or when running the command outside a working tree controlled by Git. This form implies --exit-code.
 
 Эта форма предназначена для сравнения двух указанных путей в файловой системе. Вы можете опустить эту --no-indexопцию при запуске команды в рабочем дереве, управляемом Git, и хотя бы один из путей указывает за пределами рабочего дерева, или при выполнении команды вне рабочего дерева, управляемого Git. Эта форма подразумевает --exit-code.
 
-### git diff [<options>] --cached [<commit>] [--] [<path>…​]
-This form is to view the changes you staged for the next commit relative to the named <commit>. Typically you would want comparison with the latest commit, so if you do not give <commit>, it defaults to HEAD. If HEAD does not exist (e.g. unborn branches) and <commit> is not given, it shows all staged changes. --staged is a synonym of --cached.
+### git diff [\<options>] --cached [\<commit>] [--] [\<path>…​]
+This form is to view the changes you staged for the next commit relative to the named \<commit>. Typically you would want comparison with the latest commit, so if you do not give \<commit>, it defaults to HEAD. If HEAD does not exist (e.g. unborn branches) and \<commit> is not given, it shows all staged changes. --staged is a synonym of --cached.
 
-Эта форма предназначена для просмотра изменений, которые вы подготовили для следующего коммита относительно названного <commit>. Обычно вам нужно сравнить с последней фиксацией, поэтому, если вы не укажете <commit>, по умолчанию будет использоваться HEAD. Если HEAD не существует (например, нерожденные ветки) и <commit> не задан, отображаются все поэтапные изменения. --staged является синонимом --cached.
+Эта форма предназначена для просмотра изменений, которые вы подготовили для следующего коммита относительно названного \<commit>. Обычно вам нужно сравнить с последней фиксацией, поэтому, если вы не укажете \<commit>, по умолчанию будет использоваться HEAD. Если HEAD не существует (например, нерожденные ветки) и \<commit> не задан, отображаются все поэтапные изменения. --staged является синонимом --cached.
 
-### git diff [<options>] <commit> [--] [<path>…​]
-This form is to view the changes you have in your working tree relative to the named <commit>. You can use HEAD to compare it with the latest commit, or a branch name to compare with the tip of a different branch.
+### git diff [\<options>] \<commit> [--] [\<path>…​]
+This form is to view the changes you have in your working tree relative to the named \<commit>. You can use HEAD to compare it with the latest commit, or a branch name to compare with the tip of a different branch.
 
-Эта форма предназначена для просмотра изменений в вашем рабочем дереве относительно названного <commit>. Вы можете использовать HEAD, чтобы сравнить его с последней фиксацией, или имя ветки, чтобы сравнить с кончиком другой ветки.
+Эта форма предназначена для просмотра изменений в вашем рабочем дереве относительно названного \<commit>. Вы можете использовать HEAD, чтобы сравнить его с последней фиксацией, или имя ветки, чтобы сравнить с кончиком другой ветки.
 
-### git diff [<options>] <commit> <commit> [--] [<path>…​]
-This is to view the changes between two arbitrary <commit>.
+### git diff [\<options>] \<commit> \<commit> [--] [\<path>…​]
+This is to view the changes between two arbitrary \<commit>.
 
-Это для просмотра изменений между двумя произвольными <commit>.
+Это для просмотра изменений между двумя произвольными \<commit>.
 
-### git diff [<options>] <commit> <commit>…​ <commit> [--] [<path>…​]
-This form is to view the results of a merge commit. The first listed <commit> must be the merge itself; the remaining two or more commits should be its parents. A convenient way to produce the desired set of revisions is to use the ^@ suffix. For instance, if master names a merge commit, git diff master master^@ gives the same combined diff as git show master.
+### git diff [\<options>] \<commit> \<commit>…​ \<commit> [--] [\<path>…​]
+This form is to view the results of a merge commit. The first listed \<commit> must be the merge itself; the remaining two or more commits should be its parents. A convenient way to produce the desired set of revisions is to use the ^@ suffix. For instance, if master names a merge commit, git diff master master^@ gives the same combined diff as git show master.
 
-Эта форма предназначена для просмотра результатов фиксации слияния. Первым в списке <commit> должно быть само слияние; оставшиеся два или более коммитов должны быть его родительскими. Удобный способ произвести желаемый набор ревизий - использовать суффикс ^ @. Например, если masterименует фиксацию слияния, git diff master master^@дает ту же комбинированную разницу, что и git show master.
+Эта форма предназначена для просмотра результатов фиксации слияния. Первым в списке \<commit> должно быть само слияние; оставшиеся два или более коммитов должны быть его родительскими. Удобный способ произвести желаемый набор ревизий - использовать суффикс ^ @. Например, если masterименует фиксацию слияния, git diff master master^@дает ту же комбинированную разницу, что и git show master.
 
-### git diff [<options>] <commit>..<commit> [--] [<path>…​]
-This is synonymous to the earlier form (without the "..") for viewing the changes between two arbitrary <commit>. If <commit> on one side is omitted, it will have the same effect as using HEAD instead.
+### git diff [\<options>] \<commit>..\<commit> [--] [\<path>…​]
+This is synonymous to the earlier form (without the "..") for viewing the changes between two arbitrary \<commit>. If \<commit> on one side is omitted, it will have the same effect as using HEAD instead.
 
-Это синоним предыдущей формы (без "..") для просмотра изменений между двумя произвольными <commit>. Если <commit> с одной стороны опущен, это будет иметь тот же эффект, что и использование HEAD.
+Это синоним предыдущей формы (без "..") для просмотра изменений между двумя произвольными \<commit>. Если \<commit> с одной стороны опущен, это будет иметь тот же эффект, что и использование HEAD.
 
-### git diff [<options>] <commit>...<commit> [--] [<path>…​]
-This form is to view the changes on the branch containing and up to the second <commit>, starting at a common ancestor of both <commit>. "git diff A...B" is equivalent to "git diff $(git merge-base A B) B". You can omit any one of <commit>, which has the same effect as using HEAD instead.
+### git diff [\<options>] \<commit>...\<commit> [--] [\<path>…​]
+This form is to view the changes on the branch containing and up to the second \<commit>, starting at a common ancestor of both \<commit>. "git diff A...B" is equivalent to "git diff $(git merge-base A B) B". You can omit any one of \<commit>, which has the same effect as using HEAD instead.
 
-Эта форма предназначена для просмотра изменений в ветви, содержащей и до второго <commit>, начиная с общего предка обоих <commit>. «git diff A ... B» эквивалентно «git diff $ (git merge-base AB) B». Вы можете опустить любой из <commit>, что даст тот же эффект, что и использование HEAD.
+Эта форма предназначена для просмотра изменений в ветви, содержащей и до второго \<commit>, начиная с общего предка обоих \<commit>. «git diff A ... B» эквивалентно «git diff $ (git merge-base AB) B». Вы можете опустить любой из \<commit>, что даст тот же эффект, что и использование HEAD.
 
-Just in case you are doing something exotic, it should be noted that all of the <commit> in the above description, except in the last two forms that use ".." notations, can be any <tree>.
+Just in case you are doing something exotic, it should be noted that all of the \<commit> in the above description, except in the last two forms that use ".." notations, can be any \<tree>.
 
-На всякий случай, если вы делаете что-то экзотическое, следует отметить, что все <commit> в приведенном выше описании, за исключением двух последних форм, использующих нотацию «..», могут быть любыми <tree>.
+На всякий случай, если вы делаете что-то экзотическое, следует отметить, что все \<commit> в приведенном выше описании, за исключением двух последних форм, использующих нотацию «..», могут быть любыми \<tree>.
 
-For a more complete list of ways to spell <commit>, see "SPECIFYING REVISIONS" section in gitrevisions(7). However, "diff" is about comparing two endpoints, not ranges, and the range notations ("<commit>..<commit>" and "<commit>...<commit>") do not mean a range as defined in the "SPECIFYING RANGES" section in <a href="file:///E:/Node_projects/Node_Way/NBase/_Md/_Index/_Git/content/Docs/C_Program_Files_Git_mingw64_share_doc_git-doc/Point_learn/git-doc_converted/gitrevisions.html" target="_blank">gitrevisions(7)</a>.
+For a more complete list of ways to spell \<commit>, see "SPECIFYING REVISIONS" section in gitrevisions(7). However, "diff" is about comparing two endpoints, not ranges, and the range notations ("\<commit>..\<commit>" and "\<commit>...\<commit>") do not mean a range as defined in the "SPECIFYING RANGES" section in <a href="file:///E:/Node_projects/Node_Way/NBase/_Md/_Index/_Git/content/Docs/C_Program_Files_Git_mingw64_share_doc_git-doc/Point_learn/git-doc_converted/gitrevisions.html" target="_blank">gitrevisions(7)</a>.
 
-Более полный список способов написания <commit> см. В разделе « УКАЗАНИЕ ПРАВИЛ » в gitrevisions (7) . Однако "diff" - это сравнение двух конечных точек , а не диапазонов, и обозначения диапазона ("<commit> .. <commit>" и "<commit> ... <commit>") не означают диапазон, как определено в раздел « УКАЗАНИЕ ДИАПАЗОНОВ » в gitrevisions (7) .
+Более полный список способов написания \<commit> см. В разделе « УКАЗАНИЕ ПРАВИЛ » в gitrevisions (7) . Однако "diff" - это сравнение двух конечных точек , а не диапазонов, и обозначения диапазона ("\<commit> .. \<commit>" и "\<commit> ... \<commit>") не означают диапазон, как определено в раздел « УКАЗАНИЕ ДИАПАЗОНОВ » в gitrevisions (7) .
 
-### git diff [<options>] <blob> <blob>
+### git diff [\<options>] \<blob> \<blob>
 This form is to view the differences between the raw contents of two blob objects.
 
 Эта форма предназначена для просмотра различий между необработанным содержимым двух объектов blob.
@@ -149,20 +149,20 @@ Suppress diff output. Useful for commands like git show that show the patch by d
 
 Подавить вывод diff. Полезно для таких команд, git showкоторые показывают патч по умолчанию или для отмены эффекта --patch.
 
-### -U<n>
-    --unified=<n>
-Generate diffs with <n> lines of context instead of the usual three. Implies --patch. Implies -p.
+### -U\<n>
+    --unified=\<n>
+Generate diffs with \<n> lines of context instead of the usual three. Implies --patch. Implies -p.
 
-Создавайте различия с <n> строками контекста вместо обычных трех. Подразумевает --patch. Подразумевает -p.
+Создавайте различия с \<n> строками контекста вместо обычных трех. Подразумевает --patch. Подразумевает -p.
 
-    --output=<file>
+    --output=\<file>
 Output to a specific file instead of stdout.
 
 Вывод в конкретный файл вместо стандартного вывода.
 
-    --output-indicator-new=<char>
-    --output-indicator-old=<char>
-    --output-indicator-context=<char>
+    --output-indicator-new=\<char>
+    --output-indicator-old=\<char>
+    --output-indicator-context=\<char>
 Specify the character used to indicate new, old or context lines in the generated patch. Normally they are +, - and ' ' respectively.
 
 Укажите символ, используемый для обозначения новых, старых или контекстных строк в сгенерированном патче. Обычно это + , - и '' соответственно.
@@ -202,7 +202,7 @@ Generate a diff using the "histogram diff" algorithm.
 
 Сгенерируйте разницу, используя алгоритм "гистограммы сравнения".
 
-    --anchored=<text>
+    --anchored=\<text>
 Generate a diff using the "anchored diff" algorithm.
 
 Сгенерируйте разницу, используя алгоритм "привязанной разницы".
@@ -244,14 +244,14 @@ For instance, if you configured the diff.algorithm variable to a non-default val
 
 Например, если вы настроили diff.algorithmпеременную на значение, отличное от значения по умолчанию, и хотите использовать значение по умолчанию, тогда вам нужно использовать --diff-algorithm=defaultoption.
 
-    --stat[=<width>[,<name-width>[,<count>]]]
-Generate a diffstat. By default, as much space as necessary will be used for the filename part, and the rest for the graph part. Maximum width defaults to terminal width, or 80 columns if not connected to a terminal, and can be overridden by <width>. The width of the filename part can be limited by giving another width <name-width> after a comma. The width of the graph part can be limited by using --stat-graph-width=<width> (affects all commands generating a stat graph) or by setting diff.statGraphWidth=<width> (does not affect git format-patch). By giving a third parameter <count>, you can limit the output to the first <count> lines, followed by ... if there are more.
+    --stat[=\<width>[,\<name-width>[,\<count>]]]
+Generate a diffstat. By default, as much space as necessary will be used for the filename part, and the rest for the graph part. Maximum width defaults to terminal width, or 80 columns if not connected to a terminal, and can be overridden by \<width>. The width of the filename part can be limited by giving another width \<name-width> after a comma. The width of the graph part can be limited by using --stat-graph-width=\<width> (affects all commands generating a stat graph) or by setting diff.statGraphWidth=\<width> (does not affect git format-patch). By giving a third parameter \<count>, you can limit the output to the first \<count> lines, followed by ... if there are more.
 
-Создайте diffstat. По умолчанию столько места, сколько необходимо, будет использовано для части имени файла, а остальное - для части графика. По умолчанию максимальная ширина равна ширине терминала или 80 столбцам, если терминал не подключен, и может быть изменена с помощью <width>. Ширина части имени файла может быть ограничена путем указания другой ширины <name-width>после запятой. Ширина части графика может быть ограничена с помощью --stat-graph-width=<width>(влияет на все команды, генерирующие график статистики) или путем настройки diff.statGraphWidth=<width> (не влияет git format-patch). Задав третий параметр <count>, вы можете ограничить вывод до первых <count>строк, за которыми следует, ...если их больше.
+Создайте diffstat. По умолчанию столько места, сколько необходимо, будет использовано для части имени файла, а остальное - для части графика. По умолчанию максимальная ширина равна ширине терминала или 80 столбцам, если терминал не подключен, и может быть изменена с помощью \<width>. Ширина части имени файла может быть ограничена путем указания другой ширины \<name-width>после запятой. Ширина части графика может быть ограничена с помощью --stat-graph-width=\<width>(влияет на все команды, генерирующие график статистики) или путем настройки diff.statGraphWidth=\<width> (не влияет git format-patch). Задав третий параметр \<count>, вы можете ограничить вывод до первых \<count>строк, за которыми следует, ...если их больше.
 
-These parameters can also be set individually with --stat-width=<width>, --stat-name-width=<name-width> and --stat-count=<count>.
+These parameters can also be set individually with --stat-width=\<width>, --stat-name-width=\<name-width> and --stat-count=\<count>.
 
-Эти параметры также можно настроить индивидуально с помощью --stat-width=<width>, --stat-name-width=<name-width>и --stat-count=<count>.
+Эти параметры также можно настроить индивидуально с помощью --stat-width=\<width>, --stat-name-width=\<name-width>и --stat-count=\<count>.
 
     --compact-summary
 Output a condensed summary of extended header information such as file creations or deletions ("new" or "gone", optionally "+l" if it’s a symlink) and mode changes ("+x" or "-x" for adding or removing executable bit respectively) in diffstat. The information is put between the filename part and the graph part. Implies --stat.
@@ -268,8 +268,8 @@ Output only the last line of the --stat format containing total number of modifi
 
 Выведите только последнюю строку --statформата, содержащую общее количество измененных файлов, а также количество добавленных и удаленных строк.
 
-### -X[<param1,param2,…​>]
-    --dirstat[=<param1,param2,…​>]
+### -X[\<param1,param2,…​>]
+    --dirstat[=\<param1,param2,…​>]
 Output the distribution of relative amount of changes for each sub-directory. The behavior of --dirstat can be customized by passing it a comma separated list of parameters. The defaults are controlled by the diff.dirstat configuration variable (see git-config(1)). The following parameters are available:
 
 Выведите распределение относительного количества изменений для каждого подкаталога. Поведение --dirstatможно настроить, передав ему список параметров, разделенных запятыми. Значения по умолчанию контролируются diff.dirstatпеременной конфигурации (см. Git-config (1) ). Доступны следующие параметры:
@@ -294,7 +294,7 @@ Count changes in a child directory for the parent directory as well. Note that w
 
 Подсчитайте изменения в дочернем каталоге и для родительского каталога. Обратите внимание, что при использовании cumulativeсумма сообщаемых процентов может превышать 100%. С помощью параметра можно указать поведение по умолчанию (не кумулятивное) noncumulative.
 
-    <limit>
+    \<limit>
 An integer parameter specifies a cut-off percent (3% by default). Directories contributing less than this percentage of the changes are not shown in the output.
 
 Целочисленный параметр указывает процент отсечения (по умолчанию 3%). Каталоги, на долю которых приходится меньше этого процента изменений, не отображаются в выводе.
@@ -308,7 +308,7 @@ Synonym for --dirstat=cumulative
 
 Синоним для --dirstat = кумулятивный
 
-    --dirstat-by-file[=<param1,param2>…​]
+    --dirstat-by-file[=\<param1,param2>…​]
 Synonym for --dirstat=files,param1,param2…​
 
 Синоним для --dirstat = files, param1, param2…
@@ -342,15 +342,15 @@ Show only names and status of changed files. See the description of the --diff-f
 
 Показывать только имена и статус измененных файлов. --diff-filterЧто означают статусные буквы, смотрите в описании опции.
 
-    --submodule[=<format>]
+    --submodule[=\<format>]
 Specify how differences in submodules are shown. When specifying --submodule=short the short format is used. This format just shows the names of the commits at the beginning and end of the range. When --submodule or --submodule=log is specified, the log format is used. This format lists the commits in the range like git-submodule(1) summary does. When --submodule=diff is specified, the diff format is used. This format shows an inline diff of the changes in the submodule contents between the commit range. Defaults to diff.submodule or the short format if the config option is unset.
 
 Укажите, как отображаются различия в подмодулях. При указании --submodule=shortиспользуется краткий формат. Этот формат просто показывает имена коммитов в начале и конце диапазона. Если указано --submoduleили --submodule=log, используется формат журнала . В этом формате перечислены коммиты в диапазоне, как это делает git-submodule (1) summary . Если --submodule=diff указано, используется формат сравнения . Этот формат показывает встроенную разницу изменений в содержимом подмодуля между диапазоном фиксации. По умолчанию diff.submoduleили короткий формат, если параметр конфигурации не установлен.
 
-    --color[=<when>]
-Show colored diff. --color (i.e. without =<when>) is the same as --color=always. <when> can be one of always, never, or auto. It can be changed by the color.ui and color.diff configuration settings.
+    --color[=\<when>]
+Show colored diff. --color (i.e. without =\<when>) is the same as --color=always. \<when> can be one of always, never, or auto. It can be changed by the color.ui and color.diff configuration settings.
 
-Показать цветной diff. --color(т.е. без = <when> ) то же самое, что и --color=always. <если> может быть один из always, neverили auto. Его можно изменить с помощью параметров конфигурации color.uiи color.diff.
+Показать цветной diff. --color(т.е. без = \<when> ) то же самое, что и --color=always. \<если> может быть один из always, neverили auto. Его можно изменить с помощью параметров конфигурации color.uiи color.diff.
 
     --no-color
 Turn off colored diff. This can be used to override configuration settings. It is the same as --color=never.
@@ -358,10 +358,10 @@ Turn off colored diff. This can be used to override configuration settings. It i
 Отключить цветной дифференциал. Это можно использовать для переопределения параметров конфигурации. Это то же самое, что и --color=never.
 
 
-    --color-moved[=<mode>]
-Moved lines of code are colored differently. It can be changed by the diff.colorMoved configuration setting. The <mode> defaults to no if the option is not given and to zebra if the option with no mode is given. The mode must be one of:
+    --color-moved[=\<mode>]
+Moved lines of code are colored differently. It can be changed by the diff.colorMoved configuration setting. The \<mode> defaults to no if the option is not given and to zebra if the option with no mode is given. The mode must be one of:
 
-Перемещенные строки кода окрашены по-разному. Его можно изменить в diff.colorMovedнастройках конфигурации. Для <режим> по умолчанию установлено значение « нет», если параметр не задан, и « зебра», если задан параметр без режима. Режим должен быть одним из:
+Перемещенные строки кода окрашены по-разному. Его можно изменить в diff.colorMovedнастройках конфигурации. Для \<режим> по умолчанию установлено значение « нет», если параметр не задан, и « зебра», если задан параметр без режима. Режим должен быть одним из:
 
     no
 Moved lines are not highlighted.
@@ -398,7 +398,7 @@ Turn off move detection. This can be used to override configuration settings. It
 
 Отключите обнаружение движения. Это можно использовать для переопределения параметров конфигурации. Это то же самое, что и --color-moved=no.
 
-    --color-moved-ws=<modes>
+    --color-moved-ws=\<modes>
 This configures how whitespace is ignored when performing the move detection for --color-moved. It can be set by the diff.colorMovedWS configuration setting. These modes can be given as a comma separated list:
 
 Это настраивает, как игнорируются пробелы при выполнении обнаружения перемещения для --color-moved. Его можно установить в diff.colorMovedWSнастройках конфигурации. Эти режимы можно указать в виде списка, разделенного запятыми:
@@ -433,10 +433,10 @@ Do not ignore whitespace when performing move detection. This can be used to ove
 
 Не игнорируйте пробелы при обнаружении движения. Это можно использовать для переопределения параметров конфигурации. Это то же самое, что и --color-moved-ws=no.
 
-    --word-diff[=<mode>]
-Show a word diff, using the <mode> to delimit changed words. By default, words are delimited by whitespace; see --word-diff-regex below. The <mode> defaults to plain, and must be one of:
+    --word-diff[=\<mode>]
+Show a word diff, using the \<mode> to delimit changed words. By default, words are delimited by whitespace; see --word-diff-regex below. The \<mode> defaults to plain, and must be one of:
 
-Показать разницу слов, используя <режим> для разделения измененных слов. По умолчанию слова разделяются пробелами; см. --word-diff-regexниже. <Режим> по умолчанию равняется простому и должен быть одним из:
+Показать разницу слов, используя \<режим> для разделения измененных слов. По умолчанию слова разделяются пробелами; см. --word-diff-regexниже. \<Режим> по умолчанию равняется простому и должен быть одним из:
 
     color
 Highlight changed words using only colors. Implies --color.
@@ -462,14 +462,14 @@ Note that despite the name of the first mode, color is used to highlight the cha
 
 Обратите внимание, что, несмотря на название первого режима, цвет используется для выделения измененных частей во всех режимах, если он включен.
 
-    --word-diff-regex=<regex>
-Use <regex> to decide what a word is, instead of considering runs of non-whitespace to be a word. Also implies --word-diff unless it was already enabled.
+    --word-diff-regex=\<regex>
+Use \<regex> to decide what a word is, instead of considering runs of non-whitespace to be a word. Also implies --word-diff unless it was already enabled.
 
-Используйте <regex>, чтобы определить, что такое слово, вместо того, чтобы рассматривать пробелы без пробелов как слово. Также подразумевается, --word-diffесли он еще не был включен.
+Используйте \<regex>, чтобы определить, что такое слово, вместо того, чтобы рассматривать пробелы без пробелов как слово. Также подразумевается, --word-diffесли он еще не был включен.
 
-Every non-overlapping match of the <regex> is considered a word. Anything between these matches is considered whitespace and ignored(!) for the purposes of finding differences. You may want to append |[^[:space:]] to your regular expression to make sure that it matches all non-whitespace characters. A match that contains a newline is silently truncated(!) at the newline.
+Every non-overlapping match of the \<regex> is considered a word. Anything between these matches is considered whitespace and ignored(!) for the purposes of finding differences. You may want to append |[^[:space:]] to your regular expression to make sure that it matches all non-whitespace characters. A match that contains a newline is silently truncated(!) at the newline.
 
-Каждое неперекрывающееся совпадение <regex> считается словом. Все, что находится между этими совпадениями, считается пробелом и игнорируется (!) В целях поиска различий. Вы можете добавить |[^[:space:]]в свое регулярное выражение, чтобы убедиться, что оно соответствует всем непробельным символам. Совпадение, содержащее новую строку, молча обрезается (!) На новой строке.
+Каждое неперекрывающееся совпадение \<regex> считается словом. Все, что находится между этими совпадениями, считается пробелом и игнорируется (!) В целях поиска различий. Вы можете добавить |[^[:space:]]в свое регулярное выражение, чтобы убедиться, что оно соответствует всем непробельным символам. Совпадение, содержащее новую строку, молча обрезается (!) На новой строке.
 
 For example, --word-diff-regex=. will treat each character as a word and, correspondingly, show differences character by character
 
@@ -479,10 +479,10 @@ The regex can also be set via a diff driver or configuration option, see gitattr
 
 Регулярное выражение также можно установить с помощью драйвера diff или параметра конфигурации, см. Gitattributes (5) или git-config (1) . Предоставление его явно отменяет любой драйвер diff или настройку конфигурации. Драйверы различий переопределяют параметры конфигурации.
 
-    --color-words[=<regex>]
-Equivalent to --word-diff=color plus (if a regex was specified) --word-diff-regex=<regex>.
+    --color-words[=\<regex>]
+Equivalent to --word-diff=color plus (if a regex was specified) --word-diff-regex=\<regex>.
 
-Эквивалентно --word-diff=colorплюсу (если было указано регулярное выражение) --word-diff-regex=<regex>.
+Эквивалентно --word-diff=colorплюсу (если было указано регулярное выражение) --word-diff-regex=\<regex>.
 
     --no-renames
 Turn off rename detection, even when the configuration file gives the default to do so.
@@ -499,7 +499,7 @@ Warn if changes introduce conflict markers or whitespace errors. What are consid
 
 Предупреждать, если изменения приводят к появлению маркеров конфликта или ошибок пробелов. То, что считается ошибкой пробелов, определяется core.whitespace конфигурацией. По умолчанию завершающие пробелы (включая строки, состоящие исключительно из пробелов) и символ пробела, за которым сразу же следует символ табуляции внутри начального отступа строки, считаются ошибками пробелов. Выход с ненулевым статусом при обнаружении проблем. Не совместим с --exit-code.
 
-    --ws-error-highlight=<kind>
+    --ws-error-highlight=\<kind>
 Highlight whitespace errors in the context, old or new lines of the diff. Multiple values are separated by comma, none resets previous values, default reset the list to new and all is a shorthand for old,new,context. When this option is not given, and the configuration variable diff.wsErrorHighlight is not set, only whitespace errors in new lines are highlighted. The whitespace errors are colored with color.diff.whitespace.
 
 Выделите ошибки пробелов в строках context, oldили newразности. Несколько значений разделяются запятой, noneсбрасывают предыдущие значения, defaultсбрасывают список на newи allявляется сокращением для old,new,context. Если этот параметр не указан и переменная конфигурации diff.wsErrorHighlightне задана, выделяются только ошибки пробелов в newстроках. Ошибки с пробелами отмечены color.diff.whitespace.
@@ -514,13 +514,13 @@ In addition to --full-index, output a binary diff that can be applied with git-a
 
 В дополнение к --full-indexвывести двоичную разницу, которую можно применить с git-apply. Подразумевает --patch.
 
-    --abbrev[=<n>]
-Instead of showing the full 40-byte hexadecimal object name in diff-raw format output and diff-tree header lines, show only a partial prefix. This is independent of the --full-index option above, which controls the diff-patch output format. Non default number of digits can be specified with --abbrev=<n>.
+    --abbrev[=\<n>]
+Instead of showing the full 40-byte hexadecimal object name in diff-raw format output and diff-tree header lines, show only a partial prefix. This is independent of the --full-index option above, which controls the diff-patch output format. Non default number of digits can be specified with --abbrev=\<n>.
 
-Вместо того, чтобы показывать полное 40-байтовое шестнадцатеричное имя объекта в выходных данных в формате diff-raw и в строках заголовка diff-tree, показывайте только частичный префикс. Это не зависит от --full-indexописанной выше опции, которая управляет выходным форматом diff-patch. Количество цифр не по умолчанию может быть указано с помощью --abbrev=<n>.
+Вместо того, чтобы показывать полное 40-байтовое шестнадцатеричное имя объекта в выходных данных в формате diff-raw и в строках заголовка diff-tree, показывайте только частичный префикс. Это не зависит от --full-indexописанной выше опции, которая управляет выходным форматом diff-patch. Количество цифр не по умолчанию может быть указано с помощью --abbrev=\<n>.
 
-### -B[<n>][/<m>]
-    --break-rewrites[=[<n>][/<m>]]
+### -B[\<n>][/\<m>]
+    --break-rewrites[=[\<n>][/\<m>]]
 Break complete rewrite changes into pairs of delete and create. This serves two purposes:
 
 Разбейте полные изменения перезаписи на пары удаления и создания. Это служит двум целям:
@@ -533,17 +533,17 @@ When used with -M, a totally-rewritten file is also considered as the source of 
 
 При использовании с -M полностью перезаписанный файл также рассматривается как источник переименования (обычно -M рассматривает только файл, который исчез, как источник переименования), и число nуправляет этим аспектом параметра -B ( по умолчанию 50%). -B20%указывает, что изменение с добавлением и удалением по сравнению с 20% или более от размера файла может рассматриваться как возможный источник переименования в другой файл.
 
-### -M[<n>]
-    --find-renames[=<n>]
+### -M[\<n>]
+    --find-renames[=\<n>]
 Detect renames. If n is specified, it is a threshold on the similarity index (i.e. amount of addition/deletions compared to the file’s size). For example, -M90% means Git should consider a delete/add pair to be a rename if more than 90% of the file hasn’t changed. Without a % sign, the number is to be read as a fraction, with a decimal point before it. I.e., -M5 becomes 0.5, and is thus the same as -M50%. Similarly, -M05 is the same as -M5%. To limit detection to exact renames, use -M100%. The default similarity index is 50%.
 
 Обнаружение переименований. Если nуказан, то это порог индекса сходства (т. Е. Количества добавлений / удалений по сравнению с размером файла). Например, это -M90%означает, что Git должен рассматривать пару удаления / добавления как переименование, если более 90% файла не изменилось. Без %знака число следует читать как дробь с десятичной точкой перед ним. То есть -M5становится 0,5 и, таким образом, то же самое, что -M50%. Точно так -M05же, как -M5%. Чтобы ограничить обнаружение точным переименованием, используйте -M100%. Индекс подобия по умолчанию составляет 50%.
 
-### -C[<n>]
-    --find-copies[=<n>]
-Detect copies as well as renames. See also --find-copies-harder. If n is specified, it has the same meaning as for -M<n>.
+### -C[\<n>]
+    --find-copies[=\<n>]
+Detect copies as well as renames. See also --find-copies-harder. If n is specified, it has the same meaning as for -M\<n>.
 
-Обнаруживать копии, а также переименовывать. См. Также --find-copies-harder. Если nуказан, то имеет то же значение, что и -M<n>
+Обнаруживать копии, а также переименовывать. См. Также --find-copies-harder. Если nуказан, то имеет то же значение, что и -M\<n>
 
     --find-copies-harder
 For performance reasons, by default, -C option finds copies only if the original file of the copy was modified in the same changeset. This flag makes the command inspect unmodified files as candidates for the source of copy. This is a very expensive operation for large projects, so use it with caution. Giving more than one -C option has the same effect.
@@ -560,7 +560,7 @@ When used together with -B, omit also the preimage in the deletion part of a del
 
 При использовании вместе с -B, опустите также прообраз в части удаления пары удаление / создание.
 
-### -l<num>
+### -l\<num>
 The -M and -C options require O(n^2) processing time where n is the number of potential rename/copy targets. This option prevents rename/copy detection from running if the number of rename/copy targets exceeds the specified number.
 
 Параметры -Mи -Cтребуют времени обработки O (n ^ 2), где n - количество потенциальных целей переименования / копирования. Эта опция предотвращает запуск обнаружения переименования / копирования, если количество целей переименования / копирования превышает указанное число.
@@ -578,7 +578,7 @@ Note that not all diffs can feature all types. For instance, diffs from the inde
 
 Обратите внимание, что не все различия могут включать все типы. Например, различия из индекса в рабочее дерево никогда не могут иметь добавленных записей (потому что набор путей, включенных в сравнение, ограничен тем, что находится в индексе). Точно так же скопированные и переименованные записи не могут появиться, если обнаружение для этих типов отключено.
 
-### -S<string>
+### -S\<string>
 Look for differences that change the number of occurrences of the specified string (i.e. addition/deletion) in a file. Intended for the scripter’s use.
 
 Ищите различия, которые изменяют количество вхождений указанной строки (т. Е. Добавления / удаления) в файле. Предназначен для использования сценаристом.
@@ -591,14 +591,14 @@ Binary files are searched as well.
 
 Также выполняется поиск двоичных файлов.
 
-### -G<regex>
-Look for differences whose patch text contains added/removed lines that match <regex>.
+### -G\<regex>
+Look for differences whose patch text contains added/removed lines that match \<regex>.
 
-щите отличия, текст патча которых содержит добавленные / удаленные строки, соответствующие <regex>.
+щите отличия, текст патча которых содержит добавленные / удаленные строки, соответствующие \<regex>.
 
-To illustrate the difference between -S<regex> --pickaxe-regex and -G<regex>, consider a commit with the following diff in the same file:
+To illustrate the difference between -S\<regex> --pickaxe-regex and -G\<regex>, consider a commit with the following diff in the same file:
 
-Чтобы проиллюстрировать разницу между -S<regex> --pickaxe-regexи -G<regex>, рассмотрим фиксацию со следующей разницей в том же файле:
+Чтобы проиллюстрировать разницу между -S\<regex> --pickaxe-regexи -G\<regex>, рассмотрим фиксацию со следующей разницей в том же файле:
 
 \+    return frotz(nitfol, two->ptr, 1, 0);
 ...
@@ -615,7 +615,7 @@ See the pickaxe entry in gitdiffcore(7) for more information.
 
 См. Запись о кирке в gitdiffcore (7) для получения дополнительной информации.
 
-    --find-object=<object-id>
+    --find-object=\<object-id>
 Look for differences that change the number of occurrences of the specified object. Similar to -S, just the argument is different in that it doesn’t search for a specific string but for a specific object id.
 
 Ищите различия, которые изменяют количество вхождений указанного объекта. Подобно этому -S, просто аргумент отличается тем, что он ищет не конкретную строку, а определенный идентификатор объекта.
@@ -625,27 +625,27 @@ The object can be a blob or a submodule commit. It implies the -t option in git-
 Объектом может быть большой двоичный объект или фиксация подмодуля. Это подразумевает -tвозможность git-logтакже находить деревья.
 
     --pickaxe-all
-When -S or -G finds a change, show all the changes in that changeset, not just the files that contain the change in <string>.
+When -S or -G finds a change, show all the changes in that changeset, not just the files that contain the change in \<string>.
 
-Когда -Sили -Gнаходит изменение, показывать все изменения в этом наборе изменений, а не только файлы, содержащие изменение в <string>.
+Когда -Sили -Gнаходит изменение, показывать все изменения в этом наборе изменений, а не только файлы, содержащие изменение в \<string>.
 
     --pickaxe-regex
-Treat the <string> given to -S as an extended POSIX regular expression to match.
+Treat the \<string> given to -S as an extended POSIX regular expression to match.
 
-Считайте переданную строку <string> -Sрасширенным регулярным выражением POSIX для сопоставления.
+Считайте переданную строку \<string> -Sрасширенным регулярным выражением POSIX для сопоставления.
 
-### -O<orderfile>
+### -O\<orderfile>
 Control the order in which files appear in the output. This overrides the diff.orderFile configuration variable (see git-config(1)). To cancel diff.orderFile, use -O/dev/null.
 
 Управляйте порядком, в котором файлы появляются на выходе. Это переопределяет diff.orderFileпеременную конфигурации (см. Git-config (1) ). Для отмены diff.orderFileиспользуйте -O/dev/null.
 
-The output order is determined by the order of glob patterns in <orderfile>. All files with pathnames that match the first pattern are output first, all files with pathnames that match the second pattern (but not the first) are output next, and so on. All files with pathnames that do not match any pattern are output last, as if there was an implicit match-all pattern at the end of the file. If multiple pathnames have the same rank (they match the same pattern but no earlier patterns), their output order relative to each other is the normal order.
+The output order is determined by the order of glob patterns in \<orderfile>. All files with pathnames that match the first pattern are output first, all files with pathnames that match the second pattern (but not the first) are output next, and so on. All files with pathnames that do not match any pattern are output last, as if there was an implicit match-all pattern at the end of the file. If multiple pathnames have the same rank (they match the same pattern but no earlier patterns), their output order relative to each other is the normal order.
 
-Порядок вывода определяется порядком шаблонов глобусов в <orderfile>. Все файлы с именами пути, соответствующими первому шаблону, выводятся первыми, все файлы с именами пути, которые соответствуют второму шаблону (но не первому), выводятся следующими, и так далее. Все файлы с путями, не соответствующими какому-либо шаблону, выводятся последними, как если бы в конце файла был неявный шаблон соответствия всем. Если несколько имен путей имеют одинаковый ранг (они соответствуют одному и тому же шаблону, но не более ранним шаблонам), их порядок вывода относительно друг друга является нормальным порядком.
+Порядок вывода определяется порядком шаблонов глобусов в \<orderfile>. Все файлы с именами пути, соответствующими первому шаблону, выводятся первыми, все файлы с именами пути, которые соответствуют второму шаблону (но не первому), выводятся следующими, и так далее. Все файлы с путями, не соответствующими какому-либо шаблону, выводятся последними, как если бы в конце файла был неявный шаблон соответствия всем. Если несколько имен путей имеют одинаковый ранг (они соответствуют одному и тому же шаблону, но не более ранним шаблонам), их порядок вывода относительно друг друга является нормальным порядком.
 
-<orderfile> is parsed as follows:
+\<orderfile> is parsed as follows:
 
-<orderfile> анализируется следующим образом:
+\<orderfile> анализируется следующим образом:
 
 - Blank lines are ignored, so they can be used as separators for readability.
 
@@ -668,11 +668,11 @@ Swap two inputs; that is, show differences from index or on-disk file to tree co
 
 Поменять местами два входа; то есть показать различия между содержимым индекса или файла на диске и содержимым дерева.
 
-    --relative[=<path>]
+    --relative[=\<path>]
     --no-relative
-When run from a subdirectory of the project, it can be told to exclude changes outside the directory and show pathnames relative to it with this option. When you are not in a subdirectory (e.g. in a bare repository), you can name which subdirectory to make the output relative to by giving a <path> as an argument. --no-relative can be used to countermand both diff.relative config option and previous --relative.
+When run from a subdirectory of the project, it can be told to exclude changes outside the directory and show pathnames relative to it with this option. When you are not in a subdirectory (e.g. in a bare repository), you can name which subdirectory to make the output relative to by giving a \<path> as an argument. --no-relative can be used to countermand both diff.relative config option and previous --relative.
 
-При запуске из подкаталога проекта, с помощью этой опции можно указать исключить изменения вне каталога и показать относительные пути к нему. Когда вы не находитесь в подкаталоге (например, в пустом репозитории), вы можете указать, какой подкаталог будет выводиться относительно, указав <path> в качестве аргумента. --no-relativeможет использоваться для отмены как diff.relativeопции конфигурации, так и предыдущей --relative.
+При запуске из подкаталога проекта, с помощью этой опции можно указать исключить изменения вне каталога и показать относительные пути к нему. Когда вы не находитесь в подкаталоге (например, в пустом репозитории), вы можете указать, какой подкаталог будет выводиться относительно, указав \<path> в качестве аргумента. --no-relativeможет использоваться для отмены как diff.relativeопции конфигурации, так и предыдущей --relative.
 
 ### -a
     --text
@@ -707,7 +707,7 @@ Ignore changes whose lines are all blank.
 
 Игнорировать изменения, все строки которых пусты.
 
-    --inter-hunk-context=<lines>
+    --inter-hunk-context=\<lines>
 Show the context between diff hunks, up to the specified number of lines, thereby fusing hunks that are close to each other. Defaults to diff.interHunkContext or 0 if the config option is unset.
 
 Показать контекст между блоками различий, вплоть до указанного количества строк, тем самым объединяя блоки, расположенные близко друг к другу. По умолчанию diff.interHunkContextили 0, если параметр конфигурации не установлен.
@@ -744,17 +744,17 @@ Allow (or disallow) external text conversion filters to be run when comparing bi
 
 Разрешить (или запретить) запуск внешних фильтров преобразования текста при сравнении двоичных файлов. Подробнее см. Gitattributes (5) . Поскольку фильтры textconv обычно являются односторонним преобразованием, полученное различие подходит для использования человеком, но не может применяться. По этой причине фильтры textconv включены по умолчанию только для git-diff (1) и git-log (1) , но не для команд git-format-patch (1) или diff.
 
-    --ignore-submodules[=<when>]
-Ignore changes to submodules in the diff generation. <when> can be either "none", "untracked", "dirty" or "all", which is the default. Using "none" will consider the submodule modified when it either contains untracked or modified files or its HEAD differs from the commit recorded in the superproject and can be used to override any settings of the ignore option in git-config(1) or gitmodules(5). When "untracked" is used submodules are not considered dirty when they only contain untracked content (but they are still scanned for modified content). Using "dirty" ignores all changes to the work tree of submodules, only changes to the commits stored in the superproject are shown (this was the behavior until 1.7.0). Using "all" hides all changes to submodules.
+    --ignore-submodules[=\<when>]
+Ignore changes to submodules in the diff generation. \<when> can be either "none", "untracked", "dirty" or "all", which is the default. Using "none" will consider the submodule modified when it either contains untracked or modified files or its HEAD differs from the commit recorded in the superproject and can be used to override any settings of the ignore option in git-config(1) or gitmodules(5). When "untracked" is used submodules are not considered dirty when they only contain untracked content (but they are still scanned for modified content). Using "dirty" ignores all changes to the work tree of submodules, only changes to the commits stored in the superproject are shown (this was the behavior until 1.7.0). Using "all" hides all changes to submodules.
 
-Игнорировать изменения субмодулей при генерации различий. <when> может иметь значение «нет», «неотслеживаемый», «грязный» или «все», что является значением по умолчанию. Использование «none» будет считать подмодуль измененным, если он содержит неотслеживаемые или измененные файлы или его HEAD отличается от фиксации, записанной в суперпроекте, и может использоваться для переопределения любых настроек параметра игнорирования в git-config (1) или gitmodules ( 5) . Когда используется «неотслеживаемый», подмодули не считаются грязными, если они содержат только неотслеживаемый контент (но они по-прежнему сканируются на предмет измененного содержимого). Использование "dirty" игнорирует все изменения в дереве работы подмодулей, показаны только изменения в коммитах, хранящихся в суперпроекте (так было до 1.7.0). Использование «all» скрывает все изменения в подмодулях.
+Игнорировать изменения субмодулей при генерации различий. \<when> может иметь значение «нет», «неотслеживаемый», «грязный» или «все», что является значением по умолчанию. Использование «none» будет считать подмодуль измененным, если он содержит неотслеживаемые или измененные файлы или его HEAD отличается от фиксации, записанной в суперпроекте, и может использоваться для переопределения любых настроек параметра игнорирования в git-config (1) или gitmodules ( 5) . Когда используется «неотслеживаемый», подмодули не считаются грязными, если они содержат только неотслеживаемый контент (но они по-прежнему сканируются на предмет измененного содержимого). Использование "dirty" игнорирует все изменения в дереве работы подмодулей, показаны только изменения в коммитах, хранящихся в суперпроекте (так было до 1.7.0). Использование «all» скрывает все изменения в подмодулях.
 
-    --src-prefix=<prefix>
+    --src-prefix=\<prefix>
 Show the given source prefix instead of "a/".
 
 Показывать заданный префикс источника вместо "a /".
 
-    --dst-prefix=<prefix>
+    --dst-prefix=\<prefix>
 Show the given destination prefix instead of "b/".
 
 Показывать префикс получателя вместо «b /».
@@ -764,7 +764,7 @@ Do not show any source or destination prefix.
 
 Не показывать префикс источника или назначения.
 
-    --line-prefix=<prefix>
+    --line-prefix=\<prefix>
 Prepend an additional prefix to every line of output.
 
 Добавьте дополнительный префикс к каждой строке вывода.
@@ -791,10 +791,10 @@ Omit diff output for unmerged entries and just show "Unmerged". Can be used only
 
 Опустите вывод diff для несвязанных записей и просто покажите "Unmerged". Может использоваться только при сравнении рабочего дерева с индексом.
 
-### <path>…​
-The <paths> parameters, when given, are used to limit the diff to the named paths (you can give directory names and get diff for all files under them).
+### \<path>…​
+The \<paths> parameters, when given, are used to limit the diff to the named paths (you can give directory names and get diff for all files under them).
 
-Параметры <paths>, если они заданы, используются для ограничения сравнения именованными путями (вы можете указать имена каталогов и получить diff для всех файлов в них).
+Параметры \<paths>, если они заданы, используются для ограничения сравнения именованными путями (вы можете указать имена каталогов и получить diff для всех файлов в них).
      
 ### Raw output format
 
@@ -808,22 +808,22 @@ These commands all compare two sets of things; what is compared differs:
 
 Все эти команды сравнивают два набора вещей; что сравнивается отличается:
 
-    git-diff-index <tree-ish>
-compares the <tree-ish> and the files on the filesystem.
+    git-diff-index \<tree-ish>
+compares the \<tree-ish> and the files on the filesystem.
 
-сравнивает <tree-ish> и файлы в файловой системе.
+сравнивает \<tree-ish> и файлы в файловой системе.
 
-    git-diff-index --cached <tree-ish>
-compares the <tree-ish> and the index.
+    git-diff-index --cached \<tree-ish>
+compares the \<tree-ish> and the index.
 
-сравнивает <tree-ish> и index.
+сравнивает \<tree-ish> и index.
 
-    git-diff-tree [-r] <tree-ish-1> <tree-ish-2> [<pattern>…​]
+    git-diff-tree [-r] \<tree-ish-1> \<tree-ish-2> [\<pattern>…​]
 compares the trees named by the two arguments.
 
 сравнивает деревья, названные двумя аргументами.
 
-    git-diff-files [<pattern>…​]
+    git-diff-files [\<pattern>…​]
 compares the index and the files on the filesystem.
 
 сравнивает индекс и файлы в файловой системе.
@@ -885,9 +885,9 @@ Status letters C and R are always followed by a score (denoting the percentage o
 
 За буквами статуса C и R всегда следует оценка (обозначающая процент сходства между источником и целью перемещения или копии). За статусной буквой M может следовать оценка (обозначающая процент несходства) перезаписи файлов.
 
-<sha1> is shown as all 0’s if a file is new on the filesystem and it is out of sync with the index.
+\<sha1> is shown as all 0’s if a file is new on the filesystem and it is out of sync with the index.
 
-<sha1> отображается как все 0, если файл в файловой системе новый и не синхронизирован с индексом
+\<sha1> отображается как все 0, если файл в файловой системе новый и не синхронизирован с индексом
 
 Example:
 
@@ -966,17 +966,17 @@ When rename/copy is involved, file1 and file2 show the name of the source file o
 
 За ним следует одна или несколько расширенных строк заголовка:
 
-        old mode <mode>
-        new mode <mode>
-        deleted file mode <mode>
-        new file mode <mode>
-        copy from <path>
-        copy to <path>
-        rename from <path>
-        rename to <path>
-        similarity index <number>
-        dissimilarity index <number>
-        index <hash>..<hash> <mode>
+        old mode \<mode>
+        new mode \<mode>
+        deleted file mode \<mode>
+        new file mode \<mode>
+        copy from \<path>
+        copy to \<path>
+        rename from \<path>
+        rename to \<path>
+        similarity index \<number>
+        dissimilarity index \<number>
+        index \<hash>..\<hash> \<mode>
 File modes are printed as 6-digit octal numbers including the file type and file permission bits.
 
 Режимы файлов печатаются в виде шестизначных восьмеричных чисел, включая биты типа и прав доступа к файлу.
@@ -989,9 +989,9 @@ The similarity index is the percentage of unchanged lines, and the dissimilarity
 
 Индекс сходства - это процент неизмененных строк, а индекс несходства - процент измененных строк. Это округленное целое число, за которым следует знак процента. Таким образом, значение индекса подобия 100% зарезервировано для двух одинаковых файлов, а 100% несходство означает, что ни одна строка из старого файла не попала в новый.
 
-The index line includes the blob object names before and after the change. The <mode> is included if the file mode does not change; otherwise, separate lines indicate the old and the new mode.
+The index line includes the blob object names before and after the change. The \<mode> is included if the file mode does not change; otherwise, separate lines indicate the old and the new mode.
 
-Строка индекса включает имена объектов BLOB-объектов до и после изменения. <Режим> включается, если режим файла не изменяется; в противном случае отдельные строки указывают старый и новый режим.
+Строка индекса включает имена объектов BLOB-объектов до и после изменения. \<Режим> включается, если режим файла не изменяется; в противном случае отдельные строки указывают старый и новый режим.
 
 3. Pathnames with "unusual" characters are quoted as explained for the configuration variable core.quotePath (see git-config(1)).
 
@@ -1038,7 +1038,7 @@ A "combined diff" format looks like this:
             static int initialized = 0;
             struct commit_name *n;
     
-     +      if (get_sha1(arg, sha1) < 0)
+     +      if (get_sha1(arg, sha1) \< 0)
      +              usage(describe_usage);
      +      cmit = lookup_commit_reference(sha1);
      +      if (!cmit)
@@ -1061,13 +1061,13 @@ or like this (when the --cc option is used):
 
 За ним следует одна или несколько расширенных строк заголовка (в этом примере показано слияние с двумя родителями):
 
-    index <hash>,<hash>..<hash>
-    mode <mode>,<mode>..<mode>
-    new file mode <mode>
-    deleted file mode <mode>,<mode>
-The mode <mode>,<mode>..<mode> line appears only if at least one of the <mode> is different from the rest. Extended headers with information about detected contents movement (renames and copying detection) are designed to work with diff of two <tree-ish> and are not used by combined diff format.
+    index \<hash>,\<hash>..\<hash>
+    mode \<mode>,\<mode>..\<mode>
+    new file mode \<mode>
+    deleted file mode \<mode>,\<mode>
+The mode \<mode>,\<mode>..\<mode> line appears only if at least one of the \<mode> is different from the rest. Extended headers with information about detected contents movement (renames and copying detection) are designed to work with diff of two \<tree-ish> and are not used by combined diff format.
 
-ode <mode>,<mode>..<mode>Линия появляется только тогда , когда по крайней мере один из <режим> отличается от остальных. Расширенные заголовки с информацией об обнаруженном перемещении содержимого (обнаружение переименований и копий) предназначены для работы с diff из двух <tree-ish> и не используются в комбинированном формате diff.
+ode \<mode>,\<mode>..\<mode>Линия появляется только тогда , когда по крайней мере один из \<режим> отличается от остальных. Расширенные заголовки с информацией об обнаруженном перемещении содержимого (обнаружение переименований и копий) предназначены для работы с diff из двух \<tree-ish> и не используются в комбинированном формате diff.
 
 3. It is followed by two-line from-file/to-file header
 
@@ -1095,7 +1095,7 @@ This extended format can be useful if rename or copy detection is active, to all
 
 Формат заголовка блока изменен, чтобы предотвратить его случайную загрузку patch -p1. Комбинированный формат сравнения был создан для проверки изменений фиксации слияния и не предназначался для применения. Изменение аналогично изменению в заголовке расширенного индекса :
 
-    @@@ <from-file-range> <from-file-range> <to-file-range> @@@
+    @@@ \<from-file-range> \<from-file-range> \<to-file-range> @@@
 There are (number of parents + 1) @ characters in the chunk header for combined diff format.
 
 В @заголовке блока для комбинированного формата сравнения есть (количество родителей + 1) символов.

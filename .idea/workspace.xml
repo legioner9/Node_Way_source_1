@@ -27,7 +27,152 @@
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/create_what_trane.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/create_what_trane.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/Start_blob_1@1.1/.git_/COMMIT_EDITMSG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/Start_blob_1@1.1/.git_/FETCH_HEAD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/Start_blob_1@1.1/.git_/HEAD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/Start_blob_1@1.1/.git_/ORIG_HEAD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/Start_blob_1@1.1/.git_/config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/Start_blob_1@1.1/.git_/description" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/Start_blob_1@1.1/.git_/hooks/applypatch-msg.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/Start_blob_1@1.1/.git_/hooks/commit-msg.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/Start_blob_1@1.1/.git_/hooks/fsmonitor-watchman.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/Start_blob_1@1.1/.git_/hooks/post-update.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/Start_blob_1@1.1/.git_/hooks/pre-applypatch.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/Start_blob_1@1.1/.git_/hooks/pre-commit.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/Start_blob_1@1.1/.git_/hooks/pre-merge-commit.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/Start_blob_1@1.1/.git_/hooks/pre-push.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/Start_blob_1@1.1/.git_/hooks/pre-rebase.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/Start_blob_1@1.1/.git_/hooks/pre-receive.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/Start_blob_1@1.1/.git_/hooks/prepare-commit-msg.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/Start_blob_1@1.1/.git_/hooks/update.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/Start_blob_1@1.1/.git_/index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/Start_blob_1@1.1/.git_/info/exclude" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/Start_blob_1@1.1/.git_/objects/0e/41cd8a7212264376865ad86f1362b765c9483c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/Start_blob_1@1.1/.git_/objects/20/1257f2759ebec34447c6eaff6615af8f012a68" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/Start_blob_1@1.1/.git_/objects/23/6e15598160f7b49dca3a81c4f8c26efed787c1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/Start_blob_1@1.1/.git_/objects/36/2e0b38f53a55f60e8db54a9bcda808dfb5a3f2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/Start_blob_1@1.1/.git_/objects/3f/52b36908e7f0ba9e6848bbd89e9bad13d16bbf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/Start_blob_1@1.1/.git_/objects/44/b360304eceed825d79f8367b1709ec3bc755e9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/Start_blob_1@1.1/.git_/objects/51/a89ce19f115c0b0eb209b48cea574941c44a0a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/Start_blob_1@1.1/.git_/objects/59/36e64395fd908c68bf504d15a29c458000609b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/Start_blob_1@1.1/.git_/objects/63/7676fe1cf31991c4ca0e3fcd1129fe1d934352" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/Start_blob_1@1.1/.git_/objects/77/3fede3a39c292fdacf1827fe041f4b65373a92" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/Start_blob_1@1.1/.git_/objects/88/b46bdda7c20b826d2acb3d8dc879b3d88d25ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/Start_blob_1@1.1/.git_/objects/96/82f7244cc6c32d329b44feff05422402cbaa62" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/Start_blob_1@1.1/.git_/objects/ae/177be214c5dab8c0485adbfe864f45f050754c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/Start_blob_1@1.1/.git_/objects/b1/3356d81615a4f452f06989d9a2aa0a1b3ec4e5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/Start_blob_1@1.1/.git_/objects/bc/9d6375a946ab215700a8fa0dff62ecbc0831bf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/Start_blob_1@1.1/.git_/objects/c5/f760e0267db62ec96e1c42ef12272ab1f059a9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/Start_blob_1@1.1/.git_/objects/cd/4fcf4526ccdd3ad92d3474e6b72dc7f604af9f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/Start_blob_1@1.1/.git_/objects/db/06425198817508b1b60255ae9e622cf4a66e4b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/Start_blob_1@1.1/.git_/objects/e3/874ccf196c56a9e201028d84a333a15a186d75" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/Start_blob_1@1.1/.git_/objects/e4/3509468e03085e4b38dc5576eb63deea234b58" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/Start_blob_1@1.1/.git_/objects/e6/9de29bb2d1d6434b8b29ae775ad8c2e48c5391" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/Start_blob_1@1.1/.git_/objects/ec/3e7e1b7604d8048b931a1ef9686454880bc535" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/Start_blob_1@1.1/.git_/objects/f7/a0c709bf818c09a0ff69e9ba1f26c9aff1f2f5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/Start_blob_1@1.1/.git_/refs/heads/master" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/Start_blob_1@1.1/.git_/refs/stash" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/Start_blob_1@1.1/cl_in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/Start_blob_1@1.1/cl_ws" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/Start_blob_1@1.1/mas1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/Start_blob_1@1.1/mas2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/Start_blob_1@1.1/mas3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/Start_blob_1@1.1/mo_in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/_src/2git_add_mas1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/_src/2git_add_mas2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/_src/2git_bring_inside_mas3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/_src/2git_comm_mas2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/_src/2git_modify_sta1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/_src/2git_touch_mas2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/_src/create_start_blob_1@1.1_{st}.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/_src/create_start_blob_1@1.1_{ws}.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/_src/git_add_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/_src/git_ch_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/_src/git_comm_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/_src/git_comm_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/_src/git_diff_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/_src/git_sta_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/_src/it_sta_diff_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/blob_Git_what_trane{repo}/.git_/COMMIT_EDITMSG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/blob_Git_what_trane{repo}/.git_/FETCH_HEAD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/blob_Git_what_trane{repo}/.git_/HEAD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/blob_Git_what_trane{repo}/.git_/ORIG_HEAD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/blob_Git_what_trane{repo}/.git_/config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/blob_Git_what_trane{repo}/.git_/description" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/blob_Git_what_trane{repo}/.git_/hooks/applypatch-msg.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/blob_Git_what_trane{repo}/.git_/hooks/commit-msg.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/blob_Git_what_trane{repo}/.git_/hooks/fsmonitor-watchman.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/blob_Git_what_trane{repo}/.git_/hooks/post-update.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/blob_Git_what_trane{repo}/.git_/hooks/pre-applypatch.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/blob_Git_what_trane{repo}/.git_/hooks/pre-commit.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/blob_Git_what_trane{repo}/.git_/hooks/pre-merge-commit.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/blob_Git_what_trane{repo}/.git_/hooks/pre-push.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/blob_Git_what_trane{repo}/.git_/hooks/pre-rebase.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/blob_Git_what_trane{repo}/.git_/hooks/pre-receive.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/blob_Git_what_trane{repo}/.git_/hooks/prepare-commit-msg.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/blob_Git_what_trane{repo}/.git_/hooks/update.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/blob_Git_what_trane{repo}/.git_/index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/blob_Git_what_trane{repo}/.git_/info/exclude" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/blob_Git_what_trane{repo}/.git_/objects/0e/41cd8a7212264376865ad86f1362b765c9483c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/blob_Git_what_trane{repo}/.git_/objects/20/1257f2759ebec34447c6eaff6615af8f012a68" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/blob_Git_what_trane{repo}/.git_/objects/23/6e15598160f7b49dca3a81c4f8c26efed787c1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/blob_Git_what_trane{repo}/.git_/objects/36/2e0b38f53a55f60e8db54a9bcda808dfb5a3f2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/blob_Git_what_trane{repo}/.git_/objects/3f/52b36908e7f0ba9e6848bbd89e9bad13d16bbf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/blob_Git_what_trane{repo}/.git_/objects/44/b360304eceed825d79f8367b1709ec3bc755e9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/blob_Git_what_trane{repo}/.git_/objects/51/a89ce19f115c0b0eb209b48cea574941c44a0a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/blob_Git_what_trane{repo}/.git_/objects/59/36e64395fd908c68bf504d15a29c458000609b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/blob_Git_what_trane{repo}/.git_/objects/63/7676fe1cf31991c4ca0e3fcd1129fe1d934352" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/blob_Git_what_trane{repo}/.git_/objects/77/3fede3a39c292fdacf1827fe041f4b65373a92" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/blob_Git_what_trane{repo}/.git_/objects/88/b46bdda7c20b826d2acb3d8dc879b3d88d25ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/blob_Git_what_trane{repo}/.git_/objects/96/82f7244cc6c32d329b44feff05422402cbaa62" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/blob_Git_what_trane{repo}/.git_/objects/ae/177be214c5dab8c0485adbfe864f45f050754c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/blob_Git_what_trane{repo}/.git_/objects/b1/3356d81615a4f452f06989d9a2aa0a1b3ec4e5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/blob_Git_what_trane{repo}/.git_/objects/bc/9d6375a946ab215700a8fa0dff62ecbc0831bf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/blob_Git_what_trane{repo}/.git_/objects/c5/f760e0267db62ec96e1c42ef12272ab1f059a9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/blob_Git_what_trane{repo}/.git_/objects/cd/4fcf4526ccdd3ad92d3474e6b72dc7f604af9f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/blob_Git_what_trane{repo}/.git_/objects/db/06425198817508b1b60255ae9e622cf4a66e4b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/blob_Git_what_trane{repo}/.git_/objects/e3/874ccf196c56a9e201028d84a333a15a186d75" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/blob_Git_what_trane{repo}/.git_/objects/e4/3509468e03085e4b38dc5576eb63deea234b58" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/blob_Git_what_trane{repo}/.git_/objects/e6/9de29bb2d1d6434b8b29ae775ad8c2e48c5391" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/blob_Git_what_trane{repo}/.git_/objects/ec/3e7e1b7604d8048b931a1ef9686454880bc535" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/blob_Git_what_trane{repo}/.git_/objects/f7/a0c709bf818c09a0ff69e9ba1f26c9aff1f2f5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/blob_Git_what_trane{repo}/.git_/refs/heads/master" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/blob_Git_what_trane{repo}/.git_/refs/remotes/lo_repo/master" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/blob_Git_what_trane{repo}/.git_/refs/stash" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/blob_Git_what_trane{repo}/cl_in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/blob_Git_what_trane{repo}/cl_ws" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/blob_Git_what_trane{repo}/mas1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/blob_Git_what_trane{repo}/mas2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/blob_Git_what_trane{repo}/mas3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/blob_Git_what_trane{repo}/mo_in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/create_bind_repo.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/create_start_blob_1@1.1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/create_what_trane.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/repo/HEAD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/repo/config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/repo/description" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/repo/hooks/applypatch-msg.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/repo/hooks/commit-msg.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/repo/hooks/fsmonitor-watchman.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/repo/hooks/post-update.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/repo/hooks/pre-applypatch.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/repo/hooks/pre-commit.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/repo/hooks/pre-merge-commit.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/repo/hooks/pre-push.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/repo/hooks/pre-rebase.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/repo/hooks/pre-receive.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/repo/hooks/prepare-commit-msg.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/repo/hooks/update.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/repo/info/exclude" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/repo/objects/51/a89ce19f115c0b0eb209b48cea574941c44a0a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/repo/objects/63/7676fe1cf31991c4ca0e3fcd1129fe1d934352" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/repo/objects/ae/177be214c5dab8c0485adbfe864f45f050754c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/repo/objects/bc/9d6375a946ab215700a8fa0dff62ecbc0831bf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/repo/objects/cd/4fcf4526ccdd3ad92d3474e6b72dc7f604af9f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/repo/objects/e3/874ccf196c56a9e201028d84a333a15a186d75" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/repo/objects/e6/9de29bb2d1d6434b8b29ae775ad8c2e48c5391" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/diff/Git_what_trane{diff}@1_{repo}/repo/refs/heads/master" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,7 +275,7 @@
     <property name="add_unversioned_files" value="$PROJECT_DIR$/Jobs/SetGlobLoggers/ModLogger_1/Core/Logs/eLogs.txt&#10;true" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="11.6.0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/help" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Workout_this/blobs_for_taining/giteveryday" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.jscs" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -163,11 +308,11 @@
       <recent name="E:\Node_projects\Node_Way\NBase\_Md\_Index" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\giteveryday" />
       <recent name="E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\help" />
       <recent name="E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\fsck" />
       <recent name="E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\stash" />
       <recent name="E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\revert" />
-      <recent name="E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\reset" />
     </key>
   </component>
   <component name="RunManager" selected="npm.dev_examp">
@@ -432,7 +577,7 @@
       <workItem from="1601961115392" duration="5372000" />
       <workItem from="1602228523249" duration="1809000" />
       <workItem from="1602230886343" duration="2746000" />
-      <workItem from="1602390324236" duration="35129000" />
+      <workItem from="1602390324236" duration="36790000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
