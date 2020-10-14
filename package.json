@@ -4,10 +4,10 @@
   "description": "\"# Node_Docs\"",
   "main": "index.js",
   "scripts": {
-    "dev": "ndb node_modules/st_ex1_prod1/SetFs/CreateDirSistem/CreateDirLikeGit_2/Test/1.js",
+    "dev": "ndb node_modules/st_doc1/nodejs.org_DOCS.v.2/CommandLine/#TSH/Copy_learn/CommandLine-master/JavaScript/3-prompt.js",
     "dev_examp": "ndb node_modules/st_ex1/SetDirFile/CreateDirFile/CreateTechDir_1/Test/main_test.js",
     "dev_st_ex1_prod1": "ndb NBase/_Md/_Index/__Create_LikeGit/create.js",
-    "dev_st_doc1": "ndb NBase/_Md/_Index/_Windows_PowerShell_{LG2}/Containers/Intro_to_this/habr.com/RUVDS.com/cloneFileToDir_in_num_2_3_level.js",
+    "dev_st_doc1": "ndb node_modules/st_doc1/nodejs.org_DOCS.v.2/CommandLine/#TSH/Copy_learn/CommandLine-master/JavaScript/1-console.js",
     "node": "node node_modules/st_ex1/SetComandLine/SimpleLines/ExampleLogin/T est/1.js",
     "dev_Gzip": "node nodejs.org_DOCS/Stream/StepTwo/TransformStream/ChainPipe/fs_decripto_zlib_fs_on_ClassReportProgress_on_done.js data",
     "dev_client": "ndb node NPM_/legioner9_ex2/Practice/Any_Serves/http_advanced_srv_client/Way/client.js",
