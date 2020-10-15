@@ -26,12 +26,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
-      <change afterPath="$PROJECT_DIR$/node_modules/st_doc1/nodejs.org_DOCS.v.2/CommandLine/Way/7-login.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/st_doc1/nodejs.org_DOCS.v.2/CommandLine/Way/ques_1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/st_doc1/nodejs.org_DOCS.v.2/CommandLine/Way/ques_2.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_doc1/nodejs.org_DOCS.v.2/CommandLine/Way/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_doc1/nodejs.org_DOCS.v.2/CommandLine/Way/ReadMe.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -430,7 +425,7 @@
       <workItem from="1602228523249" duration="1809000" />
       <workItem from="1602230886343" duration="2746000" />
       <workItem from="1602390324236" duration="40357000" />
-      <workItem from="1602616075570" duration="28236000" />
+      <workItem from="1602616075570" duration="28833000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
