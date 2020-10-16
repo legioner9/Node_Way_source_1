@@ -46,6 +46,7 @@ node_modules/*
 !node_modules/st_ex1
 !node_modules/st_ini
 !node_modules/st_ex1_deep1
+!node_modules/st_ex1_up1
 !node_modules/st_ini_deep1
 !node_modules/st_ex1_prod1
 jspm_packages/
