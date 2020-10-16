@@ -49,6 +49,7 @@ node_modules/*
 !node_modules/st_ex1_up1
 !node_modules/st_ini_deep1
 !node_modules/st_ex1_prod1
+!node_modules/st___
 jspm_packages/
 
 # TypeScript v1 declaration files
