@@ -27,9 +27,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_doc1/nodejs.org_DOCS.v.2/CommandLine/Way/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_doc1/nodejs.org_DOCS.v.2/CommandLine/Way/ReadMe.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_doc1/nodejs.org_DOCS.v.2/CommandLine/Way/ques_3.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_doc1/nodejs.org_DOCS.v.2/CommandLine/Way/ques_3.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/CreateDirFile/CreateTechDir_1/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/CreateDirFile/CreateTechDir_1/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1_deep1/SetLogical/LogicalDebug/L_fsLog/fsLog/log.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ex1_deep1/SetLogical/LogicalDebug/L_fsLog/fsLog/log.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,7 +130,7 @@
     <property name="add_unversioned_files" value="$PROJECT_DIR$/Jobs/SetGlobLoggers/ModLogger_1/Core/Logs/eLogs.txt&#10;true" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="11.6.0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/node_modules/st_doc1/nodejs.org_DOCS.v.2/CommandLine/Way" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/ExampCreateArr" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.jscs" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -158,11 +156,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1\SetDirFile\ExampCreateArr" />
+      <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1\SetDirFile\CreateDirFile" />
       <recent name="E:\Node_projects\Node_Way\node_modules\st_doc1\nodejs.org_DOCS.v.2\CommandLine\Way" />
       <recent name="E:\Node_projects\Node_Way\node_modules\st_doc1\nodejs.org_DOCS.v.2\Util" />
       <recent name="E:\Node_projects\Node_Way\node_modules\st_doc1\nodejs.org_DOCS.v.2" />
-      <recent name="E:\Node_projects\Node_Way\node_modules\st_doc1\nodejs.org_DOCS.v.2\Console" />
-      <recent name="E:\Node_projects\Node_Way\node_modules\st_doc1\nodejs.org_DOCS.v.2\CommandLine" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Node_projects\Node_Way\node_modules\st_doc1\nodejs.org_DOCS\__\_" />
@@ -172,17 +170,17 @@
       <recent name="E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.ques_3.js">
+  <component name="RunManager" selected="Node.js.main_test.js">
     <configuration name="a.html" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/Node_Way/Node_Docs/Education/IlKan/learn.javascript.ru/Browser/1/1.1/a.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="6-parse_1.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="6-parse_1.js" working-dir="$PROJECT_DIR$/NBase/_Md/_Index/_HPW/Part_I/content/Courses/Fundamentals/basic_sintax/DataTypes-master/JavaScript">
       <method v="2" />
     </configuration>
-    <configuration name="7-login.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/node_modules/st_doc1/nodejs.org_DOCS.v.2/CommandLine/#TSH/Copy_learn/CommandLine-master/JavaScript/7-login.js" working-dir="$PROJECT_DIR$/node_modules/st_doc1/nodejs.org_DOCS.v.2/CommandLine/#TSH/Copy_learn/CommandLine-master/JavaScript">
+    <configuration name="Object.create.js" type="NodeJSConfigurationType" nameIsGenerated="true" node-parameters="ndb" path-to-js-file="$PROJECT_DIR$/node_modules/st_doc1/js_DOCS/Function/_@_FunctionEngendering/InheritsEgeneringModel/Object.create.js" working-dir="$PROJECT_DIR$/node_modules/st_doc1/js_DOCS/Function/_@_FunctionEngendering">
       <method v="2" />
     </configuration>
-    <configuration name="Object.create.js" type="NodeJSConfigurationType" nameIsGenerated="true" node-parameters="ndb" path-to-js-file="$PROJECT_DIR$/node_modules/st_doc1/js_DOCS/Function/_@_FunctionEngendering/InheritsEgeneringModel/Object.create.js" working-dir="$PROJECT_DIR$/node_modules/st_doc1/js_DOCS/Function/_@_FunctionEngendering">
+    <configuration name="main_test.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/CreateDirFile/CreateTechDir_4.v.2/Test/main_test.js" working-dir="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/CreateDirFile/CreateTechDir_4.v.2/Test">
       <method v="2" />
     </configuration>
     <configuration name="ques_1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/node_modules/st_doc1/nodejs.org_DOCS.v.2/CommandLine/Way/ques_1.js" working-dir="$PROJECT_DIR$/node_modules/st_doc1/nodejs.org_DOCS.v.2/CommandLine/Way">
@@ -209,18 +207,18 @@
       <item itemvalue="Node.js.6-parse_1.js" />
       <item itemvalue="Node.js.Object.create.js" />
       <item itemvalue="npm.dev" />
-      <item itemvalue="Node.js.7-login.js" />
       <item itemvalue="Node.js.ques_1.js" />
       <item itemvalue="Node.js.ques_2.js" />
       <item itemvalue="Node.js.ques_3.js" />
+      <item itemvalue="Node.js.main_test.js" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.main_test.js" />
         <item itemvalue="Node.js.ques_3.js" />
         <item itemvalue="Node.js.ques_2.js" />
         <item itemvalue="npm.dev" />
         <item itemvalue="Node.js.ques_1.js" />
-        <item itemvalue="Node.js.7-login.js" />
       </list>
     </recent_temporary>
   </component>
@@ -428,7 +426,7 @@
       <workItem from="1602228523249" duration="1809000" />
       <workItem from="1602230886343" duration="2746000" />
       <workItem from="1602390324236" duration="40357000" />
-      <workItem from="1602616075570" duration="39546000" />
+      <workItem from="1602616075570" duration="41684000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
@@ -974,26 +972,26 @@
     <state x="461" y="204" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1597595554793" />
     <state x="-921" y="187" width="730" height="606" key="FileChooserDialogImpl/0.0.1366.728/-1440.0.1440.900@-1440.0.1440.900" timestamp="1595139980231" />
     <state x="519" y="178" width="699" height="606" key="FileChooserDialogImpl/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1602648767743" />
-    <state width="1241" height="150" key="GridCell.Tab.0.bottom" timestamp="1602778093736">
+    <state width="1272" height="155" key="GridCell.Tab.0.bottom" timestamp="1602828625044">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1272" height="182" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1595261214870" />
-    <state width="1241" height="150" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1602778093736" />
-    <state width="1241" height="150" key="GridCell.Tab.0.center" timestamp="1602778093736">
+    <state width="1272" height="155" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1602828625044" />
+    <state width="1272" height="155" key="GridCell.Tab.0.center" timestamp="1602828625044">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1272" height="182" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1595261214870" />
-    <state width="1241" height="150" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1602778093736" />
-    <state width="1241" height="150" key="GridCell.Tab.0.left" timestamp="1602778093736">
+    <state width="1272" height="155" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1602828625044" />
+    <state width="1272" height="155" key="GridCell.Tab.0.left" timestamp="1602828625044">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1272" height="182" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1595261214870" />
-    <state width="1241" height="150" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1602778093736" />
-    <state width="1241" height="150" key="GridCell.Tab.0.right" timestamp="1602778093736">
+    <state width="1272" height="155" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1602828625044" />
+    <state width="1272" height="155" key="GridCell.Tab.0.right" timestamp="1602828625044">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1272" height="182" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1595261214870" />
-    <state width="1241" height="150" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1602778093736" />
+    <state width="1272" height="155" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1602828625044" />
     <state width="1241" height="192" key="GridCell.Tab.1.bottom" timestamp="1602759607454">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
