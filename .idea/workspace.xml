@@ -26,534 +26,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/1.Документ.dir/1.1.Браузерное_окружение,_спецификации.dir/1.1.Браузерное_окружение,_спецификации.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/1.Документ.dir/1.1.Браузерное_окружение,_спецификации.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/1.Документ.dir/1.1.Браузерное_окружение,_спецификации.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/1.Документ.dir/1.1.Браузерное_окружение,_спецификации.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/1.Документ.dir/1.1.Браузерное_окружение,_спецификации.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/1.Документ.dir/1.10.Размеры_и_прокрутка_окна.dir/1.10.Размеры_и_прокрутка_окна.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/1.Документ.dir/1.10.Размеры_и_прокрутка_окна.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/1.Документ.dir/1.10.Размеры_и_прокрутка_окна.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/1.Документ.dir/1.10.Размеры_и_прокрутка_окна.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/1.Документ.dir/1.10.Размеры_и_прокрутка_окна.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/1.Документ.dir/1.11.Координаты.dir/1.11.Координаты.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/1.Документ.dir/1.11.Координаты.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/1.Документ.dir/1.11.Координаты.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/1.Документ.dir/1.11.Координаты.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/1.Документ.dir/1.11.Координаты.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/1.Документ.dir/1.2.DOM-дерево.dir/1.2.DOM-дерево.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/1.Документ.dir/1.2.DOM-дерево.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/1.Документ.dir/1.2.DOM-дерево.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/1.Документ.dir/1.2.DOM-дерево.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/1.Документ.dir/1.2.DOM-дерево.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/1.Документ.dir/1.3.Навигация_по_DOM-элементам.dir/1.3.Навигация_по_DOM-элементам.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/1.Документ.dir/1.3.Навигация_по_DOM-элементам.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/1.Документ.dir/1.3.Навигация_по_DOM-элементам.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/1.Документ.dir/1.3.Навигация_по_DOM-элементам.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/1.Документ.dir/1.3.Навигация_по_DOM-элементам.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/1.Документ.dir/1.4.Поиск_getElement,_querySelector.dir/1.4.Поиск_getElement,_querySelector.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/1.Документ.dir/1.4.Поиск_getElement,_querySelector.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/1.Документ.dir/1.4.Поиск_getElement,_querySelector.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/1.Документ.dir/1.4.Поиск_getElement,_querySelector.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/1.Документ.dir/1.4.Поиск_getElement,_querySelector.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/1.Документ.dir/1.5.Свойства_узлов_тип,_тег_и_содержимое.dir/1.5.Свойства_узлов_тип,_тег_и_содержимое.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/1.Документ.dir/1.5.Свойства_узлов_тип,_тег_и_содержимое.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/1.Документ.dir/1.5.Свойства_узлов_тип,_тег_и_содержимое.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/1.Документ.dir/1.5.Свойства_узлов_тип,_тег_и_содержимое.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/1.Документ.dir/1.5.Свойства_узлов_тип,_тег_и_содержимое.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/1.Документ.dir/1.6.Атрибуты_и_свойства.dir/1.6.Атрибуты_и_свойства.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/1.Документ.dir/1.6.Атрибуты_и_свойства.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/1.Документ.dir/1.6.Атрибуты_и_свойства.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/1.Документ.dir/1.6.Атрибуты_и_свойства.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/1.Документ.dir/1.6.Атрибуты_и_свойства.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/1.Документ.dir/1.7.Изменение_документа.dir/1.7.Изменение_документа.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/1.Документ.dir/1.7.Изменение_документа.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/1.Документ.dir/1.7.Изменение_документа.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/1.Документ.dir/1.7.Изменение_документа.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/1.Документ.dir/1.7.Изменение_документа.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/1.Документ.dir/1.8.Стили_и_классы.dir/1.8.Стили_и_классы.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/1.Документ.dir/1.8.Стили_и_классы.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/1.Документ.dir/1.8.Стили_и_классы.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/1.Документ.dir/1.8.Стили_и_классы.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/1.Документ.dir/1.8.Стили_и_классы.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/1.Документ.dir/1.9.Размеры_и_прокрутка_элементов.dir/1.9.Размеры_и_прокрутка_элементов.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/1.Документ.dir/1.9.Размеры_и_прокрутка_элементов.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/1.Документ.dir/1.9.Размеры_и_прокрутка_элементов.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/1.Документ.dir/1.9.Размеры_и_прокрутка_элементов.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/1.Документ.dir/1.9.Размеры_и_прокрутка_элементов.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/1.Документ.dir/1.Документ.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/1.Документ.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/1.Документ.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/1.Документ.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/1.Документ.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/2.Введение_в_события.dir/2.1.Введение_в_браузерные_события.dir/2.1.Введение_в_браузерные_события.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/2.Введение_в_события.dir/2.1.Введение_в_браузерные_события.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/2.Введение_в_события.dir/2.1.Введение_в_браузерные_события.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/2.Введение_в_события.dir/2.1.Введение_в_браузерные_события.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/2.Введение_в_события.dir/2.1.Введение_в_браузерные_события.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/2.Введение_в_события.dir/2.2.Всплытие_и_погружение.dir/2.2.Всплытие_и_погружение.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/2.Введение_в_события.dir/2.2.Всплытие_и_погружение.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/2.Введение_в_события.dir/2.2.Всплытие_и_погружение.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/2.Введение_в_события.dir/2.2.Всплытие_и_погружение.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/2.Введение_в_события.dir/2.2.Всплытие_и_погружение.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/2.Введение_в_события.dir/2.3.Делегирование_событий.dir/2.3.Делегирование_событий.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/2.Введение_в_события.dir/2.3.Делегирование_событий.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/2.Введение_в_события.dir/2.3.Делегирование_событий.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/2.Введение_в_события.dir/2.3.Делегирование_событий.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/2.Введение_в_события.dir/2.3.Делегирование_событий.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/2.Введение_в_события.dir/2.4.Действия_браузера_по_умолчанию.dir/2.4.Действия_браузера_по_умолчанию.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/2.Введение_в_события.dir/2.4.Действия_браузера_по_умолчанию.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/2.Введение_в_события.dir/2.4.Действия_браузера_по_умолчанию.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/2.Введение_в_события.dir/2.4.Действия_браузера_по_умолчанию.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/2.Введение_в_события.dir/2.4.Действия_браузера_по_умолчанию.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/2.Введение_в_события.dir/2.5.Генерация_пользовательских_событий.dir/2.5.Генерация_пользовательских_событий.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/2.Введение_в_события.dir/2.5.Генерация_пользовательских_событий.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/2.Введение_в_события.dir/2.5.Генерация_пользовательских_событий.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/2.Введение_в_события.dir/2.5.Генерация_пользовательских_событий.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/2.Введение_в_события.dir/2.5.Генерация_пользовательских_событий.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/2.Введение_в_события.dir/2.Введение_в_события.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/2.Введение_в_события.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/2.Введение_в_события.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/2.Введение_в_события.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/2.Введение_в_события.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/3.Интерфейсные_события.dir/3.1.Основы_событий_мыши.dir/3.1.Основы_событий_мыши.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/3.Интерфейсные_события.dir/3.1.Основы_событий_мыши.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/3.Интерфейсные_события.dir/3.1.Основы_событий_мыши.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/3.Интерфейсные_события.dir/3.1.Основы_событий_мыши.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/3.Интерфейсные_события.dir/3.1.Основы_событий_мыши.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/3.Интерфейсные_события.dir/3.2.Движение_мыши_mouseoverout,_mouseenterleave.dir/3.2.Движение_мыши_mouseoverout,_mouseenterleave.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/3.Интерфейсные_события.dir/3.2.Движение_мыши_mouseoverout,_mouseenterleave.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/3.Интерфейсные_события.dir/3.2.Движение_мыши_mouseoverout,_mouseenterleave.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/3.Интерфейсные_события.dir/3.2.Движение_мыши_mouseoverout,_mouseenterleave.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/3.Интерфейсные_события.dir/3.2.Движение_мыши_mouseoverout,_mouseenterleave.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/3.Интерфейсные_события.dir/3.3.Drag'n'Drop_с_событиями_мыши.dir/3.3.Drag'n'Drop_с_событиями_мыши.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/3.Интерфейсные_события.dir/3.3.Drag'n'Drop_с_событиями_мыши.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/3.Интерфейсные_события.dir/3.3.Drag'n'Drop_с_событиями_мыши.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/3.Интерфейсные_события.dir/3.3.Drag'n'Drop_с_событиями_мыши.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/3.Интерфейсные_события.dir/3.3.Drag'n'Drop_с_событиями_мыши.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/3.Интерфейсные_события.dir/3.4.Клавиатура_keydown_и_keyup.dir/3.4.Клавиатура_keydown_и_keyup.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/3.Интерфейсные_события.dir/3.4.Клавиатура_keydown_и_keyup.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/3.Интерфейсные_события.dir/3.4.Клавиатура_keydown_и_keyup.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/3.Интерфейсные_события.dir/3.4.Клавиатура_keydown_и_keyup.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/3.Интерфейсные_события.dir/3.4.Клавиатура_keydown_и_keyup.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/3.Интерфейсные_события.dir/3.5.События_указателя.dir/3.5.События_указателя.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/3.Интерфейсные_события.dir/3.5.События_указателя.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/3.Интерфейсные_события.dir/3.5.События_указателя.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/3.Интерфейсные_события.dir/3.5.События_указателя.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/3.Интерфейсные_события.dir/3.6.Прокрутка.dir/3.6.Прокрутка.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/3.Интерфейсные_события.dir/3.6.Прокрутка.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/3.Интерфейсные_события.dir/3.6.Прокрутка.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/3.Интерфейсные_события.dir/3.6.Прокрутка.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/3.Интерфейсные_события.dir/3.6.Прокрутка.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/3.Интерфейсные_события.dir/3.Интерфейсные_события.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/3.Интерфейсные_события.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/3.Интерфейсные_события.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/3.Интерфейсные_события.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/3.Интерфейсные_события.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/4.Формы,_элементы_управления.dir/4.1.Свойства_и_методы_формы.dir/4.1.Свойства_и_методы_формы.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/4.Формы,_элементы_управления.dir/4.1.Свойства_и_методы_формы.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/4.Формы,_элементы_управления.dir/4.1.Свойства_и_методы_формы.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/4.Формы,_элементы_управления.dir/4.1.Свойства_и_методы_формы.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/4.Формы,_элементы_управления.dir/4.1.Свойства_и_методы_формы.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/4.Формы,_элементы_управления.dir/4.2.Фокусировка_focusblur.dir/4.2.Фокусировка_focusblur.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/4.Формы,_элементы_управления.dir/4.2.Фокусировка_focusblur.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/4.Формы,_элементы_управления.dir/4.2.Фокусировка_focusblur.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/4.Формы,_элементы_управления.dir/4.2.Фокусировка_focusblur.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/4.Формы,_элементы_управления.dir/4.2.Фокусировка_focusblur.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/4.Формы,_элементы_управления.dir/4.3.События_change,_input,_cut,_copy,_paste.dir/4.3.События_change,_input,_cut,_copy,_paste.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/4.Формы,_элементы_управления.dir/4.3.События_change,_input,_cut,_copy,_paste.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/4.Формы,_элементы_управления.dir/4.3.События_change,_input,_cut,_copy,_paste.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/4.Формы,_элементы_управления.dir/4.3.События_change,_input,_cut,_copy,_paste.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/4.Формы,_элементы_управления.dir/4.3.События_change,_input,_cut,_copy,_paste.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/4.Формы,_элементы_управления.dir/4.4.Отправка_формы_событие_и_метод_submit.dir/4.4.Отправка_формы_событие_и_метод_submit.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/4.Формы,_элементы_управления.dir/4.4.Отправка_формы_событие_и_метод_submit.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/4.Формы,_элементы_управления.dir/4.4.Отправка_формы_событие_и_метод_submit.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/4.Формы,_элементы_управления.dir/4.4.Отправка_формы_событие_и_метод_submit.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/4.Формы,_элементы_управления.dir/4.4.Отправка_формы_событие_и_метод_submit.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/4.Формы,_элементы_управления.dir/4.Формы,_элементы_управления.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/4.Формы,_элементы_управления.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/4.Формы,_элементы_управления.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/4.Формы,_элементы_управления.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/4.Формы,_элементы_управления.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/5.Загрузка_документа_и_ресурсов.dir/5.1.Страница_DOMContentLoaded,_load,_beforeunload,_unload.dir/5.1.Страница_DOMContentLoaded,_load,_beforeunload,_unload.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/5.Загрузка_документа_и_ресурсов.dir/5.1.Страница_DOMContentLoaded,_load,_beforeunload,_unload.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/5.Загрузка_документа_и_ресурсов.dir/5.1.Страница_DOMContentLoaded,_load,_beforeunload,_unload.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/5.Загрузка_документа_и_ресурсов.dir/5.1.Страница_DOMContentLoaded,_load,_beforeunload,_unload.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/5.Загрузка_документа_и_ресурсов.dir/5.1.Страница_DOMContentLoaded,_load,_beforeunload,_unload.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/5.Загрузка_документа_и_ресурсов.dir/5.2.Скрипты_async,_defer.dir/5.2.Скрипты_async,_defer.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/5.Загрузка_документа_и_ресурсов.dir/5.2.Скрипты_async,_defer.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/5.Загрузка_документа_и_ресурсов.dir/5.2.Скрипты_async,_defer.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/5.Загрузка_документа_и_ресурсов.dir/5.2.Скрипты_async,_defer.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/5.Загрузка_документа_и_ресурсов.dir/5.2.Скрипты_async,_defer.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/5.Загрузка_документа_и_ресурсов.dir/5.3.Загрузка_ресурсов_onload_и_onerror.dir/5.3.Загрузка_ресурсов_onload_и_onerror.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/5.Загрузка_документа_и_ресурсов.dir/5.3.Загрузка_ресурсов_onload_и_onerror.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/5.Загрузка_документа_и_ресурсов.dir/5.3.Загрузка_ресурсов_onload_и_onerror.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/5.Загрузка_документа_и_ресурсов.dir/5.3.Загрузка_ресурсов_onload_и_onerror.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/5.Загрузка_документа_и_ресурсов.dir/5.3.Загрузка_ресурсов_onload_и_onerror.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/5.Загрузка_документа_и_ресурсов.dir/5.Загрузка_документа_и_ресурсов.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/5.Загрузка_документа_и_ресурсов.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/5.Загрузка_документа_и_ресурсов.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/5.Загрузка_документа_и_ресурсов.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/5.Загрузка_документа_и_ресурсов.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/6.Разное.dir/6.1.MutationObserver_наблюдатель_за_изменениями.dir/6.1.MutationObserver_наблюдатель_за_изменениями.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/6.Разное.dir/6.1.MutationObserver_наблюдатель_за_изменениями.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/6.Разное.dir/6.1.MutationObserver_наблюдатель_за_изменениями.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/6.Разное.dir/6.1.MutationObserver_наблюдатель_за_изменениями.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/6.Разное.dir/6.1.MutationObserver_наблюдатель_за_изменениями.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/6.Разное.dir/6.2.Selection_и_Range.dir/6.2.Selection_и_Range.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/6.Разное.dir/6.2.Selection_и_Range.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/6.Разное.dir/6.2.Selection_и_Range.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/6.Разное.dir/6.2.Selection_и_Range.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/6.Разное.dir/6.2.Selection_и_Range.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/6.Разное.dir/6.3.Событийный_цикл_микрозадачи_и_макрозадачи.dir/6.3.Событийный_цикл_микрозадачи_и_макрозадачи.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/6.Разное.dir/6.3.Событийный_цикл_микрозадачи_и_макрозадачи.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/6.Разное.dir/6.3.Событийный_цикл_микрозадачи_и_макрозадачи.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/6.Разное.dir/6.3.Событийный_цикл_микрозадачи_и_макрозадачи.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/6.Разное.dir/6.3.Событийный_цикл_микрозадачи_и_макрозадачи.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/6.Разное.dir/6.Разное.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/6.Разное.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/6.Разное.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/6.Разное.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/6.Разное.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/Part_1_md.md" beforeDir="false" afterPath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/Part_1_md.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/cloneFileToDir_in_num_2_3_level.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/1.Фреймы_и_окна.dir/1.1.Открытие_окон_и_методы_window.dir/1.1.Открытие_окон_и_методы_window.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/1.Фреймы_и_окна.dir/1.1.Открытие_окон_и_методы_window.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/1.Фреймы_и_окна.dir/1.1.Открытие_окон_и_методы_window.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/1.Фреймы_и_окна.dir/1.1.Открытие_окон_и_методы_window.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/1.Фреймы_и_окна.dir/1.1.Открытие_окон_и_методы_window.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/1.Фреймы_и_окна.dir/1.3.Атака_типа_clickjacking.dir/1.3.Атака_типа_clickjacking.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/1.Фреймы_и_окна.dir/1.3.Атака_типа_clickjacking.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/1.Фреймы_и_окна.dir/1.3.Атака_типа_clickjacking.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/1.Фреймы_и_окна.dir/1.3.Атака_типа_clickjacking.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/1.Фреймы_и_окна.dir/1.3.Атака_типа_clickjacking.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/1.Фреймы_и_окна.dir/1.Фреймы_и_окна.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/1.Фреймы_и_окна.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/1.Фреймы_и_окна.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/1.Фреймы_и_окна.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/1.Фреймы_и_окна.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/2.Бинарные_данные_и_файлы.dir/2.1.ArrayBuffer,_бинарные_массивы.dir/2.1.ArrayBuffer,_бинарные_массивы.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/2.Бинарные_данные_и_файлы.dir/2.1.ArrayBuffer,_бинарные_массивы.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/2.Бинарные_данные_и_файлы.dir/2.1.ArrayBuffer,_бинарные_массивы.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/2.Бинарные_данные_и_файлы.dir/2.1.ArrayBuffer,_бинарные_массивы.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/2.Бинарные_данные_и_файлы.dir/2.2.TextDecoder_и_TextEncoder.dir/2.2.TextDecoder_и_TextEncoder.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/2.Бинарные_данные_и_файлы.dir/2.2.TextDecoder_и_TextEncoder.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/2.Бинарные_данные_и_файлы.dir/2.2.TextDecoder_и_TextEncoder.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/2.Бинарные_данные_и_файлы.dir/2.2.TextDecoder_и_TextEncoder.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/2.Бинарные_данные_и_файлы.dir/2.3.Blob.dir/2.3.Blob.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/2.Бинарные_данные_и_файлы.dir/2.3.Blob.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/2.Бинарные_данные_и_файлы.dir/2.3.Blob.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/2.Бинарные_данные_и_файлы.dir/2.3.Blob.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/2.Бинарные_данные_и_файлы.dir/2.3.Blob.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/2.Бинарные_данные_и_файлы.dir/2.4.File_и_FileReader.dir/2.4.File_и_FileReader.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/2.Бинарные_данные_и_файлы.dir/2.4.File_и_FileReader.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/2.Бинарные_данные_и_файлы.dir/2.4.File_и_FileReader.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/2.Бинарные_данные_и_файлы.dir/2.4.File_и_FileReader.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/2.Бинарные_данные_и_файлы.dir/2.4.File_и_FileReader.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/2.Бинарные_данные_и_файлы.dir/2.Бинарные_данные_и_файлы.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/2.Бинарные_данные_и_файлы.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/2.Бинарные_данные_и_файлы.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/3.Сетевые_запросы.dir/3.1.Fetch.dir/3.1.Fetch.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/3.Сетевые_запросы.dir/3.1.Fetch.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/3.Сетевые_запросы.dir/3.1.Fetch.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/3.Сетевые_запросы.dir/3.1.Fetch.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/3.Сетевые_запросы.dir/3.1.Fetch.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/3.Сетевые_запросы.dir/3.10.Длинные_опросы.dir/3.10.Длинные_опросы.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/3.Сетевые_запросы.dir/3.10.Длинные_опросы.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/3.Сетевые_запросы.dir/3.10.Длинные_опросы.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/3.Сетевые_запросы.dir/3.10.Длинные_опросы.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/3.Сетевые_запросы.dir/3.10.Длинные_опросы.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/3.Сетевые_запросы.dir/3.11.WebSocket.dir/3.11.WebSocket.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/3.Сетевые_запросы.dir/3.11.WebSocket.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/3.Сетевые_запросы.dir/3.11.WebSocket.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/3.Сетевые_запросы.dir/3.11.WebSocket.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/3.Сетевые_запросы.dir/3.11.WebSocket.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/3.Сетевые_запросы.dir/3.12.Server_Sent_Events.dir/3.12.Server_Sent_Events.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/3.Сетевые_запросы.dir/3.12.Server_Sent_Events.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/3.Сетевые_запросы.dir/3.12.Server_Sent_Events.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/3.Сетевые_запросы.dir/3.12.Server_Sent_Events.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/3.Сетевые_запросы.dir/3.12.Server_Sent_Events.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/3.Сетевые_запросы.dir/3.2.FormData.dir/3.2.FormData.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/3.Сетевые_запросы.dir/3.2.FormData.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/3.Сетевые_запросы.dir/3.2.FormData.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/3.Сетевые_запросы.dir/3.2.FormData.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/3.Сетевые_запросы.dir/3.2.FormData.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/3.Сетевые_запросы.dir/3.3.Fetch_ход_загрузки.dir/3.3.Fetch_ход_загрузки.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/3.Сетевые_запросы.dir/3.3.Fetch_ход_загрузки.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/3.Сетевые_запросы.dir/3.3.Fetch_ход_загрузки.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/3.Сетевые_запросы.dir/3.3.Fetch_ход_загрузки.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/3.Сетевые_запросы.dir/3.3.Fetch_ход_загрузки.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/3.Сетевые_запросы.dir/3.4.Fetch_прерывание_запроса.dir/3.4.Fetch_прерывание_запроса.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/3.Сетевые_запросы.dir/3.4.Fetch_прерывание_запроса.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/3.Сетевые_запросы.dir/3.4.Fetch_прерывание_запроса.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/3.Сетевые_запросы.dir/3.4.Fetch_прерывание_запроса.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/3.Сетевые_запросы.dir/3.4.Fetch_прерывание_запроса.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/3.Сетевые_запросы.dir/3.5.Fetch_запросы_на_другие_сайты.dir/3.5.Fetch_запросы_на_другие_сайты.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/3.Сетевые_запросы.dir/3.5.Fetch_запросы_на_другие_сайты.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/3.Сетевые_запросы.dir/3.5.Fetch_запросы_на_другие_сайты.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/3.Сетевые_запросы.dir/3.5.Fetch_запросы_на_другие_сайты.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/3.Сетевые_запросы.dir/3.5.Fetch_запросы_на_другие_сайты.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/3.Сетевые_запросы.dir/3.6.Fetch_API.dir/3.6.Fetch_API.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/3.Сетевые_запросы.dir/3.6.Fetch_API.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/3.Сетевые_запросы.dir/3.6.Fetch_API.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/3.Сетевые_запросы.dir/3.6.Fetch_API.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/3.Сетевые_запросы.dir/3.6.Fetch_API.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/3.Сетевые_запросы.dir/3.7.Объекты_URL.dir/3.7.Объекты_URL.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/3.Сетевые_запросы.dir/3.7.Объекты_URL.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/3.Сетевые_запросы.dir/3.7.Объекты_URL.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/3.Сетевые_запросы.dir/3.7.Объекты_URL.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/3.Сетевые_запросы.dir/3.7.Объекты_URL.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/3.Сетевые_запросы.dir/3.8.XMLHttpRequest.dir/3.8.XMLHttpRequest.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/3.Сетевые_запросы.dir/3.8.XMLHttpRequest.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/3.Сетевые_запросы.dir/3.8.XMLHttpRequest.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/3.Сетевые_запросы.dir/3.8.XMLHttpRequest.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/3.Сетевые_запросы.dir/3.8.XMLHttpRequest.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/3.Сетевые_запросы.dir/3.9.Возобновляемая_загрузка_файлов.dir/3.9.Возобновляемая_загрузка_файлов.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/3.Сетевые_запросы.dir/3.9.Возобновляемая_загрузка_файлов.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/3.Сетевые_запросы.dir/3.9.Возобновляемая_загрузка_файлов.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/3.Сетевые_запросы.dir/3.9.Возобновляемая_загрузка_файлов.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/3.Сетевые_запросы.dir/3.9.Возобновляемая_загрузка_файлов.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/3.Сетевые_запросы.dir/3.Сетевые_запросы.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/3.Сетевые_запросы.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/3.Сетевые_запросы.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/3.Сетевые_запросы.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/3.Сетевые_запросы.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/4.Хранение_данных_в_браузере.dir/4.1.Куки,_document.cookie.dir/4.1.Куки,_document.cookie.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/4.Хранение_данных_в_браузере.dir/4.1.Куки,_document.cookie.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/4.Хранение_данных_в_браузере.dir/4.1.Куки,_document.cookie.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/4.Хранение_данных_в_браузере.dir/4.1.Куки,_document.cookie.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/4.Хранение_данных_в_браузере.dir/4.1.Куки,_document.cookie.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/4.Хранение_данных_в_браузере.dir/4.2.LocalStorage,_sessionStorage.dir/4.2.LocalStorage,_sessionStorage.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/4.Хранение_данных_в_браузере.dir/4.2.LocalStorage,_sessionStorage.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/4.Хранение_данных_в_браузере.dir/4.2.LocalStorage,_sessionStorage.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/4.Хранение_данных_в_браузере.dir/4.2.LocalStorage,_sessionStorage.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/4.Хранение_данных_в_браузере.dir/4.2.LocalStorage,_sessionStorage.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/4.Хранение_данных_в_браузере.dir/4.3.IndexedDB.dir/4.3.IndexedDB.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/4.Хранение_данных_в_браузере.dir/4.3.IndexedDB.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/4.Хранение_данных_в_браузере.dir/4.3.IndexedDB.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/4.Хранение_данных_в_браузере.dir/4.3.IndexedDB.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/4.Хранение_данных_в_браузере.dir/4.3.IndexedDB.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/4.Хранение_данных_в_браузере.dir/4.Хранение_данных_в_браузере.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/4.Хранение_данных_в_браузере.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/4.Хранение_данных_в_браузере.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/4.Хранение_данных_в_браузере.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/4.Хранение_данных_в_браузере.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/5.Анимация.dir/5.1.Кривые_Безье.dir/5.1.Кривые_Безье.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/5.Анимация.dir/5.1.Кривые_Безье.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/5.Анимация.dir/5.1.Кривые_Безье.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/5.Анимация.dir/5.1.Кривые_Безье.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/5.Анимация.dir/5.1.Кривые_Безье.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/5.Анимация.dir/5.2.CSS-анимации.dir/5.2.CSS-анимации.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/5.Анимация.dir/5.2.CSS-анимации.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/5.Анимация.dir/5.2.CSS-анимации.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/5.Анимация.dir/5.2.CSS-анимации.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/5.Анимация.dir/5.2.CSS-анимации.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/5.Анимация.dir/5.3.JavaScript-анимации.dir/5.3.JavaScript-анимации.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/5.Анимация.dir/5.3.JavaScript-анимации.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/5.Анимация.dir/5.3.JavaScript-анимации.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/5.Анимация.dir/5.3.JavaScript-анимации.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/5.Анимация.dir/5.3.JavaScript-анимации.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/5.Анимация.dir/5.Анимация.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/5.Анимация.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/5.Анимация.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/5.Анимация.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/6.Веб-компоненты.dir/6.1.С_орбитальной_высоты.dir/6.1.С_орбитальной_высоты.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/6.Веб-компоненты.dir/6.1.С_орбитальной_высоты.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/6.Веб-компоненты.dir/6.1.С_орбитальной_высоты.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/6.Веб-компоненты.dir/6.1.С_орбитальной_высоты.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/6.Веб-компоненты.dir/6.1.С_орбитальной_высоты.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/6.Веб-компоненты.dir/6.2.Пользовательские_элементы.dir/6.2.Пользовательские_элементы.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/6.Веб-компоненты.dir/6.2.Пользовательские_элементы.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/6.Веб-компоненты.dir/6.2.Пользовательские_элементы.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/6.Веб-компоненты.dir/6.2.Пользовательские_элементы.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/6.Веб-компоненты.dir/6.2.Пользовательские_элементы.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/6.Веб-компоненты.dir/6.3.Shadow_DOM.dir/6.3.Shadow_DOM.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/6.Веб-компоненты.dir/6.3.Shadow_DOM.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/6.Веб-компоненты.dir/6.3.Shadow_DOM.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/6.Веб-компоненты.dir/6.3.Shadow_DOM.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/6.Веб-компоненты.dir/6.3.Shadow_DOM.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/6.Веб-компоненты.dir/6.5.Слоты_теневого_DOM,_композиция.dir/6.5.Слоты_теневого_DOM,_композиция.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/6.Веб-компоненты.dir/6.5.Слоты_теневого_DOM,_композиция.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/6.Веб-компоненты.dir/6.5.Слоты_теневого_DOM,_композиция.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/6.Веб-компоненты.dir/6.5.Слоты_теневого_DOM,_композиция.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/6.Веб-компоненты.dir/6.5.Слоты_теневого_DOM,_композиция.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/6.Веб-компоненты.dir/6.6.Настройка_стилей_теневого_DOM.dir/6.6.Настройка_стилей_теневого_DOM.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/6.Веб-компоненты.dir/6.6.Настройка_стилей_теневого_DOM.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/6.Веб-компоненты.dir/6.6.Настройка_стилей_теневого_DOM.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/6.Веб-компоненты.dir/6.6.Настройка_стилей_теневого_DOM.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/6.Веб-компоненты.dir/6.6.Настройка_стилей_теневого_DOM.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/6.Веб-компоненты.dir/6.7.Теневой_DOM_и_события.dir/6.7.Теневой_DOM_и_события.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/6.Веб-компоненты.dir/6.7.Теневой_DOM_и_события.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/6.Веб-компоненты.dir/6.7.Теневой_DOM_и_события.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/6.Веб-компоненты.dir/6.7.Теневой_DOM_и_события.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/6.Веб-компоненты.dir/6.7.Теневой_DOM_и_события.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/6.Веб-компоненты.dir/6.Веб-компоненты.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/6.Веб-компоненты.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/6.Веб-компоненты.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/6.Веб-компоненты.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/6.Веб-компоненты.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/7.Регулярные_выражения.dir/7.1.Введение_шаблоны_и_флаги.dir/7.1.Введение_шаблоны_и_флаги.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/7.Регулярные_выражения.dir/7.1.Введение_шаблоны_и_флаги.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/7.Регулярные_выражения.dir/7.1.Введение_шаблоны_и_флаги.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/7.Регулярные_выражения.dir/7.1.Введение_шаблоны_и_флаги.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/7.Регулярные_выражения.dir/7.1.Введение_шаблоны_и_флаги.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/7.Регулярные_выражения.dir/7.10.Жадные_и_ленивые_квантификаторы.dir/7.10.Жадные_и_ленивые_квантификаторы.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/7.Регулярные_выражения.dir/7.10.Жадные_и_ленивые_квантификаторы.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/7.Регулярные_выражения.dir/7.10.Жадные_и_ленивые_квантификаторы.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/7.Регулярные_выражения.dir/7.10.Жадные_и_ленивые_квантификаторы.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/7.Регулярные_выражения.dir/7.10.Жадные_и_ленивые_квантификаторы.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/7.Регулярные_выражения.dir/7.11.Скобочные_группы.dir/7.11.Скобочные_группы.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/7.Регулярные_выражения.dir/7.11.Скобочные_группы.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/7.Регулярные_выражения.dir/7.11.Скобочные_группы.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/7.Регулярные_выражения.dir/7.11.Скобочные_группы.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/7.Регулярные_выражения.dir/7.11.Скобочные_группы.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/7.Регулярные_выражения.dir/7.12.Обратные_ссылки_в_шаблоне_N_и_kимя.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/7.Регулярные_выражения.dir/7.12.Обратные_ссылки_в_шаблоне_N_и_kимя.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/7.Регулярные_выражения.dir/7.12.Обратные_ссылки_в_шаблоне_N_и_kимя.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/7.Регулярные_выражения.dir/7.13.Альтернация.dir/7.13.Альтернация.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/7.Регулярные_выражения.dir/7.13.Альтернация.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/7.Регулярные_выражения.dir/7.13.Альтернация.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/7.Регулярные_выражения.dir/7.13.Альтернация.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/7.Регулярные_выражения.dir/7.13.Альтернация.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/7.Регулярные_выражения.dir/7.14.Опережающие_и_ретроспективные_проверки.dir/7.14.Опережающие_и_ретроспективные_проверки.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/7.Регулярные_выражения.dir/7.14.Опережающие_и_ретроспективные_проверки.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/7.Регулярные_выражения.dir/7.14.Опережающие_и_ретроспективные_проверки.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/7.Регулярные_выражения.dir/7.14.Опережающие_и_ретроспективные_проверки.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/7.Регулярные_выражения.dir/7.14.Опережающие_и_ретроспективные_проверки.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/7.Регулярные_выражения.dir/7.15.Катастрофический_возврат.dir/7.15.Катастрофический_возврат.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/7.Регулярные_выражения.dir/7.15.Катастрофический_возврат.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/7.Регулярные_выражения.dir/7.15.Катастрофический_возврат.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/7.Регулярные_выражения.dir/7.15.Катастрофический_возврат.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/7.Регулярные_выражения.dir/7.15.Катастрофический_возврат.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/7.Регулярные_выражения.dir/7.17.Методы_RegExp_и_String.dir/7.17.Методы_RegExp_и_String.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/7.Регулярные_выражения.dir/7.17.Методы_RegExp_и_String.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/7.Регулярные_выражения.dir/7.17.Методы_RegExp_и_String.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/7.Регулярные_выражения.dir/7.17.Методы_RegExp_и_String.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/7.Регулярные_выражения.dir/7.17.Методы_RegExp_и_String.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/7.Регулярные_выражения.dir/7.2.Символьные_классы.dir/7.2.Символьные_классы.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/7.Регулярные_выражения.dir/7.2.Символьные_классы.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/7.Регулярные_выражения.dir/7.2.Символьные_классы.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/7.Регулярные_выражения.dir/7.2.Символьные_классы.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/7.Регулярные_выражения.dir/7.2.Символьные_классы.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/7.Регулярные_выражения.dir/7.4.Якоря_начало_строки_^_и_конец_$.dir/7.4.Якоря_начало_строки_^_и_конец_$.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/7.Регулярные_выражения.dir/7.4.Якоря_начало_строки_^_и_конец_$.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/7.Регулярные_выражения.dir/7.4.Якоря_начало_строки_^_и_конец_$.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/7.Регулярные_выражения.dir/7.4.Якоря_начало_строки_^_и_конец_$.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/7.Регулярные_выражения.dir/7.4.Якоря_начало_строки_^_и_конец_$.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/7.Регулярные_выражения.dir/7.6.Граница_слова_b.dir/7.6.Граница_слова_b.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/7.Регулярные_выражения.dir/7.6.Граница_слова_b.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/7.Регулярные_выражения.dir/7.6.Граница_слова_b.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/7.Регулярные_выражения.dir/7.6.Граница_слова_b.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/7.Регулярные_выражения.dir/7.6.Граница_слова_b.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/7.Регулярные_выражения.dir/7.7.Экранирование,_специальные_символы.dir/7.7.Экранирование,_специальные_символы.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/7.Регулярные_выражения.dir/7.7.Экранирование,_специальные_символы.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/7.Регулярные_выражения.dir/7.7.Экранирование,_специальные_символы.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/7.Регулярные_выражения.dir/7.7.Экранирование,_специальные_символы.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/7.Регулярные_выражения.dir/7.7.Экранирование,_специальные_символы.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/7.Регулярные_выражения.dir/7.8.Наборы_и_диапазоны_....dir/7.8.Наборы_и_диапазоны_....md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/7.Регулярные_выражения.dir/7.8.Наборы_и_диапазоны_....dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/7.Регулярные_выражения.dir/7.8.Наборы_и_диапазоны_....dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/7.Регулярные_выражения.dir/7.8.Наборы_и_диапазоны_....dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/7.Регулярные_выражения.dir/7.8.Наборы_и_диапазоны_....dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/7.Регулярные_выражения.dir/7.9.Квантификаторы_+,_,_&amp;_и_{n}.dir/7.9.Квантификаторы_+,_,_&amp;_и_{n}.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/7.Регулярные_выражения.dir/7.9.Квантификаторы_+,_,_&amp;_и_{n}.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/7.Регулярные_выражения.dir/7.9.Квантификаторы_+,_,_&amp;_и_{n}.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/7.Регулярные_выражения.dir/7.9.Квантификаторы_+,_,_&amp;_и_{n}.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/7.Регулярные_выражения.dir/7.9.Квантификаторы_+,_,_&amp;_и_{n}.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/7.Регулярные_выражения.dir/7.Регулярные_выражения.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/7.Регулярные_выражения.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/7.Регулярные_выражения.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/7.Регулярные_выражения.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/7.Регулярные_выражения.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/8.CSS_для_JavaScript-разработчика.dir/8.1.О_чём_пойдёт_речь.dir/8.1.О_чём_пойдёт_речь.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/8.CSS_для_JavaScript-разработчика.dir/8.1.О_чём_пойдёт_речь.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/8.CSS_для_JavaScript-разработчика.dir/8.1.О_чём_пойдёт_речь.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/8.CSS_для_JavaScript-разработчика.dir/8.1.О_чём_пойдёт_речь.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/8.CSS_для_JavaScript-разработчика.dir/8.1.О_чём_пойдёт_речь.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/8.CSS_для_JavaScript-разработчика.dir/8.10.Свойство_box-sizing.dir/8.10.Свойство_box-sizing.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/8.CSS_для_JavaScript-разработчика.dir/8.10.Свойство_box-sizing.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/8.CSS_для_JavaScript-разработчика.dir/8.10.Свойство_box-sizing.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/8.CSS_для_JavaScript-разработчика.dir/8.10.Свойство_box-sizing.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/8.CSS_для_JavaScript-разработчика.dir/8.10.Свойство_box-sizing.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/8.CSS_для_JavaScript-разработчика.dir/8.11.Свойство_margin.dir/8.11.Свойство_margin.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/8.CSS_для_JavaScript-разработчика.dir/8.11.Свойство_margin.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/8.CSS_для_JavaScript-разработчика.dir/8.11.Свойство_margin.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/8.CSS_для_JavaScript-разработчика.dir/8.11.Свойство_margin.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/8.CSS_для_JavaScript-разработчика.dir/8.11.Свойство_margin.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/8.CSS_для_JavaScript-разработчика.dir/8.12.Лишнее_место_под_IMG.dir/8.12.Лишнее_место_под_IMG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/8.CSS_для_JavaScript-разработчика.dir/8.12.Лишнее_место_под_IMG.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/8.CSS_для_JavaScript-разработчика.dir/8.12.Лишнее_место_под_IMG.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/8.CSS_для_JavaScript-разработчика.dir/8.12.Лишнее_место_под_IMG.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/8.CSS_для_JavaScript-разработчика.dir/8.12.Лишнее_место_под_IMG.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/8.CSS_для_JavaScript-разработчика.dir/8.13.Свойство_overflow.dir/8.13.Свойство_overflow.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/8.CSS_для_JavaScript-разработчика.dir/8.13.Свойство_overflow.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/8.CSS_для_JavaScript-разработчика.dir/8.13.Свойство_overflow.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/8.CSS_для_JavaScript-разработчика.dir/8.13.Свойство_overflow.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/8.CSS_для_JavaScript-разработчика.dir/8.13.Свойство_overflow.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/8.CSS_для_JavaScript-разработчика.dir/8.14.Особенности_свойства_height_в_%.dir/8.14.Особенности_свойства_height_в_%.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/8.CSS_для_JavaScript-разработчика.dir/8.14.Особенности_свойства_height_в_%.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/8.CSS_для_JavaScript-разработчика.dir/8.14.Особенности_свойства_height_в_%.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/8.CSS_для_JavaScript-разработчика.dir/8.14.Особенности_свойства_height_в_%.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/8.CSS_для_JavaScript-разработчика.dir/8.14.Особенности_свойства_height_в_%.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/8.CSS_для_JavaScript-разработчика.dir/8.15.Знаете_ли_вы_селекторы&amp;.dir/8.15.Знаете_ли_вы_селекторы&amp;.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/8.CSS_для_JavaScript-разработчика.dir/8.15.Знаете_ли_вы_селекторы&amp;.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/8.CSS_для_JavaScript-разработчика.dir/8.15.Знаете_ли_вы_селекторы&amp;.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/8.CSS_для_JavaScript-разработчика.dir/8.15.Знаете_ли_вы_селекторы&amp;.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/8.CSS_для_JavaScript-разработчика.dir/8.15.Знаете_ли_вы_селекторы&amp;.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/8.CSS_для_JavaScript-разработчика.dir/8.16.CSS-спрайты.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/8.CSS_для_JavaScript-разработчика.dir/8.16.CSS-спрайты.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/8.CSS_для_JavaScript-разработчика.dir/8.16.CSS-спрайты.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/8.CSS_для_JavaScript-разработчика.dir/8.16.CSS-спрайты.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/8.CSS_для_JavaScript-разработчика.dir/8.17.Правила_форматирования_CSS.dir/8.17.Правила_форматирования_CSS.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/8.CSS_для_JavaScript-разработчика.dir/8.17.Правила_форматирования_CSS.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/8.CSS_для_JavaScript-разработчика.dir/8.17.Правила_форматирования_CSS.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/8.CSS_для_JavaScript-разработчика.dir/8.17.Правила_форматирования_CSS.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/8.CSS_для_JavaScript-разработчика.dir/8.17.Правила_форматирования_CSS.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/8.CSS_для_JavaScript-разработчика.dir/8.2.Единицы_измерения_px,_em,_rem_и_другие.dir/8.2.Единицы_измерения_px,_em,_rem_и_другие.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/8.CSS_для_JavaScript-разработчика.dir/8.2.Единицы_измерения_px,_em,_rem_и_другие.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/8.CSS_для_JavaScript-разработчика.dir/8.2.Единицы_измерения_px,_em,_rem_и_другие.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/8.CSS_для_JavaScript-разработчика.dir/8.2.Единицы_измерения_px,_em,_rem_и_другие.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/8.CSS_для_JavaScript-разработчика.dir/8.2.Единицы_измерения_px,_em,_rem_и_другие.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/8.CSS_для_JavaScript-разработчика.dir/8.3.Все_значения_свойства_display.dir/8.3.Все_значения_свойства_display.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/8.CSS_для_JavaScript-разработчика.dir/8.3.Все_значения_свойства_display.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/8.CSS_для_JavaScript-разработчика.dir/8.3.Все_значения_свойства_display.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/8.CSS_для_JavaScript-разработчика.dir/8.3.Все_значения_свойства_display.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/8.CSS_для_JavaScript-разработчика.dir/8.3.Все_значения_свойства_display.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/8.CSS_для_JavaScript-разработчика.dir/8.4.Свойство_float.dir/8.4.Свойство_float.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/8.CSS_для_JavaScript-разработчика.dir/8.4.Свойство_float.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/8.CSS_для_JavaScript-разработчика.dir/8.4.Свойство_float.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/8.CSS_для_JavaScript-разработчика.dir/8.5.Свойство_position.dir/8.5.Свойство_position.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/8.CSS_для_JavaScript-разработчика.dir/8.5.Свойство_position.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/8.CSS_для_JavaScript-разработчика.dir/8.5.Свойство_position.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/8.CSS_для_JavaScript-разработчика.dir/8.5.Свойство_position.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/8.CSS_для_JavaScript-разработчика.dir/8.5.Свойство_position.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/8.CSS_для_JavaScript-разработчика.dir/8.6.Центрирование_горизонтальное_и_вертикальное.dir/8.6.Центрирование_горизонтальное_и_вертикальное.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/8.CSS_для_JavaScript-разработчика.dir/8.6.Центрирование_горизонтальное_и_вертикальное.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/8.CSS_для_JavaScript-разработчика.dir/8.6.Центрирование_горизонтальное_и_вертикальное.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/8.CSS_для_JavaScript-разработчика.dir/8.6.Центрирование_горизонтальное_и_вертикальное.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/8.CSS_для_JavaScript-разработчика.dir/8.6.Центрирование_горизонтальное_и_вертикальное.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/8.CSS_для_JavaScript-разработчика.dir/8.7.Свойства_font-size_и_line-height.dir/8.7.Свойства_font-size_и_line-height.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/8.CSS_для_JavaScript-разработчика.dir/8.7.Свойства_font-size_и_line-height.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/8.CSS_для_JavaScript-разработчика.dir/8.7.Свойства_font-size_и_line-height.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/8.CSS_для_JavaScript-разработчика.dir/8.7.Свойства_font-size_и_line-height.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/8.CSS_для_JavaScript-разработчика.dir/8.7.Свойства_font-size_и_line-height.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/8.CSS_для_JavaScript-разработчика.dir/8.8.Свойство_white-space.dir/8.8.Свойство_white-space.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/8.CSS_для_JavaScript-разработчика.dir/8.8.Свойство_white-space.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/8.CSS_для_JavaScript-разработчика.dir/8.8.Свойство_white-space.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/8.CSS_для_JavaScript-разработчика.dir/8.8.Свойство_white-space.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/8.CSS_для_JavaScript-разработчика.dir/8.8.Свойство_white-space.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/8.CSS_для_JavaScript-разработчика.dir/8.9.Свойство_outline.dir/8.9.Свойство_outline.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/8.CSS_для_JavaScript-разработчика.dir/8.9.Свойство_outline.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/8.CSS_для_JavaScript-разработчика.dir/8.9.Свойство_outline.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/8.CSS_для_JavaScript-разработчика.dir/8.9.Свойство_outline.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/8.CSS_для_JavaScript-разработчика.dir/8.9.Свойство_outline.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/8.CSS_для_JavaScript-разработчика.dir/8.CSS_для_JavaScript-разработчика.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/8.CSS_для_JavaScript-разработчика.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/8.CSS_для_JavaScript-разработчика.dir/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/8.CSS_для_JavaScript-разработчика.dir/www/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/8.CSS_для_JavaScript-разработчика.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/cloneFileToDir_in_num_2_3_level.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ini/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ini/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/1.Документ.dir/1.1.Браузерное_окружение,_спецификации.dir/1.1.Браузерное_окружение,_спецификации.md" beforeDir="false" afterPath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/1.Документ.dir/1.1.Браузерное_окружение,_спецификации.dir/1.1.Браузерное_окружение,_спецификации.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/1.Документ.dir/_src/1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/1.Документ.dir/_src/1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/CreateDirFile/CreateTechDir_4_v_2/Test/main_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/CreateDirFile/CreateTechDir_4_v_2/Test/main_test.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -656,7 +132,7 @@
     <property name="add_unversioned_files" value="$PROJECT_DIR$/Jobs/SetGlobLoggers/ModLogger_1/Core/Logs/eLogs.txt&#10;true" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="11.6.0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/NBase/_Md/_Index/_WebJS/Content/Docs/MDN_docs_Web_API/Point_learn/List_Api" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.jscs" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -689,30 +165,30 @@
       <recent name="E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Node_projects\Node_Way\NBase\_Md\_Index\_WebJS\Content\Docs\MDN_docs_Web_API\Point_learn\List_Api" />
+      <recent name="E:\Node_projects\Node_Way\NBase\_Md\_Index\_WebJS\Content\Docs" />
+      <recent name="E:\Node_projects\Node_Way\Education\IlKan\js.ru\TMP" />
+      <recent name="E:\Node_projects\Node_Way\NBase\_Md\_Index\_WebJS" />
       <recent name="E:\Node_projects\Node_Way\Education\IlKan\js.ru\Part_2" />
-      <recent name="E:\Node_projects\Node_Way\Education\IlKan\js.ru\Part_1" />
-      <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1\SetDirFile\SearchDirFile" />
-      <recent name="E:\Node_projects\Node_Way\node_modules\st_STN" />
-      <recent name="E:\Node_projects\Node_Way\Jobs\FuncStandarts" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.cloneFileToDir_in_num_2_3_level_src_1.js (1)">
+  <component name="RunManager" selected="Node.js.cloneFileToDir_in_num_2_3_level_src_1.js (2)">
     <configuration name="a.html" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/Node_Way/Node_Docs/Education/IlKan/learn.javascript.ru/Browser/1/1.1/a.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="6-parse_1.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="6-parse_1.js" working-dir="$PROJECT_DIR$/NBase/_Md/_Index/_HPW/Part_I/content/Courses/Fundamentals/basic_sintax/DataTypes-master/JavaScript">
       <method v="2" />
     </configuration>
+    <configuration name="CreateDirLikeGit_2{LG2}_v_2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/NBase/_Md/_Index/_WebJS/CreateDirLikeGit_2{LG2}_v_2.js" working-dir="$PROJECT_DIR$/NBase/_Md/_Index/_WebJS">
+      <method v="2" />
+    </configuration>
     <configuration name="Object.create.js" type="NodeJSConfigurationType" nameIsGenerated="true" node-parameters="ndb" path-to-js-file="$PROJECT_DIR$/node_modules/st_doc1/js_DOCS/Function/_@_FunctionEngendering/InheritsEgeneringModel/Object.create.js" working-dir="$PROJECT_DIR$/node_modules/st_doc1/js_DOCS/Function/_@_FunctionEngendering">
       <method v="2" />
     </configuration>
-    <configuration name="cloneFileToDir_in_num_2_3_level.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/cloneFileToDir_in_num_2_3_level.js" working-dir="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2">
-      <method v="2" />
-    </configuration>
-    <configuration name="cloneFileToDir_in_num_2_3_level.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/cloneFileToDir_in_num_2_3_level.js" working-dir="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1">
-      <method v="2" />
-    </configuration>
     <configuration name="cloneFileToDir_in_num_2_3_level_src_1.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/cloneFileToDir_in_num_2_3_level_src_1.js" working-dir="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2">
+      <method v="2" />
+    </configuration>
+    <configuration name="cloneFileToDir_in_num_2_3_level_src_1.js (2)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Education/IlKan/js.ru/TMP/cloneFileToDir_in_num_2_3_level_src_1.js" working-dir="$PROJECT_DIR$/Education/IlKan/js.ru/TMP">
       <method v="2" />
     </configuration>
     <configuration name="cloneFileToDir_in_num_2_3_level_src_1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/cloneFileToDir_in_num_2_3_level_src_1.js" working-dir="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1">
@@ -728,19 +204,19 @@
       <item itemvalue="JavaScript Debug.a.html" />
       <item itemvalue="Node.js.6-parse_1.js" />
       <item itemvalue="Node.js.Object.create.js" />
-      <item itemvalue="Node.js.cloneFileToDir_in_num_2_3_level.js" />
-      <item itemvalue="Node.js.cloneFileToDir_in_num_2_3_level.js (1)" />
       <item itemvalue="Node.js.main_test.js (1)" />
       <item itemvalue="Node.js.cloneFileToDir_in_num_2_3_level_src_1.js" />
       <item itemvalue="Node.js.cloneFileToDir_in_num_2_3_level_src_1.js (1)" />
+      <item itemvalue="Node.js.CreateDirLikeGit_2{LG2}_v_2.js" />
+      <item itemvalue="Node.js.cloneFileToDir_in_num_2_3_level_src_1.js (2)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.cloneFileToDir_in_num_2_3_level_src_1.js (2)" />
+        <item itemvalue="Node.js.CreateDirLikeGit_2{LG2}_v_2.js" />
         <item itemvalue="Node.js.cloneFileToDir_in_num_2_3_level_src_1.js (1)" />
         <item itemvalue="Node.js.cloneFileToDir_in_num_2_3_level_src_1.js" />
         <item itemvalue="Node.js.main_test.js (1)" />
-        <item itemvalue="Node.js.cloneFileToDir_in_num_2_3_level.js (1)" />
-        <item itemvalue="Node.js.cloneFileToDir_in_num_2_3_level.js" />
       </list>
     </recent_temporary>
   </component>
@@ -949,7 +425,7 @@
       <workItem from="1602230886343" duration="2746000" />
       <workItem from="1602390324236" duration="40357000" />
       <workItem from="1602616075570" duration="44910000" />
-      <workItem from="1602841123195" duration="38345000" />
+      <workItem from="1602841123195" duration="39760000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
@@ -1495,26 +971,26 @@
     <state x="461" y="204" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1597595554793" />
     <state x="-921" y="187" width="730" height="606" key="FileChooserDialogImpl/0.0.1366.728/-1440.0.1440.900@-1440.0.1440.900" timestamp="1595139980231" />
     <state x="519" y="178" width="699" height="606" key="FileChooserDialogImpl/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1602648767743" />
-    <state width="1272" height="164" key="GridCell.Tab.0.bottom" timestamp="1602954898952">
+    <state width="1272" height="164" key="GridCell.Tab.0.bottom" timestamp="1602962771774">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1272" height="182" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1595261214870" />
-    <state width="1272" height="164" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1602954898952" />
-    <state width="1272" height="164" key="GridCell.Tab.0.center" timestamp="1602954898952">
+    <state width="1272" height="164" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1602962771774" />
+    <state width="1272" height="164" key="GridCell.Tab.0.center" timestamp="1602962771773">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1272" height="182" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1595261214870" />
-    <state width="1272" height="164" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1602954898952" />
-    <state width="1272" height="164" key="GridCell.Tab.0.left" timestamp="1602954898952">
+    <state width="1272" height="164" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1602962771773" />
+    <state width="1272" height="164" key="GridCell.Tab.0.left" timestamp="1602962771773">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1272" height="182" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1595261214870" />
-    <state width="1272" height="164" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1602954898952" />
-    <state width="1272" height="164" key="GridCell.Tab.0.right" timestamp="1602954898952">
+    <state width="1272" height="164" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1602962771773" />
+    <state width="1272" height="164" key="GridCell.Tab.0.right" timestamp="1602962771773">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1272" height="182" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1595261214870" />
-    <state width="1272" height="164" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1602954898952" />
+    <state width="1272" height="164" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1602962771773" />
     <state width="1272" height="199" key="GridCell.Tab.1.bottom" timestamp="1602916546870">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
