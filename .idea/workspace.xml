@@ -26,8 +26,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Jobs/FuncStandarts/STN_func_v_1_test_1/Test/main_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/FuncStandarts/STN_func_v_1_test_1/Test/main_test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/FuncStandarts/STN_func_v_1_test_1/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/FuncStandarts/STN_func_v_1_test_1/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_^/^func_v_1/Production/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_^/^func_v_1/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_^/^func_v_1/Test/1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_^/^func_v_1/Test/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_^/^func_v_1/Test/main_test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_^/^func_v_1/_versions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_^/^func_v_1/index.init.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_^/^func_v_1/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_^/^func_v_1/index.v.1.0.0.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/st_ex1_deep1/SetLogical/LogicalDebug/L_fsLog/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ex1_deep1/SetLogical/LogicalDebug/L_fsLog/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -131,7 +142,7 @@
     <property name="add_unversioned_files" value="$PROJECT_DIR$/Jobs/SetGlobLoggers/ModLogger_1/Core/Logs/eLogs.txt&#10;true" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="11.6.0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Jobs/FuncStandarts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/node_modules/st_STN" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.jscs" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -164,11 +175,11 @@
       <recent name="E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Node_projects\Node_Way\node_modules\st_STN" />
       <recent name="E:\Node_projects\Node_Way\Jobs\FuncStandarts" />
       <recent name="E:\Node_projects\Node_Way\node_modules\st_^" />
       <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1_deep1" />
       <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1_up1" />
-      <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.main_test.js">
@@ -448,7 +459,7 @@
       <workItem from="1602230886343" duration="2746000" />
       <workItem from="1602390324236" duration="40357000" />
       <workItem from="1602616075570" duration="44910000" />
-      <workItem from="1602841123195" duration="31762000" />
+      <workItem from="1602841123195" duration="34770000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
@@ -994,26 +1005,26 @@
     <state x="461" y="204" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1597595554793" />
     <state x="-921" y="187" width="730" height="606" key="FileChooserDialogImpl/0.0.1366.728/-1440.0.1440.900@-1440.0.1440.900" timestamp="1595139980231" />
     <state x="519" y="178" width="699" height="606" key="FileChooserDialogImpl/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1602648767743" />
-    <state width="1272" height="164" key="GridCell.Tab.0.bottom" timestamp="1602919212283">
+    <state width="1272" height="164" key="GridCell.Tab.0.bottom" timestamp="1602920501439">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1272" height="182" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1595261214870" />
-    <state width="1272" height="164" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1602919212283" />
-    <state width="1272" height="164" key="GridCell.Tab.0.center" timestamp="1602919212283">
+    <state width="1272" height="164" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1602920501439" />
+    <state width="1272" height="164" key="GridCell.Tab.0.center" timestamp="1602920501439">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1272" height="182" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1595261214870" />
-    <state width="1272" height="164" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1602919212283" />
-    <state width="1272" height="164" key="GridCell.Tab.0.left" timestamp="1602919212282">
+    <state width="1272" height="164" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1602920501439" />
+    <state width="1272" height="164" key="GridCell.Tab.0.left" timestamp="1602920501439">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1272" height="182" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1595261214870" />
-    <state width="1272" height="164" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1602919212282" />
-    <state width="1272" height="164" key="GridCell.Tab.0.right" timestamp="1602919212283">
+    <state width="1272" height="164" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1602920501439" />
+    <state width="1272" height="164" key="GridCell.Tab.0.right" timestamp="1602920501439">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1272" height="182" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1595261214870" />
-    <state width="1272" height="164" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1602919212283" />
+    <state width="1272" height="164" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1602920501439" />
     <state width="1272" height="199" key="GridCell.Tab.1.bottom" timestamp="1602916546870">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
