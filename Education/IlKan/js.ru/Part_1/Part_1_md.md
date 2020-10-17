@@ -6,7 +6,7 @@
     
 ### Навигация по DOM-элементам
     
-### Поиск: getElement\*, querySelector\*
+### Поиск: getElement\(aster), querySelector\(aster)
     
 ### Свойства узлов: тип, тег и содержимое
     
