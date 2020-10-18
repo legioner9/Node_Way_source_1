@@ -691,46 +691,175 @@
 ## [Web Audio API](https://developer.mozilla.org/ru/docs/Web/API/Web_Audio_API)
 
 
+1. AnalyserNode
+2. AudioBuffer
+3. AudioBufferSourceNode
+4. AudioContext
+5. AudioDestinationNode
+6. AudioListener
+7. AudioNode
+8. AudioParam
+9. audioprocess (event)
+10. AudioProcessingEvent
+11. BiquadFilterNode
+12. ChannelMergerNode
+13. ChannelSplitterNode
+14. complete (event)
+15. ConvolverNode
+16. DelayNode
+17. DynamicsCompressorNode
+18. ended (event)
+19. GainNode
+20. MediaElementAudioSourceNode
+21. MediaStreamAudioDestinationNode
+22. MediaStreamAudioSourceNode
+23. OfflineAudioCompletionEvent
+24. OfflineAudioContext
+25. OscillatorNode
+26. PannerNode
+27. PeriodicWaveNode
+28. ScriptProcessorNode
+29. WaveShaperNode
+
 
 ## [Web Authentication API](https://developer.mozilla.org/ru/docs/Web/API/Web_Authentication_API)
 
+1. CredentialsContainer
+2. PublicKeyCredential
+3. AuthenticatorResponse
+4. AuthenticatorAttestationResponse
+5. AuthenticatorAssertionResponse
 
 
 ## [Web Crypto API](https://developer.mozilla.org/ru/docs/Web/API/Web_Crypto_API)
 
+1. Crypto
+2. CryptoKey
+3. CryptoKeyPair
+4. RandomSource
+5. SubtleCrypto
 
+1. Window.crypto
 
 ## [Web Notifications](https://developer.mozilla.org/ru/docs/Web/API/Notifications_API)
 
+1. Notification
+2. NotificationEvent
+
+1. ServiceWorkerGlobalScope.onnotificationclick
+
+1. ServiceWorkerRegistration.showNotification()
+2. ServiceWorkerRegistration.getNotifications()
+
+1. error
+2. click
+3. close
+4. show
 
 
 
 ## [Web Storage API](https://developer.mozilla.org/ru/docs/Web/API/Web_Storage_API)
 
 
-
 ## [Web Workers API](https://developer.mozilla.org/ru/docs/Web/API/Web_Workers_API)
 
-
+1. AbstractWorker
+2. ChromeWorker
+3. DedicatedWorkerGlobalScope
+4. ServiceWorker
+5. SharedWorker
+6. SharedWorkerGlobalScope
+7. Worker
+8. WorkerGlobalScope
+9. WorkerLocation
+10. WorkerNavigator
 
 ## [WebGL](https://developer.mozilla.org/ru/docs/Web/API/WebGL_API)
 
+1. WebGLRenderingContext
+2. WebGL2RenderingContext
+3. WebGLActiveInfo
+4. WebGLBuffer
+5. WebGLContextEvent
+6. WebGLFramebuffer
+7. WebGLProgram
+8. WebGLQuery
+9. WebGLRenderbuffer
+10. WebGLSampler
+11. WebGLShader
+12. WebGLShaderPrecisionFormat
+13. WebGLSync
+14. WebGLTexture
+15. WebGLTransformFeedback
+16. WebGLUniformLocation
+17. WebGLVertexArrayObject
 
 
 ## [WebRTC](https://developer.mozilla.org/ru/docs/Web/API/WebRTC_API)
 
+1. RTCPeerConnection
+2. RTCSessionDescription
+3. RTCIceCandidate
+4. RTCPeerConnectionIceEvent
+5. MessageEvent
+6. MediaStream
+7. RTCStatsReport
+8. RTCIdentityEvent
+9. RTCIdentityErrorEvent
+10. MediaStreamEvent
+11. MediaStreamTrack
+12. MediaDevices
 
 
 ## [WebVR API](https://developer.mozilla.org/ru/docs/Web/API/WebVR_API)
 
+1. vrdisplayconnected
+2. vrdisplaydisconnected
+3. vrdisplayactivate
+4. vrdisplaydeactivate
+5. vrdisplayblur
+6. vrdisplayfocus
+7. vrdisplaypresentchange
 
 
 ## [WebVTT](https://developer.mozilla.org/ru/docs/Web/API/WebVTT_API)
 
-
+1. WebVTT_API
 
 ## [WebXR Device API](https://developer.mozilla.org/ru/docs/Web/API/WebXR_Device_API)
 
+1. XR
+2. XRBoundedReferenceSpace
+3. XRFrame
+4. XRInputSource
+5. XRInputSourceArray
+6. XRInputSourceEvent
+7. XRInputSourcesChangeEvent
+8. XRPose
+9. XRReferenceSpace
+10. XRReferenceSpaceEvent
+11. XRRenderState
+12. XRRigidTransform
+13. XRSession
+14. XRSessionEvent
+15. XRSpace
+16. XRView
+17. XRViewerPose
+18. XRViewport
+19. XRWebGLLayer
 
+1. Navigator.xr
+
+1. XR: devicechange
+2. XRReferenceSpace: reset
+3. XRSession: end
+4. XRSession: inputsourceschange
+5. XRSession: select
+6. XRSession: selectend
+7. XRSession: selectstart
+8. XRSession: visibilitychange
+
+
+WebGLRenderingContext.makeXRCompatible()
 
 ## [Websockets API](https://developer.mozilla.org/ru/docs/Web/API/Websockets_API)
