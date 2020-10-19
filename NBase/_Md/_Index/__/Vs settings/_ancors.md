@@ -1,9 +1,9 @@
-[Как создать резервную копию настроек VS Code и списка установленных расширений?](https://kompsekret.ru/q/how-do-i-back-up-my-vs-code-settings-and-list-of-installed-extensions-2126/)
+## [Как создать резервную копию настроек VS Code и списка установленных расширений?](https://kompsekret.ru/q/how-do-i-back-up-my-vs-code-settings-and-list-of-installed-extensions-2126/)
 * Windows:%USERPROFILE%\\.vscode\extensions
 * Mac:~/.vscode/extensions
 * Linux:~/.vscode/extensions
 
-[Visual Studio Code: мощное руководство пользователя](https://dev-gang.ru/article/visual-studio-code-moscznoe-rukovodstvo-polzovatelja-dwedy9wjzg/)
+## [Visual Studio Code: мощное руководство пользователя](https://dev-gang.ru/article/visual-studio-code-moscznoe-rukovodstvo-polzovatelja-dwedy9wjzg/)
 
 * Windows: %APPDATA%\Code\User\settings.json
 * macOS: $HOME/Library/Application Support/Code/User/settings.json
@@ -27,3 +27,5 @@
       "explorer.confirmDelete": false
     }
      
+
+## [VSCode Полный Курс для JavaScript разработчиков](https://www.youtube.com/watch?v=QeUp3CahkQw&t=1311s&ab_channel=%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BB%D0%B5%D0%BD%D0%9C%D0%B8%D0%BD%D0%B8%D0%BD)
