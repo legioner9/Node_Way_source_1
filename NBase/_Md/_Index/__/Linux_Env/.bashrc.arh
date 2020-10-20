@@ -17,7 +17,7 @@ w_arg() {
 }
 
 _node(){
-	node /E/Node_projects/Node_Way/Tmp/Hello.js 
+	node /E/Node_projects/Node_Way/Tmp/Hello.js
 }
 
 # /E/Node_projects/Node_Way/node_modules/st_doc1/nodejs.org_DOCS.v.2/CommandLine/Way/ques_2.js
@@ -30,10 +30,10 @@ echo 'bash QMR_1_d1() is RUN'
 #	DIRECTORY=`dirname "$ABSOLUTE_FILENAME"` => 'C:/Program Files/Git/usr/bin'
 
 
-	node /E/Node_projects/Node_Way/node_modules/st_ex1_up1/SetCLI/QuesMenuRun/QMR_1_d1/Test/main_test.js $(pwd) "$@"
-} 
+	node /E/Node_projects/Node_Way/node_modules/st_ex1_up1/SetCLI/QuesMenuRun/QMR_1_d1/Test/main_auto_test.js $(pwd) "$@"
+}
 
-# E:\Node_projects\Node_Way\node_modules\st_ex1\SetDirFile\SearchDirFile\DirMappingCloneFileToDir_8\Test\main_test.js
+# E:\Node_projects\Node_Way\node_modules\st_ex1\SetDirFile\SearchDirFile\DirMappingCloneFileToDir_8\Test\main_auto_test.js
 
 QMR_2_d1(){
 echo 'bash QMR_1_d1() is RUN'
@@ -43,8 +43,8 @@ echo 'bash QMR_1_d1() is RUN'
 #	DIRECTORY=`dirname "$ABSOLUTE_FILENAME"` => 'C:/Program Files/Git/usr/bin'
 
 
-	node /E/Node_projects/Node_Way/node_modules/st_ex1_up1/SetCLI/QuesMenuRun/QMR_1_d1/Test/main_test.js $(pwd) "$@"
-} 
+	node /E/Node_projects/Node_Way/node_modules/st_ex1_up1/SetCLI/QuesMenuRun/QMR_1_d1/Test/main_auto_test.js $(pwd) "$@"
+}
 
 p_a (){
 node /E/Node_projects/Node_Way/node_modules/st_doc1/nodejs.org_DOCS.v.2/CommandLine/Way/p_a.js "$@"

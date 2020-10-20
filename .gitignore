@@ -53,6 +53,7 @@ node_modules/*
 !node_modules/st___
 !node_modules/st_STN
 !node_modules/st_arht
+!node_modules/st_ini_arht
 
 jspm_packages/
 
