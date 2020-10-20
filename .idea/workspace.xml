@@ -27,16 +27,9 @@
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1_up1/SetCLI/HotCommand/Mkdir_1/Production/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1_up1/SetCLI/HotCommand/Mkdir_1/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1_up1/SetCLI/HotCommand/Mkdir_1/Test/1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1_up1/SetCLI/HotCommand/Mkdir_1/Test/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1_up1/SetCLI/HotCommand/Mkdir_1/Test/main_test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1_up1/SetCLI/HotCommand/Mkdir_1/_versions.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1_up1/SetCLI/HotCommand/Mkdir_1/examp.index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1_up1/SetCLI/HotCommand/Mkdir_1/index.init.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1_up1/SetCLI/HotCommand/Mkdir_1/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1_up1/SetCLI/HotCommand/Mkdir_1/index.v.1.0.0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/CreateDirFile/CreateTechDirHot_1/Test/main_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/CreateDirFile/CreateTechDirHot_1/Test/main_test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1_up1/SetCLI/HotCommand/Mkdir_1/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ex1_up1/SetCLI/HotCommand/Mkdir_1/ReadMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ini/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ini/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -447,7 +440,7 @@
       <workItem from="1602390324236" duration="40357000" />
       <workItem from="1602616075570" duration="44910000" />
       <workItem from="1602841123195" duration="45872000" />
-      <workItem from="1603178873096" duration="3582000" />
+      <workItem from="1603178873096" duration="6912000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
@@ -1074,10 +1067,10 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="459" y="311" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1601435468980" />
-    <state x="1640" y="39" width="800" height="953" key="dock-window-1" timestamp="1603182509767">
+    <state x="1494" y="17" width="800" height="905" key="dock-window-1" timestamp="1603191839566">
       <screen x="1440" y="0" width="1280" height="1024" />
     </state>
-    <state x="1640" y="39" width="800" height="953" key="dock-window-1/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1603182509767" />
+    <state x="1494" y="17" width="800" height="905" key="dock-window-1/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1603191839566" />
     <state x="1497" y="157" width="819" height="752" key="dock-window-10" timestamp="1603162358034">
       <screen x="1440" y="0" width="1280" height="1024" />
     </state>
@@ -1098,10 +1091,10 @@
       <screen x="1440" y="0" width="1280" height="1024" />
     </state>
     <state x="1562" y="39" width="819" height="913" key="dock-window-14/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1603179208967" />
-    <state x="1469" y="35" width="792" height="508" key="dock-window-2" timestamp="1602865109730">
+    <state x="1652" y="45" width="800" height="931" key="dock-window-2" timestamp="1603191839567">
       <screen x="1440" y="0" width="1280" height="1024" />
     </state>
-    <state x="1469" y="35" width="792" height="508" key="dock-window-2/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1602865109730" />
+    <state x="1652" y="45" width="800" height="931" key="dock-window-2/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1603191839567" />
     <state x="1881" y="78" width="792" height="746" key="dock-window-3" timestamp="1602865442180">
       <screen x="1440" y="0" width="1280" height="1024" />
     </state>
