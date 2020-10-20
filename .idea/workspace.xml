@@ -27,207 +27,16 @@
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/HotCommand/Mkdir_1/Production/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/HotCommand/Mkdir_1/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/HotCommand/Mkdir_1/Test/1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/HotCommand/Mkdir_1/Test/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/HotCommand/Mkdir_1/Test/main_test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/HotCommand/Mkdir_1/_versions.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/HotCommand/Mkdir_1/examp.index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/HotCommand/Mkdir_1/index.init.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/HotCommand/Mkdir_1/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/HotCommand/Mkdir_1/index.v.1.0.0.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/HotCommand/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Production/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Addl/Addl.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Addl/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Addl/_.Reference.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Addl/_arh/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Addl/_arh/_arh.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Addl/_planing.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Addl/_stash/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Addl/_stash/_stash.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Addl/_timing.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Addl/_util_unit/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Addl/_util_unit/_.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Addl/_util_unit/_ancors.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Addl/_util_unit/_docs.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Addl/_util_unit/_install.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Addl/_util_unit/_setcomand.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Addl/_util_unit/_usage.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Addl/_util_unit/_util_unit.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Addl/_versions/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Addl/_versions/_versions.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Containers/Containers.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Containers/Intro_to_this/Common_this/Common_this.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Containers/Intro_to_this/Common_this/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Containers/Intro_to_this/Common_this/_src/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Containers/Intro_to_this/Common_this/_src/_src.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Containers/Intro_to_this/Docs_this/Docs_this.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Containers/Intro_to_this/Docs_this/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Containers/Intro_to_this/Docs_this/_src/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Containers/Intro_to_this/Docs_this/_src/_src.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Containers/Intro_to_this/Intro_to_this.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Containers/Intro_to_this/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Containers/Intro_to_this/_src/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Containers/Intro_to_this/_src/_src.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Containers/Intro_to_this/www_this/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Containers/Intro_to_this/www_this/_src/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Containers/Intro_to_this/www_this/_src/_src.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Containers/Intro_to_this/www_this/www_this.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Containers/Live_learn/Common_this/Common_this.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Containers/Live_learn/Common_this/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Containers/Live_learn/Common_this/_src/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Containers/Live_learn/Common_this/_src/_src.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Containers/Live_learn/Docs_this/Docs_this.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Containers/Live_learn/Docs_this/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Containers/Live_learn/Docs_this/_src/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Containers/Live_learn/Docs_this/_src/_src.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Containers/Live_learn/Live_learn.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Containers/Live_learn/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Containers/Live_learn/_.Reference.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Containers/Live_learn/_src/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Containers/Live_learn/_src/_src.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Containers/Live_learn/www_this/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Containers/Live_learn/www_this/_src/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Containers/Live_learn/www_this/_src/_src.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Containers/Live_learn/www_this/www_this.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Containers/Own_this/Own_this.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Containers/Own_this/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Containers/Own_this/_src/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Containers/Own_this/_src/_src.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Containers/Point_learn/Point_learn.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Containers/Point_learn/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Containers/Point_learn/_.Reference.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Containers/Point_learn/_src/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Containers/Point_learn/_src/_src.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Containers/Point_learn/the_part_of_this/Common_this/Common_this.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Containers/Point_learn/the_part_of_this/Common_this/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Containers/Point_learn/the_part_of_this/Common_this/_src/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Containers/Point_learn/the_part_of_this/Common_this/_src/_src.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Containers/Point_learn/the_part_of_this/Docs_this/Docs_this.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Containers/Point_learn/the_part_of_this/Docs_this/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Containers/Point_learn/the_part_of_this/Docs_this/_src/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Containers/Point_learn/the_part_of_this/Docs_this/_src/_src.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Containers/Point_learn/the_part_of_this/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Containers/Point_learn/the_part_of_this/_src/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Containers/Point_learn/the_part_of_this/_src/_src.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Containers/Point_learn/the_part_of_this/the_part_of_this.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Containers/Point_learn/the_part_of_this/www_this/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Containers/Point_learn/the_part_of_this/www_this/_src/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Containers/Point_learn/the_part_of_this/www_this/_src/_src.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Containers/Point_learn/the_part_of_this/www_this/www_this.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Containers/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Containers/Use_this/First_steps/First_steps.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Containers/Use_this/First_steps/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Containers/Use_this/First_steps/_src/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Containers/Use_this/First_steps/_src/_src.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Containers/Use_this/Hints/Hints.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Containers/Use_this/Hints/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Containers/Use_this/Hints/_src/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Containers/Use_this/Hints/_src/_src.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Containers/Use_this/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Containers/Use_this/Use_this.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Containers/Workout_this/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Containers/Workout_this/Workout_this.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Containers/Workout_this/_src/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Containers/Workout_this/_src/_src.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Containers/_src/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Containers/_src/_src.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Content/Content.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Content/Docs/Docs.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Content/Docs/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Content/Docs/www.com/Cheat_Sheets/Cheat_Sheets.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Content/Docs/www.com/Cheat_Sheets/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Content/Docs/www.com/Live_learn/Common_this/Common_this.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Content/Docs/www.com/Live_learn/Common_this/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Content/Docs/www.com/Live_learn/Common_this/_src/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Content/Docs/www.com/Live_learn/Common_this/_src/_src.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Content/Docs/www.com/Live_learn/Docs_this/Docs_this.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Content/Docs/www.com/Live_learn/Docs_this/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Content/Docs/www.com/Live_learn/Docs_this/_src/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Content/Docs/www.com/Live_learn/Docs_this/_src/_src.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Content/Docs/www.com/Live_learn/Live_learn.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Content/Docs/www.com/Live_learn/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Content/Docs/www.com/Live_learn/_.Reference.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Content/Docs/www.com/Live_learn/_src/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Content/Docs/www.com/Live_learn/_src/_src.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Content/Docs/www.com/Live_learn/www_this/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Content/Docs/www.com/Live_learn/www_this/_src/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Content/Docs/www.com/Live_learn/www_this/_src/_src.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Content/Docs/www.com/Live_learn/www_this/www_this.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Content/Docs/www.com/Point_learn/Point_learn.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Content/Docs/www.com/Point_learn/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Content/Docs/www.com/Point_learn/_.Reference.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Content/Docs/www.com/Point_learn/_src/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Content/Docs/www.com/Point_learn/_src/_src.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Content/Docs/www.com/Point_learn/the_part_of_this/Common_this/Common_this.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Content/Docs/www.com/Point_learn/the_part_of_this/Common_this/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Content/Docs/www.com/Point_learn/the_part_of_this/Common_this/_src/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Content/Docs/www.com/Point_learn/the_part_of_this/Common_this/_src/_src.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Content/Docs/www.com/Point_learn/the_part_of_this/Docs_this/Docs_this.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Content/Docs/www.com/Point_learn/the_part_of_this/Docs_this/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Content/Docs/www.com/Point_learn/the_part_of_this/Docs_this/_src/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Content/Docs/www.com/Point_learn/the_part_of_this/Docs_this/_src/_src.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Content/Docs/www.com/Point_learn/the_part_of_this/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Content/Docs/www.com/Point_learn/the_part_of_this/_src/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Content/Docs/www.com/Point_learn/the_part_of_this/_src/_src.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Content/Docs/www.com/Point_learn/the_part_of_this/the_part_of_this.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Content/Docs/www.com/Point_learn/the_part_of_this/www_this/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Content/Docs/www.com/Point_learn/the_part_of_this/www_this/_src/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Content/Docs/www.com/Point_learn/the_part_of_this/www_this/_src/_src.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Content/Docs/www.com/Point_learn/the_part_of_this/www_this/www_this.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Content/Docs/www.com/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Content/Docs/www.com/www.com.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/Content/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/_nameDir.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/_src/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/_src/_src.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/Run/test.sh.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/main_test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/Test/test.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/_versions.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/index.init.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_1_d1/index.v.1.0.0.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_2_d1/Production/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_2_d1/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_2_d1/Test/1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_2_d1/Test/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_2_d1/Test/Run/test.sh.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_2_d1/Test/main_test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_2_d1/Test/test.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_2_d1/_versions.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_2_d1/index.init.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_2_d1/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/QMR_2_d1/index.v.1.0.0.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/QuesMenuRun/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/__/_/Production/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/__/_/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/__/_/Test/1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/__/_/Test/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/__/_/Test/main_test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/__/_/_versions.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/__/_/index.init.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/__/_/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/__/_/index.v.1.0.0.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/__/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/SetCLI/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/Set__v_1/__/_/Production/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/Set__v_1/__/_/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/Set__v_1/__/_/Test/1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/Set__v_1/__/_/Test/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/Set__v_1/__/_/Test/main_test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/Set__v_1/__/_/_versions.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/Set__v_1/__/_/index.init.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/Set__v_1/__/_/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/Set__v_1/__/_/index.v.1.0.0.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/Set__v_1/__/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st___00/Set__v_1/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1_up1/SetCLI/HotCommand/Mkdir_1/Production/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1_up1/SetCLI/HotCommand/Mkdir_1/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1_up1/SetCLI/HotCommand/Mkdir_1/Test/1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1_up1/SetCLI/HotCommand/Mkdir_1/Test/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1_up1/SetCLI/HotCommand/Mkdir_1/Test/main_test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1_up1/SetCLI/HotCommand/Mkdir_1/_versions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1_up1/SetCLI/HotCommand/Mkdir_1/examp.index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1_up1/SetCLI/HotCommand/Mkdir_1/index.init.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1_up1/SetCLI/HotCommand/Mkdir_1/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1_up1/SetCLI/HotCommand/Mkdir_1/index.v.1.0.0.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -330,7 +139,7 @@
     <property name="add_unversioned_files" value="$PROJECT_DIR$/Jobs/SetGlobLoggers/ModLogger_1/Core/Logs/eLogs.txt&#10;true" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="11.6.0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/node_modules/st_STN" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/CreateDirFile" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.jscs" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -355,13 +164,6 @@
     <property name="ts.external.directory.path" value="D:\Program Files\JetBrains\IntelliJ IDEA 2020.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\Node_projects\Node_Way\node_modules" />
-      <recent name="E:\Node_projects\Node_Way\node_modules\st___0\Set__v_1\__" />
-      <recent name="E:\Node_projects\Node_Way\node_modules\st___0\Set__v_1" />
-      <recent name="E:\Node_projects\Node_Way\node_modules\st___\Set__v_1\__\_" />
-      <recent name="E:\Node_projects\Node_Way\node_modules\st_arht\SetArchetype\FunctionARHT" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Node_projects\Node_Way\node_modules\st_doc1\nodejs.org_DOCS\__\_" />
       <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1\SetDirFile\SearchDirFile\DirMappingCloneFileToDir_8\Production" />
@@ -369,8 +171,15 @@
       <recent name="E:\Node_projects\Node_Way\NBase\_Md\_Index\_Windows_PowerShell_{LG2}" />
       <recent name="E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1\SetDirFile\CreateDirFile" />
+      <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1_up1\SetCLI\HotCommand" />
+      <recent name="E:\Node_projects\Node_Way\node_modules\st_STN" />
+      <recent name="E:\Node_projects\Node_Way\node_modules" />
+      <recent name="E:\Node_projects\Node_Way\node_modules\st___0\Set__v_1\__" />
+    </key>
   </component>
-  <component name="RunManager" selected="Node.js.main_test.js (1)">
+  <component name="RunManager" selected="Node.js.main_test.js (2)">
     <configuration name="a.html" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/Node_Way/Node_Docs/Education/IlKan/learn.javascript.ru/Browser/1/1.1/a.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -380,10 +189,10 @@
     <configuration name="Object.create.js" type="NodeJSConfigurationType" nameIsGenerated="true" node-parameters="ndb" path-to-js-file="$PROJECT_DIR$/node_modules/st_doc1/js_DOCS/Function/_@_FunctionEngendering/InheritsEgeneringModel/Object.create.js" working-dir="$PROJECT_DIR$/node_modules/st_doc1/js_DOCS/Function/_@_FunctionEngendering">
       <method v="2" />
     </configuration>
-    <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/node_modules/st_STN/STN_func_v_4/index.js" working-dir="$PROJECT_DIR$/node_modules/st_STN/STN_func_v_4">
+    <configuration name="main_test.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/node_modules/st___00/SetCLI/__/_/Test/main_test.js" working-dir="$PROJECT_DIR$/node_modules/st___00/SetCLI/__/_/Test">
       <method v="2" />
     </configuration>
-    <configuration name="main_test.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/node_modules/st___00/SetCLI/__/_/Test/main_test.js" working-dir="$PROJECT_DIR$/node_modules/st___00/SetCLI/__/_/Test">
+    <configuration name="main_test.js (2)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/node_modules/st_ex1_up1/SetCLI/QuesMenuRun/QMR_2_d1/Test/main_test.js" working-dir="$PROJECT_DIR$/node_modules/st_ex1_up1/SetCLI/QuesMenuRun/QMR_2_d1/Test">
       <method v="2" />
     </configuration>
     <configuration name="main_test.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/node_modules/st___0/Set__v_1/__/_/Test/main_test.js" working-dir="$PROJECT_DIR$/node_modules/st___0/Set__v_1/__/_/Test">
@@ -416,19 +225,19 @@
       <item itemvalue="JavaScript Debug.a.html" />
       <item itemvalue="Node.js.6-parse_1.js" />
       <item itemvalue="Node.js.Object.create.js" />
-      <item itemvalue="Node.js.index.js" />
       <item itemvalue="Node.js.main_test.js" />
       <item itemvalue="Node.js.main_test.js (1)" />
       <item itemvalue="npm.dev_examp" />
       <item itemvalue="npm.dev" />
+      <item itemvalue="Node.js.main_test.js (2)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.main_test.js (2)" />
         <item itemvalue="Node.js.main_test.js (1)" />
         <item itemvalue="Node.js.main_test.js" />
         <item itemvalue="npm.dev_examp" />
         <item itemvalue="npm.dev" />
-        <item itemvalue="Node.js.index.js" />
       </list>
     </recent_temporary>
   </component>
@@ -638,7 +447,7 @@
       <workItem from="1602390324236" duration="40357000" />
       <workItem from="1602616075570" duration="44910000" />
       <workItem from="1602841123195" duration="45872000" />
-      <workItem from="1603178873096" duration="742000" />
+      <workItem from="1603178873096" duration="3582000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
@@ -1184,26 +993,26 @@
     <state x="461" y="204" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1597595554793" />
     <state x="-921" y="187" width="730" height="606" key="FileChooserDialogImpl/0.0.1366.728/-1440.0.1440.900@-1440.0.1440.900" timestamp="1595139980231" />
     <state x="519" y="178" width="699" height="606" key="FileChooserDialogImpl/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1602648767743" />
-    <state width="1272" height="92" key="GridCell.Tab.0.bottom" timestamp="1603173139478">
+    <state width="1272" height="92" key="GridCell.Tab.0.bottom" timestamp="1603180593760">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1272" height="182" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1595261214870" />
-    <state width="1272" height="92" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1603173139478" />
-    <state width="1272" height="92" key="GridCell.Tab.0.center" timestamp="1603173139478">
+    <state width="1272" height="92" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1603180593760" />
+    <state width="1272" height="92" key="GridCell.Tab.0.center" timestamp="1603180593760">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1272" height="182" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1595261214870" />
-    <state width="1272" height="92" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1603173139478" />
-    <state width="1272" height="92" key="GridCell.Tab.0.left" timestamp="1603173139478">
+    <state width="1272" height="92" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1603180593760" />
+    <state width="1272" height="92" key="GridCell.Tab.0.left" timestamp="1603180593759">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1272" height="182" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1595261214870" />
-    <state width="1272" height="92" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1603173139478" />
-    <state width="1272" height="92" key="GridCell.Tab.0.right" timestamp="1603173139478">
+    <state width="1272" height="92" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1603180593759" />
+    <state width="1272" height="92" key="GridCell.Tab.0.right" timestamp="1603180593760">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1272" height="182" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1595261214870" />
-    <state width="1272" height="92" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1603173139478" />
+    <state width="1272" height="92" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1603180593760" />
     <state width="1272" height="199" key="GridCell.Tab.1.bottom" timestamp="1602916546870">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
@@ -1265,10 +1074,10 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="459" y="311" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1601435468980" />
-    <state x="1462" y="0" width="1009" height="866" key="dock-window-1" timestamp="1602856013350">
+    <state x="1640" y="39" width="800" height="953" key="dock-window-1" timestamp="1603182509767">
       <screen x="1440" y="0" width="1280" height="1024" />
     </state>
-    <state x="1462" y="0" width="1009" height="866" key="dock-window-1/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1602856013350" />
+    <state x="1640" y="39" width="800" height="953" key="dock-window-1/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1603182509767" />
     <state x="1497" y="157" width="819" height="752" key="dock-window-10" timestamp="1603162358034">
       <screen x="1440" y="0" width="1280" height="1024" />
     </state>
