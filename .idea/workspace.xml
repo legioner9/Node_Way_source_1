@@ -26,13 +26,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__/Linux_Env/.bashrc.arh" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/__/Linux_Env/.bashrc.arh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_STN/STN_func_v_4/Test/fsLog_1/log_1.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_STN/STN_func_v_4/Test/main_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_STN/STN_func_v_4/Test/main_auto_test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_arht/SetArchetype/FunctionARHT/AtOut_1/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_arht/SetArchetype/FunctionARHT/AtOut_1/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/FuncStandarts/UseFunctionARHT_2/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/FuncStandarts/UseFunctionARHT_2/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_arht/SetArchetype/FunctionARHT/AtOut_2/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_arht/SetArchetype/FunctionARHT/AtOut_2/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -1073,6 +1069,14 @@
       <screen x="1440" y="0" width="1280" height="1024" />
     </state>
     <state x="1462" y="0" width="1009" height="866" key="dock-window-1/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1602856013350" />
+    <state x="1497" y="157" width="819" height="752" key="dock-window-10" timestamp="1603162358034">
+      <screen x="1440" y="0" width="1280" height="1024" />
+    </state>
+    <state x="1497" y="157" width="819" height="752" key="dock-window-10/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1603162358034" />
+    <state x="1672" y="58" width="819" height="947" key="dock-window-11" timestamp="1603162751346">
+      <screen x="1440" y="0" width="1280" height="1024" />
+    </state>
+    <state x="1672" y="58" width="819" height="947" key="dock-window-11/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1603162751346" />
     <state x="1469" y="35" width="792" height="508" key="dock-window-2" timestamp="1602865109730">
       <screen x="1440" y="0" width="1280" height="1024" />
     </state>
