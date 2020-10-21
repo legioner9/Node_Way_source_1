@@ -27,9 +27,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/CreateDirFile/CreateTechDirHot_1/Test/main_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/CreateDirFile/CreateTechDirHot_1/Test/main_test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1_up1/SetCLI/HotCommand/Mkdir_1/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ex1_up1/SetCLI/HotCommand/Mkdir_1/ReadMe.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ini/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ini/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1_up1/SetCLI/HotCommand/Mkdir_1/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ex1_up1/SetCLI/HotCommand/Mkdir_1/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -440,7 +438,7 @@
       <workItem from="1602390324236" duration="40357000" />
       <workItem from="1602616075570" duration="44910000" />
       <workItem from="1602841123195" duration="45872000" />
-      <workItem from="1603178873096" duration="6912000" />
+      <workItem from="1603178873096" duration="8416000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
