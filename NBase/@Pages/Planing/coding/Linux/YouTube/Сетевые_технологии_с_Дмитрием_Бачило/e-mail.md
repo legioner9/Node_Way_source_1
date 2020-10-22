@@ -25,3 +25,7 @@
     213.180.193.89
     87.250.250.89
     93.158.134.89
+
+    ## SPF 
+
+   [SPF Wizard](https://www.spfwizard.net/)
