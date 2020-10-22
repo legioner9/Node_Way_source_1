@@ -26,23 +26,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
+      <change afterPath="$PROJECT_DIR$/NBase/@Pages/Planing/coding/Linux/YouTube/NetSkills/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NBase/@Pages/Planing/coding/Skils/Aop.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NBase/@Pages/Planing/coding/TSH.fiches.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/st_ex1_up1/SetCLI/HotCommand/Cf/Test/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/st_ex1_up1/SetCLI/HotCommand/Cf/Test/main_test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/st_ex1_up1/SetCLI/HotCommand/Cf/examp.index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/st_ex1_up1/SetCLI/HotCommand/Cf/index.init.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/st_ex1_up1/SetCLI/HotCommand/Cf/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/st_ex1_up1/SetCLI/HotCommand/Cf/index.v.1.0.0.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/st_ini_deep1/Tests/main_test.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1_deep1/SetLogical/LogicalDebug/L_fsLog/Test/fsLog_1/log_1.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1_deep1/SetLogical/LogicalDebug/L_fsLog/Test/fsLog_2/log_2.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/st_ex1_deep1/SetLogical/LogicalDebug/L_fsLog/fsLog/log.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/st_ex1_deep1/SetLogical/LogicalDebug/L_fsLog/fsLog_1/log_1.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1_deep1/Set__v_1/__/_/Production/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1_deep1/Set__v_1/__/_/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1_deep1/Set__v_1/__/_/Test/1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1_deep1/Set__v_1/__/_/Test/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1_deep1/Set__v_1/__/_/Production/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/@Pages/Planing/coding/Linux/ReadMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1_deep1/Set__v_1/__/_/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/@Pages/Planing/coding/Linux/YouTube/ReadMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1_deep1/Set__v_1/__/_/Test/1.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ex1_up1/SetCLI/HotCommand/Cf/Test/1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1_deep1/Set__v_1/__/_/Test/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/@Pages/Planing/coding/Skils/Dependency_Injection_container/ReadMe.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/st_ex1_deep1/Set__v_1/__/_/Test/main_test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1_deep1/Set__v_1/__/_/_versions.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1_deep1/Set__v_1/__/_/index.init.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1_deep1/Set__v_1/__/_/_versions.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ex1_up1/SetCLI/HotCommand/Cf/_versions.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1_deep1/Set__v_1/__/_/index.init.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ex1_up1/SetCLI/HotCommand/Cf/Production/ReadMe.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/st_ex1_deep1/Set__v_1/__/_/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1_deep1/Set__v_1/__/_/index.v.1.0.0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1_deep1/Set__v_1/__/_/index.v.1.0.0.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ex1_up1/SetCLI/HotCommand/Cf/ReadMe.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/st_ex1_deep1/Set__v_1/__/index.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/st_ex1_deep1/Set__v_1/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ini_deep1/Tests/~All.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ini_deep1/Tests/main_test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ini_deep1/Tests/~All.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -447,7 +455,7 @@
       <workItem from="1602616075570" duration="44910000" />
       <workItem from="1602841123195" duration="45872000" />
       <workItem from="1603178873096" duration="8416000" />
-      <workItem from="1603259214811" duration="493000" />
+      <workItem from="1603259214811" duration="519000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
