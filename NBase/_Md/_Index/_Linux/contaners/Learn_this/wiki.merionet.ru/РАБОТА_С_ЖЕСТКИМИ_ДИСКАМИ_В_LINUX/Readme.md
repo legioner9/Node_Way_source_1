@@ -1,0 +1,1 @@
+[РАБОТА С ЖЕСТКИМИ ДИСКАМИ В LINUX](https://wiki.merionet.ru/servernye-resheniya/64/rabota-s-zhestkimi-diskami-v-linux/)

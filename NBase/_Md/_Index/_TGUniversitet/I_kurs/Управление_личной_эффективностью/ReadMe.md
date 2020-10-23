@@ -1,0 +1,1 @@
+[Управление личной эффективностью и деловая этика](https://edu.rosdistant.ru/course/view.php?id=3111)
