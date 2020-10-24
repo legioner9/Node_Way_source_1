@@ -26,10 +26,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
+      <change afterPath="$PROJECT_DIR$/node_modules/st_arht/SetArchetype/FunctionARHT/AtOut_fm/Workout_selftest/SelfTest/_selftest_func.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/@Pages/Knowledge/Bash/.bashrc.2" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/@Pages/Knowledge/Bash/.bashrc.2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_arht/SetArchetype/FunctionARHT/AtOut_fm/Workout_selftest/fsLog/log.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_arht/SetArchetype/FunctionARHT/AtOut_fm/Workout_selftest/work.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_arht/SetArchetype/FunctionARHT/AtOut_fm/Workout_selftest/function.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_arht/SetArchetype/FunctionARHT/AtOut_fm/Workout_selftest/SelfTest/selftest.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_arht/SetArchetype/FunctionARHT/AtOut_fm/Workout_selftest/SelfTest/mane_test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_arht/SetArchetype/FunctionARHT/AtOut_fm/Workout_selftest/SelfTest/selftest_func.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_arht/SetArchetype/FunctionARHT/AtOut_fm/Workout_selftest/function.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_arht/SetArchetype/FunctionARHT/AtOut_fm/Workout_selftest/function.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_arht/SetArchetype/FunctionARHT/AtOut_fm/fsLog/log.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_arht/SetArchetype/FunctionARHT/AtOut_fm/fsLog/log.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_arht/SetArchetype/FunctionARHT/AtOut_fm/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_arht/SetArchetype/FunctionARHT/AtOut_fm/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -436,7 +439,7 @@
       <workItem from="1603178873096" duration="8416000" />
       <workItem from="1603259214811" duration="519000" />
       <workItem from="1603382228572" duration="1102000" />
-      <workItem from="1603506510196" duration="17621000" />
+      <workItem from="1603506510196" duration="19357000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
