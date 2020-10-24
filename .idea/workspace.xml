@@ -27,9 +27,17 @@
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/@Pages/Knowledge/Bash/.bashrc.2" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/@Pages/Knowledge/Bash/.bashrc.2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/st_arht/SetArchetype/FunctionARHT/AtOut_fm/Test/main_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_arht/SetArchetype/FunctionARHT/AtOut_fm/Test/main_test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_arht/SetArchetype/FunctionARHT/AtOut_fm/Workout/work.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_arht/SetArchetype/FunctionARHT/AtOut_fm/Workout/work.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/st_arht/SetArchetype/FunctionARHT/AtOut_fm/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_arht/SetArchetype/FunctionARHT/AtOut_fm/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1_deep1/SetConsole/ConsoleDir/DirDeepOptoins/Production/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ex1_deep1/SetConsole/ConsoleDir/DirDeepOptions/Production/ReadMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1_deep1/SetConsole/ConsoleDir/DirDeepOptoins/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ex1_deep1/SetConsole/ConsoleDir/DirDeepOptions/ReadMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1_deep1/SetConsole/ConsoleDir/DirDeepOptoins/Test/1.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ex1_deep1/SetConsole/ConsoleDir/DirDeepOptions/Test/1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1_deep1/SetConsole/ConsoleDir/DirDeepOptoins/Test/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ex1_deep1/SetConsole/ConsoleDir/DirDeepOptions/Test/ReadMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1_deep1/SetConsole/ConsoleDir/DirDeepOptoins/_versions.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ex1_deep1/SetConsole/ConsoleDir/DirDeepOptions/_versions.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1_deep1/SetConsole/ConsoleDir/DirDeepOptoins/index.init.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ex1_deep1/SetConsole/ConsoleDir/DirDeepOptions/index.init.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1_deep1/SetConsole/ConsoleDir/DirDeepOptoins/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ex1_deep1/SetConsole/ConsoleDir/DirDeepOptions/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1_deep1/SetConsole/ConsoleDir/DirDeepOptoins/index.v.1.0.0.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ex1_deep1/SetConsole/ConsoleDir/DirDeepOptions/index.v.1.0.0.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/st_ini_deep1/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ini_deep1/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -437,7 +445,7 @@
       <workItem from="1603178873096" duration="8416000" />
       <workItem from="1603259214811" duration="519000" />
       <workItem from="1603382228572" duration="1102000" />
-      <workItem from="1603506510196" duration="5146000" />
+      <workItem from="1603506510196" duration="10288000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
@@ -1068,10 +1076,10 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="459" y="311" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1601435468980" />
-    <state x="1725" y="58" width="830" height="943" key="dock-window-1" timestamp="1603507899605">
+    <state x="1725" y="58" width="691" height="943" key="dock-window-1" timestamp="1603518066255">
       <screen x="1440" y="0" width="1280" height="1024" />
     </state>
-    <state x="1725" y="58" width="830" height="943" key="dock-window-1/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1603507899605" />
+    <state x="1725" y="58" width="691" height="943" key="dock-window-1/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1603518066255" />
     <state x="1497" y="157" width="819" height="752" key="dock-window-10" timestamp="1603162358034">
       <screen x="1440" y="0" width="1280" height="1024" />
     </state>
