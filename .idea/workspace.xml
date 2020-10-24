@@ -27,18 +27,10 @@
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_arht/SetArchetype/FunctionARHT/AtOut_fm/Test/main_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_arht/SetArchetype/FunctionARHT/AtOut_fm/Test/main_test.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/st_arht/SetArchetype/FunctionARHT/AtOut_fm/Workout/work.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_arht/SetArchetype/FunctionARHT/AtOut_fm/Workout/work.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_arht/SetArchetype/FunctionARHT/AtOut_fm/Workout_selftest/work.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_arht/SetArchetype/FunctionARHT/AtOut_fm/Workout_selftest/work.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/st_arht/SetArchetype/FunctionARHT/AtOut_fm/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_arht/SetArchetype/FunctionARHT/AtOut_fm/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1_deep1/SetConsole/ConsoleDir/DirDeepOptoins/Production/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ex1_deep1/SetConsole/ConsoleDir/DirDeepOptions/Production/ReadMe.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1_deep1/SetConsole/ConsoleDir/DirDeepOptoins/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ex1_deep1/SetConsole/ConsoleDir/DirDeepOptions/ReadMe.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1_deep1/SetConsole/ConsoleDir/DirDeepOptoins/Test/1.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ex1_deep1/SetConsole/ConsoleDir/DirDeepOptions/Test/1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1_deep1/SetConsole/ConsoleDir/DirDeepOptoins/Test/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ex1_deep1/SetConsole/ConsoleDir/DirDeepOptions/Test/ReadMe.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1_deep1/SetConsole/ConsoleDir/DirDeepOptoins/_versions.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ex1_deep1/SetConsole/ConsoleDir/DirDeepOptions/_versions.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1_deep1/SetConsole/ConsoleDir/DirDeepOptoins/index.init.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ex1_deep1/SetConsole/ConsoleDir/DirDeepOptions/index.init.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1_deep1/SetConsole/ConsoleDir/DirDeepOptoins/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ex1_deep1/SetConsole/ConsoleDir/DirDeepOptions/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1_deep1/SetConsole/ConsoleDir/DirDeepOptoins/index.v.1.0.0.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ex1_deep1/SetConsole/ConsoleDir/DirDeepOptions/index.v.1.0.0.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ini_deep1/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ini_deep1/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1_deep1/SetLogical/LogicalDebug/L_log_deb/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ex1_deep1/SetLogical/LogicalDebug/L_log_deb/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -445,7 +437,7 @@
       <workItem from="1603178873096" duration="8416000" />
       <workItem from="1603259214811" duration="519000" />
       <workItem from="1603382228572" duration="1102000" />
-      <workItem from="1603506510196" duration="10288000" />
+      <workItem from="1603506510196" duration="16644000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
