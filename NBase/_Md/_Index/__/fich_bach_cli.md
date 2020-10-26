@@ -241,3 +241,7 @@
 
 
 ## apropos - finder in all commands
+
+## du  - in centos 7
+    # du -hsx /etc/sysconfig/
+        332k    /etc/sysconfig/
