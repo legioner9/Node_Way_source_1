@@ -130,7 +130,7 @@
     <property name="add_unversioned_files" value="$PROJECT_DIR$/Jobs/SetGlobLoggers/ModLogger_1/Core/Logs/eLogs.txt&#10;true" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="11.6.0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/node_modules/st_doc1/js_DOCS" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Jobs/MyGlobalI/1" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.jscs" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -156,11 +156,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Node_projects\Node_Way\Jobs\MyGlobalI\1" />
+      <recent name="E:\Node_projects\Node_Way\Jobs\MyGlobalI" />
       <recent name="E:\Node_projects\Node_Way\node_modules\st_doc1\js_DOCS" />
       <recent name="E:\Node_projects\Node_Way\node_modules\st_doc1\js_DOCS\_initDir\Docs" />
       <recent name="E:\Node_projects\Node_Way\node_modules\st_doc1\js_DOCS\_initDir\Mdn" />
-      <recent name="E:\Node_projects\Node_Way\node_modules\st_doc1\js_DOCS\_initDir\TSH" />
-      <recent name="E:\Node_projects\Node_Way\node_modules\st_doc1\js_DOCS\_initDir\Way" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Node_projects\Node_Way\node_modules\st_doc1\nodejs.org_DOCS\__\_" />
@@ -435,7 +435,7 @@
       <workItem from="1603259214811" duration="519000" />
       <workItem from="1603382228572" duration="1102000" />
       <workItem from="1603506510196" duration="29847000" />
-      <workItem from="1604497026985" duration="6609000" />
+      <workItem from="1604497026985" duration="8389000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
@@ -943,10 +943,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="TSH AsyncIterator v.2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="361" y="199" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604497579914">
+    <state x="361" y="199" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604505224301">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="361" y="199" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1604497579914" />
+    <state x="361" y="199" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1604505224301" />
     <state x="436" y="348" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1597595569356">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
