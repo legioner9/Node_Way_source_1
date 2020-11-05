@@ -25,10 +25,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Production/ARHT_function.product.v.3/SelfTest/_selftest_func.js" beforeDir="false" afterPath="$PROJECT_DIR$/Production/ARHT_function.product.v.3/SelfTest/_selftest_func.js" afterDir="false" />
-    </list>
+    <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -435,7 +432,7 @@
       <workItem from="1603259214811" duration="519000" />
       <workItem from="1603382228572" duration="1102000" />
       <workItem from="1603506510196" duration="29847000" />
-      <workItem from="1604497026985" duration="8389000" />
+      <workItem from="1604497026985" duration="8517000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
