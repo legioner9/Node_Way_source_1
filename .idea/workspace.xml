@@ -127,7 +127,7 @@
     <property name="add_unversioned_files" value="$PROJECT_DIR$/Jobs/SetGlobLoggers/ModLogger_1/Core/Logs/eLogs.txt&#10;true" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="11.6.0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Jobs/MyGlobalI/1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Jobs/Base/Treat_gov/GB.v.1" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.jscs" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -152,19 +152,19 @@
     <property name="ts.external.directory.path" value="D:\Program Files\JetBrains\IntelliJ IDEA 2020.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\Node_projects\Node_Way\Jobs\MyGlobalI\1" />
-      <recent name="E:\Node_projects\Node_Way\Jobs\MyGlobalI" />
-      <recent name="E:\Node_projects\Node_Way\node_modules\st_doc1\js_DOCS" />
-      <recent name="E:\Node_projects\Node_Way\node_modules\st_doc1\js_DOCS\_initDir\Docs" />
-      <recent name="E:\Node_projects\Node_Way\node_modules\st_doc1\js_DOCS\_initDir\Mdn" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Node_projects\Node_Way\node_modules\st_doc1\nodejs.org_DOCS\__\_" />
       <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1\SetDirFile\SearchDirFile\DirMappingCloneFileToDir_8\Production" />
       <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1\SetDirFile\SearchDirFile\DirMappingCloneFileToDir_7\Production" />
       <recent name="E:\Node_projects\Node_Way\NBase\_Md\_Index\_Windows_PowerShell_{LG2}" />
       <recent name="E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Node_projects\Node_Way\Jobs\Base\Treat_gov\GB.v.1" />
+      <recent name="E:\Node_projects\Node_Way\Jobs\MyGlobalI\1" />
+      <recent name="E:\Node_projects\Node_Way\Jobs\MyGlobalI" />
+      <recent name="E:\Node_projects\Node_Way\node_modules\st_doc1\js_DOCS" />
+      <recent name="E:\Node_projects\Node_Way\node_modules\st_doc1\js_DOCS\_initDir\Docs" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.1.js">
