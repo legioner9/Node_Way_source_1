@@ -127,7 +127,7 @@
     <property name="add_unversioned_files" value="$PROJECT_DIR$/Jobs/SetGlobLoggers/ModLogger_1/Core/Logs/eLogs.txt&#10;true" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="11.6.0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/node_modules/st_arht" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/node_modules/st_ManeArchetype/__" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.jscs" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -160,14 +160,14 @@
       <recent name="E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Node_projects\Node_Way\node_modules\st_ManeArchetype\__" />
+      <recent name="E:\Node_projects\Node_Way\node_modules" />
+      <recent name="E:\Node_projects\Node_Way\node_modules\st_arht\ManeArchetype\__\ManeArhe_1" />
       <recent name="E:\Node_projects\Node_Way\node_modules\st_arht" />
       <recent name="E:\Node_projects\Node_Way\node_modules\st_arht\SetArchetype\FunctionARHT\AtOut_fm" />
-      <recent name="E:\Node_projects\Node_Way\node_modules\st_arht\SetArchetype\FunctionARHT" />
-      <recent name="E:\Node_projects\Node_Way\Jobs\Base\Treat_gov\GB.v.1" />
-      <recent name="E:\Node_projects\Node_Way\Jobs\MyGlobalI\1" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.1.js">
+  <component name="RunManager" selected="Node.js.mane_test.js">
     <configuration name="a.html" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/Node_Way/Node_Docs/Education/IlKan/learn.javascript.ru/Browser/1/1.1/a.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -180,45 +180,38 @@
     <configuration name="Object.create.js" type="NodeJSConfigurationType" nameIsGenerated="true" node-parameters="ndb" path-to-js-file="$PROJECT_DIR$/node_modules/st_doc1/js_DOCS/Function/_@_FunctionEngendering/InheritsEgeneringModel/Object.create.js" working-dir="$PROJECT_DIR$/node_modules/st_doc1/js_DOCS/Function/_@_FunctionEngendering">
       <method v="2" />
     </configuration>
+    <configuration name="_selftest_func.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/node_modules/st_arht/ManeArchetype/__/ManeArhe_1/SelfTest/_selftest_func.js" working-dir="$PROJECT_DIR$/node_modules/st_arht/ManeArchetype/__/ManeArhe_1/SelfTest">
+      <method v="2" />
+    </configuration>
     <configuration name="main_test.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/node_modules/st___00/SetCLI/__/_/Test/main_test.js" working-dir="$PROJECT_DIR$/node_modules/st___00/SetCLI/__/_/Test">
       <method v="2" />
     </configuration>
     <configuration name="main_test.js (2)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/node_modules/st_ex1_up1/SetCLI/QuesMenuRun/QMR_2_d1/Test/main_test.js" working-dir="$PROJECT_DIR$/node_modules/st_ex1_up1/SetCLI/QuesMenuRun/QMR_2_d1/Test">
       <method v="2" />
     </configuration>
-    <configuration name="main_test.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/node_modules/st___0/Set__v_1/__/_/Test/main_test.js" working-dir="$PROJECT_DIR$/node_modules/st___0/Set__v_1/__/_/Test">
-      <method v="2" />
-    </configuration>
     <configuration name="main_test.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/CreateDirFile/CreateTechDir_4_v_2/Test/main_test.js" working-dir="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/CreateDirFile/CreateTechDir_4_v_2/Test">
       <method v="2" />
     </configuration>
-    <configuration name="dev_examp" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
-      <package-json value="$PROJECT_DIR$/package.json" />
-      <command value="run" />
-      <scripts>
-        <script value="dev_examp" />
-      </scripts>
-      <node-interpreter value="project" />
-      <envs />
+    <configuration name="mane_test.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/node_modules/st_arht/ManeArchetype/__/ManeArhe_1/SelfTest/mane_test.js" working-dir="$PROJECT_DIR$/node_modules/st_arht/ManeArchetype/__/ManeArhe_1/SelfTest">
       <method v="2" />
     </configuration>
     <list>
       <item itemvalue="JavaScript Debug.a.html" />
       <item itemvalue="Node.js.6-parse_1.js" />
       <item itemvalue="Node.js.Object.create.js" />
-      <item itemvalue="Node.js.main_test.js" />
       <item itemvalue="Node.js.main_test.js (1)" />
       <item itemvalue="Node.js.main_test.js (2)" />
       <item itemvalue="Node.js.1.js" />
-      <item itemvalue="npm.dev_examp" />
+      <item itemvalue="Node.js._selftest_func.js" />
+      <item itemvalue="Node.js.mane_test.js" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.mane_test.js" />
+        <item itemvalue="Node.js._selftest_func.js" />
         <item itemvalue="Node.js.1.js" />
         <item itemvalue="Node.js.main_test.js (2)" />
         <item itemvalue="Node.js.main_test.js (1)" />
-        <item itemvalue="Node.js.main_test.js" />
-        <item itemvalue="npm.dev_examp" />
       </list>
     </recent_temporary>
   </component>
@@ -969,22 +962,22 @@
     </state>
     <state x="461" y="204" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1597595554793" />
     <state x="519" y="178" width="699" height="606" key="FileChooserDialogImpl/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1602648767743" />
-    <state width="1272" height="91" key="GridCell.Tab.0.bottom" timestamp="1603258561924">
+    <state width="1271" height="89" key="GridCell.Tab.0.bottom" timestamp="1604655118055">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1272" height="91" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1603258561924" />
-    <state width="1272" height="91" key="GridCell.Tab.0.center" timestamp="1603258561924">
+    <state width="1271" height="89" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1604655118055" />
+    <state width="1271" height="89" key="GridCell.Tab.0.center" timestamp="1604655118055">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1272" height="91" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1603258561924" />
-    <state width="1272" height="91" key="GridCell.Tab.0.left" timestamp="1603258561924">
+    <state width="1271" height="89" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1604655118055" />
+    <state width="1271" height="89" key="GridCell.Tab.0.left" timestamp="1604655118055">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1272" height="91" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1603258561924" />
-    <state width="1272" height="91" key="GridCell.Tab.0.right" timestamp="1603258561924">
+    <state width="1271" height="89" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1604655118055" />
+    <state width="1271" height="89" key="GridCell.Tab.0.right" timestamp="1604655118055">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1272" height="91" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1603258561924" />
+    <state width="1271" height="89" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1604655118055" />
     <state width="1272" height="199" key="GridCell.Tab.1.bottom" timestamp="1602916546870">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
@@ -1081,18 +1074,18 @@
       <screen x="1440" y="0" width="1280" height="1024" />
     </state>
     <state x="1558" y="70" width="793" height="914" key="dock-window-3/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1604653729948" />
-    <state x="1797" y="5" width="792" height="1028" key="dock-window-4" timestamp="1602904022348">
+    <state x="1614" y="0" width="793" height="981" key="dock-window-4" timestamp="1604657595641">
       <screen x="1440" y="0" width="1280" height="1024" />
     </state>
-    <state x="1797" y="5" width="792" height="1028" key="dock-window-4/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1602904022348" />
-    <state x="1668" y="158" width="792" height="828" key="dock-window-5" timestamp="1602908204536">
+    <state x="1614" y="0" width="793" height="981" key="dock-window-4/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1604657595641" />
+    <state x="1544" y="0" width="793" height="985" key="dock-window-5" timestamp="1604657595641">
       <screen x="1440" y="0" width="1280" height="1024" />
     </state>
-    <state x="1668" y="158" width="792" height="828" key="dock-window-5/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1602908204536" />
-    <state x="1604" y="42" width="823" height="909" key="dock-window-6" timestamp="1602917072743">
+    <state x="1544" y="0" width="793" height="985" key="dock-window-5/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1604657595641" />
+    <state x="1578" y="0" width="793" height="977" key="dock-window-6" timestamp="1604657595641">
       <screen x="1440" y="0" width="1280" height="1024" />
     </state>
-    <state x="1604" y="42" width="823" height="909" key="dock-window-6/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1602917072743" />
+    <state x="1578" y="0" width="793" height="977" key="dock-window-6/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1604657595641" />
     <state x="1759" y="112" width="792" height="887" key="dock-window-7" timestamp="1602915897768">
       <screen x="1440" y="0" width="1280" height="1024" />
     </state>

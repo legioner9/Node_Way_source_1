@@ -57,6 +57,8 @@ node_modules/*
 !node_modules/st_ini_arht
 !node_modules/st_fs
 !node_modules/st_ini_fs
+!node_modules/st_ManeArchetype
+
 
 jspm_packages/
 
