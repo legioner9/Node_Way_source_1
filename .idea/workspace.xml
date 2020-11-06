@@ -127,7 +127,7 @@
     <property name="add_unversioned_files" value="$PROJECT_DIR$/Jobs/SetGlobLoggers/ModLogger_1/Core/Logs/eLogs.txt&#10;true" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="11.6.0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/node_modules/st_arht/SetArchetype/FunctionARHT" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/node_modules/st_arht" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.jscs" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -160,11 +160,11 @@
       <recent name="E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Node_projects\Node_Way\node_modules\st_arht" />
+      <recent name="E:\Node_projects\Node_Way\node_modules\st_arht\SetArchetype\FunctionARHT\AtOut_fm" />
       <recent name="E:\Node_projects\Node_Way\node_modules\st_arht\SetArchetype\FunctionARHT" />
       <recent name="E:\Node_projects\Node_Way\Jobs\Base\Treat_gov\GB.v.1" />
       <recent name="E:\Node_projects\Node_Way\Jobs\MyGlobalI\1" />
-      <recent name="E:\Node_projects\Node_Way\Jobs\MyGlobalI" />
-      <recent name="E:\Node_projects\Node_Way\node_modules\st_doc1\js_DOCS" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.1.js">
@@ -1049,10 +1049,10 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="459" y="311" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1601435468980" />
-    <state x="1725" y="58" width="810" height="943" key="dock-window-1" timestamp="1603529265011">
+    <state x="1440" y="84" width="683" height="891" key="dock-window-1" timestamp="1604652546642">
       <screen x="1440" y="0" width="1280" height="1024" />
     </state>
-    <state x="1725" y="58" width="810" height="943" key="dock-window-1/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1603529265011" />
+    <state x="1440" y="84" width="683" height="891" key="dock-window-1/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1604652546642" />
     <state x="1497" y="157" width="819" height="752" key="dock-window-10" timestamp="1603162358034">
       <screen x="1440" y="0" width="1280" height="1024" />
     </state>
@@ -1073,14 +1073,14 @@
       <screen x="1440" y="0" width="1280" height="1024" />
     </state>
     <state x="1562" y="39" width="819" height="913" key="dock-window-14/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1603179208967" />
-    <state x="1652" y="45" width="800" height="931" key="dock-window-2" timestamp="1603191839567">
+    <state x="2111" y="76" width="609" height="887" key="dock-window-2" timestamp="1604652546642">
       <screen x="1440" y="0" width="1280" height="1024" />
     </state>
-    <state x="1652" y="45" width="800" height="931" key="dock-window-2/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1603191839567" />
-    <state x="1881" y="78" width="792" height="746" key="dock-window-3" timestamp="1602865442180">
+    <state x="2111" y="76" width="609" height="887" key="dock-window-2/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1604652546642" />
+    <state x="1558" y="70" width="793" height="914" key="dock-window-3" timestamp="1604653729948">
       <screen x="1440" y="0" width="1280" height="1024" />
     </state>
-    <state x="1881" y="78" width="792" height="746" key="dock-window-3/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1602865442180" />
+    <state x="1558" y="70" width="793" height="914" key="dock-window-3/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1604653729948" />
     <state x="1797" y="5" width="792" height="1028" key="dock-window-4" timestamp="1602904022348">
       <screen x="1440" y="0" width="1280" height="1024" />
     </state>
