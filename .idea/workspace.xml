@@ -155,19 +155,19 @@
     <property name="ts.external.directory.path" value="D:\Program Files\JetBrains\IntelliJ IDEA 2020.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\Node_projects\Node_Way\Production\AFP.v.4_funname\Test_behavior_func_1" />
-      <recent name="E:\Node_projects\Node_Way\Production\AFP.v.4_funname" />
-      <recent name="E:\Node_projects\Node_Way\Production" />
-      <recent name="E:\Node_projects\Node_Way\Jobs\Base\Treat_gov\GB.v.1" />
-      <recent name="E:\Node_projects\Node_Way\NBase\BigIssue" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Node_projects\Node_Way\node_modules\st_doc1\nodejs.org_DOCS\__\_" />
       <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1\SetDirFile\SearchDirFile\DirMappingCloneFileToDir_8\Production" />
       <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1\SetDirFile\SearchDirFile\DirMappingCloneFileToDir_7\Production" />
       <recent name="E:\Node_projects\Node_Way\NBase\_Md\_Index\_Windows_PowerShell_{LG2}" />
       <recent name="E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1_deep1\SetLogical\LogicalDebug" />
+      <recent name="E:\Node_projects\Node_Way\Production\AFP.v.5_t_funname" />
+      <recent name="E:\Node_projects\Node_Way\Production" />
+      <recent name="E:\Node_projects\Node_Way\Production\AFP.v.4_funname\Test_behavior_func_1" />
+      <recent name="E:\Node_projects\Node_Way\Production\AFP.v.4_funname" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.mane_test.js (3)">
