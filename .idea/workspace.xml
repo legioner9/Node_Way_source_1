@@ -26,7 +26,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Production/AFP.v.5_t_funname/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Production/AFP.v.5_t_funname/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_arht/SetArchetype/FunctionARHT/AtOut_fm/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_arht/SetArchetype/FunctionARHT/AtOut_fm/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1_deep1/SetLogical/LogicalDebug/L_fsLogErr/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ex1_deep1/SetLogical/LogicalDebug/L_fsLogErr/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ini_deep1/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ini_deep1/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,7 +132,7 @@
     <property name="add_unversioned_files" value="$PROJECT_DIR$/Jobs/SetGlobLoggers/ModLogger_1/Core/Logs/eLogs.txt&#10;true" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="11.6.0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Production/AFP.v.5_t_funname" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/node_modules/st_ex1_deep1/SetLogical/LogicalDebug" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.jscs" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -429,7 +432,7 @@
       <workItem from="1603382228572" duration="1102000" />
       <workItem from="1603506510196" duration="29847000" />
       <workItem from="1604497026985" duration="8517000" />
-      <workItem from="1604748564128" duration="5822000" />
+      <workItem from="1604748564128" duration="6655000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>

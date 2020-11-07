@@ -32,6 +32,11 @@ const Func_examp = () => {
         Func_examp.l_fsLog ( Env.MODE, string );
     };
 
+    Func_examp.l_fsLogErr ( Env.MODE, 'work Func_examp.l_fsLog', Env.MODULE.path );
+    const inj_fsLogErr = string => {
+        Func_examp.l_fsLog ( Env.MODE, string );
+    };
+
     Func_examp.dirDeepOptions ( { a: 'aa' } );
     const inj_console_obj = obj => {
         Func_examp.dirDeepOptions ( obj );
