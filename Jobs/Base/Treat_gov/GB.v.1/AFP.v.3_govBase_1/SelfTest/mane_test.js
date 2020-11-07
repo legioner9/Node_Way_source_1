@@ -26,6 +26,6 @@ arht_fm.before ( Func_examp, module );
 Func_examp ();
 
 // AFTER Func_examp () , s.t. 'externalState' not exists yet > event transport to (import to) Func_examp:
-Func_examp.event.emit ( '_externalState', '__blob' ); // exterState: "__blob"
-
+// Func_examp.event.emit ( '_externalState', '__blob' ); // exterState: "__blob"
+ 
 debugger
