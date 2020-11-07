@@ -27,18 +27,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/Base/Treat_gov/GB.v.1/AFP.v.3_govBase_1/1.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/Base/Treat_gov/GB.v.1/AFP.v.3_govBase_all_to_json/1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/Base/Treat_gov/GB.v.1/AFP.v.3_govBase_1/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/Base/Treat_gov/GB.v.1/AFP.v.3_govBase_all_to_json/ReadMe.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/Base/Treat_gov/GB.v.1/AFP.v.3_govBase_1/SelfTest/_selftest_func.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/Base/Treat_gov/GB.v.1/AFP.v.3_govBase_all_to_json/SelfTest/_selftest_func.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/Base/Treat_gov/GB.v.1/AFP.v.3_govBase_1/SelfTest/mane_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/Base/Treat_gov/GB.v.1/AFP.v.3_govBase_all_to_json/SelfTest/mane_test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/Base/Treat_gov/GB.v.1/AFP.v.3_govBase_1/SelfTest/mod_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/Base/Treat_gov/GB.v.1/AFP.v.3_govBase_all_to_json/SelfTest/mod_test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/Base/Treat_gov/GB.v.1/AFP.v.3_govBase_1/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/Base/Treat_gov/GB.v.1/AFP.v.3_govBase_all_to_json/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/CreateFile/1.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/writeFileSync/1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/CreateFile/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/writeFileSync/ReadMe.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/CreateFile/SelfTest/_selftest_func.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/writeFileSync/SelfTest/_selftest_func.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/CreateFile/SelfTest/mane_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/writeFileSync/SelfTest/mane_test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/CreateFile/SelfTest/mod_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/writeFileSync/SelfTest/mod_test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/CreateFile/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/writeFileSync/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/writeFileSync/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/writeFileSync/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
