@@ -26,7 +26,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Production/AFP.v.4_funname/SelfTest_1/_selftest_func.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Production/AFP.v.4_funname/SelfTest_1/fsLog/log.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Production/AFP.v.4_funname/SelfTest_1/mane_test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Production/AFP.v.4_funname/SelfTest_1/mod_test.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,7 +132,7 @@
     <property name="add_unversioned_files" value="$PROJECT_DIR$/Jobs/SetGlobLoggers/ModLogger_1/Core/Logs/eLogs.txt&#10;true" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="11.6.0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Production/AFP.v.4_funname" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Production/AFP.v.4_funname/Test_behavior_func_1" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.jscs" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -156,11 +159,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Node_projects\Node_Way\Production\AFP.v.4_funname\Test_behavior_func_1" />
       <recent name="E:\Node_projects\Node_Way\Production\AFP.v.4_funname" />
       <recent name="E:\Node_projects\Node_Way\Production" />
       <recent name="E:\Node_projects\Node_Way\Jobs\Base\Treat_gov\GB.v.1" />
       <recent name="E:\Node_projects\Node_Way\NBase\BigIssue" />
-      <recent name="E:\Node_projects\Node_Way\node_modules\st_arht\SetArchetype\FunctionARHT\AtOut_fm" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Node_projects\Node_Way\node_modules\st_doc1\nodejs.org_DOCS\__\_" />
