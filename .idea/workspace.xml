@@ -26,10 +26,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
-      <change beforePath="$PROJECT_DIR$/Production/AFP.v.5_t_funname/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Production/AFP.v.5_t_funname/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Production/AFP.v.5_t_funname/1.js" beforeDir="false" afterPath="$PROJECT_DIR$/Production/AFP.v.5_err_funname/1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Production/AFP.v.5_t_funname/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/Production/AFP.v.5_err_funname/ReadMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Production/AFP.v.5_t_funname/Test_behavior_func_empty/_selftest_func.js" beforeDir="false" afterPath="$PROJECT_DIR$/Production/AFP.v.5_err_funname/Test_behavior_func_0.1/Test_behavior_0.1/_selftest_func.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Production/AFP.v.5_t_funname/Test_behavior_func_empty/mane_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/Production/AFP.v.5_err_funname/Test_behavior_func_empty/mane_test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Production/AFP.v.5_t_funname/Test_behavior_func_empty/mod_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/Production/AFP.v.5_err_funname/Test_behavior_func_0.1/Test_behavior_0.1/mod_test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Production/AFP.v.5_t_funname/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Production/AFP.v.5_err_funname/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Production/AFP.v.5_t_funname/~Test_behavior_func_0.1/1.js" beforeDir="false" afterPath="$PROJECT_DIR$/Production/AFP.v.5_err_funname/Test_behavior_func_0.1/1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Production/AFP.v.5_t_funname/~Test_behavior_func_0.1/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/Production/AFP.v.5_err_funname/Test_behavior_func_0.1/ReadMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Production/AFP.v.5_t_funname/~Test_behavior_func_0.1/Test_behavior_0.1/_selftest_func.js" beforeDir="false" afterPath="$PROJECT_DIR$/Production/AFP.v.5_err_funname/Test_behavior_func_empty/_selftest_func.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Production/AFP.v.5_t_funname/~Test_behavior_func_0.1/Test_behavior_0.1/fsLog/log.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Production/AFP.v.5_t_funname/~Test_behavior_func_0.1/Test_behavior_0.1/mane_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/Production/AFP.v.5_err_funname/Test_behavior_func_0.1/Test_behavior_0.1/mane_test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Production/AFP.v.5_t_funname/~Test_behavior_func_0.1/Test_behavior_0.1/mod_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/Production/AFP.v.5_err_funname/Test_behavior_func_empty/mod_test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Production/AFP.v.5_t_funname/~Test_behavior_func_0.1/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Production/AFP.v.5_err_funname/Test_behavior_func_0.1/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_arht/SetArchetype/FunctionARHT/AtOut_fm/fsLog/log.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_arht/SetArchetype/FunctionARHT/AtOut_fm/fsLog_1/log_1.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/st_arht/SetArchetype/FunctionARHT/AtOut_fm/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_arht/SetArchetype/FunctionARHT/AtOut_fm/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1_deep1/SetLogical/LogicalDebug/L_fsLog/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ex1_deep1/SetLogical/LogicalDebug/L_fsLog/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1_deep1/SetLogical/LogicalDebug/L_fsLogErr/Test/1.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ex1_deep1/SetLogical/LogicalDebug/L_fsLogErr/Test/1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1_deep1/SetLogical/LogicalDebug/L_fsLogErr/fsLog/log.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/st_ex1_deep1/SetLogical/LogicalDebug/L_fsLogErr/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ex1_deep1/SetLogical/LogicalDebug/L_fsLogErr/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ini_deep1/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ini_deep1/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,7 +148,7 @@
     <property name="add_unversioned_files" value="$PROJECT_DIR$/Jobs/SetGlobLoggers/ModLogger_1/Core/Logs/eLogs.txt&#10;true" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="11.6.0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/node_modules/st_ex1_deep1/SetLogical/LogicalDebug" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Production" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.jscs" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -166,15 +182,18 @@
       <recent name="E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Node_projects\Node_Way\Production" />
+      <recent name="E:\Node_projects\Node_Way\node_modules\st_arht\SetArchetype\FunctionARHT\AtOut_fm" />
       <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1_deep1\SetLogical\LogicalDebug" />
       <recent name="E:\Node_projects\Node_Way\Production\AFP.v.5_t_funname" />
-      <recent name="E:\Node_projects\Node_Way\Production" />
       <recent name="E:\Node_projects\Node_Way\Production\AFP.v.4_funname\Test_behavior_func_1" />
-      <recent name="E:\Node_projects\Node_Way\Production\AFP.v.4_funname" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.mane_test.js (3)">
+  <component name="RunManager" selected="Node.js.mane_test.js (2)">
     <configuration name="a.html" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/Node_Way/Node_Docs/Education/IlKan/learn.javascript.ru/Browser/1/1.1/a.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/node_modules/st_ex1_deep1/SetLogical/LogicalDebug/L_fsLogErr/Test/1.js" working-dir="$PROJECT_DIR$/node_modules/st_ex1_deep1/SetLogical/LogicalDebug/L_fsLogErr/Test">
       <method v="2" />
     </configuration>
     <configuration name="6-parse_1.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="6-parse_1.js" working-dir="$PROJECT_DIR$/NBase/_Md/_Index/_HPW/Part_I/content/Courses/Fundamentals/basic_sintax/DataTypes-master/JavaScript">
@@ -183,41 +202,38 @@
     <configuration name="Object.create.js" type="NodeJSConfigurationType" nameIsGenerated="true" node-parameters="ndb" path-to-js-file="$PROJECT_DIR$/node_modules/st_doc1/js_DOCS/Function/_@_FunctionEngendering/InheritsEgeneringModel/Object.create.js" working-dir="$PROJECT_DIR$/node_modules/st_doc1/js_DOCS/Function/_@_FunctionEngendering">
       <method v="2" />
     </configuration>
-    <configuration name="_selftest_func.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Production/AFP.v.4_funname/Test_behavior_func_empty/_selftest_func.js" working-dir="$PROJECT_DIR$/Production/AFP.v.4_funname/Test_behavior_func_empty">
-      <method v="2" />
-    </configuration>
     <configuration name="_selftest_func.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Jobs/Base/Treat_gov/GB.v.1/AFP.v.3_govBase_all_to_json/SelfTest/_selftest_func.js" working-dir="$PROJECT_DIR$/Jobs/Base/Treat_gov/GB.v.1/AFP.v.3_govBase_all_to_json/SelfTest">
-      <method v="2" />
-    </configuration>
-    <configuration name="mane_test.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/node_modules/st_arht/SetArchetype/FunctionARHT/AtOut_fm/Workout_st_inj_arg.v.4/SelfTest/mane_test.js" working-dir="$PROJECT_DIR$/node_modules/st_arht/SetArchetype/FunctionARHT/AtOut_fm/Workout_st_inj_arg.v.4/SelfTest">
-      <method v="2" />
-    </configuration>
-    <configuration name="mane_test.js (2)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Production/AFP.v.4_funname/Test_behavior_func_empty/mane_test.js" working-dir="$PROJECT_DIR$/Production/AFP.v.4_funname/Test_behavior_func_empty">
       <method v="2" />
     </configuration>
     <configuration name="mane_test.js (3)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Production/AFP.v.4_funname/Test_behavior_func_0.1/Test_behavior_0.1/mane_test.js" working-dir="$PROJECT_DIR$/Production/AFP.v.4_funname/Test_behavior_func_0.1/Test_behavior_0.1">
       <method v="2" />
     </configuration>
-    <configuration name="mane_test.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/node_modules/st_arht/ManeArchetype/__/ManeArhe_1/SelfTest/mane_test.js" working-dir="$PROJECT_DIR$/node_modules/st_arht/ManeArchetype/__/ManeArhe_1/SelfTest">
+    <configuration name="mane_test.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/node_modules/st_arht/SetArchetype/FunctionARHT/AtOut_fm/ARHT_function.product.v.6/SelfTest/mane_test.js" working-dir="$PROJECT_DIR$/node_modules/st_arht/SetArchetype/FunctionARHT/AtOut_fm/ARHT_function.product.v.6/SelfTest">
+      <method v="2" />
+    </configuration>
+    <configuration name="mane_test.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Production/AFP.v.5_err_funname/Test_behavior_func_empty/mane_test.js" working-dir="$PROJECT_DIR$/Production/AFP.v.5_err_funname/Test_behavior_func_empty">
+      <method v="2" />
+    </configuration>
+    <configuration name="mane_test.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Production/AFP.v.5_err_funname/Test_behavior_func_0.1/Test_behavior_0.1/mane_test.js" working-dir="$PROJECT_DIR$/Production/AFP.v.5_err_funname/Test_behavior_func_0.1/Test_behavior_0.1">
       <method v="2" />
     </configuration>
     <list>
       <item itemvalue="JavaScript Debug.a.html" />
       <item itemvalue="Node.js.6-parse_1.js" />
       <item itemvalue="Node.js.Object.create.js" />
+      <item itemvalue="Node.js.mane_test.js (3)" />
+      <item itemvalue="Node.js.1.js" />
       <item itemvalue="Node.js.mane_test.js" />
       <item itemvalue="Node.js.mane_test.js (1)" />
-      <item itemvalue="Node.js._selftest_func.js (1)" />
       <item itemvalue="Node.js.mane_test.js (2)" />
-      <item itemvalue="Node.js.mane_test.js (3)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.mane_test.js (3)" />
-        <item itemvalue="Node.js._selftest_func.js (1)" />
         <item itemvalue="Node.js.mane_test.js (2)" />
-        <item itemvalue="Node.js._selftest_func.js (1)" />
         <item itemvalue="Node.js.mane_test.js (1)" />
+        <item itemvalue="Node.js.mane_test.js" />
+        <item itemvalue="Node.js.1.js" />
+        <item itemvalue="Node.js.mane_test.js (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -432,7 +448,7 @@
       <workItem from="1603382228572" duration="1102000" />
       <workItem from="1603506510196" duration="29847000" />
       <workItem from="1604497026985" duration="8517000" />
-      <workItem from="1604748564128" duration="6655000" />
+      <workItem from="1604748564128" duration="8426000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
@@ -973,22 +989,22 @@
     </state>
     <state x="461" y="204" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1597595554793" />
     <state x="519" y="178" width="699" height="606" key="FileChooserDialogImpl/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1604737356241" />
-    <state width="1271" height="89" key="GridCell.Tab.0.bottom" timestamp="1604756411174">
+    <state width="1271" height="88" key="GridCell.Tab.0.bottom" timestamp="1604759239260">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1271" height="89" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1604756411174" />
-    <state width="1271" height="89" key="GridCell.Tab.0.center" timestamp="1604756411173">
+    <state width="1271" height="88" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1604759239260" />
+    <state width="1271" height="88" key="GridCell.Tab.0.center" timestamp="1604759239260">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1271" height="89" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1604756411173" />
-    <state width="1271" height="89" key="GridCell.Tab.0.left" timestamp="1604756411173">
+    <state width="1271" height="88" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1604759239260" />
+    <state width="1271" height="88" key="GridCell.Tab.0.left" timestamp="1604759239260">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1271" height="89" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1604756411173" />
-    <state width="1271" height="89" key="GridCell.Tab.0.right" timestamp="1604756411173">
+    <state width="1271" height="88" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1604759239260" />
+    <state width="1271" height="88" key="GridCell.Tab.0.right" timestamp="1604759239260">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1271" height="89" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1604756411173" />
+    <state width="1271" height="88" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1604759239260" />
     <state width="1272" height="199" key="GridCell.Tab.1.bottom" timestamp="1602916546870">
       <screen x="0" y="0" width="1440" height="860" />
     </state>

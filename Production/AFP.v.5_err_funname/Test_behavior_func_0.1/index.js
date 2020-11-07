@@ -29,7 +29,12 @@ const Func_examp = () => {
 
     // Func_examp.l_fsLog ( Env.MODE, 'work Func_examp.l_fsLog', Env.MODULE.path );
     const inj_fsLog = string => {
-        Func_examp.l_fsLog ( Env.MODE, string , Env.MODULE.path);
+        Func_examp.l_fsLog ( Env.MODE, string, Env.MODULE.path );
+    };
+
+    // Func_examp.l_fsLogErr ( Env.MODE, 'work Func_examp.l_fsLog', Env.MODULE.path );
+    const inj_fsLogErr = string => {
+        Func_examp.l_fsLogErr ( Env.MODE, string, Env.MODULE.path );
     };
 
     // Func_examp.dirDeepOptions ( { a: 'aa' } );
@@ -63,6 +68,7 @@ const Func_examp = () => {
         deb: inj_deb,
         log_deb: inj_log_deb,
         fsLog: inj_fsLog,
+        fsLogErr: inj_fsLogErr,
         console_obj: inj_console_obj,
         stack: inj_stack,
         send: inj_send,
@@ -74,6 +80,7 @@ const Func_examp = () => {
     // inj_deb = () => {
     // inj_log_deb = string => {
     // inj_fsLog = string => {
+    // inj_fsLogErr = string => {
     // inj_console_obj = obj => {
     // inj_stack = string => {
     // inj_send = ( event_name, data_to_send ) => {
@@ -87,14 +94,15 @@ const Func_examp = () => {
     inj_log ( 'work inj_log' );
     inj_deb ();
     inj_log_deb ( 'work inj_log_deb' );
-    inj_fsLog ( 'work inj_fsLog once\n' );
-    inj_fsLog ( 'work inj_fsLog twice\n' );
+    inj_fsLog ( 'work inj_fsLog once' );
+    inj_fsLog ( 'work inj_fsLog twice' );
+    inj_fsLogErr ( 'work inj_fsLogErr once' );
+    inj_fsLogErr ( 'work inj_fsLogErr twice' );
     inj_console_obj ( { a: 'inj_console_obj -------a------' } );
     inj_stack ( 'work inj_stack' );
-    inj_send ( 'send_from_func','content to send_from_func' );
-    inj_listen ( 'send_to_func',d => console.log(' send_to_func = ',d));
-    inj_listen_ce ( 'send_to_func_ce',d => console.log(' send_to_func_ce = ',d));
-
+    inj_send ( 'send_from_func', 'content to send_from_func' );
+    inj_listen ( 'send_to_func', d => console.log ( ' send_to_func = ', d ) );
+    inj_listen_ce ( 'send_to_func_ce', d => console.log ( ' send_to_func_ce = ', d ) );
 
     //--------------------------------------------------------------
 
