@@ -87,7 +87,8 @@ const Func_examp = () => {
     inj_log ( 'work inj_log' );
     inj_deb ();
     inj_log_deb ( 'work inj_log_deb' );
-    inj_fsLog ( 'work inj_fsLog' );
+    inj_fsLog ( 'work inj_fsLog once\n' );
+    inj_fsLog ( 'work inj_fsLog twice\n' );
     inj_console_obj ( { a: 'inj_console_obj -------a------' } );
     inj_stack ( 'work inj_stack' );
     inj_send ( 'send_from_func','content to send_from_func' );
