@@ -1,6 +1,6 @@
 const Ex = require ( 'st_ex1' );
 const Arht = require ( 'st_arht' );
-debugger
+
 const arht_fm = Arht.SetArchetype.FunctionARHT.AtOut_fm;
 // const ModuleFunc = Ex.ModuleFunc
 // ModuleFunc.mode = { deb: false, log: false, debLog: false, logFs: false, stack: false};
@@ -17,7 +17,7 @@ const Func_examp = () => {
     Func_examp.l_log_deb ( Env.MODE, 'work Func_examp.l_log_deb and far debug' );
     Func_examp.l_fsLog ( Env.MODE, 'work Func_examp.l_fsLog', Env.MODULE.path );
     Func_examp.dirDeepOptions ( { a: 'aa' } );
-    Func_examp.l_stack(Env.MODE ,'work Func_examp.l_stack' )
+    Func_examp.l_stack ( Env.MODE, 'work Func_examp.l_stack' );
 
     // internal event report (envelope_out to recipient signer 'boom_boom')
     Func_examp.event.emit ( 'boom_boom', 'envelope_out to recipient signer \'boom_boom\')))' );
@@ -27,13 +27,36 @@ const Func_examp = () => {
 
     // BODY OF FUNCTION
     console.log ( 'Run Func_examp------------' );
+    //--------------------------------------------------------------
+
+    const Fs = require ( 'fs' ),
+        Path = require ( 'path' ),
+        convert = require ( 'xml-js' );
+    // var result = convert.xml2json(xml, {compact: true, spaces: 4});
+
+    const path_root = 'E:\\Node_projects\\_src\\базыГов\\data-20200902T080815-structure001-20151020T000000.xml';
+    const dir_list = Fs.readdirSync ( path_root );
+
+    const path_file_1 = Path.join ( path_root, dir_list[1] );
+    const r_file = Fs.readFileSync ( path_file_1, 'utf-8' );
+    const json_file = convert.xml2json ( r_file );
+
+    const path_root_json = 'E:\\Node_projects\\_src\\базыГов\\data-20200902T080815-structure001-20151020T000000.json';
+    try {
+        if (!Fs.existsSync(dir)){
+            Fs.mkdirSync(dir)
+        }
+    } catch (err) {
+        console.error(err.message)
+    }
+    debugger
+    //--------------------------------------------------------------
+
 };
 
 // BOUNDEN CALL
 arht_fm.prop ( Func_examp );
 arht_fm.out ( Func_examp );
-
-debugger;
 
 // // event report out (export from) Func_examp:
 //
