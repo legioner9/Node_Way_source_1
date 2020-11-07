@@ -12,51 +12,51 @@ const Func_examp = () => {
 
     // inner INSTRUMENTS fore construction:
 
-    Func_examp.l_log ( Env.MODE, 'work Func_examp.l_log' );
+    // Func_examp.l_log ( Env.MODE, 'work Func_examp.l_log' );
     const inj_log = string => {
         Func_examp.l_log ( Env.MODE, string );
     };
 
-    Func_examp.l_deb ( Env.MODE );
+    // Func_examp.l_deb ( Env.MODE );
     const inj_deb = () => {
         Func_examp.l_deb ( Env.MODE );
     };
 
-    Func_examp.l_log_deb ( Env.MODE, 'work Func_examp.l_log_deb and far debug' );
+    // Func_examp.l_log_deb ( Env.MODE, 'work Func_examp.l_log_deb and far debug' );
     const inj_log_deb = string => {
         Func_examp.l_log_deb ( Env.MODE, string );
     };
 
-    Func_examp.l_fsLog ( Env.MODE, 'work Func_examp.l_fsLog', Env.MODULE.path );
+    // Func_examp.l_fsLog ( Env.MODE, 'work Func_examp.l_fsLog', Env.MODULE.path );
     const inj_fsLog = string => {
-        Func_examp.l_fsLog ( Env.MODE, string );
+        Func_examp.l_fsLog ( Env.MODE, string , Env.MODULE.path);
     };
 
-    Func_examp.dirDeepOptions ( { a: 'aa' } );
+    // Func_examp.dirDeepOptions ( { a: 'aa' } );
     const inj_console_obj = obj => {
         Func_examp.dirDeepOptions ( obj );
     };
 
-    Func_examp.l_stack ( Env.MODE, 'work Func_examp.l_stack' );
+    // Func_examp.l_stack ( Env.MODE, 'work Func_examp.l_stack' );
     const inj_stack = string => {
         Func_examp.l_stack ( Env.MODE, string );
     };
 
     // internal event report (envelope_out to recipient signer 'boom_boom')
-    Func_examp.event.emit ( 'boom_boom', 'envelope_out to recipient signer \'boom_boom\')))' );
+    // Func_examp.event.emit ( 'boom_boom', 'envelope_out to recipient signer \'boom_boom\')))' );
     const inj_send = ( event_name, data_to_send ) => {
         Func_examp.event.emit ( event_name, data_to_send );
     };
 
     // external event listener ( envelope from sender 'data to Func_examp')
-    Func_examp.event.on ( 'data to Func_examp', envelope_in => envelope_in );
-    const inj_listen = (event_name , cb_listener) =>{
+    // Func_examp.event.on ( 'data to Func_examp', envelope_in => envelope_in );
+    const inj_listen = ( event_name, cb_listener ) => {
         Func_examp.event.on ( event_name, cb_listener );
-    }
+    };
 
-    const inj_listen_ce = (event_name_ce , cb_listener_ce) =>{
-        Func_examp.event.once( event_name_ce, cb_listener_ce );
-    }
+    const inj_listen_ce = ( event_name_ce, cb_listener_ce ) => {
+        Func_examp.event.once ( event_name_ce, cb_listener_ce );
+    };
 
     const inj = {
         log: inj_log,
@@ -68,7 +68,7 @@ const Func_examp = () => {
         send: inj_send,
         listen: inj_listen,
         listen_ce: inj_listen_ce,
-    }
+    };
 
     // inj_log = string => {
     // inj_deb = () => {
@@ -84,9 +84,15 @@ const Func_examp = () => {
     console.log ( 'Run Func_examp------------' );
     //--------------------------------------------------------------
 
-
-
-
+    inj_log ( 'work inj_log' );
+    inj_deb ();
+    inj_log_deb ( 'work inj_log_deb' );
+    inj_fsLog ( 'work inj_fsLog' );
+    inj_console_obj ( { a: 'inj_console_obj -------a------' } );
+    inj_stack ( 'work inj_stack' );
+    inj_send ( 'send_from_func','content to send_from_func' );
+    inj_listen ( 'send_to_func',d => console.log(' send_to_func = ',d));
+    inj_listen_ce ( 'send_to_func_ce',d => console.log(' send_to_func_ce = ',d));
 
 
     //--------------------------------------------------------------

@@ -4,13 +4,15 @@ const Func_examp = require ( '../index' );
 
 // event report out (export from) Func_examp:
 
-Func_examp.event.once ( '_start', function ( ENV ) {
-    Func_examp.dirDeepOptions ( ENV );
-}, Func_examp );
+// Func_examp.event.once ( '_start', function ( ENV ) {
+//     Func_examp.dirDeepOptions ( ENV );
+// }, Func_examp );
+//
+// Func_examp.event.once ( '_innerState', function ( innerState ) {
+//     Func_examp.dirDeepOptions ( innerState );
+// }, Func_examp );
 
-Func_examp.event.once ( '_innerState', function ( innerState ) {
-    Func_examp.dirDeepOptions ( innerState );
-}, Func_examp );
+Func_examp.event.once('send_from_func',d => console.log(' send_from_func = ',d))
 
 // define report behaviour :
 
@@ -22,10 +24,11 @@ Func_examp.mode.stack = true;
 
 // BOUNDEN CALL define root_path
 arht_fm.before ( Func_examp, module );
-
+debugger
 Func_examp ();
-
+debugger
 // AFTER Func_examp () , s.t. 'externalState' not exists yet > event transport to (import to) Func_examp:
-Func_examp.event.emit ( '_externalState', '__blob' ); // exterState: "__blob"
+Func_examp.event.emit ( 'send_to_func', 'content to send_to_func' ); //
+Func_examp.event.emit ( 'send_to_func_ce', 'content to send_to_func_ce' ); //
 
 debugger
