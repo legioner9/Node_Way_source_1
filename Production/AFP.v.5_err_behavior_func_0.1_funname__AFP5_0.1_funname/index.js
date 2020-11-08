@@ -89,8 +89,9 @@ const Func_examp = () => {
     //
     // BODY OF FUNCTION
     console.log ( 'Run Func_examp------------' );
-    //--------------------------------------------------------------
 
+    //--------------------------------------------------------------
+    // PRE Function
     inj_log ( 'work inj_log' );
     inj_deb ();
     inj_log_deb ( 'work inj_log_deb' );
@@ -103,6 +104,11 @@ const Func_examp = () => {
     inj_send ( 'send_from_func', 'content to send_from_func' );
     inj_listen ( 'send_to_func', d => console.log ( ' send_to_func = ', d ) );
     inj_listen_ce ( 'send_to_func_ce', d => console.log ( ' send_to_func_ce = ', d ) );
+
+    //--------------------------------------------------------------
+    // THIS Function
+
+
 
     //--------------------------------------------------------------
 
