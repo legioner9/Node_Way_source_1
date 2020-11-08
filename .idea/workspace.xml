@@ -25,15 +25,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1_deep1/SetLogical/LogicalDebug/L_fsLog/fsLog/log.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ex1_deep1/SetLogical/LogicalDebug/L_fsLog/fsLog/log.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/writeFileSync/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/writeFileSync/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ini_arht/Tests/~All.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ini_arht/Tests/~All.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ini_arht/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ini_arht/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ini_fs/Tests/~All.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ini_fs/Tests/~All.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ini_fs/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ini_fs/index.js" afterDir="false" />
-    </list>
+    <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -135,7 +127,7 @@
     <property name="add_unversioned_files" value="$PROJECT_DIR$/Jobs/SetGlobLoggers/ModLogger_1/Core/Logs/eLogs.txt&#10;true" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="11.6.0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/writeFileSync/Examples" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.jscs" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -169,11 +161,11 @@
       <recent name="E:\Node_projects\Node_Way\NBase\_Md\_Index\_Windows_PowerShell_{LG2}" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Node_projects\Node_Way\node_modules\st_fs\ConstructFs\FsCreate" />
       <recent name="E:\Node_projects\Node_Way\node_modules\st_fs\ConstructFs\FsCreate\writeFileSync\Examples" />
       <recent name="E:\Node_projects\Node_Way\Production\AFP.v.5_err_behavior_func_0.1_funname__AFP5_0.1_funname\Examples" />
       <recent name="E:\Node_projects\Node_Way\Production\AFP.v.5_err_behavior_func_0.1_funname__AFP5_0.1_funname" />
       <recent name="E:\Node_projects\Node_Way\Production\AFP.v.5_err_behavior_func_0.1_funname__AFP5_0.1_funname\Test_behavior_toProduction" />
-      <recent name="E:\Node_projects\Node_Way\node_modules\st_fs\ConstructFs\FsCreate\writeFileSync\Test_behavior_toProduction" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.test_ini_module.js (2)">
@@ -447,7 +439,7 @@
       <workItem from="1603382228572" duration="1102000" />
       <workItem from="1603506510196" duration="29847000" />
       <workItem from="1604497026985" duration="8517000" />
-      <workItem from="1604748564128" duration="21082000" />
+      <workItem from="1604748564128" duration="21910000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
@@ -1096,14 +1088,14 @@
       <screen x="1440" y="0" width="1280" height="1024" />
     </state>
     <state x="1534" y="63" width="820" height="727" key="dock-window-2/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1604805301866" />
-    <state x="1558" y="70" width="793" height="914" key="dock-window-3" timestamp="1604653729948">
+    <state x="1451" y="38" width="616" height="831" key="dock-window-3" timestamp="1604818610422">
       <screen x="1440" y="0" width="1280" height="1024" />
     </state>
-    <state x="1558" y="70" width="793" height="914" key="dock-window-3/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1604653729948" />
-    <state x="1614" y="0" width="793" height="981" key="dock-window-4" timestamp="1604657595641">
+    <state x="1451" y="38" width="616" height="831" key="dock-window-3/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1604818610422" />
+    <state x="2069" y="36" width="644" height="825" key="dock-window-4" timestamp="1604818610422">
       <screen x="1440" y="0" width="1280" height="1024" />
     </state>
-    <state x="1614" y="0" width="793" height="981" key="dock-window-4/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1604657595641" />
+    <state x="2069" y="36" width="644" height="825" key="dock-window-4/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1604818610422" />
     <state x="1544" y="0" width="793" height="985" key="dock-window-5" timestamp="1604657595641">
       <screen x="1440" y="0" width="1280" height="1024" />
     </state>
