@@ -27,10 +27,12 @@
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Production/AFP.v.5_err_behavior_func_0.1_funname__AFP5_0.1_funname/Test_behavior_0.1/mane_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/Production/AFP.v.5_err_behavior_func_0.1_funname__AFP5_0.1_funname/Test_behavior_0.1/mane_test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Production/AFP.v.5_err_behavior_func_0.1_funname__AFP5_0.1_funname/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Production/AFP.v.5_err_behavior_func_0.1_funname__AFP5_0.1_funname/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/writeFileSync/Test_behavior_0.1/mane_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/writeFileSync/Test_behavior_0.1/mane_test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1_deep1/SetLogical/LogicalDebug/L_fsLog/fsLog/log.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ex1_deep1/SetLogical/LogicalDebug/L_fsLog/fsLog/log.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/writeFileSync/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/writeFileSync/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ini_arht/Tests/~All.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ini_arht/Tests/~All.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ini_arht/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ini_arht/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ini_fs/Tests/~All.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ini_fs/Tests/~All.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ini_fs/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ini_fs/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,7 +135,7 @@
     <property name="add_unversioned_files" value="$PROJECT_DIR$/Jobs/SetGlobLoggers/ModLogger_1/Core/Logs/eLogs.txt&#10;true" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="11.6.0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/writeFileSync/Test_behavior_own_1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/writeFileSync/Examples" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.jscs" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -160,25 +162,22 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Node_projects\Node_Way\node_modules\st_fs\ConstructFs\FsCreate\writeFileSync\Examples\1" />
       <recent name="E:\Node_projects\Node_Way\node_modules\st_doc1\nodejs.org_DOCS\__\_" />
       <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1\SetDirFile\SearchDirFile\DirMappingCloneFileToDir_8\Production" />
       <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1\SetDirFile\SearchDirFile\DirMappingCloneFileToDir_7\Production" />
       <recent name="E:\Node_projects\Node_Way\NBase\_Md\_Index\_Windows_PowerShell_{LG2}" />
-      <recent name="E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\Node_projects\Node_Way\node_modules\st_fs\ConstructFs\FsCreate\writeFileSync\Test_behavior_own_1" />
-      <recent name="E:\Node_projects\Node_Way\node_modules\st_fs\ConstructFs\FsCreate\writeFileSync" />
+      <recent name="E:\Node_projects\Node_Way\node_modules\st_fs\ConstructFs\FsCreate\writeFileSync\Examples" />
+      <recent name="E:\Node_projects\Node_Way\Production\AFP.v.5_err_behavior_func_0.1_funname__AFP5_0.1_funname\Examples" />
       <recent name="E:\Node_projects\Node_Way\Production\AFP.v.5_err_behavior_func_0.1_funname__AFP5_0.1_funname" />
-      <recent name="E:\Node_projects\Node_Way\Production" />
-      <recent name="E:\Node_projects\Node_Way\node_modules\st_arht\SetArchetype\FunctionARHT\AtOut_fm" />
+      <recent name="E:\Node_projects\Node_Way\Production\AFP.v.5_err_behavior_func_0.1_funname__AFP5_0.1_funname\Test_behavior_toProduction" />
+      <recent name="E:\Node_projects\Node_Way\node_modules\st_fs\ConstructFs\FsCreate\writeFileSync\Test_behavior_toProduction" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.mane_test.js (1)">
+  <component name="RunManager" selected="Node.js.test_ini_module.js (2)">
     <configuration name="a.html" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/Node_Way/Node_Docs/Education/IlKan/learn.javascript.ru/Browser/1/1.1/a.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <configuration name="1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/node_modules/st_ex1_deep1/SetLogical/LogicalDebug/L_fsLogErr/Test/1.js" working-dir="$PROJECT_DIR$/node_modules/st_ex1_deep1/SetLogical/LogicalDebug/L_fsLogErr/Test">
       <method v="2" />
     </configuration>
     <configuration name="6-parse_1.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="6-parse_1.js" working-dir="$PROJECT_DIR$/NBase/_Md/_Index/_HPW/Part_I/content/Courses/Fundamentals/basic_sintax/DataTypes-master/JavaScript">
@@ -187,19 +186,16 @@
     <configuration name="Object.create.js" type="NodeJSConfigurationType" nameIsGenerated="true" node-parameters="ndb" path-to-js-file="$PROJECT_DIR$/node_modules/st_doc1/js_DOCS/Function/_@_FunctionEngendering/InheritsEgeneringModel/Object.create.js" working-dir="$PROJECT_DIR$/node_modules/st_doc1/js_DOCS/Function/_@_FunctionEngendering">
       <method v="2" />
     </configuration>
+    <configuration name="~All.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/node_modules/st_ini_fs/Tests/~All.js" working-dir="$PROJECT_DIR$/node_modules/st_ini_fs/Tests">
+      <method v="2" />
+    </configuration>
     <configuration name="_selftest_func.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Jobs/Base/Treat_gov/GB.v.1/AFP.v.3_govBase_all_to_json/SelfTest/_selftest_func.js" working-dir="$PROJECT_DIR$/Jobs/Base/Treat_gov/GB.v.1/AFP.v.3_govBase_all_to_json/SelfTest">
       <method v="2" />
     </configuration>
-    <configuration name="mane_test.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/writeFileSync/Test_behavior_0.1/mane_test.js" working-dir="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/writeFileSync/Test_behavior_0.1">
-      <method v="2" />
-    </configuration>
-    <configuration name="mane_test.js (3)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Production/AFP.v.4_funname/Test_behavior_func_0.1/Test_behavior_0.1/mane_test.js" working-dir="$PROJECT_DIR$/Production/AFP.v.4_funname/Test_behavior_func_0.1/Test_behavior_0.1">
+    <configuration name="mane_test.js (3)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/writeFileSync/Test_behavior_toProduction/mane_test.js" working-dir="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/writeFileSync/Test_behavior_toProduction">
       <method v="2" />
     </configuration>
     <configuration name="mane_test.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Production/AFP.v.5_err_behavior_func_0.1_funname__AFP5_0.1_funname/Test_behavior_0.1/mane_test.js" working-dir="$PROJECT_DIR$/Production/AFP.v.5_err_behavior_func_0.1_funname__AFP5_0.1_funname/Test_behavior_0.1">
-      <method v="2" />
-    </configuration>
-    <configuration name="mane_test.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/node_modules/st_arht/SetArchetype/FunctionARHT/AtOut_fm/ARHT_function.product.v.6/SelfTest/mane_test.js" working-dir="$PROJECT_DIR$/node_modules/st_arht/SetArchetype/FunctionARHT/AtOut_fm/ARHT_function.product.v.6/SelfTest">
       <method v="2" />
     </configuration>
     <configuration name="mane_test.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Production/AFP.v.5_err_funname/Test_behavior_func_empty/mane_test.js" working-dir="$PROJECT_DIR$/Production/AFP.v.5_err_funname/Test_behavior_func_empty">
@@ -208,23 +204,35 @@
     <configuration name="mane_test.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Production/AFP.v.5_err_funname/Test_behavior_func_0.1/Test_behavior_0.1/mane_test.js" working-dir="$PROJECT_DIR$/Production/AFP.v.5_err_funname/Test_behavior_func_0.1/Test_behavior_0.1">
       <method v="2" />
     </configuration>
+    <configuration name="test_ini_module.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/writeFileSync/Examples/with_err/test_ini_module.js" working-dir="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/writeFileSync/Examples/with_err">
+      <method v="2" />
+    </configuration>
+    <configuration name="test_ini_module.js (2)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/writeFileSync/Examples/cleare/test_ini_module.js" working-dir="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/writeFileSync/Examples/cleare">
+      <method v="2" />
+    </configuration>
+    <configuration name="test_ini_module.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/writeFileSync/Test_behavior_toProduction/test_ini_module.js" working-dir="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/writeFileSync/Test_behavior_toProduction">
+      <method v="2" />
+    </configuration>
+    <configuration name="test_ini_module.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/writeFileSync/Examples/1/test_ini_module.js" working-dir="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/writeFileSync/Examples">
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="JavaScript Debug.a.html" />
       <item itemvalue="Node.js.6-parse_1.js" />
       <item itemvalue="Node.js.Object.create.js" />
       <item itemvalue="Node.js.mane_test.js (3)" />
-      <item itemvalue="Node.js.1.js" />
-      <item itemvalue="Node.js.mane_test.js" />
-      <item itemvalue="Node.js.mane_test.js (1)" />
-      <item itemvalue="Node.js.mane_test.js (2)" />
+      <item itemvalue="Node.js.~All.js" />
+      <item itemvalue="Node.js.test_ini_module.js" />
+      <item itemvalue="Node.js.test_ini_module.js (1)" />
+      <item itemvalue="Node.js.test_ini_module.js (2)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.mane_test.js (1)" />
-        <item itemvalue="Node.js.mane_test.js (1)" />
-        <item itemvalue="Node.js.mane_test.js (2)" />
-        <item itemvalue="Node.js.mane_test.js (1)" />
-        <item itemvalue="Node.js.mane_test.js" />
+        <item itemvalue="Node.js.test_ini_module.js (2)" />
+        <item itemvalue="Node.js.test_ini_module.js (1)" />
+        <item itemvalue="Node.js.test_ini_module.js (1)" />
+        <item itemvalue="Node.js.test_ini_module.js" />
+        <item itemvalue="Node.js.~All.js" />
       </list>
     </recent_temporary>
   </component>
@@ -439,7 +447,7 @@
       <workItem from="1603382228572" duration="1102000" />
       <workItem from="1603506510196" duration="29847000" />
       <workItem from="1604497026985" duration="8517000" />
-      <workItem from="1604748564128" duration="13115000" />
+      <workItem from="1604748564128" duration="21082000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
@@ -980,22 +988,22 @@
     </state>
     <state x="461" y="204" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1597595554793" />
     <state x="519" y="178" width="699" height="606" key="FileChooserDialogImpl/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1604737356241" />
-    <state width="1271" height="88" key="GridCell.Tab.0.bottom" timestamp="1604802031439">
+    <state width="1271" height="88" key="GridCell.Tab.0.bottom" timestamp="1604811479509">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1271" height="88" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1604802031439" />
-    <state width="1271" height="88" key="GridCell.Tab.0.center" timestamp="1604802031438">
+    <state width="1271" height="88" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1604811479509" />
+    <state width="1271" height="88" key="GridCell.Tab.0.center" timestamp="1604811479509">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1271" height="88" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1604802031438" />
-    <state width="1271" height="88" key="GridCell.Tab.0.left" timestamp="1604802031438">
+    <state width="1271" height="88" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1604811479509" />
+    <state width="1271" height="88" key="GridCell.Tab.0.left" timestamp="1604811479509">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1271" height="88" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1604802031438" />
-    <state width="1271" height="88" key="GridCell.Tab.0.right" timestamp="1604802031439">
+    <state width="1271" height="88" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1604811479509" />
+    <state width="1271" height="88" key="GridCell.Tab.0.right" timestamp="1604811479509">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1271" height="88" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1604802031439" />
+    <state width="1271" height="88" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1604811479509" />
     <state width="1272" height="199" key="GridCell.Tab.1.bottom" timestamp="1602916546870">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
@@ -1084,10 +1092,10 @@
       <screen x="1440" y="0" width="1280" height="1024" />
     </state>
     <state x="1562" y="39" width="819" height="913" key="dock-window-14/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1603179208967" />
-    <state x="1755" y="0" width="981" height="922" key="dock-window-2" timestamp="1604746660866">
+    <state x="1534" y="63" width="820" height="727" key="dock-window-2" timestamp="1604805301866">
       <screen x="1440" y="0" width="1280" height="1024" />
     </state>
-    <state x="1755" y="0" width="981" height="922" key="dock-window-2/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1604746660866" />
+    <state x="1534" y="63" width="820" height="727" key="dock-window-2/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1604805301866" />
     <state x="1558" y="70" width="793" height="914" key="dock-window-3" timestamp="1604653729948">
       <screen x="1440" y="0" width="1280" height="1024" />
     </state>
