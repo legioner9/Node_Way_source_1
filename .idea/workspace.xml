@@ -27,6 +27,16 @@
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/Base/Treat_gov/GB.v.1/AFP.v.3_govBase_all_to_json/1.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/Base/Treat_gov/GB.v.1/_AFP.v.3_govBase_all_to_json/1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/Base/Treat_gov/GB.v.1/AFP.v.3_govBase_all_to_json/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/Base/Treat_gov/GB.v.1/_AFP.v.3_govBase_all_to_json/ReadMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/Base/Treat_gov/GB.v.1/AFP.v.3_govBase_all_to_json/SelfTest/_selftest_func.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/Base/Treat_gov/GB.v.1/_AFP.v.3_govBase_all_to_json/SelfTest/_selftest_func.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/Base/Treat_gov/GB.v.1/AFP.v.3_govBase_all_to_json/SelfTest/mane_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/Base/Treat_gov/GB.v.1/_AFP.v.3_govBase_all_to_json/SelfTest/mane_test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/Base/Treat_gov/GB.v.1/AFP.v.3_govBase_all_to_json/SelfTest/mod_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/Base/Treat_gov/GB.v.1/_AFP.v.3_govBase_all_to_json/SelfTest/mod_test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/Base/Treat_gov/GB.v.1/AFP.v.3_govBase_all_to_json/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/Base/Treat_gov/GB.v.1/_AFP.v.3_govBase_all_to_json/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Методы_решения_проблем_в_информатике_pdf/Методы_решения_проблем_в_информатике.accdb" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Методы_решения_проблем_в_информатике_pdf/Методы_решения_проблем_в_информатике.accdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Методы_решения_проблем_в_информатике_pdf/Методы_решения_проблем_в_информатике.laccdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Production/AFP.v.5_err_behavior_func_0.1_funname__AFP5_0.1_funname/_Examples/cleare/test_ini_module.js" beforeDir="false" afterPath="$PROJECT_DIR$/Production/AFP.v.5_err_behavior_func_0.1_funname__AFP5_0.1_funname/_Examples/cleare/test_ini_module.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Production/AFP.v.5_err_behavior_func_0.1_funname__AFP5_0.1_funname/_Examples/with_err/test_ini_module.js" beforeDir="false" afterPath="$PROJECT_DIR$/Production/AFP.v.5_err_behavior_func_0.1_funname__AFP5_0.1_funname/_Examples/with_err/test_ini_module.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,7 +139,7 @@
     <property name="add_unversioned_files" value="$PROJECT_DIR$/Jobs/SetGlobLoggers/ModLogger_1/Core/Logs/eLogs.txt&#10;true" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="11.6.0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/isFile/Examples/cleare" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Jobs/Base/Treat_gov/GB.v.1" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.jscs" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -180,7 +190,7 @@
     <configuration name="Object.create.js" type="NodeJSConfigurationType" nameIsGenerated="true" node-parameters="ndb" path-to-js-file="$PROJECT_DIR$/node_modules/st_doc1/js_DOCS/Function/_@_FunctionEngendering/InheritsEgeneringModel/Object.create.js" working-dir="$PROJECT_DIR$/node_modules/st_doc1/js_DOCS/Function/_@_FunctionEngendering">
       <method v="2" />
     </configuration>
-    <configuration name="_selftest_func.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Jobs/Base/Treat_gov/GB.v.1/AFP.v.3_govBase_all_to_json/SelfTest/_selftest_func.js" working-dir="$PROJECT_DIR$/Jobs/Base/Treat_gov/GB.v.1/AFP.v.3_govBase_all_to_json/SelfTest">
+    <configuration name="_selftest_func.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Jobs/Base/Treat_gov/GB.v.1/_AFP.v.3_govBase_all_to_json/SelfTest/_selftest_func.js" working-dir="$PROJECT_DIR$/Jobs/Base/Treat_gov/GB.v.1/_AFP.v.3_govBase_all_to_json/SelfTest">
       <method v="2" />
     </configuration>
     <configuration name="mane_test.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Production/AFP.v.5_err_behavior_func_0.1_funname__AFP5_0.1_funname/Test_behavior_0.1/mane_test.js" working-dir="$PROJECT_DIR$/Production/AFP.v.5_err_behavior_func_0.1_funname__AFP5_0.1_funname/Test_behavior_0.1">
@@ -211,6 +221,8 @@
       <item itemvalue="JavaScript Debug.a.html" />
       <item itemvalue="Node.js.6-parse_1.js" />
       <item itemvalue="Node.js.Object.create.js" />
+      <item itemvalue="Node.js._selftest_func.js" />
+      <item itemvalue="Node.js.mane_test.js" />
       <item itemvalue="Node.js.test_ini_module.js (4)" />
       <item itemvalue="Node.js.test_ini_module.js (5)" />
       <item itemvalue="Node.js.test_ini_module.js" />
@@ -439,6 +451,7 @@
       <workItem from="1603506510196" duration="29847000" />
       <workItem from="1604497026985" duration="8517000" />
       <workItem from="1604748564128" duration="33343000" />
+      <workItem from="1605032766183" duration="767000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
@@ -1059,10 +1072,10 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="459" y="311" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1601435468980" />
-    <state x="1625" y="67" width="886" height="942" key="dock-window-1" timestamp="1604751729775">
+    <state x="1700" y="31" width="733" height="516" key="dock-window-1" timestamp="1605033547302">
       <screen x="1440" y="0" width="1280" height="1024" />
     </state>
-    <state x="1625" y="67" width="886" height="942" key="dock-window-1/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1604751729775" />
+    <state x="1700" y="31" width="733" height="516" key="dock-window-1/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1605033547302" />
     <state x="1497" y="157" width="819" height="752" key="dock-window-10" timestamp="1603162358034">
       <screen x="1440" y="0" width="1280" height="1024" />
     </state>
@@ -1083,10 +1096,10 @@
       <screen x="1440" y="0" width="1280" height="1024" />
     </state>
     <state x="1562" y="39" width="819" height="913" key="dock-window-14/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1603179208967" />
-    <state x="1534" y="63" width="820" height="727" key="dock-window-2" timestamp="1604805301866">
+    <state x="1648" y="31" width="733" height="946" key="dock-window-2" timestamp="1605033547302">
       <screen x="1440" y="0" width="1280" height="1024" />
     </state>
-    <state x="1534" y="63" width="820" height="727" key="dock-window-2/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1604805301866" />
+    <state x="1648" y="31" width="733" height="946" key="dock-window-2/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1605033547302" />
     <state x="1451" y="38" width="787" height="831" key="dock-window-3" timestamp="1604821128013">
       <screen x="1440" y="0" width="1280" height="1024" />
     </state>
