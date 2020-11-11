@@ -114,10 +114,14 @@ const Func_examp = () => {
     const { arht } = require ( 'st_ini_arht' );
 
     const arr_names = Object.getOwnPropertyNames ( s_Fs );
-    arr_names.map ( item => arht.before ( s_Fs[item], module ) );
+    // if {run module} === {define module}
+    // arr_names.map ( item => arht.before ( s_Fs[item], module ) );
 
+    // if {run module} !== {define module}
+    // MODULE from stack {run module} Func_examp - NOT from this {define module}
+    arr_names.map ( item => s_Fs[item].module = Func_examp.module ) ;
     //_____________________
-debugger
+
     const convert = require ( 'xml-js' );
     // var result = convert.xml2json(xml, {compact: true, spaces: 4});
 
@@ -131,9 +135,9 @@ debugger
     const path_root_json = 'E:\\Node_projects\\_src\\базыГов\\data-20200902T080815-structure001-20151020T000000.json';
     s_Fs.s_mkdirSync.mode.fsLog = true;
 
-    // MODULE from stack run Func_examp - NOT
-    s_Fs.s_mkdirSync.module = Func_examp.module
-    debugger
+    // MODULE from stack {run module} Func_examp - NOT from this {define module}
+    // s_Fs.s_mkdirSync.module = Func_examp.module
+
     s_Fs.s_mkdirSync ( path_root_json );
     debugger
     //--------------------------------------------------------------
