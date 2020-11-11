@@ -27,14 +27,19 @@ const Func_examp = () => {
         Func_examp.l_log_deb ( Env.MODE, string );
     };
 
+    // if {module run} === {module define}
     // Func_examp.l_fsLog ( Env.MODE, 'work Func_examp.l_fsLog', Env.MODULE.path );
-    const inj_fsLog = string => {
-        Func_examp.l_fsLog ( Env.MODE, string, Env.MODULE.path );
-    };
 
+    // if {module run} !== {module define}
+    const inj_fsLog = string => {
+        Func_examp.l_fsLog ( Func_examp.MODE, string, Func_examp.module.path );
+    };
+    // if {module run} === {module define}
     // Func_examp.l_fsLogErr ( Env.MODE, 'work Func_examp.l_fsLog', Env.MODULE.path );
+
+    // if {module run} !== {module define}
     const inj_fsLogErr = string => {
-        Func_examp.l_fsLogErr ( Env.MODE, string, Env.MODULE.path );
+        Func_examp.l_fsLogErr ( Func_examp.MODE, string, Func_examp.module.path );
     };
 
     // Func_examp.dirDeepOptions ( { a: 'aa' } );
@@ -88,7 +93,7 @@ const Func_examp = () => {
     // inj_listen_ce = (event_name_ce , cb_listener_ce) =>{
     //
     // BODY OF FUNCTION
-    console.log ( 'Run Func_examp------------' );
+    console.log ( 'Run AFP5_0.1_govBase_all_to_json------------' );
 
     //--------------------------------------------------------------
     // PRE Function
@@ -144,7 +149,10 @@ const Func_examp = () => {
             s_Fs.s_writeFileSync ( Path.join ( path_root_json, dir_list[i] ), json_file );
         }
         catch (e) {
-            inj_fsLogErr ( e, 'work inj_fsLogErr once' );
+            inj_fsLogErr ( `
+    err =  ${e.note };
+    n = ${ n };
+            ` );
 
         }
     };
