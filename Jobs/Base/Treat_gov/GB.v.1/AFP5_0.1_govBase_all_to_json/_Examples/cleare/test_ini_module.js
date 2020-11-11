@@ -12,7 +12,7 @@ arht.before ( govBase_all_to_json ,module);
 // s_writeFileSync.mode.log = true;
 // s_writeFileSync.mode.deb = true;
 // s_writeFileSync.mode.debLog = true;
-govBase_all_to_json.mode.logFs = true;
+// govBase_all_to_json.mode.logFs = true;
 // s_writeFileSync.mode.stack = true;
 debugger
 govBase_all_to_json ();

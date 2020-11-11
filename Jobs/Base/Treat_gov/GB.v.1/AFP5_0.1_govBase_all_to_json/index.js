@@ -119,26 +119,45 @@ const Func_examp = () => {
 
     // if {run module} !== {define module}
     // MODULE from stack {run module} Func_examp - NOT from this {define module}
-    arr_names.map ( item => s_Fs[item].module = Func_examp.module ) ;
+    arr_names.map ( item => s_Fs[item].module = Func_examp.module );
+
     //_____________________
 
     const convert = require ( 'xml-js' );
     // var result = convert.xml2json(xml, {compact: true, spaces: 4});
-
-    const path_root = 'E:\\Node_projects\\_src\\базыГов\\data-20200902T080815-structure001-20151020T000000.xml';
-    const dir_list = s_Fs.s_readdirSync ( path_root );
-
-    const path_file_1 = Path.join ( path_root, dir_list[1] );
-    const r_file = s_Fs.s_readFileSync ( path_file_1, 'utf-8' );
-    const json_file = convert.xml2json ( r_file );
-
     const path_root_json = 'E:\\Node_projects\\_src\\базыГов\\data-20200902T080815-structure001-20151020T000000.json';
-    s_Fs.s_mkdirSync.mode.fsLog = true;
+    // s_Fs.s_mkdirSync.mode.fsLog = true;
 
     // MODULE from stack {run module} Func_examp - NOT from this {define module}
     // s_Fs.s_mkdirSync.module = Func_examp.module
 
     s_Fs.s_mkdirSync ( path_root_json );
+
+    const path_root = 'E:\\Node_projects\\_src\\базыГов\\data-20200902T080815-structure001-20151020T000000.xml';
+    const dir_list = s_Fs.s_readdirSync ( path_root );
+
+    const conv_write_i = i => {
+        const path_file_1 = Path.join ( path_root, dir_list[i] );
+        const r_file = s_Fs.s_readFileSync ( path_file_1, 'utf-8' );
+        try {
+            const json_file = convert.xml2json ( r_file );
+            s_Fs.s_writeFileSync ( Path.join ( path_root_json, dir_list[i] ), json_file );
+        }
+        catch (e) {
+            inj_fsLogErr ( e, 'work inj_fsLogErr once' );
+
+        }
+    };
+    debugger
+    // conv_write_i ( 2 );
+    const path_to_n = Path.join ( Func_examp.module.path, 'n' );
+    let n = s_Fs.s_readFileSync ( path_to_n ).trim ();
+    debugger
+    for ( let j = n ; j < dir_list.length ; j++ ) {
+        conv_write_i ( j );
+        s_Fs.s_writeFileSync ( path_to_n, j );
+    }
+
     debugger
     //--------------------------------------------------------------
 
