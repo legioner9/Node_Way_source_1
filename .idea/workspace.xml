@@ -26,18 +26,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/Base/Treat_gov/GB.v.1/AFP5_0.1_govBase_all_to_json/_Examples/cleare/fsLog/log.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/Base/Treat_gov/GB.v.1/AFP5_0.1_govBase_all_to_json/_Examples/cleare/test_ini_module.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/Base/Treat_gov/GB.v.1/AFP5_0.1_govBase_all_to_json/_Examples/cleare/test_ini_module.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/Base/Treat_gov/GB.v.1/AFP5_0.1_govBase_all_to_json/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/Base/Treat_gov/GB.v.1/AFP5_0.1_govBase_all_to_json/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1_deep1/SetLogical/LogicalDebug/L_fsLog/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ex1_deep1/SetLogical/LogicalDebug/L_fsLog/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1_deep1/SetLogical/LogicalDebug/L_fsLogErr/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ex1_deep1/SetLogical/LogicalDebug/L_fsLogErr/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/isDirectory/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/isDirectory/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/isFile/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/isFile/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/mkdirSync/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/mkdirSync/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/readFileSync/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/readFileSync/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/readdirSync/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/readdirSync/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/stats/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/stats/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ini_fs/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ini_fs/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -166,19 +155,19 @@
     <property name="ts.external.directory.path" value="D:\Program Files\JetBrains\IntelliJ IDEA 2020.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\Node_projects\Node_Way\node_modules\st_fs\ConstructFs\FsCreate" />
-      <recent name="E:\Node_projects\Node_Way\Jobs\Base\Treat_gov\GB.v.1" />
-      <recent name="E:\Node_projects\Node_Way\node_modules\st_fs\ConstructFs\FsCreate\isFile\Examples\cleare" />
-      <recent name="E:\Node_projects\Node_Way\node_modules\st_fs\ConstructFs\FsCreate\mkdirSync\Examples" />
-      <recent name="E:\Node_projects\Node_Way\node_modules\st_fs\ConstructFs\FsCreate\stats\Examples\with_err" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Node_projects\Node_Way\node_modules\st_fs\ConstructFs\FsCreate\writeFileSync\Examples\1" />
       <recent name="E:\Node_projects\Node_Way\node_modules\st_doc1\nodejs.org_DOCS\__\_" />
       <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1\SetDirFile\SearchDirFile\DirMappingCloneFileToDir_8\Production" />
       <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1\SetDirFile\SearchDirFile\DirMappingCloneFileToDir_7\Production" />
       <recent name="E:\Node_projects\Node_Way\NBase\_Md\_Index\_Windows_PowerShell_{LG2}" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Node_projects\Node_Way\node_modules\st_fs\ConstructFs\FsCreate" />
+      <recent name="E:\Node_projects\Node_Way\Jobs\Base\Treat_gov\GB.v.1" />
+      <recent name="E:\Node_projects\Node_Way\node_modules\st_fs\ConstructFs\FsCreate\isFile\Examples\cleare" />
+      <recent name="E:\Node_projects\Node_Way\node_modules\st_fs\ConstructFs\FsCreate\mkdirSync\Examples" />
+      <recent name="E:\Node_projects\Node_Way\node_modules\st_fs\ConstructFs\FsCreate\stats\Examples\with_err" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.test_ini_module.js (1)">
@@ -442,7 +431,7 @@
       <workItem from="1604497026985" duration="8517000" />
       <workItem from="1604748564128" duration="33343000" />
       <workItem from="1605032766183" duration="9357000" />
-      <workItem from="1605091918565" duration="7990000" />
+      <workItem from="1605091918565" duration="8446000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
@@ -983,22 +972,22 @@
     </state>
     <state x="461" y="204" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1597595554793" />
     <state x="519" y="178" width="699" height="606" key="FileChooserDialogImpl/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1604737356241" />
-    <state width="1271" height="88" key="GridCell.Tab.0.bottom" timestamp="1605102110490">
+    <state width="1271" height="88" key="GridCell.Tab.0.bottom" timestamp="1605105410677">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1271" height="88" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1605102110490" />
-    <state width="1271" height="88" key="GridCell.Tab.0.center" timestamp="1605102110490">
+    <state width="1271" height="88" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1605105410677" />
+    <state width="1271" height="88" key="GridCell.Tab.0.center" timestamp="1605105410677">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1271" height="88" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1605102110490" />
-    <state width="1271" height="88" key="GridCell.Tab.0.left" timestamp="1605102110489">
+    <state width="1271" height="88" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1605105410677" />
+    <state width="1271" height="88" key="GridCell.Tab.0.left" timestamp="1605105410677">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1271" height="88" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1605102110489" />
-    <state width="1271" height="88" key="GridCell.Tab.0.right" timestamp="1605102110490">
+    <state width="1271" height="88" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1605105410677" />
+    <state width="1271" height="88" key="GridCell.Tab.0.right" timestamp="1605105410677">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1271" height="88" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1605102110490" />
+    <state width="1271" height="88" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1605105410677" />
     <state width="1272" height="199" key="GridCell.Tab.1.bottom" timestamp="1602916546870">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
