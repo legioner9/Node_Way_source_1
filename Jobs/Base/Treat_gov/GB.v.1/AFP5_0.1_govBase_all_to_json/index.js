@@ -92,18 +92,19 @@ const Func_examp = () => {
 
     //--------------------------------------------------------------
     // PRE Function
-    inj_log ( 'work inj_log' );
-    inj_deb ();
-    inj_log_deb ( 'work inj_log_deb' );
-    inj_fsLog ( 'work inj_fsLog once' );
-    inj_fsLog ( 'work inj_fsLog twice' );
-    inj_fsLogErr ( 'work inj_fsLogErr once' );
-    inj_fsLogErr ( 'work inj_fsLogErr twice' );
-    inj_console_obj ( { a: 'inj_console_obj -------a------' } );
-    inj_stack ( 'work inj_stack' );
-    inj_send ( 'send_from_func', 'content to send_from_func' );
-    inj_listen ( 'send_to_func', d => console.log ( ' send_to_func = ', d ) );
-    inj_listen_ce ( 'send_to_func_ce', d => console.log ( ' send_to_func_ce = ', d ) );
+
+    // inj_log ( 'work inj_log' );
+    // inj_deb ();
+    // inj_log_deb ( 'work inj_log_deb' );
+    // inj_fsLog ( 'work inj_fsLog once' );
+    // inj_fsLog ( 'work inj_fsLog twice' );
+    // inj_fsLogErr ( 'work inj_fsLogErr once' );
+    // inj_fsLogErr ( 'work inj_fsLogErr twice' );
+    // inj_console_obj ( { a: 'inj_console_obj -------a------' } );
+    // inj_stack ( 'work inj_stack' );
+    // inj_send ( 'send_from_func', 'content to send_from_func' );
+    // inj_listen ( 'send_to_func', d => console.log ( ' send_to_func = ', d ) );
+    // inj_listen_ce ( 'send_to_func_ce', d => console.log ( ' send_to_func_ce = ', d ) );
 
     //--------------------------------------------------------------
     // THIS Function
@@ -116,22 +117,25 @@ const Func_examp = () => {
     arr_names.map ( item => arht.before ( s_Fs[item], module ) );
 
     //_____________________
-
-    const   convert = require ( 'xml-js' );
+debugger
+    const convert = require ( 'xml-js' );
     // var result = convert.xml2json(xml, {compact: true, spaces: 4});
 
     const path_root = 'E:\\Node_projects\\_src\\базыГов\\data-20200902T080815-structure001-20151020T000000.xml';
-    const dir_list = s_Fs.readdirSync ( path_root );
+    const dir_list = s_Fs.s_readdirSync ( path_root );
 
     const path_file_1 = Path.join ( path_root, dir_list[1] );
     const r_file = s_Fs.s_readFileSync ( path_file_1, 'utf-8' );
     const json_file = convert.xml2json ( r_file );
 
     const path_root_json = 'E:\\Node_projects\\_src\\базыГов\\data-20200902T080815-structure001-20151020T000000.json';
+    s_Fs.s_mkdirSync.mode.fsLog = true;
 
-
-
-
+    // MODULE from stack run Func_examp - NOT
+    s_Fs.s_mkdirSync.module = Func_examp.module
+    debugger
+    s_Fs.s_mkdirSync ( path_root_json );
+    debugger
     //--------------------------------------------------------------
 
 };

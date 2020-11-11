@@ -26,11 +26,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
-      <change beforePath="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/readdirSync/Examples/cleare/fsLog/log.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/readdirSync/Examples/cleare/fsLog/logErr.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/readdirSync/Examples/cleare/test_ini_module.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/readdirSync/Examples/cleare/test_ini_module.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/readdirSync/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/readdirSync/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ini_fs/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ini_fs/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/Base/Treat_gov/GB.v.1/AFP5_0.1_govBase_all_to_json/_Examples/cleare/test_ini_module.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/Base/Treat_gov/GB.v.1/AFP5_0.1_govBase_all_to_json/_Examples/cleare/test_ini_module.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/Base/Treat_gov/GB.v.1/AFP5_0.1_govBase_all_to_json/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/Base/Treat_gov/GB.v.1/AFP5_0.1_govBase_all_to_json/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Production/AFP.v.5_err_behavior_func_0.1_funname__AFP5_0.1_funname/_Examples/cleare/test_ini_module.js" beforeDir="false" afterPath="$PROJECT_DIR$/Production/AFP.v.5_err_behavior_func_0.1_funname__AFP5_0.1_funname/_Examples/cleare/test_ini_module.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Production/AFP.v.5_err_behavior_func_0.1_funname__AFP5_0.1_funname/_Examples/with_err/test_ini_module.js" beforeDir="false" afterPath="$PROJECT_DIR$/Production/AFP.v.5_err_behavior_func_0.1_funname__AFP5_0.1_funname/_Examples/with_err/test_ini_module.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1_deep1/SetLogical/LogicalDebug/L_fsLog/fsLog/log.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ex1_deep1/SetLogical/LogicalDebug/L_fsLog/fsLog/log.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1_deep1/SetLogical/LogicalDebug/L_fsLog/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ex1_deep1/SetLogical/LogicalDebug/L_fsLog/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -437,7 +439,7 @@
       <workItem from="1603506510196" duration="29847000" />
       <workItem from="1604497026985" duration="8517000" />
       <workItem from="1604748564128" duration="33343000" />
-      <workItem from="1605032766183" duration="2938000" />
+      <workItem from="1605032766183" duration="7970000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
@@ -1082,10 +1084,10 @@
       <screen x="1440" y="0" width="1280" height="1024" />
     </state>
     <state x="1562" y="39" width="819" height="913" key="dock-window-14/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1603179208967" />
-    <state x="1492" y="32" width="817" height="946" key="dock-window-2" timestamp="1605034068330">
+    <state x="1492" y="32" width="925" height="946" key="dock-window-2" timestamp="1605036537216">
       <screen x="1440" y="0" width="1280" height="1024" />
     </state>
-    <state x="1492" y="32" width="817" height="946" key="dock-window-2/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1605034068330" />
+    <state x="1492" y="32" width="925" height="946" key="dock-window-2/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1605036537216" />
     <state x="1451" y="38" width="787" height="831" key="dock-window-3" timestamp="1604821128013">
       <screen x="1440" y="0" width="1280" height="1024" />
     </state>
