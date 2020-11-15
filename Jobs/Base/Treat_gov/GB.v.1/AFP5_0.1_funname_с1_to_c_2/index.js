@@ -146,10 +146,11 @@ const Func_examp = () => {
     const init_obj = JSON.parse ( r_file );
 
     //! ARCHIVE identifying patterns in structure every item
-    let compare_arr = [];
-    const result_obj = {};
 
-    for ( let i = 0 ; i < dir_list.length ; i++ ) {
+    const compress_json = i => {
+
+        let compare_arr = [];
+        const res_obj = {};
 
         const path_file_1 = Path.join ( path_root, dir_list[i] );
         const r_file = s_Fs.s_readFileSync ( path_file_1, 'utf-8' );
@@ -160,16 +161,38 @@ const Func_examp = () => {
         // compare_arr[i][1] = init_obj.elements[5].elements;
         // compare_arr[i][2] = init_obj.elements[6].elements;
 
-        compare_arr[i] = [];
         const arr_confonmity = [ 2, 5, 6 ];
         arr_confonmity.map ( ( item, j ) => {
-            compare_arr[i][j] = init_obj.elements[item].elements;
+            compare_arr[j] = init_obj.elements[item].elements;
+
+            compare_arr[j].map ( item => {
+                debugger
+                res_obj[item.name] = item.elements.join ( ';' );
+            } );
+
         } );
+
         debugger
 
-    }
+        const write_data = JSON.stringify ( res_obj );
 
+        s_Fs.s_writeFileSync ( Path.join ( path_root_compr, dir_list[i] ), write_data );
+
+    };
+
+    compress_json ( 0 );
     debugger
+
+    const path_to_n = Path.join ( Func_examp.module.path, 'n' );
+    let n = s_Fs.s_readFileSync ( path_to_n ).trim ();
+
+    for ( let j = n ; j < dir_list.length ; j++ ) {
+
+        debugger
+        compress_json ( j );
+        s_Fs.s_writeFileSync ( path_to_n, j );
+        console.log ( j );
+    }
 
     //--------------------------------------------------------------
     // END BODY OF FUNCTION==========================================================
