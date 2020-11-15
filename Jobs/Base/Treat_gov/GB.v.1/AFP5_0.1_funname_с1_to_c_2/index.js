@@ -134,7 +134,6 @@ const Func_examp = () => {
     arr_names.map ( item => s_Fs[item].module = Func_examp.module );
 
 // ^^^^^^^^^^^^^^^^^^^^^^^^^^
-    const result_obj = {};
     const path_root = 'E:\\Node_projects\\_src\\базыГов\\data-20200902T080815-structure001-20151020T000000.json.c_1';
     const path_root_compr = path_root + '.c_2';
     s_Fs.s_mkdirSync ( path_root_compr );
@@ -146,18 +145,9 @@ const Func_examp = () => {
     const r_file = s_Fs.s_readFileSync ( path_file_1, 'utf-8' );
     const init_obj = JSON.parse ( r_file );
 
-    const deep_2 = init_obj.elements[2].elements;
-    // const deep_3 = init_obj.elements[3].elements;
-    // const deep_4 = init_obj.elements[4].elements;
-    const deep_5 = init_obj.elements[5].elements;
-    const deep_6 = init_obj.elements[6].elements;
-    // const deep_7 = init_obj.elements[7].elements;
-    // result_obj[deep_2[2].name] = deep_2[2].elements
-
     //! ARCHIVE identifying patterns in structure every item
     let compare_arr = [];
-
-
+    const result_obj = {};
 
     for ( let i = 0 ; i < dir_list.length ; i++ ) {
 
@@ -175,8 +165,7 @@ const Func_examp = () => {
         arr_confonmity.map ( ( item, j ) => {
             compare_arr[i][j] = init_obj.elements[item].elements;
         } );
-
-        console.log ( i );
+        debugger
 
     }
 
