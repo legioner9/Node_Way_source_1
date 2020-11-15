@@ -32,14 +32,14 @@ const Func_examp = () => {
 
     // if {module run} !== {module define}
     const inj_fsLog = string => {
-        Func_examp.l_fsLog ( Func_examp.MODE, string, Func_examp.module.path );
+        Func_examp.l_fsLog ( Env.MODE, string, Func_examp.module.path );
     };
     // if {module run} === {module define}
     // Func_examp.l_fsLogErr ( Env.MODE, 'work Func_examp.l_fsLog', Env.MODULE.path );
 
     // if {module run} !== {module define}
     const inj_fsLogErr = string => {
-        Func_examp.l_fsLogErr ( Func_examp.MODE, string, Func_examp.module.path );
+        Func_examp.l_fsLogErr ( Env.MODE, string, Func_examp.module.path );
     };
 
     // Func_examp.dirDeepOptions ( { a: 'aa' } );

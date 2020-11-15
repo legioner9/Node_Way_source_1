@@ -1,6 +1,6 @@
 const Ex = require ( 'st_ex1' );
 const Arht = require ( 'st_arht' );
-debugger
+
 const arht_fm = Arht.SetArchetype.FunctionARHT.AtOut_fm;
 // const ModuleFunc = Ex.ModuleFunc
 // ModuleFunc.mode = { deb: false, log: false, debLog: false, logFs: false, stack: false};
@@ -27,16 +27,20 @@ const Func_examp = () => {
         Func_examp.l_log_deb ( Env.MODE, string );
     };
 
+    // if {module run} === {module define}
     // Func_examp.l_fsLog ( Env.MODE, 'work Func_examp.l_fsLog', Env.MODULE.path );
+
+    // if {module run} !== {module define}
     const inj_fsLog = string => {
-        Func_examp.l_fsLog ( Env.MODE, string, Env.MODULE.path );
+        Func_examp.l_fsLog ( Env.MODE, string, Func_examp.module.path );
     };
-
+    // if {module run} === {module define}
     // Func_examp.l_fsLogErr ( Env.MODE, 'work Func_examp.l_fsLog', Env.MODULE.path );
-    const inj_fsLogErr = string => {
-        Func_examp.l_fsLogErr ( Env.MODE, string, Env.MODULE.path );
-    };
 
+    // if {module run} !== {module define}
+    const inj_fsLogErr = string => {
+        Func_examp.l_fsLogErr ( Env.MODE, string, Func_examp.module.path );
+    };
     // Func_examp.dirDeepOptions ( { a: 'aa' } );
     const inj_console_obj = obj => {
         Func_examp.dirDeepOptions ( obj );
@@ -88,27 +92,83 @@ const Func_examp = () => {
     // inj_listen_ce = (event_name_ce , cb_listener_ce) =>{
     //
     // BODY OF FUNCTION
-    console.log ( 'Run Func_examp------------' );
 
     //--------------------------------------------------------------
     // PRE Function
-    inj_log ( 'work inj_log' );
-    inj_deb ();
-    inj_log_deb ( 'work inj_log_deb' );
-    inj_fsLog ( 'work inj_fsLog once' );
-    inj_fsLog ( 'work inj_fsLog twice' );
-    inj_fsLogErr ( 'work inj_fsLogErr once' );
-    inj_fsLogErr ( 'work inj_fsLogErr twice' );
-    inj_console_obj ( { a: 'inj_console_obj -------a------' } );
-    inj_stack ( 'work inj_stack' );
-    inj_send ( 'send_from_func', 'content to send_from_func' );
-    inj_listen ( 'send_to_func', d => console.log ( ' send_to_func = ', d ) );
-    inj_listen_ce ( 'send_to_func_ce', d => console.log ( ' send_to_func_ce = ', d ) );
+    // inj_log ( 'work inj_log' );
+    // inj_deb ();
+    // inj_log_deb ( 'work inj_log_deb' );
+    // inj_fsLog ( 'work inj_fsLog once' );
+    // inj_fsLog ( 'work inj_fsLog twice' );
+    // inj_fsLogErr ( 'work inj_fsLogErr once' );
+    // inj_fsLogErr ( 'work inj_fsLogErr twice' );
+    // inj_console_obj ( { a: 'inj_console_obj -------a------' } );
+    // inj_stack ( 'work inj_stack' );
+    // inj_send ( 'send_from_func', 'content to send_from_func' );
+    // inj_listen ( 'send_to_func', d => console.log ( ' send_to_func = ', d ) );
+    // inj_listen_ce ( 'send_to_func_ce', d => console.log ( ' send_to_func_ce = ', d ) );
 
     //--------------------------------------------------------------
     // THIS Function
 
+    // ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    // HEADERS s_Fs:
 
+    const Path = require ( 'path' );
+    const s_Fs = require ( 'st_ini_fs' );
+    const { arht } = require ( 'st_ini_arht' );
+    const dirDeepOptions = require ( 'st_ini_deep1' ).dirDeepOptions;
+
+    const arr_names = Object.getOwnPropertyNames ( s_Fs );
+
+    // if {run module} === {define module}
+    //* arr_names.map ( item => arht.before ( s_Fs[item], module ) );
+
+    // if {run module} !== {define module}
+    // MODULE from stack {run module} Func_examp - NOT from this {define module}
+    // const Func_examp = () => {
+    //     arr_names.map ( item => s_Fs[item].module = Func_examp.module );
+    //     // do some with s_Fs
+    // }
+    arr_names.map ( item => s_Fs[item].module = Func_examp.module );
+
+    // ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    const path_root = 'E:\\Node_projects\\_src\\базыГов\\data-20200902T080815-structure001-20151020T000000.json';
+    const path_root_compr = path_root + '.c_1';
+    s_Fs.s_mkdirSync ( path_root_compr );
+    const dir_list = s_Fs.s_readdirSync ( path_root );
+
+    {
+        const path_file_1 = Path.join ( path_root, dir_list[2] );
+        const obj_from_jsone = JSON.parse ( s_Fs.s_readFileSync ( path_file_1 ) );
+
+        const result_obj = {};
+
+        const obj_deep_1 = obj_from_jsone.elements[0].elements[1].elements[0];
+    }
+
+    const compress_json = i => {
+        const path_file_1 = Path.join ( path_root, dir_list[i] );
+        const r_file = s_Fs.s_readFileSync ( path_file_1, 'utf-8' );
+
+        const init_obj = JSON.parse ( r_file );
+        const res_obj = init_obj.elements[0].elements[1].elements[0];
+        const write_data = JSON.stringify ( res_obj );
+
+        s_Fs.s_writeFileSync ( Path.join ( path_root_compr, dir_list[i] ), write_data );
+    };
+
+    // compress_json ( 2 );
+    debugger
+    const path_to_n = Path.join ( Func_examp.module.path, 'n' );
+    let n = s_Fs.s_readFileSync ( path_to_n ).trim ();
+
+    for ( let j = n ; j < dir_list.length ; j++ ) {
+        compress_json ( j );
+        s_Fs.s_writeFileSync ( path_to_n, j );
+        console.log ( j );
+    }
+    debugger
 
     //--------------------------------------------------------------
 
@@ -117,8 +177,6 @@ const Func_examp = () => {
 // BOUNDEN CALL
 arht_fm.prop ( Func_examp );
 arht_fm.out ( Func_examp );
-
-debugger;
 
 // // event report out (export from) Func_examp:
 //
