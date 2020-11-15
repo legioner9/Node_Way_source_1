@@ -27,9 +27,18 @@
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Production/AFP.v.5_err_behavior_func_0.1_funname__AFP5_0.1_funname/1.js" beforeDir="false" afterPath="$PROJECT_DIR$/Production/AFP.v.5_err_behavior_func_0.1_funname__AFP5_0.1_funname/_1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetConsole/ConsoleDir/ObjectDeepOptoins/Test/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ex1/SetConsole/ConsoleDir/ObjectDeepOptoins/Test/ReadMe.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1_deep1/SetConsole/ConsoleDir/DirDeepOptions/Test/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ex1_deep1/SetConsole/ConsoleDir/DirDeepOptions/Test/ReadMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/Base/Treat_gov/GB.v.1/AFP5_0.1_govBase_all_to_json/_Examples/cleare/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/Base/Treat_gov/GB.v.1/AFP5_0.1_govBase_all_to_json/Examples/cleare/ReadMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/Base/Treat_gov/GB.v.1/AFP5_0.1_govBase_all_to_json/_Examples/cleare/bad_files" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/Base/Treat_gov/GB.v.1/AFP5_0.1_govBase_all_to_json/Examples/cleare/bad_files" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/Base/Treat_gov/GB.v.1/AFP5_0.1_govBase_all_to_json/_Examples/cleare/fsLog/logErr.md" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/Base/Treat_gov/GB.v.1/AFP5_0.1_govBase_all_to_json/Examples/cleare/fsLog/logErr.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/Base/Treat_gov/GB.v.1/AFP5_0.1_govBase_all_to_json/_Examples/cleare/n" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/Base/Treat_gov/GB.v.1/AFP5_0.1_govBase_all_to_json/Examples/cleare/n" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/Base/Treat_gov/GB.v.1/AFP5_0.1_govBase_all_to_json/_Examples/cleare/test_ini_module.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/Base/Treat_gov/GB.v.1/AFP5_0.1_govBase_all_to_json/Examples/cleare/test_ini_module.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/Base/Treat_gov/GB.v.1/AFP5_0.1_govBase_all_to_json/_Examples/with_err/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/Base/Treat_gov/GB.v.1/AFP5_0.1_govBase_all_to_json/Examples/with_err/ReadMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/Base/Treat_gov/GB.v.1/AFP5_0.1_govBase_all_to_json/_Examples/with_err/test_ini_module.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/Base/Treat_gov/GB.v.1/AFP5_0.1_govBase_all_to_json/Examples/with_err/test_ini_module.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Production/AFP.v.5_err_behavior_func_0.1_funname__AFP5_0.1_funname/_Examples/cleare/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/Production/AFP.v.5_err_behavior_func_0.1_funname__AFP5_0.1_funname/_Examples/_cleare/ReadMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Production/AFP.v.5_err_behavior_func_0.1_funname__AFP5_0.1_funname/_Examples/cleare/test_ini_module.js" beforeDir="false" afterPath="$PROJECT_DIR$/Production/AFP.v.5_err_behavior_func_0.1_funname__AFP5_0.1_funname/_Examples/_cleare/test_ini_module.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Production/AFP.v.5_err_behavior_func_0.1_funname__AFP5_0.1_funname/_Examples/with_err/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/Production/AFP.v.5_err_behavior_func_0.1_funname__AFP5_0.1_funname/_Examples/_with_err/ReadMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Production/AFP.v.5_err_behavior_func_0.1_funname__AFP5_0.1_funname/_Examples/with_err/test_ini_module.js" beforeDir="false" afterPath="$PROJECT_DIR$/Production/AFP.v.5_err_behavior_func_0.1_funname__AFP5_0.1_funname/_Examples/_with_err/test_ini_module.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Production/AFP.v.5_err_behavior_func_0.1_funname__AFP5_0.1_funname/_ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/Production/AFP.v.5_err_behavior_func_0.1_funname__AFP5_0.1_funname/ReadMe.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,7 +141,7 @@
     <property name="add_unversioned_files" value="$PROJECT_DIR$/Jobs/SetGlobLoggers/ModLogger_1/Core/Logs/eLogs.txt&#10;true" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="11.6.0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Jobs/Base/Treat_gov/GB.v.1/AFP5_0.1_govBase_all_to_json" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Jobs/Base/Treat_gov/GB.v.1" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.jscs" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -158,19 +167,19 @@
     <property name="ts.external.directory.path" value="D:\Program Files\JetBrains\IntelliJ IDEA 2020.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\Node_projects\Node_Way\Jobs\Base\Treat_gov\GB.v.1\AFP5_0.1_govBase_all_to_json" />
-      <recent name="E:\Node_projects\Node_Way\Jobs\Base\Treat_gov\GB.v.1\AFP5_0.1_govBase_all_to_json\_Test_behavior_toProduction" />
-      <recent name="E:\Node_projects\Node_Way\node_modules\st_fs\ConstructFs\FsCreate" />
-      <recent name="E:\Node_projects\Node_Way\Jobs\Base\Treat_gov\GB.v.1" />
-      <recent name="E:\Node_projects\Node_Way\node_modules\st_fs\ConstructFs\FsCreate\isFile\Examples\cleare" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Node_projects\Node_Way\Jobs\Base\Treat_gov\GB.v.1\AFP5_0.1_govBase_all_to_json" />
       <recent name="E:\Node_projects\Node_Way\node_modules\st_fs\ConstructFs\FsCreate\writeFileSync\Examples\1" />
       <recent name="E:\Node_projects\Node_Way\node_modules\st_doc1\nodejs.org_DOCS\__\_" />
       <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1\SetDirFile\SearchDirFile\DirMappingCloneFileToDir_8\Production" />
       <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1\SetDirFile\SearchDirFile\DirMappingCloneFileToDir_7\Production" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Node_projects\Node_Way\Jobs\Base\Treat_gov\GB.v.1" />
+      <recent name="E:\Node_projects\Node_Way\Jobs\Base\Treat_gov\GB.v.1\AFP5_0.1_govBase_all_to_json" />
+      <recent name="E:\Node_projects\Node_Way\Jobs\Base\Treat_gov\GB.v.1\AFP5_0.1_govBase_all_to_json\_Test_behavior_toProduction" />
+      <recent name="E:\Node_projects\Node_Way\node_modules\st_fs\ConstructFs\FsCreate" />
+      <recent name="E:\Node_projects\Node_Way\node_modules\st_fs\ConstructFs\FsCreate\isFile\Examples\cleare" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.test_ini_module.js (1)">
@@ -189,9 +198,6 @@
     <configuration name="mane_test.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Production/AFP.v.5_err_funname/Test_behavior_func_0.1/Test_behavior_0.1/mane_test.js" working-dir="$PROJECT_DIR$/Production/AFP.v.5_err_funname/Test_behavior_func_0.1/Test_behavior_0.1">
       <method v="2" />
     </configuration>
-    <configuration name="test_ini_module.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Jobs/Base/Treat_gov/GB.v.1/AFP5_0.1_govBase_all_to_json/_Examples/cleare/test_ini_module.js" working-dir="$PROJECT_DIR$/Jobs/Base/Treat_gov/GB.v.1/AFP5_0.1_govBase_all_to_json/_Examples/cleare">
-      <method v="2" />
-    </configuration>
     <configuration name="test_ini_module.js (2)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/readdirSync/Examples/cleare/test_ini_module.js" working-dir="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/readdirSync/Examples/cleare">
       <method v="2" />
     </configuration>
@@ -199,6 +205,9 @@
       <method v="2" />
     </configuration>
     <configuration name="test_ini_module.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/mkdirSync/Examples/cleare/test_ini_module.js" working-dir="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/mkdirSync/Examples/cleare">
+      <method v="2" />
+    </configuration>
+    <configuration name="test_ini_module.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Jobs/Base/Treat_gov/GB.v.1/AFP5_0.1_govBase_all_to_json/Examples/cleare/test_ini_module.js" working-dir="$PROJECT_DIR$/Jobs/Base/Treat_gov/GB.v.1/AFP5_0.1_govBase_all_to_json/Examples/cleare">
       <method v="2" />
     </configuration>
     <list>
@@ -436,7 +445,8 @@
       <workItem from="1604748564128" duration="33343000" />
       <workItem from="1605032766183" duration="9357000" />
       <workItem from="1605091918565" duration="12679000" />
-      <workItem from="1605416828548" duration="1260000" />
+      <workItem from="1605416828548" duration="1491000" />
+      <workItem from="1605420513563" duration="1420000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
