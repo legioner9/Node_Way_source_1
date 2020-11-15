@@ -100,9 +100,9 @@ const Func_examp = () => {
     // inj_log ( 'work inj_log' );
     // inj_deb ();
     // inj_log_deb ( 'work inj_log_deb' );
-    inj_fsLog ( 'work inj_fsLog once' );
+    // inj_fsLog ( 'work inj_fsLog once' );
     // inj_fsLog ( 'work inj_fsLog twice' );
-    inj_fsLogErr ( 'work inj_fsLogErr once' );
+    // inj_fsLogErr ( 'work inj_fsLogErr once' );
     // inj_fsLogErr ( 'work inj_fsLogErr twice' );
     // inj_console_obj ( { a: 'inj_console_obj -------a------' } );
     // inj_stack ( 'work inj_stack' );
@@ -134,6 +134,7 @@ const Func_examp = () => {
     arr_names.map ( item => s_Fs[item].module = Func_examp.module );
 
 // ^^^^^^^^^^^^^^^^^^^^^^^^^^
+
     const path_root = 'E:\\Node_projects\\_src\\базыГов\\data-20200902T080815-structure001-20151020T000000.json.c_1';
     const path_root_compr = path_root + '.c_2';
     s_Fs.s_mkdirSync ( path_root_compr );
@@ -161,13 +162,55 @@ const Func_examp = () => {
         // compare_arr[i][1] = init_obj.elements[5].elements;
         // compare_arr[i][2] = init_obj.elements[6].elements;
 
-        const arr_confonmity = [ 2, 5, 6 ];
-        arr_confonmity.map ( ( item, j ) => {
-            compare_arr[j] = init_obj.elements[item].elements;
+        const arr_confonmity = [ 2, 5, 6, 7 ];
+        // const arr_confonmity = [ 7 ];
+        arr_confonmity.map ( otem => {
+            // debugger
+            // compare_arr[j] = init_obj.elements[item].elements;
 
-            compare_arr[j].map ( item => {
-                debugger
-                res_obj[item.name] = item.elements.join ( ';' );
+            init_obj.elements[otem].elements.map ( item => {
+
+                // res_obj[item.name] = item.elements[0].text
+                if ( Array.isArray ( item.elements ) ) item.elements.map ( jtem => {
+                    // debugger
+                    if ( jtem.type === 'text' ) {
+                        res_obj[item.name] = jtem.text;
+                    }
+                    else if ( jtem.type === 'element' ) {
+                        // res_obj[item.name +jtem.name] = jtem.elements;
+                        if ( Array.isArray ( jtem.elements ) ) jtem.elements.map ( ktem => {
+                            // debugger
+                            if ( ktem.type === 'text' ) {
+                                res_obj[item.name + '_' + jtem.name] = ktem.text;
+                            }
+                            else if ( ktem.type === 'element' ) {
+                                if ( Array.isArray ( ktem.elements ) ) ktem.elements.map ( ltem => {
+                                    if ( ltem.type === 'text' ) {
+                                        res_obj[item.name + '_' + jtem.name + '_' + ktem.name] = ltem.text;
+                                    }
+                                    else if ( ltem.type === 'element' ) {
+                                        if ( Array.isArray ( ltem.elements ) ) ltem.elements.map ( mtem => {
+                                            if ( mtem.type === 'text' ) {
+                                                res_obj[item.name + '_' + jtem.name + '_' + ktem.name + '_' + ltem.name] = mtem.text;
+                                            }
+                                            else if ( mtem.type === 'element' ) {
+                                                // debugger
+                                                if ( Array.isArray ( mtem.elements ) ) mtem.elements.map ( ntem => {
+                                                    if ( ntem.type === 'text' ) {
+                                                        res_obj[item.name + '_' + jtem.name + '_' + ktem.name + '_' + ltem.name + '_' + mtem.name] = ntem.text;
+                                                    }
+                                                    else if ( ntem.type === 'element' ) {
+                                                        debugger
+                                                    }
+                                                } );
+                                            }
+                                        } );
+                                    }
+                                } );
+                            }
+                        } );
+                    }
+                } );
             } );
 
         } );
@@ -179,8 +222,8 @@ const Func_examp = () => {
         s_Fs.s_writeFileSync ( Path.join ( path_root_compr, dir_list[i] ), write_data );
 
     };
-
-    compress_json ( 0 );
+    // debugger
+    compress_json ( 789 );
     debugger
 
     const path_to_n = Path.join ( Func_examp.module.path, 'n' );
