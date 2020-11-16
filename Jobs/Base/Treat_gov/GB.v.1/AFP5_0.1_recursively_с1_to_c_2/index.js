@@ -215,41 +215,54 @@ const Func_examp = () => {
 
         } );
 
-        debugger
+        // DEFINE RECURSE FUNCTIONS ********************************
 
-            // DEFINE RECURSE FUNCTIONS ********************************
+        const concat = ( a, b ) => a + '_' + b;
 
-            const concat = ( a, b ) => a + '_' + b;
+        const recu_fun = ( next, init_item, result ) => {
+            // debugger
+            const _next = concat ( next, init_item.name );
+            if ( init_item.type === 'text' ) {
+                result[next] = init_item.text;
+                return;
+            }
 
-            const recu_fun = ( next, init_item, result ) => {
+            else if ( init_item.type === 'element' ) {
+                if ( Array.isArray ( init_item.elements ) ) init_item.elements.map ( second_item => {
+                    // debugger
+                    recu_fun ( _next, second_item, result );
+                } );
+            }
 
-                const _next = concat ( next, init_item.name );
-                if ( init_item.type === 'text' ) {
-                    result[_next] = init_item.text;
-                }
+            else {
+                debugger
+            }
 
-                else if ( init_item.type === 'element' ) {
-                    if ( Array.isArray ( init_item.elements ) ) init_item.elements.map ( second_item => {
-                        recu_fun ( _next, second_item, result );
-                    } );
-                }
-
-                else {
-                    debugger
-                }
-
-            };
+        };
 
         // END DEFINE RECURSE FUNCTIONS ********************************
 
         // RUN RECURSE AREA ++++++++++++++++++++++++++++
         const res_obj_rec = {};
+        // debugger
 
-
+        arr_confonmity.map ( otem => {
+            // debugger
+            init_obj.elements[otem].elements.map ( item => {
+                // debugger
+                if ( Array.isArray ( item.elements ) ) item.elements.map ( jtem => {
+                    // debugger
+                    recu_fun ( item.name, jtem, res_obj_rec );
+                } );
+            } );
+        } );
 
         // END RUN RECURSE AREA ++++++++++++++++++++++++++++
-
+        debugger
         const write_data = JSON.stringify ( res_obj );
+        const write_data_rec = JSON.stringify ( res_obj_rec );
+
+        console.assert(write_data !== write_data_rec, 'you defeated yourself')
 
         s_Fs.s_writeFileSync ( Path.join ( path_root_compr, dir_list[i] ), write_data );
 
