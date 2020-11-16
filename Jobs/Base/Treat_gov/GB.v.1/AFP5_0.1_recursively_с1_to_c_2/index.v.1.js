@@ -217,38 +217,6 @@ const Func_examp = () => {
 
         debugger
 
-            // DEFINE RECURSE FUNCTIONS ********************************
-
-            const concat = ( a, b ) => a + '_' + b;
-
-            const recu_fun = ( next, init_item, result ) => {
-
-                const _next = concat ( next, init_item.name );
-                if ( init_item.type === 'text' ) {
-                    result[_next] = init_item.text;
-                }
-
-                else if ( init_item.type === 'element' ) {
-                    if ( Array.isArray ( init_item.elements ) ) init_item.elements.map ( second_item => {
-                        recu_fun ( _next, second_item, result );
-                    } );
-                }
-
-                else {
-                    debugger
-                }
-
-            };
-
-        // END DEFINE RECURSE FUNCTIONS ********************************
-
-        // RUN RECURSE AREA ++++++++++++++++++++++++++++
-        const res_obj_rec = {};
-
-
-
-        // END RUN RECURSE AREA ++++++++++++++++++++++++++++
-
         const write_data = JSON.stringify ( res_obj );
 
         s_Fs.s_writeFileSync ( Path.join ( path_root_compr, dir_list[i] ), write_data );
