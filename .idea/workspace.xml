@@ -27,7 +27,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/Base/Treat_gov/GB.v.1/AFP5_0.1_recursively_с1_to_c_2/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/Base/Treat_gov/GB.v.1/AFP5_0.1_recursively_с1_to_c_2/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -435,7 +434,7 @@
       <workItem from="1605091918565" duration="12679000" />
       <workItem from="1605416828548" duration="1491000" />
       <workItem from="1605420513563" duration="11755000" />
-      <workItem from="1605443176527" duration="27920000" />
+      <workItem from="1605443176527" duration="30915000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
@@ -1092,10 +1091,10 @@
       <screen x="1440" y="0" width="1280" height="1024" />
     </state>
     <state x="1674" y="26" width="781" height="965" key="dock-window-4/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1605500447959" />
-    <state x="1484" y="7" width="940" height="887" key="dock-window-5" timestamp="1605500447959">
+    <state x="1543" y="7" width="991" height="850" key="dock-window-5" timestamp="1605529852797">
       <screen x="1440" y="0" width="1280" height="1024" />
     </state>
-    <state x="1484" y="7" width="940" height="887" key="dock-window-5/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1605500447959" />
+    <state x="1543" y="7" width="991" height="850" key="dock-window-5/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1605529852797" />
     <state x="1767" y="0" width="969" height="989" key="dock-window-6" timestamp="1605506099925">
       <screen x="1440" y="0" width="1280" height="1024" />
     </state>
@@ -1128,6 +1127,10 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="296" y="180" key="run.anything.popup/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1601435065117" />
+    <state x="1533" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1605510665009">
+      <screen x="1440" y="0" width="1280" height="1024" />
+    </state>
+    <state x="1533" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1605510665009" />
     <state x="464" y="330" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1602406626119">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
