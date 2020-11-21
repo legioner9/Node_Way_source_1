@@ -92,7 +92,6 @@ const Func_examp = () => {
     // inj_listen = (event_name , cb_listener) =>{
     // inj_listen_ce = (event_name_ce , cb_listener_ce) =>{
 
-
     // START BODY OF FUNCTION==========================================================
     console.log ( 'Run Func_examp------------' );
 
@@ -113,6 +112,30 @@ const Func_examp = () => {
 
     //--------------------------------------------------------------
     // THIS Function
+
+    // ^^^^^^^^^^^^^^^^^^^^^^^^^^
+// HEADERS s_Fs:
+
+    const Path = require ( 'path' );
+    const s_Fs = require ( 'st_ini_fs' );
+    const { arht } = require ( 'st_ini_arht' );
+
+    const arr_names = Object.getOwnPropertyNames ( s_Fs );
+
+// if {run module} === {define module}
+//* arr_names.map ( item => arht.before ( s_Fs[item], module ) );
+
+// if {run module} !== {define module}
+// MODULE from stack {run module} Func_examp - NOT from this {define module}
+// const Func_examp = () => {
+//     arr_names.map ( item => s_Fs[item].module = Func_examp.module );
+//     // do some with s_Fs
+// }
+    arr_names.map ( item => s_Fs[item].module = Func_examp.module );
+
+// ^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+    
 
 
 
