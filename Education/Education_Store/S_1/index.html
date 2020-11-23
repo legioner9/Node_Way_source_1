@@ -24,8 +24,28 @@
 <!-- <body bgcolor="#FA8E47"> -->
 <!-- <body bgcolor="#c0c0c0" background="favicon.ico">-->
 <body>
-<div class="name_class" id='ident_id'></div>
-<h1>The Title h1</h1>
+<table>
+    <tr>
+        <td>1:1</td>
+        <td>2:1</td>
+    </tr>
+    <tr>
+        <td>1:2</td>
+        <td>2:2</td>
+    </tr>
+</table>
+
+<ul id='ul_id'>
+    <li>Этот</li>
+    <li>тест</li>
+</ul>
+<ul>
+    <li>полностью</li>
+    <li>пройден</li>
+</ul>
+
+<div class="div_class" id='div_id'></div>
+<h1 class="h1_class" id='h1_id'>The Title h1</h1>
 
 <H2 style="font-size: 120%; font-family: Verdana, Arial, Helvetica, sans-serif; color: #336">
     Hello, world!</H2>
@@ -39,6 +59,42 @@
 <p>Делим пустыню на две половины. В одной части - лев, в другой его нет.
     Берем ту половину, в которой находится лев, и снова делим ее пополам. Так повторяем
     до тех пор, пока лев не окажется пойман.</p>
+
+<a href="http://example.com/file.zip">example.com/file.zip</a>
+<a href="http://ya.ru">ya.ru</a>
+
+<h1>Содержание</h1>
+
+<div class="contents">
+    <ul class="book">
+        <li class="chapter">Глава 1</li>
+        <li class="chapter">Глава 2</li>
+    </ul>
+</div>
+
+<table id="table">
+    <tr>
+        <td>Ваш возраст:</td>
+
+        <td>
+            <label>
+                <input type="radio" name="age" value="young" checked> младше 18
+            </label>
+            <label>
+                <input type="radio" name="age" value="mature"> от 18 до 50
+            </label>
+            <label>
+                <input type="radio" name="age" value="senior"> старше 60
+            </label>
+        </td>
+    </tr>
+</table>
+
+<form name="my-form">
+    <div class="article">Article</div>
+    <div class="long article">Long article</div>
+</form>
+
 <script>
     // debugger
 
@@ -122,13 +178,90 @@
 
     ];
 
+    //       childNodes -------------------------
+
     for (const item in document.body.childNodes) {
-      if(document.body.childNodes.hasOwnProperty(item))  console.log(document.body.childNodes[item]);
+        if (document.body.childNodes.hasOwnProperty(item)) console.log(document.body.childNodes[item]);
     }
 
     for (const item of document.body.childNodes) {
         console.log(item);
     }
+    // if <head>...</head><body>...</body>
+    const document_nextSibling = document.head.nextSibling;
+    const document_previousSibling = document.body.previousSibling;
+    console.log('parent?', document.body.parentNode === document.documentElement);
+
+    //       table -------------------------
+
+    const table = document.body.firstElementChild;
+    for (let i = 0; i < table.rows.length; i++) {
+        table.rows[i].cells[i].style.backgroundColor = 'green';
+    }
+
+    //       setTimeout -------------------------
+
+    setTimeout(() => {
+        document.body.style.backgroundColor = '#9999ec'
+    }, 5000)
+
+    //       etElementById -------------------------
+
+    const gei_div = document.getElementById('div_id');
+
+    // querySelectorAll is simple link to heap - fixed after time
+
+    //       querySelectorAll -------------------------
+    let elements = document.querySelectorAll('ul > li:last-child')
+    for (let elem of elements) {
+        console.log(elem.innerHTML);
+        debugger
+    }
+
+    //       matches -------------------------
+    for (let elem of document.body.children) {
+        if (elem.matches('a[href$="zip"]')) { //a[href^="mailto:"] a[href^="tel:+38067"]
+            console.log("Ссылка на архив: " + elem.href);
+        }
+    }
+
+    //       closest -------------------------
+    let chapter = document.querySelector('.chapter'); // LI
+
+    console.log(chapter.closest('.book')); // UL
+    console.log(chapter.closest('.contents')); // DIV
+
+    console.log(chapter.closest('h1')); // null (потому что h1 - не предок)
+
+    //       contains -------------------------
+    const elem_1 = document.getElementsByClassName('contents') //HTMLCollection(1) div.contents
+    const elem_2 = elem_1[0].children //HTMLCollection(1) ul.book
+
+    const if_contains = elem_1[0].contains(elem_1[0].children[0] ) // true
+
+    debugger
+    // getElementsBy* live collection - real dom state - recalculate before indicate
+
+    //       getElementsByTagName -------------------------
+    let inputs = document.getElementById('table').getElementsByTagName('input');
+
+    const value = inputs[0].value; //"young"
+    const name = inputs[0].name; //"age"
+
+    for (let input of inputs) {
+        console.log(input.value + ': ' + input.checked);
+    }
+    //young: true
+    //mature: false
+    //senior: false
+
+    //       getElementsByName -------------------------
+    let forms = document.getElementsByName('my-form'); // NodeList(1)
+    // ищем по классу внутри form
+    let articles = forms[0].getElementsByClassName('article'); //HTMLCollection(2)
+    console.log(articles.length); // 2, находим два элемента с классом article
+
+
     debugger
 </script>
 </body>
