@@ -14,6 +14,7 @@ arht.before ( funcExamp ,module);
 // funcExamp.mode.debLog = true;
 funcExamp.mode.logFs = true;
 // funcExamp.mode.stack = true;
+funcExamp.preset = { if_basename: true };
 
 funcExamp ();
 

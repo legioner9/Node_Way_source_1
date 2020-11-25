@@ -92,10 +92,10 @@ const Func_examp = () => {
     // inj_listen = (event_name , cb_listener) =>{
     // inj_listen_ce = (event_name_ce , cb_listener_ce) =>{
 
-
     // START BODY OF FUNCTION==========================================================
     console.log ( 'Run Func_examp------------' );
-
+    const if_b = Env.PRESET.if_basename;
+    console.log ( if_b );
     //--------------------------------------------------------------
     // PRE Function
     inj_log ( 'work inj_log' );
@@ -113,8 +113,6 @@ const Func_examp = () => {
 
     //--------------------------------------------------------------
     // THIS Function
-
-
 
     //--------------------------------------------------------------
     // END BODY OF FUNCTION==========================================================

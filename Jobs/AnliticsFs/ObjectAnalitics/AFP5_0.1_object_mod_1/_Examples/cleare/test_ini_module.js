@@ -6,7 +6,7 @@ const arr_names = Object.getOwnPropertyNames ( s_Fs );
 arr_names.map ( item => arht.before ( s_Fs[item], module ) );
 
 const funcExamp = require ( '../../index' );
-arht.before ( funcExamp ,module);
+arht.before ( funcExamp, module );
 
 // MODE for behavior
 // funcExamp.mode.log = true;
@@ -14,7 +14,8 @@ arht.before ( funcExamp ,module);
 // funcExamp.mode.debLog = true;
 funcExamp.mode.logFs = true;
 // funcExamp.mode.stack = true;
-
-funcExamp ();
+funcExamp.preset = { if_basename: true };
+debugger
+const res = funcExamp ();
 
 debugger

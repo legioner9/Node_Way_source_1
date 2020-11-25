@@ -1,6 +1,6 @@
 const Ex = require ( 'st_ex1' );
 const Arht = require ( 'st_arht' );
-debugger
+
 const arht_fm = Arht.SetArchetype.FunctionARHT.AtOut_fm;
 // const ModuleFunc = Ex.ModuleFunc
 // ModuleFunc.mode = { deb: false, log: false, debLog: false, logFs: false, stack: false};
@@ -92,7 +92,6 @@ const Func_examp = () => {
     // inj_listen = (event_name , cb_listener) =>{
     // inj_listen_ce = (event_name_ce , cb_listener_ce) =>{
 
-
     // START BODY OF FUNCTION==========================================================
     console.log ( 'Run Func_examp------------' );
 
@@ -135,20 +134,39 @@ const Func_examp = () => {
     arr_names.map ( item => s_Fs[item].module = Func_examp.module );
 
     // ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    debugger
+    let result = [];
+    const if_b = Env.PRESET.if_basename;
+    const root_dir = 'E:\\Node_projects\\Node_Way\\Jobs\\AnliticsFs\\ObjectAnalitics\\AFP5_0.1_object_mod_1\\_Examples\\cleare\\DIR_root';
+    const root_dir_basename = Path.basename ( root_dir );
+    const content_root_dir = s_Fs.s_readdirSync ( root_dir );
 
+    const create_struct = function ( path ) {
+        const content_path = s_Fs.s_readdirSync ( path );
+        debugger
+        let arr = [ if_b ? Path.basename ( path ) : path ];
+        for ( let i = 0 ; i < content_path.length ; i++ ) {
+            const path_i = Path.join ( path, content_path[i] );
+            if ( s_Fs.s_isFile ( path_i ) ) {
+                arr.push ( if_b ? Path.basename ( path_i ) : path_i );
+            }
+            else if ( s_Fs.s_isDirectory ( path_i ) ) {
+                arr.push ( create_struct ( path_i ) );
+            }
+        }
+        // result_arr.push ( arr );
+        return arr;
+    };
 
-
+    return create_struct ( root_dir );
 
     //--------------------------------------------------------------
     // END BODY OF FUNCTION==========================================================
-
 };
 
 // BOUNDEN CALL
 arht_fm.prop ( Func_examp );
 arht_fm.out ( Func_examp );
-
-debugger;
 
 // // event report out (export from) Func_examp:
 //
