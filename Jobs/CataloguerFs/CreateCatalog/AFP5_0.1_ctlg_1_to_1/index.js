@@ -1,11 +1,11 @@
 const Ex = require ( 'st_ex1' );
 const Arht = require ( 'st_arht' );
-debugger
+
 const arht_fm = Arht.SetArchetype.FunctionARHT.AtOut_fm;
 // const ModuleFunc = Ex.ModuleFunc
 // ModuleFunc.mode = { deb: false, log: false, debLog: false, logFs: false, stack: false};
 
-const Func_examp = () => {
+const Func_examp = obj_ctlg_1 => {
 
     // BOUNDEN CALL define inner Env
     const Env = arht_fm.at ( Func_examp );
@@ -117,6 +117,8 @@ const Func_examp = () => {
     // START INNER STANDARD FUNCTION BLOCK &&&&&&&&&&&&&&&&&&
     // END   INNER STANDARD FUNCTION BLOCK &&&&&&&&&&&&&&&&&&
 
+    inj_console_obj ( obj_ctlg_1 );
+
     // START COMMENT ****************************************
     // END   COMMENT ****************************************
 
@@ -128,7 +130,6 @@ const Func_examp = () => {
 // BOUNDEN CALL
 arht_fm.prop ( Func_examp );
 arht_fm.out ( Func_examp );
-
 
 // // event report out (export from) Func_examp:
 //

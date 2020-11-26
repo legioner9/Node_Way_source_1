@@ -1,24 +1,26 @@
-const Path = require ( 'path' );
-const s_Fs = require ( 'st_ini_fs' );
 const { arht } = require ( 'st_ini_arht' );
-const { anlsFs_1 } = require ( 'st_ini_catFs' );
 
-const arr_names = Object.getOwnPropertyNames ( s_Fs );
-arr_names.map ( item => arht.before ( s_Fs[item], module ) );
+const anls = require ( 'st_ini_catFs' ).anlsFs_1;
+arht.before ( anls, module );
 
 const funcExamp = require ( '../../index' );
 arht.before ( funcExamp, module );
 
 // MODE for behavior
 // funcExamp.mode.log = true;
-funcExamp.mode.deb = true;
+// funcExamp.mode.deb = true;
 // funcExamp.mode.debLog = true;
-funcExamp.mode.logFs = true;
+// funcExamp.mode.logFs = true;
 // funcExamp.mode.stack = true;
-funcExamp.preset = { if_basename: true };
+
+anls.preset = { if_basename: false };
+
+debugger
+
+const res = anls ( 'DIR_root' );
+
 debugger
 // anlsFs_1.mode.deb = true;
-const obj_cat = anlsFs_1 ( 'DIR_root' );
-funcExamp (obj_cat);
+funcExamp (res);
 
 debugger
