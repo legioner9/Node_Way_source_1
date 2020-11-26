@@ -113,15 +113,12 @@ const Func_examp = () => {
 
     //--------------------------------------------------------------
     // THIS Function
-
+    inj.deb ();
     // START INNER STANDARD FUNCTION BLOCK &&&&&&&&&&&&&&&&&&
     // END   INNER STANDARD FUNCTION BLOCK &&&&&&&&&&&&&&&&&&
 
     // START COMMENT ****************************************
     // END   COMMENT ****************************************
-
-
-
 
     //--------------------------------------------------------------
     // END BODY OF FUNCTION==========================================================
@@ -132,7 +129,6 @@ const Func_examp = () => {
 arht_fm.prop ( Func_examp );
 arht_fm.out ( Func_examp );
 
-debugger;
 
 // // event report out (export from) Func_examp:
 //

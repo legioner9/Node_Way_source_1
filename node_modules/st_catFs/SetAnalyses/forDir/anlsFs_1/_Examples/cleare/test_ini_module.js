@@ -16,6 +16,6 @@ funcExamp.mode.logFs = true;
 // funcExamp.mode.stack = true;
 funcExamp.preset = { if_basename: true };
 debugger
-const res = funcExamp ();
+const res = funcExamp ('DIR_root');
 
 debugger

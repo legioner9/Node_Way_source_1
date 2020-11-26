@@ -11,7 +11,7 @@ arht.before ( funcExamp, module );
 
 // MODE for behavior
 // funcExamp.mode.log = true;
-// funcExamp.mode.deb = true;
+funcExamp.mode.deb = true;
 // funcExamp.mode.debLog = true;
 funcExamp.mode.logFs = true;
 // funcExamp.mode.stack = true;
@@ -19,6 +19,6 @@ funcExamp.preset = { if_basename: true };
 debugger
 // anlsFs_1.mode.deb = true;
 const obj_cat = anlsFs_1 ( 'DIR_root' );
-funcExamp ();
+funcExamp (obj_cat);
 
 debugger
