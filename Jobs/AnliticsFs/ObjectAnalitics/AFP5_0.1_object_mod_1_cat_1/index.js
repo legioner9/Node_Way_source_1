@@ -142,8 +142,10 @@ const Func_examp = name_dir_root => {
     const content_root_dir = s_Fs.s_readdirSync ( root_dir );
 
     const create_struct = function ( path ) {
-        const content_path = s_Fs.s_readdirSync ( path );
+        let content_path = s_Fs.s_readdirSync ( path );
         debugger
+        // invisible .div files
+        content_path = content_path.filter(item => Path.extname(item) !== '.dir')
         let arr = [ if_b ? Path.basename ( path ) : path ];
         for ( let i = 0 ; i < content_path.length ; i++ ) {
             const path_i = Path.join ( path, content_path[i] );
