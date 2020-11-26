@@ -5,7 +5,7 @@ const arht_fm = Arht.SetArchetype.FunctionARHT.AtOut_fm;
 // const ModuleFunc = Ex.ModuleFunc
 // ModuleFunc.mode = { deb: false, log: false, debLog: false, logFs: false, stack: false};
 
-const Func_examp = () => {
+const Func_examp = name_dir_root => {
 
     // BOUNDEN CALL define inner Env
     const Env = arht_fm.at ( Func_examp );
@@ -157,8 +157,8 @@ const Func_examp = () => {
         // result_arr.push ( arr );
         return arr;
     };
-
-    return create_struct ( root_dir );
+    const far_path = Path.join ( Func_examp.module.path, name_dir_root );
+    return create_struct ( far_path );
 
     //--------------------------------------------------------------
     // END BODY OF FUNCTION==========================================================
