@@ -59,6 +59,7 @@ node_modules/*
 !node_modules/st_ini_fs
 !node_modules/st_ManeArchetype
 !node_modules/st_catFs
+!node_modules/st_ini_catFs
 
 
 
