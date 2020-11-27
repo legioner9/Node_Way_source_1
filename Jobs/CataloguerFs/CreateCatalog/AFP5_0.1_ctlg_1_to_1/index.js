@@ -149,8 +149,22 @@ const Func_examp = obj_ctlg_1 => {
         s_Fs.s_appendFileSync ( path_dir_file, data );
     };
 
-    const add_from_file = ( data) => {
-        return `  - <a href = "${ data }">${ Path.basename ( data ) }</a> `;
+    const add_from_file = ( data, add ) => {
+        return data + `  - <a href = "${ add }">${ Path.basename ( add ) }</a>\n`;
+    };
+
+    const add_from_dir = ( data, add ) => {
+        debugger
+        let _data = '';
+        const arr_add = add.split ( '\n' );
+        arr_add.map ( item => {
+            data = data + '  ' + item + '\n';
+        } );
+        return data;
+    };
+
+    const add_first = ( data, add ) => {
+        return data + `- <a href = "${ add }">${ Path.basename ( add ) }</a>\n`;
     };
 
     // END   INNER STANDARD FUNCTION BLOCK &&&&&&&&&&&&&&&&&&
@@ -162,15 +176,16 @@ const Func_examp = obj_ctlg_1 => {
         for ( let i = 0 ; i < arr_init.length ; i++ ) {
             if ( i === 0 ) {
                 create_cat ( arr_init[0] );
+                data = add_first ( data, arr_init[0] );
                 continue;
             }
             if ( Array.isArray ( arr_init[i] ) ) {
-                const add_from_dir = make_catalog ( arr_init[i] );
-                data += add_from_dir + '\n';
+                const from_dir = make_catalog ( arr_init[i] );
+                data = add_from_dir ( data, from_dir );
                 debugger
             }
             else {
-                data += `  - <a href = "${ arr_init[i] }">${ Path.basename ( arr_init[i] ) }</a> `;
+                data = add_from_file ( data, arr_init[i] );
                 debugger
 
             }
