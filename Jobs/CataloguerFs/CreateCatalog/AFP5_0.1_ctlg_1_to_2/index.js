@@ -168,11 +168,14 @@ const Func_examp = obj_ctlg_1 => {
         return data + `- <a href = "${ path_dir_file }">${ Path.basename ( add ) }</a>\n`;
     };
 
+    const PATH_ROOT_CATALOG = Path.join ( obj_ctlg_1[0], 'div.' + Path.basename ( obj_ctlg_1[0] + '.md' ) );
+    const PRE_TEXT = `<a href = "${ PATH_ROOT_CATALOG }">${ Path.basename ( obj_ctlg_1[0] ) }</a>\n\n`;
+
     // END   INNER STANDARD FUNCTION BLOCK &&&&&&&&&&&&&&&&&&
     debugger
 
     const make_catalog = arr_init => {
-        let data = '';
+        let data = PRE_TEXT;
         debugger
         for ( let i = 0 ; i < arr_init.length ; i++ ) {
             if ( i === 0 ) {
@@ -187,7 +190,7 @@ const Func_examp = obj_ctlg_1 => {
             }
             else {
                 const dir = Path.basename ( arr_init[i] ).split ( '.' )[0];
-                if (dir !== 'dir') {
+                if ( dir !== 'dir' ) {
                     data = add_from_file ( data, arr_init[i] );
                     debugger
                 }
