@@ -15,11 +15,11 @@ arht.before ( funcExamp, module );
 
 anls.preset = { if_basename: false };
 
-debugger
+
 
 const res = anls ( 'DIR_root' );
 
-debugger
+
 // anlsFs_1.mode.deb = true;
 funcExamp (res);
 

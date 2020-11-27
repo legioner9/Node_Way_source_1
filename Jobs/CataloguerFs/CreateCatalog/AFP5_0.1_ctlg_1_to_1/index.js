@@ -114,13 +114,75 @@ const Func_examp = obj_ctlg_1 => {
     //--------------------------------------------------------------
     // THIS Function
     inj.deb ();
-    // START INNER STANDARD FUNCTION BLOCK &&&&&&&&&&&&&&&&&&
-    // END   INNER STANDARD FUNCTION BLOCK &&&&&&&&&&&&&&&&&&
 
-    inj_console_obj ( obj_ctlg_1 );
+    // ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    // HEADERS s_Fs:
+
+    const Path = require ( 'path' );
+    const s_Fs = require ( 'st_ini_fs' );
+    const { arht } = require ( 'st_ini_arht' );
+
+    const arr_names = Object.getOwnPropertyNames ( s_Fs );
+
+    // if {run module} === {define module}
+    //* arr_names.map ( item => arht.before ( s_Fs[item], module ) );
+
+    // if {run module} !== {define module}
+    // MODULE from stack {run module} Func_examp - NOT from this {define module}
+    // const Func_examp = () => {
+    //     arr_names.map ( item => s_Fs[item].module = Func_examp.module );
+    //     // do some with s_Fs
+    // }
+    arr_names.map ( item => s_Fs[item].module = Func_examp.module );
+
+    // ^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+    // START INNER STANDARD FUNCTION BLOCK &&&&&&&&&&&&&&&&&&
+
+    const create_cat = path => {
+        const path_dir_file = Path.join ( path, 'dir.' + Path.basename ( path ) + '.md' );
+        s_Fs.s_writeFileSync ( path_dir_file, '' );
+    };
+
+    const append_to_cat = ( path, data ) => {
+        const path_dir_file = Path.join ( path, 'dir.' + Path.basename ( path ) + '.md' );
+        s_Fs.s_appendFileSync ( path_dir_file, data );
+    };
+
+    const add_from_file = ( data) => {
+        return `  - <a href = "${ data }">${ Path.basename ( data ) }</a> `;
+    };
+
+    // END   INNER STANDARD FUNCTION BLOCK &&&&&&&&&&&&&&&&&&
+    debugger
+
+    const make_catalog = arr_init => {
+        let data = '';
+        debugger
+        for ( let i = 0 ; i < arr_init.length ; i++ ) {
+            if ( i === 0 ) {
+                create_cat ( arr_init[0] );
+                continue;
+            }
+            if ( Array.isArray ( arr_init[i] ) ) {
+                const add_from_dir = make_catalog ( arr_init[i] );
+                data += add_from_dir + '\n';
+                debugger
+            }
+            else {
+                data += `  - <a href = "${ arr_init[i] }">${ Path.basename ( arr_init[i] ) }</a> `;
+                debugger
+
+            }
+        }
+        append_to_cat ( arr_init[0], data );
+        return data;
+    };
 
     // START COMMENT ****************************************
     // END   COMMENT ****************************************
+
+    make_catalog ( obj_ctlg_1 );
 
     //--------------------------------------------------------------
     // END BODY OF FUNCTION==========================================================
