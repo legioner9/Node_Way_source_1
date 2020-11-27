@@ -186,8 +186,11 @@ const Func_examp = obj_ctlg_1 => {
                 debugger
             }
             else {
-                data = add_from_file ( data, arr_init[i] );
-                debugger
+                const dir = Path.basename ( arr_init[i] ).split ( '.' )[0];
+                if (dir !== 'dir') {
+                    data = add_from_file ( data, arr_init[i] );
+                    debugger
+                }
 
             }
         }
