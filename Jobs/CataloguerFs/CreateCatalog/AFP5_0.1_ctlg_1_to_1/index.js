@@ -164,7 +164,8 @@ const Func_examp = obj_ctlg_1 => {
     };
 
     const add_first = ( data, add ) => {
-        return data + `- <a href = "${ add }">${ Path.basename ( add ) }</a>\n`;
+        const path_dir_file = Path.join ( add, 'dir.' + Path.basename ( add ) + '.md' );
+        return data + `- <a href = "${ path_dir_file }">${ Path.basename ( add ) }</a>\n`;
     };
 
     // END   INNER STANDARD FUNCTION BLOCK &&&&&&&&&&&&&&&&&&
