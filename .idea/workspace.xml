@@ -27,13 +27,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2/Examples/cleare/DIR_root/dir.DIR_root.md" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2/Examples/cleare/DIR_root/dir.DIR_root.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2/Examples/cleare/DIR_root/dir_1/dir.dir_1.md" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2/Examples/cleare/DIR_root/dir_1/dir.dir_1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2/Examples/cleare/DIR_root/dir_1/file_1.md" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2/Examples/cleare/DIR_root/dir_1/file_1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2/Examples/cleare/DIR_root/file_root.md" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2/Examples/cleare/DIR_root/file_root.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2/Examples/cleare/fsLog/logErr.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__/Md/InnerPath/test/in_file.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/__/Md/InnerPath/test/in_file.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,7 +150,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="kite.configurable" />
     <property name="settings.editor.splitter.proportion" value="0.23273855" />
     <property name="ts.external.directory.path" value="D:\Program Files\JetBrains\IntelliJ IDEA 2020.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
@@ -447,6 +440,12 @@
       <workItem from="1606011907824" duration="44951000" />
       <workItem from="1606305902905" duration="2376000" />
       <workItem from="1606317558916" duration="39726000" />
+      <workItem from="1606539412538" duration="266000" />
+      <workItem from="1606663208533" duration="1792000" />
+      <workItem from="1606713214608" duration="632000" />
+      <workItem from="1606794910926" duration="1500000" />
+      <workItem from="1606887503254" duration="3776000" />
+      <workItem from="1606893615875" duration="1191000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
@@ -958,10 +957,10 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="177" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1604737359205" />
-    <state x="361" y="199" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605102245279">
+    <state x="361" y="199" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606894408326">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="361" y="199" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1605102245279" />
+    <state x="361" y="199" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1606894408326" />
     <state x="331" y="36" key="#dev" timestamp="1601535803438">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
@@ -1058,10 +1057,10 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="155" y="99" key="IDE.errors.dialog/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1602919313877" />
-    <state x="1579" y="111" width="1141" height="913" key="SettingsEditor" timestamp="1606448679890">
+    <state x="1579" y="111" width="1141" height="913" key="SettingsEditor" timestamp="1606893966128">
       <screen x="1440" y="0" width="1280" height="1024" />
     </state>
-    <state x="1579" y="111" width="1141" height="913" key="SettingsEditor/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1606448679890" />
+    <state x="1579" y="111" width="1141" height="913" key="SettingsEditor/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1606893966128" />
     <state width="705" height="498" key="SwitcherDM" timestamp="1603509637301">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
