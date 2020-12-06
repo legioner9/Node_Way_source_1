@@ -27,8 +27,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Education_Store/S_2/task_to_lesson.html" beforeDir="false" afterPath="$PROJECT_DIR$/Education/Education_Store/S_2/task_to_lesson.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/1.Документ.dir/1.5.Свойства_узлов_тип,_тег_и_содержимое.dir/1.5.Свойства_узлов_тип,_тег_и_содержимое.md" beforeDir="false" afterPath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/1.Документ.dir/1.5.Свойства_узлов_тип,_тег_и_содержимое.dir/1.5.Свойства_узлов_тип,_тег_и_содержимое.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tmp/last_commit.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Tmp/last_commit.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -449,6 +448,7 @@
       <workItem from="1606887503254" duration="3776000" />
       <workItem from="1606893615875" duration="4731000" />
       <workItem from="1606912314393" duration="5011000" />
+      <workItem from="1607228765395" duration="1132000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>

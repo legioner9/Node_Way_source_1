@@ -1,1 +1,1 @@
-init C++ ConsoleApplication_First
+complete ++Архитектура_компьютеров_и_операционные_системы
