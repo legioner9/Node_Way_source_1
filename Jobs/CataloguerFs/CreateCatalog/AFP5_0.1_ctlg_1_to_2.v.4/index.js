@@ -232,7 +232,7 @@ const Func_examp = obj_ctlg_1 => {
 
             }
         }
-        if(!!data_init) data_write = '- ' + path_to_root_href ( arr_0 ) + '\n' + data_init;
+        data_write = '- ' + path_to_root_href ( arr_0 ) + '\n' + data_init;
         write_to_cat ( arr_0, data_write );
 
         data_return = data_write;
