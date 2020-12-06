@@ -173,7 +173,7 @@ const Func_examp = obj_ctlg_1 => {
 
     const path_to_href = path => `<a href = "${ path }">${ Path.basename ( path ) }</a>`;
     const path_to_root_path = path => Path.join ( path, 'dir.' + Path.basename ( path + '.md' ) );
-    const path_to_root_href = path => `<a href = "${path_to_root_path (path )}">${ Path.basename ( path ) }</a>`;
+    const path_to_root_href = path => `<a href = "${ path_to_root_path ( path ) }">${ Path.basename ( path ) }</a>`;
 
     const extr_file = path => {
         const data = s_Fs.s_readFileSync ( path );
@@ -201,7 +201,7 @@ const Func_examp = obj_ctlg_1 => {
         let trg_exist_file = 0;
         const arr_0 = arr_init[0];
 
-        debugger
+
         for ( let i = 0 ; i < arr_init.length ; i++ ) {
             if ( i === 0 ) {
 
@@ -211,13 +211,15 @@ const Func_examp = obj_ctlg_1 => {
 
             if ( Array.isArray ( arr_i ) ) {
                 const from_dir = make_catalog ( arr_i, arr_0 );
-                from_dir.split ( '\n' ).map ( item => {
-                    data_init += '    ' + item + '\n\n';
-                } );
-                // data = add_from_dir ( data, from_dir );
-                debugger
+                if ( from_dir ) {
+                    from_dir.split ( '\n' ).map ( item => {
+                        data_init += '    ' + item + '\n';
+                    } );
+                    // data = add_from_dir ( data, from_dir );
+                }
             }
             else {
+
                 if ( if_path ( arr_i ) ) {
                     const arr_content_of_file = extr_file ( arr_i );
 
@@ -226,13 +228,12 @@ const Func_examp = obj_ctlg_1 => {
                         data_init += '        - *' + item + '\n';
                     } );
                     // data = add_from_file ( data, arr_init[i] );
-                    debugger
 
                 }
 
             }
         }
-        data_write = '- ' + path_to_root_href ( arr_0 ) + '\n' + data_init;
+        if ( data_init ) data_write = '- ' + path_to_root_href ( arr_0 ) + '\n' + data_init;
         write_to_cat ( arr_0, data_write );
 
         data_return = data_write;

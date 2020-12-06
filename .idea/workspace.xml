@@ -27,7 +27,11 @@
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.3/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.3/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.4/Examples/cleare/DIR_root/dir.DIR_root.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.4/Examples/cleare/DIR_root/dir_1/dir.dir_1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.4/Examples/cleare/DIR_root/dir_2/dir.dir_2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.4/Examples/cleare/fsLog/logErr.md" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.4/Examples/cleare/fsLog/logErr.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.4/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.4/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -164,11 +168,11 @@
       <recent name="E:\Node_projects\Node_Way\Jobs\CataloguerFs\CreateCatalog\AFP5_0.1_ctlg_1_to_2.v.3\Examples\cleare" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Node_projects\Node_Way\Jobs\CataloguerFs\CreateCatalog\AFP5_0.1_ctlg_1_to_2.v.4\Examples\cleare\DIR_root\dir_1" />
       <recent name="E:\Node_projects\Node_Way\Jobs\AnliticsFs\ObjectAnalitics\AFP5_0.1_object_mod_1\_Examples\cleare\DIR" />
       <recent name="E:\Node_projects\Node_Way\Jobs\Base\Treat_gov\GB.v.1\AFP5_0.1_govBase_all_to_json" />
       <recent name="E:\Node_projects\Node_Way\node_modules\st_fs\ConstructFs\FsCreate\writeFileSync\Examples\1" />
       <recent name="E:\Node_projects\Node_Way\node_modules\st_doc1\nodejs.org_DOCS\__\_" />
-      <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1\SetDirFile\SearchDirFile\DirMappingCloneFileToDir_8\Production" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.function_test.js">
@@ -1120,10 +1124,10 @@
       <screen x="1440" y="0" width="1280" height="1024" />
     </state>
     <state x="1611" y="0" width="1024" height="1024" key="dock-window-6/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1607273854363" />
-    <state x="1682" y="21" width="996" height="972" key="dock-window-7" timestamp="1606474242803">
+    <state x="1654" y="17" width="928" height="995" key="dock-window-7" timestamp="1607280403654">
       <screen x="1440" y="0" width="1280" height="1024" />
     </state>
-    <state x="1682" y="21" width="996" height="972" key="dock-window-7/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1606474242803" />
+    <state x="1654" y="17" width="928" height="995" key="dock-window-7/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1607280403654" />
     <state x="1451" y="18" width="793" height="891" key="dock-window-8" timestamp="1604658565757">
       <screen x="1440" y="0" width="1280" height="1024" />
     </state>
