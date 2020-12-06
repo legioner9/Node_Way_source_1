@@ -172,8 +172,8 @@ const Func_examp = obj_ctlg_1 => {
     const PRE_TEXT = `<a href = "${ PATH_ROOT_CATALOG }">${ Path.basename ( obj_ctlg_1[0] ) }</a>\n\n`;
 
     const path_to_href = path => `<a href = "${ path }">${ Path.basename ( path ) }</a>`;
-    const path_to_root_path = path => Path.join ( path, 'div.' + Path.basename ( path + '.md' ) );
-    const path_to_root_href = path => path_to_href ( path_to_root_path ( path ) );
+    const path_to_root_path = path => Path.join ( path, 'dir.' + Path.basename ( path + '.md' ) );
+    const path_to_root_href = path => `<a href = "${path_to_root_path (path )}">${ Path.basename ( path ) }</a>`;
 
     const extr_file = path => {
         const data = s_Fs.s_readFileSync ( path );
@@ -194,18 +194,26 @@ const Func_examp = obj_ctlg_1 => {
 
     // END   INNER STANDARD FUNCTION BLOCK &&&&&&&&&&&&&&&&&&
 
-    const make_catalog = ( arr_init, previous_cat ) => {
+    const make_catalog = ( arr_init, previous_path ) => {
+        let data_init = '';
         let data_return = '';
         let data_write = '';
         let trg_exist_file = 0;
+        const arr_0 = arr_init[0];
+
         debugger
         for ( let i = 0 ; i < arr_init.length ; i++ ) {
             if ( i === 0 ) {
+
                 continue;
             }
             const arr_i = arr_init[i];
+
             if ( Array.isArray ( arr_i ) ) {
-                const from_dir = make_catalog ( arr_i );
+                const from_dir = make_catalog ( arr_i, arr_0 );
+                from_dir.split ( '\n' ).map ( item => {
+                    data_init += '  ' + item + '\n\n';
+                } );
                 // data = add_from_dir ( data, from_dir );
                 debugger
             }
@@ -213,9 +221,9 @@ const Func_examp = obj_ctlg_1 => {
                 if ( if_path ( arr_i ) ) {
                     const arr_content_of_file = extr_file ( arr_i );
 
-                    data_write += '- ' + path_to_href ( arr_i ) + '\n\n';
+                    data_init += '    - ' + path_to_href ( arr_i ) + '\n';
                     arr_content_of_file.map ( item => {
-                        data_write += '  - *' + item + '\n\n';
+                        data_init += '        - *' + item + '\n';
                     } );
                     // data = add_from_file ( data, arr_init[i] );
                     debugger
@@ -224,14 +232,18 @@ const Func_examp = obj_ctlg_1 => {
 
             }
         }
-        write_to_cat ( arr_init[0], data_write );
+        data_write = '- ' + path_to_root_href ( arr_0 ) + '\n' + data_init;
+        write_to_cat ( arr_0, data_write );
+
+        data_return = data_write;
         return data_return;
+
     };
 
     // START COMMENT ****************************************
     // END   COMMENT ****************************************
 
-    make_catalog ( obj_ctlg_1, PATH_ROOT_CATALOG );
+    make_catalog ( obj_ctlg_1, obj_ctlg_1[0] );
 
     //--------------------------------------------------------------
     // END BODY OF FUNCTION==========================================================

@@ -27,9 +27,14 @@
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.2/Examples/cleare/DIR_root/dir_1/file_1.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.2/Examples/cleare/DIR_root/file_root.md" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.2/Examples/cleare/DIR_root/file_root.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.2/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.2/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.3/Examples/cleare/DIR_root/dir.DIR_root.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.3/Examples/cleare/DIR_root/file_root.md" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.3/Examples/cleare/DIR_root/file_root.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.3/Examples/cleare/DIR_root/file_root_2.md" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.3/Examples/cleare/DIR_root/dir_1/file_1_1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.3/Examples/cleare/DIR_root_2/any.ext" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.3/Examples/cleare/DIR_root/dir_1/any.ext" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.3/Examples/cleare/DIR_root_2/dir_1/any.ext" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.3/Examples/cleare/DIR_root_2/dir_1/file_1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.3/Examples/cleare/DIR_root_2/file_root.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.3/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.3/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Tmp/last_commit.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Tmp/last_commit.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -133,7 +138,7 @@
     <property name="add_unversioned_files" value="$PROJECT_DIR$/Jobs/SetGlobLoggers/ModLogger_1/Core/Logs/eLogs.txt&#10;true" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="12.18.3" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.2/Examples/cleare/DIR_root" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.3/Examples/cleare/DIR_root" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.jscs" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -160,11 +165,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\Node_projects\Node_Way\Jobs\CataloguerFs\CreateCatalog\AFP5_0.1_ctlg_1_to_2.v.2\Examples\cleare\DIR_root" />
-      <recent name="E:\Node_projects\Node_Way\Jobs\CataloguerFs\CreateCatalog\AFP5_0.1_ctlg_1_to_2.v.2\Examples\cleare\DIR_root_2" />
-      <recent name="E:\Node_projects\Node_Way\Jobs\CataloguerFs\CreateCatalog\AFP5_0.1_ctlg_1_to_2.v.2\Examples\cleare\DIR_root_2\dir_1" />
-      <recent name="E:\Node_projects\Node_Way\Jobs\CataloguerFs\CreateCatalog\AFP5_0.1_ctlg_1_to_2.v.2\Examples\cleare\DIR_root\dir_1" />
-      <recent name="E:\Node_projects\Node_Way\Jobs\CataloguerFs\CreateCatalog\AFP5_0.1_ctlg_1_to_2.v.2\Examples\cleare" />
+      <recent name="E:\Node_projects\Node_Way\Jobs\CataloguerFs\CreateCatalog\AFP5_0.1_ctlg_1_to_2.v.3\Examples\cleare\DIR_root" />
+      <recent name="E:\Node_projects\Node_Way\Jobs\CataloguerFs\CreateCatalog\AFP5_0.1_ctlg_1_to_2.v.3\Examples\cleare" />
+      <recent name="E:\Node_projects\Node_Way\Jobs\CataloguerFs\CreateCatalog\AFP5_0.1_ctlg_1_to_2.v.3\Examples\cleare\DIR_root_2\dir_1" />
+      <recent name="E:\Node_projects\Node_Way\Jobs\CataloguerFs\CreateCatalog\AFP5_0.1_ctlg_1_to_2.v.3\Examples\cleare\DIR_root_2" />
+      <recent name="E:\Node_projects\Node_Way\Jobs\CataloguerFs\CreateCatalog" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Node_projects\Node_Way\Jobs\AnliticsFs\ObjectAnalitics\AFP5_0.1_object_mod_1\_Examples\cleare\DIR" />
@@ -451,7 +456,7 @@
       <workItem from="1606887503254" duration="3776000" />
       <workItem from="1606893615875" duration="4731000" />
       <workItem from="1606912314393" duration="5011000" />
-      <workItem from="1607228765395" duration="14090000" />
+      <workItem from="1607228765395" duration="18663000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
@@ -1115,14 +1120,14 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="616" y="13" width="819" height="813" key="dock-window-4/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1607235960320" />
-    <state x="1692" y="38" width="836" height="956" key="dock-window-5" timestamp="1606380117199">
+    <state x="1612" y="15" width="819" height="984" key="dock-window-5" timestamp="1607272657274">
       <screen x="1440" y="0" width="1280" height="1024" />
     </state>
-    <state x="1692" y="38" width="836" height="956" key="dock-window-5/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1606380117199" />
-    <state x="1581" y="32" width="1003" height="952" key="dock-window-6" timestamp="1606445734194">
+    <state x="1612" y="15" width="819" height="984" key="dock-window-5/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1607272657274" />
+    <state x="1611" y="0" width="1024" height="1024" key="dock-window-6" timestamp="1607273854363">
       <screen x="1440" y="0" width="1280" height="1024" />
     </state>
-    <state x="1581" y="32" width="1003" height="952" key="dock-window-6/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1606445734194" />
+    <state x="1611" y="0" width="1024" height="1024" key="dock-window-6/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1607273854363" />
     <state x="1682" y="21" width="996" height="972" key="dock-window-7" timestamp="1606474242803">
       <screen x="1440" y="0" width="1280" height="1024" />
     </state>
