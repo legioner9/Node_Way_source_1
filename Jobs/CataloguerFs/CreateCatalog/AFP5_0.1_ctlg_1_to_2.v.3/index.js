@@ -212,7 +212,7 @@ const Func_examp = obj_ctlg_1 => {
             if ( Array.isArray ( arr_i ) ) {
                 const from_dir = make_catalog ( arr_i, arr_0 );
                 from_dir.split ( '\n' ).map ( item => {
-                    data_init += '  ' + item + '\n\n';
+                    data_init += '    ' + item + '\n\n';
                 } );
                 // data = add_from_dir ( data, from_dir );
                 debugger
