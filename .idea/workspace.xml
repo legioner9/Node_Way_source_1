@@ -27,6 +27,9 @@
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.2/Examples/cleare/DIR_root/dir.DIR_root.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.2/Examples/cleare/DIR_root/dir_1/dir.dir_1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.2/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.2/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Tmp/last_commit.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Tmp/last_commit.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -156,19 +159,19 @@
     <property name="ts.external.directory.path" value="D:\Program Files\JetBrains\IntelliJ IDEA 2020.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\Node_projects\Node_Way\Jobs\AnliticsFs\ObjectAnalitics\AFP5_0.1_object_mod_1\_Examples\cleare\DIR" />
-      <recent name="E:\Node_projects\Node_Way\Jobs\Base\Treat_gov\GB.v.1\AFP5_0.1_govBase_all_to_json" />
-      <recent name="E:\Node_projects\Node_Way\node_modules\st_fs\ConstructFs\FsCreate\writeFileSync\Examples\1" />
-      <recent name="E:\Node_projects\Node_Way\node_modules\st_doc1\nodejs.org_DOCS\__\_" />
-      <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1\SetDirFile\SearchDirFile\DirMappingCloneFileToDir_8\Production" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\Node_projects\Node_Way\Jobs\CataloguerFs\CreateCatalog" />
       <recent name="E:\Node_projects\Node_Way\Jobs\CataloguerFs\CreateCatalog\AFP5_0.1_ctlg_1_to_1\Examples\cleare" />
       <recent name="E:\Node_projects\Node_Way\Production\AFP.v.5_err_behavior_func_0.1_funname__AFP5_0.1_funname\_Examples\_cleare" />
       <recent name="E:\Node_projects\Node_Way\node_modules\st_catFs\SetAnalyses\forDir\anlsFs_1\_Examples\cleare" />
       <recent name="E:\Node_projects\Node_Way\Jobs\CataloguerFs" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Node_projects\Node_Way\Jobs\AnliticsFs\ObjectAnalitics\AFP5_0.1_object_mod_1\_Examples\cleare\DIR" />
+      <recent name="E:\Node_projects\Node_Way\Jobs\Base\Treat_gov\GB.v.1\AFP5_0.1_govBase_all_to_json" />
+      <recent name="E:\Node_projects\Node_Way\node_modules\st_fs\ConstructFs\FsCreate\writeFileSync\Examples\1" />
+      <recent name="E:\Node_projects\Node_Way\node_modules\st_doc1\nodejs.org_DOCS\__\_" />
+      <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1\SetDirFile\SearchDirFile\DirMappingCloneFileToDir_8\Production" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.function_test.js">
@@ -448,7 +451,7 @@
       <workItem from="1606887503254" duration="3776000" />
       <workItem from="1606893615875" duration="4731000" />
       <workItem from="1606912314393" duration="5011000" />
-      <workItem from="1607228765395" duration="1132000" />
+      <workItem from="1607228765395" duration="7492000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
@@ -1076,10 +1079,10 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="151" y="91" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1605848299820" />
-    <state x="1635" y="38" width="713" height="938" key="dock-window-1" timestamp="1606318164461">
+    <state x="1632" y="17" width="981" height="996" key="dock-window-1" timestamp="1607231720430">
       <screen x="1440" y="0" width="1280" height="1024" />
     </state>
-    <state x="1635" y="38" width="713" height="938" key="dock-window-1/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1606318164461" />
+    <state x="1632" y="17" width="981" height="996" key="dock-window-1/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1607231720430" />
     <state x="1497" y="157" width="819" height="752" key="dock-window-10" timestamp="1603162358034">
       <screen x="1440" y="0" width="1280" height="1024" />
     </state>
@@ -1100,18 +1103,18 @@
       <screen x="1440" y="0" width="1280" height="1024" />
     </state>
     <state x="1562" y="39" width="819" height="913" key="dock-window-14/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1603179208967" />
-    <state x="1682" y="18" width="821" height="973" key="dock-window-2" timestamp="1606321841472">
+    <state x="1467" y="13" width="981" height="950" key="dock-window-2" timestamp="1607231720430">
       <screen x="1440" y="0" width="1280" height="1024" />
     </state>
-    <state x="1682" y="18" width="821" height="973" key="dock-window-2/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1606321841472" />
-    <state x="1660" y="14" width="985" height="968" key="dock-window-3" timestamp="1606365777733">
+    <state x="1467" y="13" width="981" height="950" key="dock-window-2/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1607231720430" />
+    <state x="1618" y="0" width="1038" height="1024" key="dock-window-3" timestamp="1607235960320">
       <screen x="1440" y="0" width="1280" height="1024" />
     </state>
-    <state x="1660" y="14" width="985" height="968" key="dock-window-3/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1606365777733" />
-    <state x="1649" y="0" width="713" height="944" key="dock-window-4" timestamp="1606378115920">
-      <screen x="1440" y="0" width="1280" height="1024" />
+    <state x="1618" y="0" width="1038" height="1024" key="dock-window-3/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1607235960320" />
+    <state x="616" y="13" width="819" height="813" key="dock-window-4" timestamp="1607235960320">
+      <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="1649" y="0" width="713" height="944" key="dock-window-4/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1606378115920" />
+    <state x="616" y="13" width="819" height="813" key="dock-window-4/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1607235960320" />
     <state x="1692" y="38" width="836" height="956" key="dock-window-5" timestamp="1606380117199">
       <screen x="1440" y="0" width="1280" height="1024" />
     </state>

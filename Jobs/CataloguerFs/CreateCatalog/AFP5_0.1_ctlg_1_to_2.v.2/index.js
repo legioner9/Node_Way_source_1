@@ -171,16 +171,27 @@ const Func_examp = obj_ctlg_1 => {
     const PATH_ROOT_CATALOG = Path.join ( obj_ctlg_1[0], 'div.' + Path.basename ( obj_ctlg_1[0] + '.md' ) );
     const PRE_TEXT = `<a href = "${ PATH_ROOT_CATALOG }">${ Path.basename ( obj_ctlg_1[0] ) }</a>\n\n`;
 
-    // END   INNER STANDARD FUNCTION BLOCK &&&&&&&&&&&&&&&&&&
-    debugger
+    const path_to_href = path => `<a href = "${ path }">${ Path.basename ( path ) }</a>`;
+    const path_to_root_path = path => Path.join ( path, 'div.' + Path.basename ( path + '.md' ) );
+    const path_to_root_href = path => path_to_href ( path_to_root_path ( path ) );
 
-    const make_catalog = arr_init => {
-        let data = PRE_TEXT;
-        debugger
+    const if_path = path => {
+        const bool_dir = Path.basename ( path ).split ( '.' )[0] === 'dir';
+        const bool_md = Path.extname ( path ) === 'md';
+        if(!bool_dir && bool_md){
+            const bool_cat = s_Fs.s_readFileSync(path).match('#')
+            debugger
+        }
+    };
+
+    // END   INNER STANDARD FUNCTION BLOCK &&&&&&&&&&&&&&&&&&
+
+    const make_catalog = ( arr_init, previous_cat ) => {
+        let data_return = '';
+        let data_write = '';
+
         for ( let i = 0 ; i < arr_init.length ; i++ ) {
             if ( i === 0 ) {
-                create_cat ( arr_init[0] );
-                data = add_first ( data, arr_init[0] );
                 continue;
             }
             if ( Array.isArray ( arr_init[i] ) ) {
@@ -197,14 +208,14 @@ const Func_examp = obj_ctlg_1 => {
 
             }
         }
-        append_to_cat ( arr_init[0], data );
-        return data;
+        append_to_cat ( arr_init[0], data_write );
+        return data_return;
     };
 
     // START COMMENT ****************************************
     // END   COMMENT ****************************************
 
-    make_catalog ( obj_ctlg_1 );
+    make_catalog ( obj_ctlg_1, PATH_ROOT_CATALOG );
 
     //--------------------------------------------------------------
     // END BODY OF FUNCTION==========================================================
