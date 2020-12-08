@@ -257,5 +257,7 @@
 
 ### Data types
 
-![](_src/20.jpg
+![](_src/20.jpg)
+
+![](_src/21.jpg)
 
