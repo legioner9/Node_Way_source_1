@@ -52,6 +52,10 @@
 
 ![](_src/15.jpg)
 
+## Examples nested loop
+
+![](_src/16.jpg)
+
 
 
 
