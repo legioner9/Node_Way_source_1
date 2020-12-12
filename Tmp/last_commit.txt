@@ -1,1 +1,1 @@
-step_1 ++Основы_программирования 3
+init _SKILLS/_Flowcharta

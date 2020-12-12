@@ -1,1 +1,1 @@
-## S_1 site for htmlbook.ru and IlKan
+## site for IlKan

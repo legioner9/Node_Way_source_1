@@ -7,8 +7,12 @@
     </label>
     <input type="submit" value="Search!">
 </form>
-
+<div id="div" style="color:red;font-size:120%"> red DIV</div>
 <div class="tr_class">This div)))</div>
+
+<input name="input_1" type="checkbox"> checkbox_1
+<!-- 'checked' define default check property as true -->
+<input name="input_2" type="checkbox" checked> checkbox_2
 
 <hr>
 
@@ -47,13 +51,51 @@
 <script>
 
     // CLICK to <form class="form_class" name="search-person"> and see on console
-    debugger
+
 
     // getter and setter !!! (...) !!!
     let tr_innerText = document.querySelectorAll('tr')[0].innerText; //"Age:	less than 18 18-50 more than 50"
     tr_innerText = 'bfgdb' // NOT WORK!
-    document.querySelectorAll('tr')[0].innerText = 'abra kadabra'
+    // document.querySelectorAll('tr')[0].innerText = 'abra kadabra'
 
+    const inp_name = document.querySelectorAll('input[name="info[0]"]') //NodeList [input]
+    const inp_type = document.querySelectorAll('input[type="submit"]')[0];
+    // value (!!!) is NOT param for querySelectorAll
+    const inp_value = document.querySelectorAll('input[value="senior"]');//NodeList []
+    const inp_type_name = document.querySelectorAll('input[type="text"][name="info[0]"]');//NodeList [input]
+
+    const getAttribute_inp = inp_type_name[0].getAttribute('name'); // "info[0]"
+    const getAttributeNames_inp = inp_type_name[0].getAttributeNames(); // (2) ["type", "name"]
+    const attributes_inp = inp_type_name[0].attributes; // NamedNodeMap {0: type, 1: name, type: type, name: name, length: 2}
+
+    inp_type_name[0].setAttribute('name', 'info[22]')
+    inp_type_name[0].getAttribute('name') // getAttribute_inp_after: "info[22]"
+    const getAttribute_inp_after = inp_type_name[0].getAttribute('name')
+
+    // type="radio" type="checkbox"
+
+    const radio = document.querySelectorAll('input[type="radio"]') // NodeList(3) [input, input, input]
+    // check any radio button ( as example 1 )
+    // IN CONSOLE (after all debugger) ::
+    const radio_1 = radio[1].checked // true
+    const radio_2 = radio[2].checked // false
+
+    const checkbox_1 = document.querySelectorAll('[type="checkbox"][name="input_1"]')[0].checked // false
+    const checkbox_2 = document.querySelectorAll('[type="checkbox"][name="input_2"]')[0].checked // true
+
+    // style
+
+    const style_1 = document.querySelector('#div').style // CSSStyleDeclaration {0: "color", 1: "font-size", ali
+    const color_s = style_1.color; // red
+    const cssText_s = style_1.cssText // "color: red; font-size: 120%;"
+
+
+    debugger
+    // for (let i = 0; i < radio.length; i++) {
+    //     if (radio[i].checked) {
+    //         console.log(`Was checked number ${i}`);
+    //     }
+    // }
     // TRAINING  querySelectorAll
     const e_1 = document.querySelectorAll('.form_class');//NodeList [form.form_class]
     const e_2 = document.querySelectorAll('.tr_class');//NodeList(3) [div.tr_class, tr.tr_class, tr.tr_class]
@@ -104,6 +146,7 @@
     const first_input = inputs_a[0];
     const last_input = inputs_a[inputs_a.length - 1];
     debugger
+
 
 </script>
 </body>
