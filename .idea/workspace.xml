@@ -26,24 +26,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
-      <change afterPath="$PROJECT_DIR$/Jobs/C++/Clion/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jobs/C++/Clion/.idea/Clion.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jobs/C++/Clion/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jobs/C++/Clion/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jobs/C++/Clion/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jobs/C++/Clion/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jobs/C++/Clion/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jobs/C++/Learn_1/ConsoleApplication_First/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jobs/C++/Learn_1/ConsoleApplication_First/.idea/ConsoleApplication_First.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jobs/C++/Learn_1/ConsoleApplication_First/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jobs/C++/Learn_1/ConsoleApplication_First/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jobs/C++/Learn_1/ConsoleApplication_First/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_C++/Containers/Workout_this/Projects/CLion_lib_1/.idea/CLion_lib_1.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Education_Store/S_4/learn_to_lesson.html" beforeDir="false" afterPath="$PROJECT_DIR$/Education/Education_Store/S_4/learn_to_lesson.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Education_Store/S_4/task_to_lesson.html" beforeDir="false" afterPath="$PROJECT_DIR$/Education/Education_Store/S_4/task_to_lesson.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/1.Документ.dir/1.7.Изменение_документа.dir/1.7.Изменение_документа.md" beforeDir="false" afterPath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/1.Документ.dir/1.7.Изменение_документа.dir/1.7.Изменение_документа.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/C++/Learn_1/ConsoleApplication_First/ConsoleApplication_First.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/C++/Learn_1/ConsoleApplication_First/ConsoleApplication_First.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/1.Документ.dir/1.8.Стили_и_классы.dir/1.8.Стили_и_классы.md" beforeDir="false" afterPath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/1.Документ.dir/1.8.Стили_и_классы.dir/1.8.Стили_и_классы.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,7 +130,7 @@
     <property name="add_unversioned_files" value="$PROJECT_DIR$/Jobs/SetGlobLoggers/ModLogger_1/Core/Logs/eLogs.txt&#10;true" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="12.18.3" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Education/Education_Store/S_4" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Education/Education_Store" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.jscs" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -173,11 +157,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Node_projects\Node_Way\Education\Education_Store" />
       <recent name="E:\Node_projects\Node_Way\Education\Education_Store\S_4" />
       <recent name="E:\Node_projects\Node_Way\NBase\_Md\_Index\_C++\Containers\Point_learn\pointers" />
       <recent name="E:\Node_projects\Node_Way\Education\Education_Store\S_3\S_3_anyHref" />
       <recent name="E:\Node_projects\Node_Way\Education\Education_Store\S_3" />
-      <recent name="E:\Node_projects\Node_Way\Jobs\CataloguerFs\CreateCatalog\AFP5_0.1_ctlg_1_to_2.v.4\Examples\cleare\DIR_root" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Node_projects\Node_Way\Jobs\CataloguerFs\CreateCatalog\AFP5_0.1_ctlg_1_to_2.v.4\Examples\cleare\DIR_root\dir_1" />
@@ -468,7 +452,7 @@
       <workItem from="1607766514959" duration="16967000" />
       <workItem from="1607843946729" duration="2113000" />
       <workItem from="1607848620642" duration="7813000" />
-      <workItem from="1607926973109" duration="7316000" />
+      <workItem from="1607926973109" duration="12110000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
