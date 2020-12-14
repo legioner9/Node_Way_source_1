@@ -26,10 +26,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
+      <change afterPath="$PROJECT_DIR$/Jobs/C++/Clion/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jobs/C++/Clion/.idea/Clion.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jobs/C++/Clion/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jobs/C++/Clion/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jobs/C++/Clion/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jobs/C++/Clion/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jobs/C++/Clion/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jobs/C++/Learn_1/ConsoleApplication_First/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jobs/C++/Learn_1/ConsoleApplication_First/.idea/ConsoleApplication_First.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jobs/C++/Learn_1/ConsoleApplication_First/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jobs/C++/Learn_1/ConsoleApplication_First/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jobs/C++/Learn_1/ConsoleApplication_First/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_C++/Containers/Workout_this/Projects/CLion_lib_1/.idea/CLion_lib_1.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Education/Education_Store/S_4/learn_to_lesson.html" beforeDir="false" afterPath="$PROJECT_DIR$/Education/Education_Store/S_4/learn_to_lesson.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/Education_Store/S_4/task_to_lesson.html" beforeDir="false" afterPath="$PROJECT_DIR$/Education/Education_Store/S_4/task_to_lesson.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/1.Документ.dir/1.7.Изменение_документа.dir/1.7.Изменение_документа.md" beforeDir="false" afterPath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/1.Документ.dir/1.7.Изменение_документа.dir/1.7.Изменение_документа.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tmp/last_commit.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Tmp/last_commit.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/C++/Learn_1/ConsoleApplication_First/ConsoleApplication_First.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/C++/Learn_1/ConsoleApplication_First/ConsoleApplication_First.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,19 +172,19 @@
     <property name="ts.external.directory.path" value="D:\Program Files\JetBrains\IntelliJ IDEA 2020.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Node_projects\Node_Way\Education\Education_Store\S_4" />
+      <recent name="E:\Node_projects\Node_Way\NBase\_Md\_Index\_C++\Containers\Point_learn\pointers" />
+      <recent name="E:\Node_projects\Node_Way\Education\Education_Store\S_3\S_3_anyHref" />
+      <recent name="E:\Node_projects\Node_Way\Education\Education_Store\S_3" />
+      <recent name="E:\Node_projects\Node_Way\Jobs\CataloguerFs\CreateCatalog\AFP5_0.1_ctlg_1_to_2.v.4\Examples\cleare\DIR_root" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Node_projects\Node_Way\Jobs\CataloguerFs\CreateCatalog\AFP5_0.1_ctlg_1_to_2.v.4\Examples\cleare\DIR_root\dir_1" />
       <recent name="E:\Node_projects\Node_Way\Jobs\AnliticsFs\ObjectAnalitics\AFP5_0.1_object_mod_1\_Examples\cleare\DIR" />
       <recent name="E:\Node_projects\Node_Way\Jobs\Base\Treat_gov\GB.v.1\AFP5_0.1_govBase_all_to_json" />
       <recent name="E:\Node_projects\Node_Way\node_modules\st_fs\ConstructFs\FsCreate\writeFileSync\Examples\1" />
       <recent name="E:\Node_projects\Node_Way\node_modules\st_doc1\nodejs.org_DOCS\__\_" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\Node_projects\Node_Way\Education\Education_Store\S_4" />
-      <recent name="E:\Node_projects\Node_Way\Education\Education_Store\S_3\S_3_anyHref" />
-      <recent name="E:\Node_projects\Node_Way\Education\Education_Store\S_3" />
-      <recent name="E:\Node_projects\Node_Way\Jobs\CataloguerFs\CreateCatalog\AFP5_0.1_ctlg_1_to_2.v.4\Examples\cleare\DIR_root" />
-      <recent name="E:\Node_projects\Node_Way\Jobs\CataloguerFs\CreateCatalog" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.function_test.js">
@@ -452,7 +466,9 @@
       <workItem from="1606912314393" duration="5011000" />
       <workItem from="1607228765395" duration="21751000" />
       <workItem from="1607766514959" duration="16967000" />
-      <workItem from="1607843946729" duration="1609000" />
+      <workItem from="1607843946729" duration="2113000" />
+      <workItem from="1607848620642" duration="7813000" />
+      <workItem from="1607926973109" duration="7316000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
@@ -1152,10 +1168,10 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="296" y="180" key="run.anything.popup/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1601435065117" />
-    <state x="1533" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1605510665009">
+    <state x="1533" y="0" width="840" height="1034" key="search.everywhere.popup" timestamp="1607940076660">
       <screen x="1440" y="0" width="1280" height="1024" />
     </state>
-    <state x="1533" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1605510665009" />
+    <state x="1533" y="0" width="840" height="1034" key="search.everywhere.popup/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1607940076660" />
     <state x="464" y="330" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1602406626119">
       <screen x="0" y="0" width="1440" height="860" />
     </state>

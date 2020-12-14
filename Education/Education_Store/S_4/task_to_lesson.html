@@ -10,5 +10,26 @@
 <body>
 <div></div>
 
+<ol id="elem">
+    <li>Привет</li>
+    <li>Мир</li>
+</ol>
+
+<script>
+    debugger
+
+    function clear(item) {
+        const collection = item.children
+        for (let item of collection)
+        {
+            item.remove();
+            debugger
+        }
+    }
+
+    debugger
+    clear(elem); // очищает список
+</script>
+
 </body>
 </html>
