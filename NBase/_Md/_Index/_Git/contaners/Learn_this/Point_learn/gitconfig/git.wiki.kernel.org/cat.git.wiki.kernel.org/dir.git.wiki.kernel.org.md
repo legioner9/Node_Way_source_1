@@ -1,0 +1,3 @@
+- <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\Point_learn\gitconfig\git.wiki.kernel.org\cat.git.wiki.kernel.org\dir.git.wiki.kernel.org.md">git.wiki.kernel.org</a>
+    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\Point_learn\gitconfig\git.wiki.kernel.org\_git.wiki.kernel.org.md">_git.wiki.kernel.org.md</a>
+        - *# [Git FAQ](https://git.wiki.kernel.org/index.php/Git_FAQ)

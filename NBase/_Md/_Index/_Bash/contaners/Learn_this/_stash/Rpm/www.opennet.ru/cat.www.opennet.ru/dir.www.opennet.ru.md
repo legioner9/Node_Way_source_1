@@ -1,0 +1,9 @@
+- <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Bash\contaners\Learn_this\_stash\Rpm\www.opennet.ru\cat.www.opennet.ru\dir.www.opennet.ru.md">www.opennet.ru</a>
+    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Bash\contaners\Learn_this\_stash\Rpm\www.opennet.ru\_www.opennet.ru.md">_www.opennet.ru.md</a>
+        - *# [Установка программных пакетов в Linux для начинающих (linux install rpm)](https://www.opennet.ru/base/sys/soft_inst.txt.html)
+        - *## Программа rpm.
+        - *## Установка ПО из исходных текстов
+        - *## Необходимые сведения о программировании на языке Си
+        - *## Инсталляция пакетов ПО из исходных текстов
+        - *## Сколько осталось места на диске
+        - *## Освобождение дискового пространства

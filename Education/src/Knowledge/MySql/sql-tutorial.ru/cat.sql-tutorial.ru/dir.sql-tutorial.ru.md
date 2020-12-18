@@ -1,0 +1,43 @@
+- <a href = "E:\Node_projects\Node_Way\Education\src\Knowledge\MySql\sql-tutorial.ru\cat.sql-tutorial.ru\dir.sql-tutorial.ru.md">sql-tutorial.ru</a>
+    - <a href = "E:\Node_projects\Node_Way\Education\src\Knowledge\MySql\sql-tutorial.ru\sql-tutorial_part_1.ru.md">sql-tutorial_part_1.ru.md</a>
+        - *# Create Comp Base
+        - *## Script create
+        - *### drop table
+        - *### create table
+        - *### insert Primary Key
+        - *###  insert Foreign Key
+        - *### filling	
+        - *# Упражнение 2
+        - *# Упражнение 5
+        - *# Упражнение 6
+    - <a href = "E:\Node_projects\Node_Way\Education\src\Knowledge\MySql\sql-tutorial.ru\sql-tutorial_part_2.ru.md">sql-tutorial_part_2.ru.md</a>
+        - *# Язык манипуляции данными в SQL
+        - *## (Глава 5) Оператор SELECT
+        - *### (5.1) Простой оператор SELECT
+        - *#
+        - *### Сортировка по дням рождения
+        - *### (5.2.) Предикаты I
+        - *### (5.3.) Переименование столбцов и вычисления в результирующем наборе
+        - *### (5.4.) Предикаты II
+        - *### (5.5.) Получение итоговых значений
+        - *### (5.6.) Использование в запросе нескольких источников записей
+        - *### (5.7) Традиционные операции над множествами и оператор SELECT
+        - *### Реляционное деление
+        - *### (5.8) Использование ключевых слов SOME (ANY) и ALL с предикатами сравнения 
+        - *### (5.9.) Преобразование типов и оператор CAST
+        - *### (5.10.) Оператор CASE
+        - *## (Глава 6) Операторы модификации данных
+        - *### (6.1.) Оператор INSERT
+        - *### Конструктор значений таблицы
+        - *### (6.2.) Оператор UPDATE
+        - *### (6.3.) Оператор DELETE
+    - <a href = "E:\Node_projects\Node_Way\Education\src\Knowledge\MySql\sql-tutorial.ru\Title_parts.md">Title_parts.md</a>
+        - *# (Часть I) Характерные ошибки при решении задач на написание запросов на выборку (SELECT)
+        - *# (Часть II) Язык манипуляции данными в SQL
+        - *# (Часть III) Готовимся ко второму этапу тестирования
+        - *# (Часть IV) Новое в стандарте и реализациях языка SQL
+        - *# (Часть V) Заметки о типах данных
+        - *# Язык определения данных (SQL DDL)
+        - *# Вопросы оптимизации
+        - *# Графовые базы данных
+        - *# Приложения

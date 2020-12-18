@@ -1,0 +1,5 @@
+- <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__\Vs settings\cat.Vs settings\dir.Vs settings.md">Vs settings</a>
+    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__\Vs settings\_ancors.md">_ancors.md</a>
+        - *## [Как создать резервную копию настроек VS Code и списка установленных расширений?](https://kompsekret.ru/q/how-do-i-back-up-my-vs-code-settings-and-list-of-installed-extensions-2126/)
+        - *## [Visual Studio Code: мощное руководство пользователя](https://dev-gang.ru/article/visual-studio-code-moscznoe-rukovodstvo-polzovatelja-dwedy9wjzg/)
+        - *## [VSCode Полный Курс для JavaScript разработчиков](https://www.youtube.com/watch?v=QeUp3CahkQw&t=1311s&ab_channel=%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BB%D0%B5%D0%BD%D0%9C%D0%B8%D0%BD%D0%B8%D0%BD)

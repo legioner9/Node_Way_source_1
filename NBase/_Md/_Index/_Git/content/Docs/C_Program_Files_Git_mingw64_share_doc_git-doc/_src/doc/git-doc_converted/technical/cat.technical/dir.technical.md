@@ -1,0 +1,1411 @@
+- <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\_src\doc\git-doc_converted\technical\cat.technical\dir.technical.md">technical</a>
+    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\_src\doc\git-doc_converted\technical\.api-error-handling.html.dir\cat..api-error-handling.html.dir\dir..api-error-handling.html.dir.md">.api-error-handling.html.dir</a>
+        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\_src\doc\git-doc_converted\technical\.api-error-handling.html.dir\api-error-handling.html.md">api-error-handling.html.md</a>
+            - *#header,#content,#footnotes,#footer{width:100%;margin-left:auto;margin-right:auto;margin-top:0;margin-bottom:0;max-width:62.5em;*zoom:1;position:relative;padding-left:.9375em;padding-right:.9375em}
+            - *#header::before,#header::after,#content::before,#content::after,#footnotes::before,#footnotes::after,#footer::before,#footer::after{content:" ";display:table}
+            - *#header::after,#content::after,#footnotes::after,#footer::after{clear:both}
+            - *#content{margin-top:1.25em}
+            - *#content::before{content:none}
+            - *#header>h1:first-child{color:rgba(0,0,0,.85);margin-top:2.25rem;margin-bottom:0}
+            - *#header>h1:first-child+#toc{margin-top:8px;border-top:1px solid #dddddf}
+            - *#header>h1:only-child,body.toc2 #header>h1:nth-last-child(2){border-bottom:1px solid #dddddf;padding-bottom:8px}
+            - *#header .details{border-bottom:1px solid #dddddf;line-height:1.45;padding-top:.25em;padding-bottom:.25em;padding-left:.25em;color:rgba(0,0,0,.6);display:-ms-flexbox;display:-webkit-flex;display:flex;-ms-flex-flow:row wrap;-webkit-flex-flow:row wrap;flex-flow:row wrap}
+            - *#header .details span:first-child{margin-left:-.125em}
+            - *#header .details span.email a{color:rgba(0,0,0,.85)}
+            - *#header .details br{display:none}
+            - *#header .details br+span::before{content:"\00a0\2013\00a0"}
+            - *#header .details br+span.author::before{content:"\00a0\22c5\00a0";color:rgba(0,0,0,.85)}
+            - *#header .details br+span#revremark::before{content:"\00a0|\00a0"}
+            - *#header #revnumber{text-transform:capitalize}
+            - *#header #revnumber::after{content:"\00a0"}
+            - *#content>h1:first-child:not([class]){color:rgba(0,0,0,.85);border-bottom:1px solid #dddddf;padding-bottom:8px;margin-top:0;padding-top:1rem;margin-bottom:1.25rem}
+            - *#toc{border-bottom:1px solid #e7e7e9;padding-bottom:.5em}
+            - *#toc>ul{margin-left:.125em}
+            - *#toc ul.sectlevel0>li>a{font-style:italic}
+            - *#toc ul.sectlevel0 ul.sectlevel1{margin:.5em 0}
+            - *#toc ul{font-family:"Open Sans","DejaVu Sans",sans-serif;list-style-type:none}
+            - *#toc li{line-height:1.3334;margin-top:.3334em}
+            - *#toc a{text-decoration:none}
+            - *#toc a:active{text-decoration:underline}
+            - *#toctitle{color:#7a2518;font-size:1.2em}
+            - *#toc.toc2{margin-top:0!important;background:#f8f8f7;position:fixed;width:15em;left:0;top:0;border-right:1px solid #e7e7e9;border-top-width:0!important;border-bottom-width:0!important;z-index:1000;padding:1.25em 1em;height:100%;overflow:auto}
+            - *#toc.toc2 #toctitle{margin-top:0;margin-bottom:.8rem;font-size:1.2em}
+            - *#toc.toc2>ul{font-size:.9em;margin-bottom:0}
+            - *#toc.toc2 ul ul{margin-left:0;padding-left:1em}
+            - *#toc.toc2 ul.sectlevel0 ul.sectlevel1{padding-left:0;margin-top:.5em;margin-bottom:.5em}
+            - *#toc.toc2{width:20em}
+            - *#toc.toc2 #toctitle{font-size:1.375em}
+            - *#toc.toc2>ul{font-size:.95em}
+            - *#toc.toc2 ul ul{padding-left:1.25em}
+            - *#content #toc{border-style:solid;border-width:1px;border-color:#e0e0dc;margin-bottom:1.25em;padding:1.25em;background:#f8f8f7;-webkit-border-radius:4px;border-radius:4px}
+            - *#content #toc>:first-child{margin-top:0}
+            - *#content #toc>:last-child{margin-bottom:0}
+            - *#footer{max-width:100%;background:rgba(0,0,0,.8);padding:1.25em}
+            - *#footer-text{color:rgba(255,255,255,.8);line-height:1.44}
+            - *#content{margin-bottom:.625em}
+            - *#content h1>a.anchor,h2>a.anchor,h3>a.anchor,#toctitle>a.anchor,.sidebarblock>.content>.title>a.anchor,h4>a.anchor,h5>a.anchor,h6>a.anchor{position:absolute;z-index:1001;width:1.5ex;margin-left:-1.5ex;display:block;text-decoration:none!important;visibility:hidden;text-align:center;font-weight:400}
+            - *#content h1>a.anchor::before,h2>a.anchor::before,h3>a.anchor::before,#toctitle>a.anchor::before,.sidebarblock>.content>.title>a.anchor::before,h4>a.anchor::before,h5>a.anchor::before,h6>a.anchor::before{content:"\00A7";font-size:.85em;display:block;padding-top:.1em}
+            - *#content h1:hover>a.anchor,#content h1>a.anchor:hover,h2:hover>a.anchor,h2>a.anchor:hover,h3:hover>a.anchor,#toctitle:hover>a.anchor,.sidebarblock>.content>.title:hover>a.anchor,h3>a.anchor:hover,#toctitle>a.anchor:hover,.sidebarblock>.content>.title>a.anchor:hover,h4:hover>a.anchor,h4>a.anchor:hover,h5:hover>a.anchor,h5>a.anchor:hover,h6:hover>a.anchor,h6>a.anchor:hover{visibility:visible}
+            - *#content h1>a.link,h2>a.link,h3>a.link,#toctitle>a.link,.sidebarblock>.content>.title>a.link,h4>a.link,h5>a.link,h6>a.link{color:#ba3925;text-decoration:none}
+            - *#content h1>a.link:hover,h2>a.link:hover,h3>a.link:hover,#toctitle>a.link:hover,.sidebarblock>.content>.title>a.link:hover,h4>a.link:hover,h5>a.link:hover,h6>a.link:hover{color:#a53221}
+            - *#footnotes{padding-top:.75em;padding-bottom:.75em;margin-bottom:.625em}
+            - *#footnotes hr{width:20%;min-width:6.25em;margin:-.25em 0 .75em;border-width:1px 0 0}
+            - *#footnotes .footnote{padding:0 .375em 0 .225em;line-height:1.3334;font-size:.875em;margin-left:1.2em;margin-bottom:.2em}
+            - *#footnotes .footnote a:first-of-type{font-weight:bold;text-decoration:none;margin-left:-1.05em}
+            - *#footnotes .footnote:last-of-type{margin-bottom:0}
+            - *#content #footnotes{margin-top:-.625em;margin-bottom:0;padding:.75em 0}
+            - *#toc,.sidebarblock,.exampleblock>.content{background:none!important}
+            - *#toc{border-bottom:1px solid #dddddf!important;padding-bottom:0!important}
+            - *#footer{padding:0 .9375em}
+            - *#footer{background:none}
+            - *#footer-text{color:rgba(0,0,0,.6);font-size:.9em}}
+    
+    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\_src\doc\git-doc_converted\technical\.api-index.html.dir\cat..api-index.html.dir\dir..api-index.html.dir.md">.api-index.html.dir</a>
+        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\_src\doc\git-doc_converted\technical\.api-index.html.dir\api-index.html.md">api-index.html.md</a>
+            - *#header,#content,#footnotes,#footer{width:100%;margin-left:auto;margin-right:auto;margin-top:0;margin-bottom:0;max-width:62.5em;*zoom:1;position:relative;padding-left:.9375em;padding-right:.9375em}
+            - *#header::before,#header::after,#content::before,#content::after,#footnotes::before,#footnotes::after,#footer::before,#footer::after{content:" ";display:table}
+            - *#header::after,#content::after,#footnotes::after,#footer::after{clear:both}
+            - *#content{margin-top:1.25em}
+            - *#content::before{content:none}
+            - *#header>h1:first-child{color:rgba(0,0,0,.85);margin-top:2.25rem;margin-bottom:0}
+            - *#header>h1:first-child+#toc{margin-top:8px;border-top:1px solid #dddddf}
+            - *#header>h1:only-child,body.toc2 #header>h1:nth-last-child(2){border-bottom:1px solid #dddddf;padding-bottom:8px}
+            - *#header .details{border-bottom:1px solid #dddddf;line-height:1.45;padding-top:.25em;padding-bottom:.25em;padding-left:.25em;color:rgba(0,0,0,.6);display:-ms-flexbox;display:-webkit-flex;display:flex;-ms-flex-flow:row wrap;-webkit-flex-flow:row wrap;flex-flow:row wrap}
+            - *#header .details span:first-child{margin-left:-.125em}
+            - *#header .details span.email a{color:rgba(0,0,0,.85)}
+            - *#header .details br{display:none}
+            - *#header .details br+span::before{content:"\00a0\2013\00a0"}
+            - *#header .details br+span.author::before{content:"\00a0\22c5\00a0";color:rgba(0,0,0,.85)}
+            - *#header .details br+span#revremark::before{content:"\00a0|\00a0"}
+            - *#header #revnumber{text-transform:capitalize}
+            - *#header #revnumber::after{content:"\00a0"}
+            - *#content>h1:first-child:not([class]){color:rgba(0,0,0,.85);border-bottom:1px solid #dddddf;padding-bottom:8px;margin-top:0;padding-top:1rem;margin-bottom:1.25rem}
+            - *#toc{border-bottom:1px solid #e7e7e9;padding-bottom:.5em}
+            - *#toc>ul{margin-left:.125em}
+            - *#toc ul.sectlevel0>li>a{font-style:italic}
+            - *#toc ul.sectlevel0 ul.sectlevel1{margin:.5em 0}
+            - *#toc ul{font-family:"Open Sans","DejaVu Sans",sans-serif;list-style-type:none}
+            - *#toc li{line-height:1.3334;margin-top:.3334em}
+            - *#toc a{text-decoration:none}
+            - *#toc a:active{text-decoration:underline}
+            - *#toctitle{color:#7a2518;font-size:1.2em}
+            - *#toc.toc2{margin-top:0!important;background:#f8f8f7;position:fixed;width:15em;left:0;top:0;border-right:1px solid #e7e7e9;border-top-width:0!important;border-bottom-width:0!important;z-index:1000;padding:1.25em 1em;height:100%;overflow:auto}
+            - *#toc.toc2 #toctitle{margin-top:0;margin-bottom:.8rem;font-size:1.2em}
+            - *#toc.toc2>ul{font-size:.9em;margin-bottom:0}
+            - *#toc.toc2 ul ul{margin-left:0;padding-left:1em}
+            - *#toc.toc2 ul.sectlevel0 ul.sectlevel1{padding-left:0;margin-top:.5em;margin-bottom:.5em}
+            - *#toc.toc2{width:20em}
+            - *#toc.toc2 #toctitle{font-size:1.375em}
+            - *#toc.toc2>ul{font-size:.95em}
+            - *#toc.toc2 ul ul{padding-left:1.25em}
+            - *#content #toc{border-style:solid;border-width:1px;border-color:#e0e0dc;margin-bottom:1.25em;padding:1.25em;background:#f8f8f7;-webkit-border-radius:4px;border-radius:4px}
+            - *#content #toc>:first-child{margin-top:0}
+            - *#content #toc>:last-child{margin-bottom:0}
+            - *#footer{max-width:100%;background:rgba(0,0,0,.8);padding:1.25em}
+            - *#footer-text{color:rgba(255,255,255,.8);line-height:1.44}
+            - *#content{margin-bottom:.625em}
+            - *#content h1>a.anchor,h2>a.anchor,h3>a.anchor,#toctitle>a.anchor,.sidebarblock>.content>.title>a.anchor,h4>a.anchor,h5>a.anchor,h6>a.anchor{position:absolute;z-index:1001;width:1.5ex;margin-left:-1.5ex;display:block;text-decoration:none!important;visibility:hidden;text-align:center;font-weight:400}
+            - *#content h1>a.anchor::before,h2>a.anchor::before,h3>a.anchor::before,#toctitle>a.anchor::before,.sidebarblock>.content>.title>a.anchor::before,h4>a.anchor::before,h5>a.anchor::before,h6>a.anchor::before{content:"\00A7";font-size:.85em;display:block;padding-top:.1em}
+            - *#content h1:hover>a.anchor,#content h1>a.anchor:hover,h2:hover>a.anchor,h2>a.anchor:hover,h3:hover>a.anchor,#toctitle:hover>a.anchor,.sidebarblock>.content>.title:hover>a.anchor,h3>a.anchor:hover,#toctitle>a.anchor:hover,.sidebarblock>.content>.title>a.anchor:hover,h4:hover>a.anchor,h4>a.anchor:hover,h5:hover>a.anchor,h5>a.anchor:hover,h6:hover>a.anchor,h6>a.anchor:hover{visibility:visible}
+            - *#content h1>a.link,h2>a.link,h3>a.link,#toctitle>a.link,.sidebarblock>.content>.title>a.link,h4>a.link,h5>a.link,h6>a.link{color:#ba3925;text-decoration:none}
+            - *#content h1>a.link:hover,h2>a.link:hover,h3>a.link:hover,#toctitle>a.link:hover,.sidebarblock>.content>.title>a.link:hover,h4>a.link:hover,h5>a.link:hover,h6>a.link:hover{color:#a53221}
+            - *#footnotes{padding-top:.75em;padding-bottom:.75em;margin-bottom:.625em}
+            - *#footnotes hr{width:20%;min-width:6.25em;margin:-.25em 0 .75em;border-width:1px 0 0}
+            - *#footnotes .footnote{padding:0 .375em 0 .225em;line-height:1.3334;font-size:.875em;margin-left:1.2em;margin-bottom:.2em}
+            - *#footnotes .footnote a:first-of-type{font-weight:bold;text-decoration:none;margin-left:-1.05em}
+            - *#footnotes .footnote:last-of-type{margin-bottom:0}
+            - *#content #footnotes{margin-top:-.625em;margin-bottom:0;padding:.75em 0}
+            - *#toc,.sidebarblock,.exampleblock>.content{background:none!important}
+            - *#toc{border-bottom:1px solid #dddddf!important;padding-bottom:0!important}
+            - *#footer{padding:0 .9375em}
+            - *#footer{background:none}
+            - *#footer-text{color:rgba(0,0,0,.6);font-size:.9em}}
+    
+    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\_src\doc\git-doc_converted\technical\.api-merge.html.dir\cat..api-merge.html.dir\dir..api-merge.html.dir.md">.api-merge.html.dir</a>
+        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\_src\doc\git-doc_converted\technical\.api-merge.html.dir\api-merge.html.md">api-merge.html.md</a>
+            - *#header,#content,#footnotes,#footer{width:100%;margin-left:auto;margin-right:auto;margin-top:0;margin-bottom:0;max-width:62.5em;*zoom:1;position:relative;padding-left:.9375em;padding-right:.9375em}
+            - *#header::before,#header::after,#content::before,#content::after,#footnotes::before,#footnotes::after,#footer::before,#footer::after{content:" ";display:table}
+            - *#header::after,#content::after,#footnotes::after,#footer::after{clear:both}
+            - *#content{margin-top:1.25em}
+            - *#content::before{content:none}
+            - *#header>h1:first-child{color:rgba(0,0,0,.85);margin-top:2.25rem;margin-bottom:0}
+            - *#header>h1:first-child+#toc{margin-top:8px;border-top:1px solid #dddddf}
+            - *#header>h1:only-child,body.toc2 #header>h1:nth-last-child(2){border-bottom:1px solid #dddddf;padding-bottom:8px}
+            - *#header .details{border-bottom:1px solid #dddddf;line-height:1.45;padding-top:.25em;padding-bottom:.25em;padding-left:.25em;color:rgba(0,0,0,.6);display:-ms-flexbox;display:-webkit-flex;display:flex;-ms-flex-flow:row wrap;-webkit-flex-flow:row wrap;flex-flow:row wrap}
+            - *#header .details span:first-child{margin-left:-.125em}
+            - *#header .details span.email a{color:rgba(0,0,0,.85)}
+            - *#header .details br{display:none}
+            - *#header .details br+span::before{content:"\00a0\2013\00a0"}
+            - *#header .details br+span.author::before{content:"\00a0\22c5\00a0";color:rgba(0,0,0,.85)}
+            - *#header .details br+span#revremark::before{content:"\00a0|\00a0"}
+            - *#header #revnumber{text-transform:capitalize}
+            - *#header #revnumber::after{content:"\00a0"}
+            - *#content>h1:first-child:not([class]){color:rgba(0,0,0,.85);border-bottom:1px solid #dddddf;padding-bottom:8px;margin-top:0;padding-top:1rem;margin-bottom:1.25rem}
+            - *#toc{border-bottom:1px solid #e7e7e9;padding-bottom:.5em}
+            - *#toc>ul{margin-left:.125em}
+            - *#toc ul.sectlevel0>li>a{font-style:italic}
+            - *#toc ul.sectlevel0 ul.sectlevel1{margin:.5em 0}
+            - *#toc ul{font-family:"Open Sans","DejaVu Sans",sans-serif;list-style-type:none}
+            - *#toc li{line-height:1.3334;margin-top:.3334em}
+            - *#toc a{text-decoration:none}
+            - *#toc a:active{text-decoration:underline}
+            - *#toctitle{color:#7a2518;font-size:1.2em}
+            - *#toc.toc2{margin-top:0!important;background:#f8f8f7;position:fixed;width:15em;left:0;top:0;border-right:1px solid #e7e7e9;border-top-width:0!important;border-bottom-width:0!important;z-index:1000;padding:1.25em 1em;height:100%;overflow:auto}
+            - *#toc.toc2 #toctitle{margin-top:0;margin-bottom:.8rem;font-size:1.2em}
+            - *#toc.toc2>ul{font-size:.9em;margin-bottom:0}
+            - *#toc.toc2 ul ul{margin-left:0;padding-left:1em}
+            - *#toc.toc2 ul.sectlevel0 ul.sectlevel1{padding-left:0;margin-top:.5em;margin-bottom:.5em}
+            - *#toc.toc2{width:20em}
+            - *#toc.toc2 #toctitle{font-size:1.375em}
+            - *#toc.toc2>ul{font-size:.95em}
+            - *#toc.toc2 ul ul{padding-left:1.25em}
+            - *#content #toc{border-style:solid;border-width:1px;border-color:#e0e0dc;margin-bottom:1.25em;padding:1.25em;background:#f8f8f7;-webkit-border-radius:4px;border-radius:4px}
+            - *#content #toc>:first-child{margin-top:0}
+            - *#content #toc>:last-child{margin-bottom:0}
+            - *#footer{max-width:100%;background:rgba(0,0,0,.8);padding:1.25em}
+            - *#footer-text{color:rgba(255,255,255,.8);line-height:1.44}
+            - *#content{margin-bottom:.625em}
+            - *#content h1>a.anchor,h2>a.anchor,h3>a.anchor,#toctitle>a.anchor,.sidebarblock>.content>.title>a.anchor,h4>a.anchor,h5>a.anchor,h6>a.anchor{position:absolute;z-index:1001;width:1.5ex;margin-left:-1.5ex;display:block;text-decoration:none!important;visibility:hidden;text-align:center;font-weight:400}
+            - *#content h1>a.anchor::before,h2>a.anchor::before,h3>a.anchor::before,#toctitle>a.anchor::before,.sidebarblock>.content>.title>a.anchor::before,h4>a.anchor::before,h5>a.anchor::before,h6>a.anchor::before{content:"\00A7";font-size:.85em;display:block;padding-top:.1em}
+            - *#content h1:hover>a.anchor,#content h1>a.anchor:hover,h2:hover>a.anchor,h2>a.anchor:hover,h3:hover>a.anchor,#toctitle:hover>a.anchor,.sidebarblock>.content>.title:hover>a.anchor,h3>a.anchor:hover,#toctitle>a.anchor:hover,.sidebarblock>.content>.title>a.anchor:hover,h4:hover>a.anchor,h4>a.anchor:hover,h5:hover>a.anchor,h5>a.anchor:hover,h6:hover>a.anchor,h6>a.anchor:hover{visibility:visible}
+            - *#content h1>a.link,h2>a.link,h3>a.link,#toctitle>a.link,.sidebarblock>.content>.title>a.link,h4>a.link,h5>a.link,h6>a.link{color:#ba3925;text-decoration:none}
+            - *#content h1>a.link:hover,h2>a.link:hover,h3>a.link:hover,#toctitle>a.link:hover,.sidebarblock>.content>.title>a.link:hover,h4>a.link:hover,h5>a.link:hover,h6>a.link:hover{color:#a53221}
+            - *#footnotes{padding-top:.75em;padding-bottom:.75em;margin-bottom:.625em}
+            - *#footnotes hr{width:20%;min-width:6.25em;margin:-.25em 0 .75em;border-width:1px 0 0}
+            - *#footnotes .footnote{padding:0 .375em 0 .225em;line-height:1.3334;font-size:.875em;margin-left:1.2em;margin-bottom:.2em}
+            - *#footnotes .footnote a:first-of-type{font-weight:bold;text-decoration:none;margin-left:-1.05em}
+            - *#footnotes .footnote:last-of-type{margin-bottom:0}
+            - *#content #footnotes{margin-top:-.625em;margin-bottom:0;padding:.75em 0}
+            - *#toc,.sidebarblock,.exampleblock>.content{background:none!important}
+            - *#toc{border-bottom:1px solid #dddddf!important;padding-bottom:0!important}
+            - *#footer{padding:0 .9375em}
+            - *#footer{background:none}
+            - *#footer-text{color:rgba(0,0,0,.6);font-size:.9em}}
+    
+    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\_src\doc\git-doc_converted\technical\.api-parse-options.html.dir\cat..api-parse-options.html.dir\dir..api-parse-options.html.dir.md">.api-parse-options.html.dir</a>
+        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\_src\doc\git-doc_converted\technical\.api-parse-options.html.dir\api-parse-options.html.md">api-parse-options.html.md</a>
+            - *#header,#content,#footnotes,#footer{width:100%;margin-left:auto;margin-right:auto;margin-top:0;margin-bottom:0;max-width:62.5em;*zoom:1;position:relative;padding-left:.9375em;padding-right:.9375em}
+            - *#header::before,#header::after,#content::before,#content::after,#footnotes::before,#footnotes::after,#footer::before,#footer::after{content:" ";display:table}
+            - *#header::after,#content::after,#footnotes::after,#footer::after{clear:both}
+            - *#content{margin-top:1.25em}
+            - *#content::before{content:none}
+            - *#header>h1:first-child{color:rgba(0,0,0,.85);margin-top:2.25rem;margin-bottom:0}
+            - *#header>h1:first-child+#toc{margin-top:8px;border-top:1px solid #dddddf}
+            - *#header>h1:only-child,body.toc2 #header>h1:nth-last-child(2){border-bottom:1px solid #dddddf;padding-bottom:8px}
+            - *#header .details{border-bottom:1px solid #dddddf;line-height:1.45;padding-top:.25em;padding-bottom:.25em;padding-left:.25em;color:rgba(0,0,0,.6);display:-ms-flexbox;display:-webkit-flex;display:flex;-ms-flex-flow:row wrap;-webkit-flex-flow:row wrap;flex-flow:row wrap}
+            - *#header .details span:first-child{margin-left:-.125em}
+            - *#header .details span.email a{color:rgba(0,0,0,.85)}
+            - *#header .details br{display:none}
+            - *#header .details br+span::before{content:"\00a0\2013\00a0"}
+            - *#header .details br+span.author::before{content:"\00a0\22c5\00a0";color:rgba(0,0,0,.85)}
+            - *#header .details br+span#revremark::before{content:"\00a0|\00a0"}
+            - *#header #revnumber{text-transform:capitalize}
+            - *#header #revnumber::after{content:"\00a0"}
+            - *#content>h1:first-child:not([class]){color:rgba(0,0,0,.85);border-bottom:1px solid #dddddf;padding-bottom:8px;margin-top:0;padding-top:1rem;margin-bottom:1.25rem}
+            - *#toc{border-bottom:1px solid #e7e7e9;padding-bottom:.5em}
+            - *#toc>ul{margin-left:.125em}
+            - *#toc ul.sectlevel0>li>a{font-style:italic}
+            - *#toc ul.sectlevel0 ul.sectlevel1{margin:.5em 0}
+            - *#toc ul{font-family:"Open Sans","DejaVu Sans",sans-serif;list-style-type:none}
+            - *#toc li{line-height:1.3334;margin-top:.3334em}
+            - *#toc a{text-decoration:none}
+            - *#toc a:active{text-decoration:underline}
+            - *#toctitle{color:#7a2518;font-size:1.2em}
+            - *#toc.toc2{margin-top:0!important;background:#f8f8f7;position:fixed;width:15em;left:0;top:0;border-right:1px solid #e7e7e9;border-top-width:0!important;border-bottom-width:0!important;z-index:1000;padding:1.25em 1em;height:100%;overflow:auto}
+            - *#toc.toc2 #toctitle{margin-top:0;margin-bottom:.8rem;font-size:1.2em}
+            - *#toc.toc2>ul{font-size:.9em;margin-bottom:0}
+            - *#toc.toc2 ul ul{margin-left:0;padding-left:1em}
+            - *#toc.toc2 ul.sectlevel0 ul.sectlevel1{padding-left:0;margin-top:.5em;margin-bottom:.5em}
+            - *#toc.toc2{width:20em}
+            - *#toc.toc2 #toctitle{font-size:1.375em}
+            - *#toc.toc2>ul{font-size:.95em}
+            - *#toc.toc2 ul ul{padding-left:1.25em}
+            - *#content #toc{border-style:solid;border-width:1px;border-color:#e0e0dc;margin-bottom:1.25em;padding:1.25em;background:#f8f8f7;-webkit-border-radius:4px;border-radius:4px}
+            - *#content #toc>:first-child{margin-top:0}
+            - *#content #toc>:last-child{margin-bottom:0}
+            - *#footer{max-width:100%;background:rgba(0,0,0,.8);padding:1.25em}
+            - *#footer-text{color:rgba(255,255,255,.8);line-height:1.44}
+            - *#content{margin-bottom:.625em}
+            - *#content h1>a.anchor,h2>a.anchor,h3>a.anchor,#toctitle>a.anchor,.sidebarblock>.content>.title>a.anchor,h4>a.anchor,h5>a.anchor,h6>a.anchor{position:absolute;z-index:1001;width:1.5ex;margin-left:-1.5ex;display:block;text-decoration:none!important;visibility:hidden;text-align:center;font-weight:400}
+            - *#content h1>a.anchor::before,h2>a.anchor::before,h3>a.anchor::before,#toctitle>a.anchor::before,.sidebarblock>.content>.title>a.anchor::before,h4>a.anchor::before,h5>a.anchor::before,h6>a.anchor::before{content:"\00A7";font-size:.85em;display:block;padding-top:.1em}
+            - *#content h1:hover>a.anchor,#content h1>a.anchor:hover,h2:hover>a.anchor,h2>a.anchor:hover,h3:hover>a.anchor,#toctitle:hover>a.anchor,.sidebarblock>.content>.title:hover>a.anchor,h3>a.anchor:hover,#toctitle>a.anchor:hover,.sidebarblock>.content>.title>a.anchor:hover,h4:hover>a.anchor,h4>a.anchor:hover,h5:hover>a.anchor,h5>a.anchor:hover,h6:hover>a.anchor,h6>a.anchor:hover{visibility:visible}
+            - *#content h1>a.link,h2>a.link,h3>a.link,#toctitle>a.link,.sidebarblock>.content>.title>a.link,h4>a.link,h5>a.link,h6>a.link{color:#ba3925;text-decoration:none}
+            - *#content h1>a.link:hover,h2>a.link:hover,h3>a.link:hover,#toctitle>a.link:hover,.sidebarblock>.content>.title>a.link:hover,h4>a.link:hover,h5>a.link:hover,h6>a.link:hover{color:#a53221}
+            - *#footnotes{padding-top:.75em;padding-bottom:.75em;margin-bottom:.625em}
+            - *#footnotes hr{width:20%;min-width:6.25em;margin:-.25em 0 .75em;border-width:1px 0 0}
+            - *#footnotes .footnote{padding:0 .375em 0 .225em;line-height:1.3334;font-size:.875em;margin-left:1.2em;margin-bottom:.2em}
+            - *#footnotes .footnote a:first-of-type{font-weight:bold;text-decoration:none;margin-left:-1.05em}
+            - *#footnotes .footnote:last-of-type{margin-bottom:0}
+            - *#content #footnotes{margin-top:-.625em;margin-bottom:0;padding:.75em 0}
+            - *#toc,.sidebarblock,.exampleblock>.content{background:none!important}
+            - *#toc{border-bottom:1px solid #dddddf!important;padding-bottom:0!important}
+            - *#footer{padding:0 .9375em}
+            - *#footer{background:none}
+            - *#footer-text{color:rgba(0,0,0,.6);font-size:.9em}}
+    
+    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\_src\doc\git-doc_converted\technical\.api-trace2.html.dir\cat..api-trace2.html.dir\dir..api-trace2.html.dir.md">.api-trace2.html.dir</a>
+        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\_src\doc\git-doc_converted\technical\.api-trace2.html.dir\api-trace2.html.md">api-trace2.html.md</a>
+            - *#header,#content,#footnotes,#footer{width:100%;margin-left:auto;margin-right:auto;margin-top:0;margin-bottom:0;max-width:62.5em;*zoom:1;position:relative;padding-left:.9375em;padding-right:.9375em}
+            - *#header::before,#header::after,#content::before,#content::after,#footnotes::before,#footnotes::after,#footer::before,#footer::after{content:" ";display:table}
+            - *#header::after,#content::after,#footnotes::after,#footer::after{clear:both}
+            - *#content{margin-top:1.25em}
+            - *#content::before{content:none}
+            - *#header>h1:first-child{color:rgba(0,0,0,.85);margin-top:2.25rem;margin-bottom:0}
+            - *#header>h1:first-child+#toc{margin-top:8px;border-top:1px solid #dddddf}
+            - *#header>h1:only-child,body.toc2 #header>h1:nth-last-child(2){border-bottom:1px solid #dddddf;padding-bottom:8px}
+            - *#header .details{border-bottom:1px solid #dddddf;line-height:1.45;padding-top:.25em;padding-bottom:.25em;padding-left:.25em;color:rgba(0,0,0,.6);display:-ms-flexbox;display:-webkit-flex;display:flex;-ms-flex-flow:row wrap;-webkit-flex-flow:row wrap;flex-flow:row wrap}
+            - *#header .details span:first-child{margin-left:-.125em}
+            - *#header .details span.email a{color:rgba(0,0,0,.85)}
+            - *#header .details br{display:none}
+            - *#header .details br+span::before{content:"\00a0\2013\00a0"}
+            - *#header .details br+span.author::before{content:"\00a0\22c5\00a0";color:rgba(0,0,0,.85)}
+            - *#header .details br+span#revremark::before{content:"\00a0|\00a0"}
+            - *#header #revnumber{text-transform:capitalize}
+            - *#header #revnumber::after{content:"\00a0"}
+            - *#content>h1:first-child:not([class]){color:rgba(0,0,0,.85);border-bottom:1px solid #dddddf;padding-bottom:8px;margin-top:0;padding-top:1rem;margin-bottom:1.25rem}
+            - *#toc{border-bottom:1px solid #e7e7e9;padding-bottom:.5em}
+            - *#toc>ul{margin-left:.125em}
+            - *#toc ul.sectlevel0>li>a{font-style:italic}
+            - *#toc ul.sectlevel0 ul.sectlevel1{margin:.5em 0}
+            - *#toc ul{font-family:"Open Sans","DejaVu Sans",sans-serif;list-style-type:none}
+            - *#toc li{line-height:1.3334;margin-top:.3334em}
+            - *#toc a{text-decoration:none}
+            - *#toc a:active{text-decoration:underline}
+            - *#toctitle{color:#7a2518;font-size:1.2em}
+            - *#toc.toc2{margin-top:0!important;background:#f8f8f7;position:fixed;width:15em;left:0;top:0;border-right:1px solid #e7e7e9;border-top-width:0!important;border-bottom-width:0!important;z-index:1000;padding:1.25em 1em;height:100%;overflow:auto}
+            - *#toc.toc2 #toctitle{margin-top:0;margin-bottom:.8rem;font-size:1.2em}
+            - *#toc.toc2>ul{font-size:.9em;margin-bottom:0}
+            - *#toc.toc2 ul ul{margin-left:0;padding-left:1em}
+            - *#toc.toc2 ul.sectlevel0 ul.sectlevel1{padding-left:0;margin-top:.5em;margin-bottom:.5em}
+            - *#toc.toc2{width:20em}
+            - *#toc.toc2 #toctitle{font-size:1.375em}
+            - *#toc.toc2>ul{font-size:.95em}
+            - *#toc.toc2 ul ul{padding-left:1.25em}
+            - *#content #toc{border-style:solid;border-width:1px;border-color:#e0e0dc;margin-bottom:1.25em;padding:1.25em;background:#f8f8f7;-webkit-border-radius:4px;border-radius:4px}
+            - *#content #toc>:first-child{margin-top:0}
+            - *#content #toc>:last-child{margin-bottom:0}
+            - *#footer{max-width:100%;background:rgba(0,0,0,.8);padding:1.25em}
+            - *#footer-text{color:rgba(255,255,255,.8);line-height:1.44}
+            - *#content{margin-bottom:.625em}
+            - *#content h1>a.anchor,h2>a.anchor,h3>a.anchor,#toctitle>a.anchor,.sidebarblock>.content>.title>a.anchor,h4>a.anchor,h5>a.anchor,h6>a.anchor{position:absolute;z-index:1001;width:1.5ex;margin-left:-1.5ex;display:block;text-decoration:none!important;visibility:hidden;text-align:center;font-weight:400}
+            - *#content h1>a.anchor::before,h2>a.anchor::before,h3>a.anchor::before,#toctitle>a.anchor::before,.sidebarblock>.content>.title>a.anchor::before,h4>a.anchor::before,h5>a.anchor::before,h6>a.anchor::before{content:"\00A7";font-size:.85em;display:block;padding-top:.1em}
+            - *#content h1:hover>a.anchor,#content h1>a.anchor:hover,h2:hover>a.anchor,h2>a.anchor:hover,h3:hover>a.anchor,#toctitle:hover>a.anchor,.sidebarblock>.content>.title:hover>a.anchor,h3>a.anchor:hover,#toctitle>a.anchor:hover,.sidebarblock>.content>.title>a.anchor:hover,h4:hover>a.anchor,h4>a.anchor:hover,h5:hover>a.anchor,h5>a.anchor:hover,h6:hover>a.anchor,h6>a.anchor:hover{visibility:visible}
+            - *#content h1>a.link,h2>a.link,h3>a.link,#toctitle>a.link,.sidebarblock>.content>.title>a.link,h4>a.link,h5>a.link,h6>a.link{color:#ba3925;text-decoration:none}
+            - *#content h1>a.link:hover,h2>a.link:hover,h3>a.link:hover,#toctitle>a.link:hover,.sidebarblock>.content>.title>a.link:hover,h4>a.link:hover,h5>a.link:hover,h6>a.link:hover{color:#a53221}
+            - *#footnotes{padding-top:.75em;padding-bottom:.75em;margin-bottom:.625em}
+            - *#footnotes hr{width:20%;min-width:6.25em;margin:-.25em 0 .75em;border-width:1px 0 0}
+            - *#footnotes .footnote{padding:0 .375em 0 .225em;line-height:1.3334;font-size:.875em;margin-left:1.2em;margin-bottom:.2em}
+            - *#footnotes .footnote a:first-of-type{font-weight:bold;text-decoration:none;margin-left:-1.05em}
+            - *#footnotes .footnote:last-of-type{margin-bottom:0}
+            - *#content #footnotes{margin-top:-.625em;margin-bottom:0;padding:.75em 0}
+            - *#toc,.sidebarblock,.exampleblock>.content{background:none!important}
+            - *#toc{border-bottom:1px solid #dddddf!important;padding-bottom:0!important}
+            - *#footer{padding:0 .9375em}
+            - *#footer{background:none}
+            - *#footer-text{color:rgba(0,0,0,.6);font-size:.9em}}
+    
+    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\_src\doc\git-doc_converted\technical\.hash-function-transition.html.dir\cat..hash-function-transition.html.dir\dir..hash-function-transition.html.dir.md">.hash-function-transition.html.dir</a>
+        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\_src\doc\git-doc_converted\technical\.hash-function-transition.html.dir\hash-function-transition.html.md">hash-function-transition.html.md</a>
+            - *#header,#content,#footnotes,#footer{width:100%;margin-left:auto;margin-right:auto;margin-top:0;margin-bottom:0;max-width:62.5em;*zoom:1;position:relative;padding-left:.9375em;padding-right:.9375em}
+            - *#header::before,#header::after,#content::before,#content::after,#footnotes::before,#footnotes::after,#footer::before,#footer::after{content:" ";display:table}
+            - *#header::after,#content::after,#footnotes::after,#footer::after{clear:both}
+            - *#content{margin-top:1.25em}
+            - *#content::before{content:none}
+            - *#header>h1:first-child{color:rgba(0,0,0,.85);margin-top:2.25rem;margin-bottom:0}
+            - *#header>h1:first-child+#toc{margin-top:8px;border-top:1px solid #dddddf}
+            - *#header>h1:only-child,body.toc2 #header>h1:nth-last-child(2){border-bottom:1px solid #dddddf;padding-bottom:8px}
+            - *#header .details{border-bottom:1px solid #dddddf;line-height:1.45;padding-top:.25em;padding-bottom:.25em;padding-left:.25em;color:rgba(0,0,0,.6);display:-ms-flexbox;display:-webkit-flex;display:flex;-ms-flex-flow:row wrap;-webkit-flex-flow:row wrap;flex-flow:row wrap}
+            - *#header .details span:first-child{margin-left:-.125em}
+            - *#header .details span.email a{color:rgba(0,0,0,.85)}
+            - *#header .details br{display:none}
+            - *#header .details br+span::before{content:"\00a0\2013\00a0"}
+            - *#header .details br+span.author::before{content:"\00a0\22c5\00a0";color:rgba(0,0,0,.85)}
+            - *#header .details br+span#revremark::before{content:"\00a0|\00a0"}
+            - *#header #revnumber{text-transform:capitalize}
+            - *#header #revnumber::after{content:"\00a0"}
+            - *#content>h1:first-child:not([class]){color:rgba(0,0,0,.85);border-bottom:1px solid #dddddf;padding-bottom:8px;margin-top:0;padding-top:1rem;margin-bottom:1.25rem}
+            - *#toc{border-bottom:1px solid #e7e7e9;padding-bottom:.5em}
+            - *#toc>ul{margin-left:.125em}
+            - *#toc ul.sectlevel0>li>a{font-style:italic}
+            - *#toc ul.sectlevel0 ul.sectlevel1{margin:.5em 0}
+            - *#toc ul{font-family:"Open Sans","DejaVu Sans",sans-serif;list-style-type:none}
+            - *#toc li{line-height:1.3334;margin-top:.3334em}
+            - *#toc a{text-decoration:none}
+            - *#toc a:active{text-decoration:underline}
+            - *#toctitle{color:#7a2518;font-size:1.2em}
+            - *#toc.toc2{margin-top:0!important;background:#f8f8f7;position:fixed;width:15em;left:0;top:0;border-right:1px solid #e7e7e9;border-top-width:0!important;border-bottom-width:0!important;z-index:1000;padding:1.25em 1em;height:100%;overflow:auto}
+            - *#toc.toc2 #toctitle{margin-top:0;margin-bottom:.8rem;font-size:1.2em}
+            - *#toc.toc2>ul{font-size:.9em;margin-bottom:0}
+            - *#toc.toc2 ul ul{margin-left:0;padding-left:1em}
+            - *#toc.toc2 ul.sectlevel0 ul.sectlevel1{padding-left:0;margin-top:.5em;margin-bottom:.5em}
+            - *#toc.toc2{width:20em}
+            - *#toc.toc2 #toctitle{font-size:1.375em}
+            - *#toc.toc2>ul{font-size:.95em}
+            - *#toc.toc2 ul ul{padding-left:1.25em}
+            - *#content #toc{border-style:solid;border-width:1px;border-color:#e0e0dc;margin-bottom:1.25em;padding:1.25em;background:#f8f8f7;-webkit-border-radius:4px;border-radius:4px}
+            - *#content #toc>:first-child{margin-top:0}
+            - *#content #toc>:last-child{margin-bottom:0}
+            - *#footer{max-width:100%;background:rgba(0,0,0,.8);padding:1.25em}
+            - *#footer-text{color:rgba(255,255,255,.8);line-height:1.44}
+            - *#content{margin-bottom:.625em}
+            - *#content h1>a.anchor,h2>a.anchor,h3>a.anchor,#toctitle>a.anchor,.sidebarblock>.content>.title>a.anchor,h4>a.anchor,h5>a.anchor,h6>a.anchor{position:absolute;z-index:1001;width:1.5ex;margin-left:-1.5ex;display:block;text-decoration:none!important;visibility:hidden;text-align:center;font-weight:400}
+            - *#content h1>a.anchor::before,h2>a.anchor::before,h3>a.anchor::before,#toctitle>a.anchor::before,.sidebarblock>.content>.title>a.anchor::before,h4>a.anchor::before,h5>a.anchor::before,h6>a.anchor::before{content:"\00A7";font-size:.85em;display:block;padding-top:.1em}
+            - *#content h1:hover>a.anchor,#content h1>a.anchor:hover,h2:hover>a.anchor,h2>a.anchor:hover,h3:hover>a.anchor,#toctitle:hover>a.anchor,.sidebarblock>.content>.title:hover>a.anchor,h3>a.anchor:hover,#toctitle>a.anchor:hover,.sidebarblock>.content>.title>a.anchor:hover,h4:hover>a.anchor,h4>a.anchor:hover,h5:hover>a.anchor,h5>a.anchor:hover,h6:hover>a.anchor,h6>a.anchor:hover{visibility:visible}
+            - *#content h1>a.link,h2>a.link,h3>a.link,#toctitle>a.link,.sidebarblock>.content>.title>a.link,h4>a.link,h5>a.link,h6>a.link{color:#ba3925;text-decoration:none}
+            - *#content h1>a.link:hover,h2>a.link:hover,h3>a.link:hover,#toctitle>a.link:hover,.sidebarblock>.content>.title>a.link:hover,h4>a.link:hover,h5>a.link:hover,h6>a.link:hover{color:#a53221}
+            - *#footnotes{padding-top:.75em;padding-bottom:.75em;margin-bottom:.625em}
+            - *#footnotes hr{width:20%;min-width:6.25em;margin:-.25em 0 .75em;border-width:1px 0 0}
+            - *#footnotes .footnote{padding:0 .375em 0 .225em;line-height:1.3334;font-size:.875em;margin-left:1.2em;margin-bottom:.2em}
+            - *#footnotes .footnote a:first-of-type{font-weight:bold;text-decoration:none;margin-left:-1.05em}
+            - *#footnotes .footnote:last-of-type{margin-bottom:0}
+            - *#content #footnotes{margin-top:-.625em;margin-bottom:0;padding:.75em 0}
+            - *#toc,.sidebarblock,.exampleblock>.content{background:none!important}
+            - *#toc{border-bottom:1px solid #dddddf!important;padding-bottom:0!important}
+            - *#footer{padding:0 .9375em}
+            - *#footer{background:none}
+            - *#footer-text{color:rgba(0,0,0,.6);font-size:.9em}}
+            - *# After v2.7.0
+    
+    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\_src\doc\git-doc_converted\technical\.http-protocol.html.dir\cat..http-protocol.html.dir\dir..http-protocol.html.dir.md">.http-protocol.html.dir</a>
+        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\_src\doc\git-doc_converted\technical\.http-protocol.html.dir\http-protocol.html.md">http-protocol.html.md</a>
+            - *#header,#content,#footnotes,#footer{width:100%;margin-left:auto;margin-right:auto;margin-top:0;margin-bottom:0;max-width:62.5em;*zoom:1;position:relative;padding-left:.9375em;padding-right:.9375em}
+            - *#header::before,#header::after,#content::before,#content::after,#footnotes::before,#footnotes::after,#footer::before,#footer::after{content:" ";display:table}
+            - *#header::after,#content::after,#footnotes::after,#footer::after{clear:both}
+            - *#content{margin-top:1.25em}
+            - *#content::before{content:none}
+            - *#header>h1:first-child{color:rgba(0,0,0,.85);margin-top:2.25rem;margin-bottom:0}
+            - *#header>h1:first-child+#toc{margin-top:8px;border-top:1px solid #dddddf}
+            - *#header>h1:only-child,body.toc2 #header>h1:nth-last-child(2){border-bottom:1px solid #dddddf;padding-bottom:8px}
+            - *#header .details{border-bottom:1px solid #dddddf;line-height:1.45;padding-top:.25em;padding-bottom:.25em;padding-left:.25em;color:rgba(0,0,0,.6);display:-ms-flexbox;display:-webkit-flex;display:flex;-ms-flex-flow:row wrap;-webkit-flex-flow:row wrap;flex-flow:row wrap}
+            - *#header .details span:first-child{margin-left:-.125em}
+            - *#header .details span.email a{color:rgba(0,0,0,.85)}
+            - *#header .details br{display:none}
+            - *#header .details br+span::before{content:"\00a0\2013\00a0"}
+            - *#header .details br+span.author::before{content:"\00a0\22c5\00a0";color:rgba(0,0,0,.85)}
+            - *#header .details br+span#revremark::before{content:"\00a0|\00a0"}
+            - *#header #revnumber{text-transform:capitalize}
+            - *#header #revnumber::after{content:"\00a0"}
+            - *#content>h1:first-child:not([class]){color:rgba(0,0,0,.85);border-bottom:1px solid #dddddf;padding-bottom:8px;margin-top:0;padding-top:1rem;margin-bottom:1.25rem}
+            - *#toc{border-bottom:1px solid #e7e7e9;padding-bottom:.5em}
+            - *#toc>ul{margin-left:.125em}
+            - *#toc ul.sectlevel0>li>a{font-style:italic}
+            - *#toc ul.sectlevel0 ul.sectlevel1{margin:.5em 0}
+            - *#toc ul{font-family:"Open Sans","DejaVu Sans",sans-serif;list-style-type:none}
+            - *#toc li{line-height:1.3334;margin-top:.3334em}
+            - *#toc a{text-decoration:none}
+            - *#toc a:active{text-decoration:underline}
+            - *#toctitle{color:#7a2518;font-size:1.2em}
+            - *#toc.toc2{margin-top:0!important;background:#f8f8f7;position:fixed;width:15em;left:0;top:0;border-right:1px solid #e7e7e9;border-top-width:0!important;border-bottom-width:0!important;z-index:1000;padding:1.25em 1em;height:100%;overflow:auto}
+            - *#toc.toc2 #toctitle{margin-top:0;margin-bottom:.8rem;font-size:1.2em}
+            - *#toc.toc2>ul{font-size:.9em;margin-bottom:0}
+            - *#toc.toc2 ul ul{margin-left:0;padding-left:1em}
+            - *#toc.toc2 ul.sectlevel0 ul.sectlevel1{padding-left:0;margin-top:.5em;margin-bottom:.5em}
+            - *#toc.toc2{width:20em}
+            - *#toc.toc2 #toctitle{font-size:1.375em}
+            - *#toc.toc2>ul{font-size:.95em}
+            - *#toc.toc2 ul ul{padding-left:1.25em}
+            - *#content #toc{border-style:solid;border-width:1px;border-color:#e0e0dc;margin-bottom:1.25em;padding:1.25em;background:#f8f8f7;-webkit-border-radius:4px;border-radius:4px}
+            - *#content #toc>:first-child{margin-top:0}
+            - *#content #toc>:last-child{margin-bottom:0}
+            - *#footer{max-width:100%;background:rgba(0,0,0,.8);padding:1.25em}
+            - *#footer-text{color:rgba(255,255,255,.8);line-height:1.44}
+            - *#content{margin-bottom:.625em}
+            - *#content h1>a.anchor,h2>a.anchor,h3>a.anchor,#toctitle>a.anchor,.sidebarblock>.content>.title>a.anchor,h4>a.anchor,h5>a.anchor,h6>a.anchor{position:absolute;z-index:1001;width:1.5ex;margin-left:-1.5ex;display:block;text-decoration:none!important;visibility:hidden;text-align:center;font-weight:400}
+            - *#content h1>a.anchor::before,h2>a.anchor::before,h3>a.anchor::before,#toctitle>a.anchor::before,.sidebarblock>.content>.title>a.anchor::before,h4>a.anchor::before,h5>a.anchor::before,h6>a.anchor::before{content:"\00A7";font-size:.85em;display:block;padding-top:.1em}
+            - *#content h1:hover>a.anchor,#content h1>a.anchor:hover,h2:hover>a.anchor,h2>a.anchor:hover,h3:hover>a.anchor,#toctitle:hover>a.anchor,.sidebarblock>.content>.title:hover>a.anchor,h3>a.anchor:hover,#toctitle>a.anchor:hover,.sidebarblock>.content>.title>a.anchor:hover,h4:hover>a.anchor,h4>a.anchor:hover,h5:hover>a.anchor,h5>a.anchor:hover,h6:hover>a.anchor,h6>a.anchor:hover{visibility:visible}
+            - *#content h1>a.link,h2>a.link,h3>a.link,#toctitle>a.link,.sidebarblock>.content>.title>a.link,h4>a.link,h5>a.link,h6>a.link{color:#ba3925;text-decoration:none}
+            - *#content h1>a.link:hover,h2>a.link:hover,h3>a.link:hover,#toctitle>a.link:hover,.sidebarblock>.content>.title>a.link:hover,h4>a.link:hover,h5>a.link:hover,h6>a.link:hover{color:#a53221}
+            - *#footnotes{padding-top:.75em;padding-bottom:.75em;margin-bottom:.625em}
+            - *#footnotes hr{width:20%;min-width:6.25em;margin:-.25em 0 .75em;border-width:1px 0 0}
+            - *#footnotes .footnote{padding:0 .375em 0 .225em;line-height:1.3334;font-size:.875em;margin-left:1.2em;margin-bottom:.2em}
+            - *#footnotes .footnote a:first-of-type{font-weight:bold;text-decoration:none;margin-left:-1.05em}
+            - *#footnotes .footnote:last-of-type{margin-bottom:0}
+            - *#content #footnotes{margin-top:-.625em;margin-bottom:0;padding:.75em 0}
+            - *#toc,.sidebarblock,.exampleblock>.content{background:none!important}
+            - *#toc{border-bottom:1px solid #dddddf!important;padding-bottom:0!important}
+            - *#footer{padding:0 .9375em}
+            - *#footer{background:none}
+            - *#footer-text{color:rgba(0,0,0,.6);font-size:.9em}}
+    
+    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\_src\doc\git-doc_converted\technical\.index-format.html.dir\cat..index-format.html.dir\dir..index-format.html.dir.md">.index-format.html.dir</a>
+        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\_src\doc\git-doc_converted\technical\.index-format.html.dir\index-format.html.md">index-format.html.md</a>
+            - *#header,#content,#footnotes,#footer{width:100%;margin-left:auto;margin-right:auto;margin-top:0;margin-bottom:0;max-width:62.5em;*zoom:1;position:relative;padding-left:.9375em;padding-right:.9375em}
+            - *#header::before,#header::after,#content::before,#content::after,#footnotes::before,#footnotes::after,#footer::before,#footer::after{content:" ";display:table}
+            - *#header::after,#content::after,#footnotes::after,#footer::after{clear:both}
+            - *#content{margin-top:1.25em}
+            - *#content::before{content:none}
+            - *#header>h1:first-child{color:rgba(0,0,0,.85);margin-top:2.25rem;margin-bottom:0}
+            - *#header>h1:first-child+#toc{margin-top:8px;border-top:1px solid #dddddf}
+            - *#header>h1:only-child,body.toc2 #header>h1:nth-last-child(2){border-bottom:1px solid #dddddf;padding-bottom:8px}
+            - *#header .details{border-bottom:1px solid #dddddf;line-height:1.45;padding-top:.25em;padding-bottom:.25em;padding-left:.25em;color:rgba(0,0,0,.6);display:-ms-flexbox;display:-webkit-flex;display:flex;-ms-flex-flow:row wrap;-webkit-flex-flow:row wrap;flex-flow:row wrap}
+            - *#header .details span:first-child{margin-left:-.125em}
+            - *#header .details span.email a{color:rgba(0,0,0,.85)}
+            - *#header .details br{display:none}
+            - *#header .details br+span::before{content:"\00a0\2013\00a0"}
+            - *#header .details br+span.author::before{content:"\00a0\22c5\00a0";color:rgba(0,0,0,.85)}
+            - *#header .details br+span#revremark::before{content:"\00a0|\00a0"}
+            - *#header #revnumber{text-transform:capitalize}
+            - *#header #revnumber::after{content:"\00a0"}
+            - *#content>h1:first-child:not([class]){color:rgba(0,0,0,.85);border-bottom:1px solid #dddddf;padding-bottom:8px;margin-top:0;padding-top:1rem;margin-bottom:1.25rem}
+            - *#toc{border-bottom:1px solid #e7e7e9;padding-bottom:.5em}
+            - *#toc>ul{margin-left:.125em}
+            - *#toc ul.sectlevel0>li>a{font-style:italic}
+            - *#toc ul.sectlevel0 ul.sectlevel1{margin:.5em 0}
+            - *#toc ul{font-family:"Open Sans","DejaVu Sans",sans-serif;list-style-type:none}
+            - *#toc li{line-height:1.3334;margin-top:.3334em}
+            - *#toc a{text-decoration:none}
+            - *#toc a:active{text-decoration:underline}
+            - *#toctitle{color:#7a2518;font-size:1.2em}
+            - *#toc.toc2{margin-top:0!important;background:#f8f8f7;position:fixed;width:15em;left:0;top:0;border-right:1px solid #e7e7e9;border-top-width:0!important;border-bottom-width:0!important;z-index:1000;padding:1.25em 1em;height:100%;overflow:auto}
+            - *#toc.toc2 #toctitle{margin-top:0;margin-bottom:.8rem;font-size:1.2em}
+            - *#toc.toc2>ul{font-size:.9em;margin-bottom:0}
+            - *#toc.toc2 ul ul{margin-left:0;padding-left:1em}
+            - *#toc.toc2 ul.sectlevel0 ul.sectlevel1{padding-left:0;margin-top:.5em;margin-bottom:.5em}
+            - *#toc.toc2{width:20em}
+            - *#toc.toc2 #toctitle{font-size:1.375em}
+            - *#toc.toc2>ul{font-size:.95em}
+            - *#toc.toc2 ul ul{padding-left:1.25em}
+            - *#content #toc{border-style:solid;border-width:1px;border-color:#e0e0dc;margin-bottom:1.25em;padding:1.25em;background:#f8f8f7;-webkit-border-radius:4px;border-radius:4px}
+            - *#content #toc>:first-child{margin-top:0}
+            - *#content #toc>:last-child{margin-bottom:0}
+            - *#footer{max-width:100%;background:rgba(0,0,0,.8);padding:1.25em}
+            - *#footer-text{color:rgba(255,255,255,.8);line-height:1.44}
+            - *#content{margin-bottom:.625em}
+            - *#content h1>a.anchor,h2>a.anchor,h3>a.anchor,#toctitle>a.anchor,.sidebarblock>.content>.title>a.anchor,h4>a.anchor,h5>a.anchor,h6>a.anchor{position:absolute;z-index:1001;width:1.5ex;margin-left:-1.5ex;display:block;text-decoration:none!important;visibility:hidden;text-align:center;font-weight:400}
+            - *#content h1>a.anchor::before,h2>a.anchor::before,h3>a.anchor::before,#toctitle>a.anchor::before,.sidebarblock>.content>.title>a.anchor::before,h4>a.anchor::before,h5>a.anchor::before,h6>a.anchor::before{content:"\00A7";font-size:.85em;display:block;padding-top:.1em}
+            - *#content h1:hover>a.anchor,#content h1>a.anchor:hover,h2:hover>a.anchor,h2>a.anchor:hover,h3:hover>a.anchor,#toctitle:hover>a.anchor,.sidebarblock>.content>.title:hover>a.anchor,h3>a.anchor:hover,#toctitle>a.anchor:hover,.sidebarblock>.content>.title>a.anchor:hover,h4:hover>a.anchor,h4>a.anchor:hover,h5:hover>a.anchor,h5>a.anchor:hover,h6:hover>a.anchor,h6>a.anchor:hover{visibility:visible}
+            - *#content h1>a.link,h2>a.link,h3>a.link,#toctitle>a.link,.sidebarblock>.content>.title>a.link,h4>a.link,h5>a.link,h6>a.link{color:#ba3925;text-decoration:none}
+            - *#content h1>a.link:hover,h2>a.link:hover,h3>a.link:hover,#toctitle>a.link:hover,.sidebarblock>.content>.title>a.link:hover,h4>a.link:hover,h5>a.link:hover,h6>a.link:hover{color:#a53221}
+            - *#footnotes{padding-top:.75em;padding-bottom:.75em;margin-bottom:.625em}
+            - *#footnotes hr{width:20%;min-width:6.25em;margin:-.25em 0 .75em;border-width:1px 0 0}
+            - *#footnotes .footnote{padding:0 .375em 0 .225em;line-height:1.3334;font-size:.875em;margin-left:1.2em;margin-bottom:.2em}
+            - *#footnotes .footnote a:first-of-type{font-weight:bold;text-decoration:none;margin-left:-1.05em}
+            - *#footnotes .footnote:last-of-type{margin-bottom:0}
+            - *#content #footnotes{margin-top:-.625em;margin-bottom:0;padding:.75em 0}
+            - *#toc,.sidebarblock,.exampleblock>.content{background:none!important}
+            - *#toc{border-bottom:1px solid #dddddf!important;padding-bottom:0!important}
+            - *#footer{padding:0 .9375em}
+            - *#footer{background:none}
+            - *#footer-text{color:rgba(0,0,0,.6);font-size:.9em}}
+    
+    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\_src\doc\git-doc_converted\technical\.long-running-process-protocol.html.dir\cat..long-running-process-protocol.html.dir\dir..long-running-process-protocol.html.dir.md">.long-running-process-protocol.html.dir</a>
+        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\_src\doc\git-doc_converted\technical\.long-running-process-protocol.html.dir\long-running-process-protocol.html.md">long-running-process-protocol.html.md</a>
+            - *#header,#content,#footnotes,#footer{width:100%;margin-left:auto;margin-right:auto;margin-top:0;margin-bottom:0;max-width:62.5em;*zoom:1;position:relative;padding-left:.9375em;padding-right:.9375em}
+            - *#header::before,#header::after,#content::before,#content::after,#footnotes::before,#footnotes::after,#footer::before,#footer::after{content:" ";display:table}
+            - *#header::after,#content::after,#footnotes::after,#footer::after{clear:both}
+            - *#content{margin-top:1.25em}
+            - *#content::before{content:none}
+            - *#header>h1:first-child{color:rgba(0,0,0,.85);margin-top:2.25rem;margin-bottom:0}
+            - *#header>h1:first-child+#toc{margin-top:8px;border-top:1px solid #dddddf}
+            - *#header>h1:only-child,body.toc2 #header>h1:nth-last-child(2){border-bottom:1px solid #dddddf;padding-bottom:8px}
+            - *#header .details{border-bottom:1px solid #dddddf;line-height:1.45;padding-top:.25em;padding-bottom:.25em;padding-left:.25em;color:rgba(0,0,0,.6);display:-ms-flexbox;display:-webkit-flex;display:flex;-ms-flex-flow:row wrap;-webkit-flex-flow:row wrap;flex-flow:row wrap}
+            - *#header .details span:first-child{margin-left:-.125em}
+            - *#header .details span.email a{color:rgba(0,0,0,.85)}
+            - *#header .details br{display:none}
+            - *#header .details br+span::before{content:"\00a0\2013\00a0"}
+            - *#header .details br+span.author::before{content:"\00a0\22c5\00a0";color:rgba(0,0,0,.85)}
+            - *#header .details br+span#revremark::before{content:"\00a0|\00a0"}
+            - *#header #revnumber{text-transform:capitalize}
+            - *#header #revnumber::after{content:"\00a0"}
+            - *#content>h1:first-child:not([class]){color:rgba(0,0,0,.85);border-bottom:1px solid #dddddf;padding-bottom:8px;margin-top:0;padding-top:1rem;margin-bottom:1.25rem}
+            - *#toc{border-bottom:1px solid #e7e7e9;padding-bottom:.5em}
+            - *#toc>ul{margin-left:.125em}
+            - *#toc ul.sectlevel0>li>a{font-style:italic}
+            - *#toc ul.sectlevel0 ul.sectlevel1{margin:.5em 0}
+            - *#toc ul{font-family:"Open Sans","DejaVu Sans",sans-serif;list-style-type:none}
+            - *#toc li{line-height:1.3334;margin-top:.3334em}
+            - *#toc a{text-decoration:none}
+            - *#toc a:active{text-decoration:underline}
+            - *#toctitle{color:#7a2518;font-size:1.2em}
+            - *#toc.toc2{margin-top:0!important;background:#f8f8f7;position:fixed;width:15em;left:0;top:0;border-right:1px solid #e7e7e9;border-top-width:0!important;border-bottom-width:0!important;z-index:1000;padding:1.25em 1em;height:100%;overflow:auto}
+            - *#toc.toc2 #toctitle{margin-top:0;margin-bottom:.8rem;font-size:1.2em}
+            - *#toc.toc2>ul{font-size:.9em;margin-bottom:0}
+            - *#toc.toc2 ul ul{margin-left:0;padding-left:1em}
+            - *#toc.toc2 ul.sectlevel0 ul.sectlevel1{padding-left:0;margin-top:.5em;margin-bottom:.5em}
+            - *#toc.toc2{width:20em}
+            - *#toc.toc2 #toctitle{font-size:1.375em}
+            - *#toc.toc2>ul{font-size:.95em}
+            - *#toc.toc2 ul ul{padding-left:1.25em}
+            - *#content #toc{border-style:solid;border-width:1px;border-color:#e0e0dc;margin-bottom:1.25em;padding:1.25em;background:#f8f8f7;-webkit-border-radius:4px;border-radius:4px}
+            - *#content #toc>:first-child{margin-top:0}
+            - *#content #toc>:last-child{margin-bottom:0}
+            - *#footer{max-width:100%;background:rgba(0,0,0,.8);padding:1.25em}
+            - *#footer-text{color:rgba(255,255,255,.8);line-height:1.44}
+            - *#content{margin-bottom:.625em}
+            - *#content h1>a.anchor,h2>a.anchor,h3>a.anchor,#toctitle>a.anchor,.sidebarblock>.content>.title>a.anchor,h4>a.anchor,h5>a.anchor,h6>a.anchor{position:absolute;z-index:1001;width:1.5ex;margin-left:-1.5ex;display:block;text-decoration:none!important;visibility:hidden;text-align:center;font-weight:400}
+            - *#content h1>a.anchor::before,h2>a.anchor::before,h3>a.anchor::before,#toctitle>a.anchor::before,.sidebarblock>.content>.title>a.anchor::before,h4>a.anchor::before,h5>a.anchor::before,h6>a.anchor::before{content:"\00A7";font-size:.85em;display:block;padding-top:.1em}
+            - *#content h1:hover>a.anchor,#content h1>a.anchor:hover,h2:hover>a.anchor,h2>a.anchor:hover,h3:hover>a.anchor,#toctitle:hover>a.anchor,.sidebarblock>.content>.title:hover>a.anchor,h3>a.anchor:hover,#toctitle>a.anchor:hover,.sidebarblock>.content>.title>a.anchor:hover,h4:hover>a.anchor,h4>a.anchor:hover,h5:hover>a.anchor,h5>a.anchor:hover,h6:hover>a.anchor,h6>a.anchor:hover{visibility:visible}
+            - *#content h1>a.link,h2>a.link,h3>a.link,#toctitle>a.link,.sidebarblock>.content>.title>a.link,h4>a.link,h5>a.link,h6>a.link{color:#ba3925;text-decoration:none}
+            - *#content h1>a.link:hover,h2>a.link:hover,h3>a.link:hover,#toctitle>a.link:hover,.sidebarblock>.content>.title>a.link:hover,h4>a.link:hover,h5>a.link:hover,h6>a.link:hover{color:#a53221}
+            - *#footnotes{padding-top:.75em;padding-bottom:.75em;margin-bottom:.625em}
+            - *#footnotes hr{width:20%;min-width:6.25em;margin:-.25em 0 .75em;border-width:1px 0 0}
+            - *#footnotes .footnote{padding:0 .375em 0 .225em;line-height:1.3334;font-size:.875em;margin-left:1.2em;margin-bottom:.2em}
+            - *#footnotes .footnote a:first-of-type{font-weight:bold;text-decoration:none;margin-left:-1.05em}
+            - *#footnotes .footnote:last-of-type{margin-bottom:0}
+            - *#content #footnotes{margin-top:-.625em;margin-bottom:0;padding:.75em 0}
+            - *#toc,.sidebarblock,.exampleblock>.content{background:none!important}
+            - *#toc{border-bottom:1px solid #dddddf!important;padding-bottom:0!important}
+            - *#footer{padding:0 .9375em}
+            - *#footer{background:none}
+            - *#footer-text{color:rgba(0,0,0,.6);font-size:.9em}}
+    
+    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\_src\doc\git-doc_converted\technical\.multi-pack-index.html.dir\cat..multi-pack-index.html.dir\dir..multi-pack-index.html.dir.md">.multi-pack-index.html.dir</a>
+        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\_src\doc\git-doc_converted\technical\.multi-pack-index.html.dir\multi-pack-index.html.md">multi-pack-index.html.md</a>
+            - *#header,#content,#footnotes,#footer{width:100%;margin-left:auto;margin-right:auto;margin-top:0;margin-bottom:0;max-width:62.5em;*zoom:1;position:relative;padding-left:.9375em;padding-right:.9375em}
+            - *#header::before,#header::after,#content::before,#content::after,#footnotes::before,#footnotes::after,#footer::before,#footer::after{content:" ";display:table}
+            - *#header::after,#content::after,#footnotes::after,#footer::after{clear:both}
+            - *#content{margin-top:1.25em}
+            - *#content::before{content:none}
+            - *#header>h1:first-child{color:rgba(0,0,0,.85);margin-top:2.25rem;margin-bottom:0}
+            - *#header>h1:first-child+#toc{margin-top:8px;border-top:1px solid #dddddf}
+            - *#header>h1:only-child,body.toc2 #header>h1:nth-last-child(2){border-bottom:1px solid #dddddf;padding-bottom:8px}
+            - *#header .details{border-bottom:1px solid #dddddf;line-height:1.45;padding-top:.25em;padding-bottom:.25em;padding-left:.25em;color:rgba(0,0,0,.6);display:-ms-flexbox;display:-webkit-flex;display:flex;-ms-flex-flow:row wrap;-webkit-flex-flow:row wrap;flex-flow:row wrap}
+            - *#header .details span:first-child{margin-left:-.125em}
+            - *#header .details span.email a{color:rgba(0,0,0,.85)}
+            - *#header .details br{display:none}
+            - *#header .details br+span::before{content:"\00a0\2013\00a0"}
+            - *#header .details br+span.author::before{content:"\00a0\22c5\00a0";color:rgba(0,0,0,.85)}
+            - *#header .details br+span#revremark::before{content:"\00a0|\00a0"}
+            - *#header #revnumber{text-transform:capitalize}
+            - *#header #revnumber::after{content:"\00a0"}
+            - *#content>h1:first-child:not([class]){color:rgba(0,0,0,.85);border-bottom:1px solid #dddddf;padding-bottom:8px;margin-top:0;padding-top:1rem;margin-bottom:1.25rem}
+            - *#toc{border-bottom:1px solid #e7e7e9;padding-bottom:.5em}
+            - *#toc>ul{margin-left:.125em}
+            - *#toc ul.sectlevel0>li>a{font-style:italic}
+            - *#toc ul.sectlevel0 ul.sectlevel1{margin:.5em 0}
+            - *#toc ul{font-family:"Open Sans","DejaVu Sans",sans-serif;list-style-type:none}
+            - *#toc li{line-height:1.3334;margin-top:.3334em}
+            - *#toc a{text-decoration:none}
+            - *#toc a:active{text-decoration:underline}
+            - *#toctitle{color:#7a2518;font-size:1.2em}
+            - *#toc.toc2{margin-top:0!important;background:#f8f8f7;position:fixed;width:15em;left:0;top:0;border-right:1px solid #e7e7e9;border-top-width:0!important;border-bottom-width:0!important;z-index:1000;padding:1.25em 1em;height:100%;overflow:auto}
+            - *#toc.toc2 #toctitle{margin-top:0;margin-bottom:.8rem;font-size:1.2em}
+            - *#toc.toc2>ul{font-size:.9em;margin-bottom:0}
+            - *#toc.toc2 ul ul{margin-left:0;padding-left:1em}
+            - *#toc.toc2 ul.sectlevel0 ul.sectlevel1{padding-left:0;margin-top:.5em;margin-bottom:.5em}
+            - *#toc.toc2{width:20em}
+            - *#toc.toc2 #toctitle{font-size:1.375em}
+            - *#toc.toc2>ul{font-size:.95em}
+            - *#toc.toc2 ul ul{padding-left:1.25em}
+            - *#content #toc{border-style:solid;border-width:1px;border-color:#e0e0dc;margin-bottom:1.25em;padding:1.25em;background:#f8f8f7;-webkit-border-radius:4px;border-radius:4px}
+            - *#content #toc>:first-child{margin-top:0}
+            - *#content #toc>:last-child{margin-bottom:0}
+            - *#footer{max-width:100%;background:rgba(0,0,0,.8);padding:1.25em}
+            - *#footer-text{color:rgba(255,255,255,.8);line-height:1.44}
+            - *#content{margin-bottom:.625em}
+            - *#content h1>a.anchor,h2>a.anchor,h3>a.anchor,#toctitle>a.anchor,.sidebarblock>.content>.title>a.anchor,h4>a.anchor,h5>a.anchor,h6>a.anchor{position:absolute;z-index:1001;width:1.5ex;margin-left:-1.5ex;display:block;text-decoration:none!important;visibility:hidden;text-align:center;font-weight:400}
+            - *#content h1>a.anchor::before,h2>a.anchor::before,h3>a.anchor::before,#toctitle>a.anchor::before,.sidebarblock>.content>.title>a.anchor::before,h4>a.anchor::before,h5>a.anchor::before,h6>a.anchor::before{content:"\00A7";font-size:.85em;display:block;padding-top:.1em}
+            - *#content h1:hover>a.anchor,#content h1>a.anchor:hover,h2:hover>a.anchor,h2>a.anchor:hover,h3:hover>a.anchor,#toctitle:hover>a.anchor,.sidebarblock>.content>.title:hover>a.anchor,h3>a.anchor:hover,#toctitle>a.anchor:hover,.sidebarblock>.content>.title>a.anchor:hover,h4:hover>a.anchor,h4>a.anchor:hover,h5:hover>a.anchor,h5>a.anchor:hover,h6:hover>a.anchor,h6>a.anchor:hover{visibility:visible}
+            - *#content h1>a.link,h2>a.link,h3>a.link,#toctitle>a.link,.sidebarblock>.content>.title>a.link,h4>a.link,h5>a.link,h6>a.link{color:#ba3925;text-decoration:none}
+            - *#content h1>a.link:hover,h2>a.link:hover,h3>a.link:hover,#toctitle>a.link:hover,.sidebarblock>.content>.title>a.link:hover,h4>a.link:hover,h5>a.link:hover,h6>a.link:hover{color:#a53221}
+            - *#footnotes{padding-top:.75em;padding-bottom:.75em;margin-bottom:.625em}
+            - *#footnotes hr{width:20%;min-width:6.25em;margin:-.25em 0 .75em;border-width:1px 0 0}
+            - *#footnotes .footnote{padding:0 .375em 0 .225em;line-height:1.3334;font-size:.875em;margin-left:1.2em;margin-bottom:.2em}
+            - *#footnotes .footnote a:first-of-type{font-weight:bold;text-decoration:none;margin-left:-1.05em}
+            - *#footnotes .footnote:last-of-type{margin-bottom:0}
+            - *#content #footnotes{margin-top:-.625em;margin-bottom:0;padding:.75em 0}
+            - *#toc,.sidebarblock,.exampleblock>.content{background:none!important}
+            - *#toc{border-bottom:1px solid #dddddf!important;padding-bottom:0!important}
+            - *#footer{padding:0 .9375em}
+            - *#footer{background:none}
+            - *#footer-text{color:rgba(0,0,0,.6);font-size:.9em}}
+    
+    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\_src\doc\git-doc_converted\technical\.pack-format.html.dir\cat..pack-format.html.dir\dir..pack-format.html.dir.md">.pack-format.html.dir</a>
+        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\_src\doc\git-doc_converted\technical\.pack-format.html.dir\pack-format.html.md">pack-format.html.md</a>
+            - *#header,#content,#footnotes,#footer{width:100%;margin-left:auto;margin-right:auto;margin-top:0;margin-bottom:0;max-width:62.5em;*zoom:1;position:relative;padding-left:.9375em;padding-right:.9375em}
+            - *#header::before,#header::after,#content::before,#content::after,#footnotes::before,#footnotes::after,#footer::before,#footer::after{content:" ";display:table}
+            - *#header::after,#content::after,#footnotes::after,#footer::after{clear:both}
+            - *#content{margin-top:1.25em}
+            - *#content::before{content:none}
+            - *#header>h1:first-child{color:rgba(0,0,0,.85);margin-top:2.25rem;margin-bottom:0}
+            - *#header>h1:first-child+#toc{margin-top:8px;border-top:1px solid #dddddf}
+            - *#header>h1:only-child,body.toc2 #header>h1:nth-last-child(2){border-bottom:1px solid #dddddf;padding-bottom:8px}
+            - *#header .details{border-bottom:1px solid #dddddf;line-height:1.45;padding-top:.25em;padding-bottom:.25em;padding-left:.25em;color:rgba(0,0,0,.6);display:-ms-flexbox;display:-webkit-flex;display:flex;-ms-flex-flow:row wrap;-webkit-flex-flow:row wrap;flex-flow:row wrap}
+            - *#header .details span:first-child{margin-left:-.125em}
+            - *#header .details span.email a{color:rgba(0,0,0,.85)}
+            - *#header .details br{display:none}
+            - *#header .details br+span::before{content:"\00a0\2013\00a0"}
+            - *#header .details br+span.author::before{content:"\00a0\22c5\00a0";color:rgba(0,0,0,.85)}
+            - *#header .details br+span#revremark::before{content:"\00a0|\00a0"}
+            - *#header #revnumber{text-transform:capitalize}
+            - *#header #revnumber::after{content:"\00a0"}
+            - *#content>h1:first-child:not([class]){color:rgba(0,0,0,.85);border-bottom:1px solid #dddddf;padding-bottom:8px;margin-top:0;padding-top:1rem;margin-bottom:1.25rem}
+            - *#toc{border-bottom:1px solid #e7e7e9;padding-bottom:.5em}
+            - *#toc>ul{margin-left:.125em}
+            - *#toc ul.sectlevel0>li>a{font-style:italic}
+            - *#toc ul.sectlevel0 ul.sectlevel1{margin:.5em 0}
+            - *#toc ul{font-family:"Open Sans","DejaVu Sans",sans-serif;list-style-type:none}
+            - *#toc li{line-height:1.3334;margin-top:.3334em}
+            - *#toc a{text-decoration:none}
+            - *#toc a:active{text-decoration:underline}
+            - *#toctitle{color:#7a2518;font-size:1.2em}
+            - *#toc.toc2{margin-top:0!important;background:#f8f8f7;position:fixed;width:15em;left:0;top:0;border-right:1px solid #e7e7e9;border-top-width:0!important;border-bottom-width:0!important;z-index:1000;padding:1.25em 1em;height:100%;overflow:auto}
+            - *#toc.toc2 #toctitle{margin-top:0;margin-bottom:.8rem;font-size:1.2em}
+            - *#toc.toc2>ul{font-size:.9em;margin-bottom:0}
+            - *#toc.toc2 ul ul{margin-left:0;padding-left:1em}
+            - *#toc.toc2 ul.sectlevel0 ul.sectlevel1{padding-left:0;margin-top:.5em;margin-bottom:.5em}
+            - *#toc.toc2{width:20em}
+            - *#toc.toc2 #toctitle{font-size:1.375em}
+            - *#toc.toc2>ul{font-size:.95em}
+            - *#toc.toc2 ul ul{padding-left:1.25em}
+            - *#content #toc{border-style:solid;border-width:1px;border-color:#e0e0dc;margin-bottom:1.25em;padding:1.25em;background:#f8f8f7;-webkit-border-radius:4px;border-radius:4px}
+            - *#content #toc>:first-child{margin-top:0}
+            - *#content #toc>:last-child{margin-bottom:0}
+            - *#footer{max-width:100%;background:rgba(0,0,0,.8);padding:1.25em}
+            - *#footer-text{color:rgba(255,255,255,.8);line-height:1.44}
+            - *#content{margin-bottom:.625em}
+            - *#content h1>a.anchor,h2>a.anchor,h3>a.anchor,#toctitle>a.anchor,.sidebarblock>.content>.title>a.anchor,h4>a.anchor,h5>a.anchor,h6>a.anchor{position:absolute;z-index:1001;width:1.5ex;margin-left:-1.5ex;display:block;text-decoration:none!important;visibility:hidden;text-align:center;font-weight:400}
+            - *#content h1>a.anchor::before,h2>a.anchor::before,h3>a.anchor::before,#toctitle>a.anchor::before,.sidebarblock>.content>.title>a.anchor::before,h4>a.anchor::before,h5>a.anchor::before,h6>a.anchor::before{content:"\00A7";font-size:.85em;display:block;padding-top:.1em}
+            - *#content h1:hover>a.anchor,#content h1>a.anchor:hover,h2:hover>a.anchor,h2>a.anchor:hover,h3:hover>a.anchor,#toctitle:hover>a.anchor,.sidebarblock>.content>.title:hover>a.anchor,h3>a.anchor:hover,#toctitle>a.anchor:hover,.sidebarblock>.content>.title>a.anchor:hover,h4:hover>a.anchor,h4>a.anchor:hover,h5:hover>a.anchor,h5>a.anchor:hover,h6:hover>a.anchor,h6>a.anchor:hover{visibility:visible}
+            - *#content h1>a.link,h2>a.link,h3>a.link,#toctitle>a.link,.sidebarblock>.content>.title>a.link,h4>a.link,h5>a.link,h6>a.link{color:#ba3925;text-decoration:none}
+            - *#content h1>a.link:hover,h2>a.link:hover,h3>a.link:hover,#toctitle>a.link:hover,.sidebarblock>.content>.title>a.link:hover,h4>a.link:hover,h5>a.link:hover,h6>a.link:hover{color:#a53221}
+            - *#footnotes{padding-top:.75em;padding-bottom:.75em;margin-bottom:.625em}
+            - *#footnotes hr{width:20%;min-width:6.25em;margin:-.25em 0 .75em;border-width:1px 0 0}
+            - *#footnotes .footnote{padding:0 .375em 0 .225em;line-height:1.3334;font-size:.875em;margin-left:1.2em;margin-bottom:.2em}
+            - *#footnotes .footnote a:first-of-type{font-weight:bold;text-decoration:none;margin-left:-1.05em}
+            - *#footnotes .footnote:last-of-type{margin-bottom:0}
+            - *#content #footnotes{margin-top:-.625em;margin-bottom:0;padding:.75em 0}
+            - *#toc,.sidebarblock,.exampleblock>.content{background:none!important}
+            - *#toc{border-bottom:1px solid #dddddf!important;padding-bottom:0!important}
+            - *#footer{padding:0 .9375em}
+            - *#footer{background:none}
+            - *#footer-text{color:rgba(0,0,0,.6);font-size:.9em}}
+    
+    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\_src\doc\git-doc_converted\technical\.pack-heuristics.html.dir\cat..pack-heuristics.html.dir\dir..pack-heuristics.html.dir.md">.pack-heuristics.html.dir</a>
+        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\_src\doc\git-doc_converted\technical\.pack-heuristics.html.dir\pack-heuristics.html.md">pack-heuristics.html.md</a>
+            - *#header,#content,#footnotes,#footer{width:100%;margin-left:auto;margin-right:auto;margin-top:0;margin-bottom:0;max-width:62.5em;*zoom:1;position:relative;padding-left:.9375em;padding-right:.9375em}
+            - *#header::before,#header::after,#content::before,#content::after,#footnotes::before,#footnotes::after,#footer::before,#footer::after{content:" ";display:table}
+            - *#header::after,#content::after,#footnotes::after,#footer::after{clear:both}
+            - *#content{margin-top:1.25em}
+            - *#content::before{content:none}
+            - *#header>h1:first-child{color:rgba(0,0,0,.85);margin-top:2.25rem;margin-bottom:0}
+            - *#header>h1:first-child+#toc{margin-top:8px;border-top:1px solid #dddddf}
+            - *#header>h1:only-child,body.toc2 #header>h1:nth-last-child(2){border-bottom:1px solid #dddddf;padding-bottom:8px}
+            - *#header .details{border-bottom:1px solid #dddddf;line-height:1.45;padding-top:.25em;padding-bottom:.25em;padding-left:.25em;color:rgba(0,0,0,.6);display:-ms-flexbox;display:-webkit-flex;display:flex;-ms-flex-flow:row wrap;-webkit-flex-flow:row wrap;flex-flow:row wrap}
+            - *#header .details span:first-child{margin-left:-.125em}
+            - *#header .details span.email a{color:rgba(0,0,0,.85)}
+            - *#header .details br{display:none}
+            - *#header .details br+span::before{content:"\00a0\2013\00a0"}
+            - *#header .details br+span.author::before{content:"\00a0\22c5\00a0";color:rgba(0,0,0,.85)}
+            - *#header .details br+span#revremark::before{content:"\00a0|\00a0"}
+            - *#header #revnumber{text-transform:capitalize}
+            - *#header #revnumber::after{content:"\00a0"}
+            - *#content>h1:first-child:not([class]){color:rgba(0,0,0,.85);border-bottom:1px solid #dddddf;padding-bottom:8px;margin-top:0;padding-top:1rem;margin-bottom:1.25rem}
+            - *#toc{border-bottom:1px solid #e7e7e9;padding-bottom:.5em}
+            - *#toc>ul{margin-left:.125em}
+            - *#toc ul.sectlevel0>li>a{font-style:italic}
+            - *#toc ul.sectlevel0 ul.sectlevel1{margin:.5em 0}
+            - *#toc ul{font-family:"Open Sans","DejaVu Sans",sans-serif;list-style-type:none}
+            - *#toc li{line-height:1.3334;margin-top:.3334em}
+            - *#toc a{text-decoration:none}
+            - *#toc a:active{text-decoration:underline}
+            - *#toctitle{color:#7a2518;font-size:1.2em}
+            - *#toc.toc2{margin-top:0!important;background:#f8f8f7;position:fixed;width:15em;left:0;top:0;border-right:1px solid #e7e7e9;border-top-width:0!important;border-bottom-width:0!important;z-index:1000;padding:1.25em 1em;height:100%;overflow:auto}
+            - *#toc.toc2 #toctitle{margin-top:0;margin-bottom:.8rem;font-size:1.2em}
+            - *#toc.toc2>ul{font-size:.9em;margin-bottom:0}
+            - *#toc.toc2 ul ul{margin-left:0;padding-left:1em}
+            - *#toc.toc2 ul.sectlevel0 ul.sectlevel1{padding-left:0;margin-top:.5em;margin-bottom:.5em}
+            - *#toc.toc2{width:20em}
+            - *#toc.toc2 #toctitle{font-size:1.375em}
+            - *#toc.toc2>ul{font-size:.95em}
+            - *#toc.toc2 ul ul{padding-left:1.25em}
+            - *#content #toc{border-style:solid;border-width:1px;border-color:#e0e0dc;margin-bottom:1.25em;padding:1.25em;background:#f8f8f7;-webkit-border-radius:4px;border-radius:4px}
+            - *#content #toc>:first-child{margin-top:0}
+            - *#content #toc>:last-child{margin-bottom:0}
+            - *#footer{max-width:100%;background:rgba(0,0,0,.8);padding:1.25em}
+            - *#footer-text{color:rgba(255,255,255,.8);line-height:1.44}
+            - *#content{margin-bottom:.625em}
+            - *#content h1>a.anchor,h2>a.anchor,h3>a.anchor,#toctitle>a.anchor,.sidebarblock>.content>.title>a.anchor,h4>a.anchor,h5>a.anchor,h6>a.anchor{position:absolute;z-index:1001;width:1.5ex;margin-left:-1.5ex;display:block;text-decoration:none!important;visibility:hidden;text-align:center;font-weight:400}
+            - *#content h1>a.anchor::before,h2>a.anchor::before,h3>a.anchor::before,#toctitle>a.anchor::before,.sidebarblock>.content>.title>a.anchor::before,h4>a.anchor::before,h5>a.anchor::before,h6>a.anchor::before{content:"\00A7";font-size:.85em;display:block;padding-top:.1em}
+            - *#content h1:hover>a.anchor,#content h1>a.anchor:hover,h2:hover>a.anchor,h2>a.anchor:hover,h3:hover>a.anchor,#toctitle:hover>a.anchor,.sidebarblock>.content>.title:hover>a.anchor,h3>a.anchor:hover,#toctitle>a.anchor:hover,.sidebarblock>.content>.title>a.anchor:hover,h4:hover>a.anchor,h4>a.anchor:hover,h5:hover>a.anchor,h5>a.anchor:hover,h6:hover>a.anchor,h6>a.anchor:hover{visibility:visible}
+            - *#content h1>a.link,h2>a.link,h3>a.link,#toctitle>a.link,.sidebarblock>.content>.title>a.link,h4>a.link,h5>a.link,h6>a.link{color:#ba3925;text-decoration:none}
+            - *#content h1>a.link:hover,h2>a.link:hover,h3>a.link:hover,#toctitle>a.link:hover,.sidebarblock>.content>.title>a.link:hover,h4>a.link:hover,h5>a.link:hover,h6>a.link:hover{color:#a53221}
+            - *#footnotes{padding-top:.75em;padding-bottom:.75em;margin-bottom:.625em}
+            - *#footnotes hr{width:20%;min-width:6.25em;margin:-.25em 0 .75em;border-width:1px 0 0}
+            - *#footnotes .footnote{padding:0 .375em 0 .225em;line-height:1.3334;font-size:.875em;margin-left:1.2em;margin-bottom:.2em}
+            - *#footnotes .footnote a:first-of-type{font-weight:bold;text-decoration:none;margin-left:-1.05em}
+            - *#footnotes .footnote:last-of-type{margin-bottom:0}
+            - *#content #footnotes{margin-top:-.625em;margin-bottom:0;padding:.75em 0}
+            - *#toc,.sidebarblock,.exampleblock>.content{background:none!important}
+            - *#toc{border-bottom:1px solid #dddddf!important;padding-bottom:0!important}
+            - *#footer{padding:0 .9375em}
+            - *#footer{background:none}
+            - *#footer-text{color:rgba(0,0,0,.6);font-size:.9em}}
+    
+    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\_src\doc\git-doc_converted\technical\.pack-protocol.html.dir\cat..pack-protocol.html.dir\dir..pack-protocol.html.dir.md">.pack-protocol.html.dir</a>
+        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\_src\doc\git-doc_converted\technical\.pack-protocol.html.dir\pack-protocol.html.md">pack-protocol.html.md</a>
+            - *#header,#content,#footnotes,#footer{width:100%;margin-left:auto;margin-right:auto;margin-top:0;margin-bottom:0;max-width:62.5em;*zoom:1;position:relative;padding-left:.9375em;padding-right:.9375em}
+            - *#header::before,#header::after,#content::before,#content::after,#footnotes::before,#footnotes::after,#footer::before,#footer::after{content:" ";display:table}
+            - *#header::after,#content::after,#footnotes::after,#footer::after{clear:both}
+            - *#content{margin-top:1.25em}
+            - *#content::before{content:none}
+            - *#header>h1:first-child{color:rgba(0,0,0,.85);margin-top:2.25rem;margin-bottom:0}
+            - *#header>h1:first-child+#toc{margin-top:8px;border-top:1px solid #dddddf}
+            - *#header>h1:only-child,body.toc2 #header>h1:nth-last-child(2){border-bottom:1px solid #dddddf;padding-bottom:8px}
+            - *#header .details{border-bottom:1px solid #dddddf;line-height:1.45;padding-top:.25em;padding-bottom:.25em;padding-left:.25em;color:rgba(0,0,0,.6);display:-ms-flexbox;display:-webkit-flex;display:flex;-ms-flex-flow:row wrap;-webkit-flex-flow:row wrap;flex-flow:row wrap}
+            - *#header .details span:first-child{margin-left:-.125em}
+            - *#header .details span.email a{color:rgba(0,0,0,.85)}
+            - *#header .details br{display:none}
+            - *#header .details br+span::before{content:"\00a0\2013\00a0"}
+            - *#header .details br+span.author::before{content:"\00a0\22c5\00a0";color:rgba(0,0,0,.85)}
+            - *#header .details br+span#revremark::before{content:"\00a0|\00a0"}
+            - *#header #revnumber{text-transform:capitalize}
+            - *#header #revnumber::after{content:"\00a0"}
+            - *#content>h1:first-child:not([class]){color:rgba(0,0,0,.85);border-bottom:1px solid #dddddf;padding-bottom:8px;margin-top:0;padding-top:1rem;margin-bottom:1.25rem}
+            - *#toc{border-bottom:1px solid #e7e7e9;padding-bottom:.5em}
+            - *#toc>ul{margin-left:.125em}
+            - *#toc ul.sectlevel0>li>a{font-style:italic}
+            - *#toc ul.sectlevel0 ul.sectlevel1{margin:.5em 0}
+            - *#toc ul{font-family:"Open Sans","DejaVu Sans",sans-serif;list-style-type:none}
+            - *#toc li{line-height:1.3334;margin-top:.3334em}
+            - *#toc a{text-decoration:none}
+            - *#toc a:active{text-decoration:underline}
+            - *#toctitle{color:#7a2518;font-size:1.2em}
+            - *#toc.toc2{margin-top:0!important;background:#f8f8f7;position:fixed;width:15em;left:0;top:0;border-right:1px solid #e7e7e9;border-top-width:0!important;border-bottom-width:0!important;z-index:1000;padding:1.25em 1em;height:100%;overflow:auto}
+            - *#toc.toc2 #toctitle{margin-top:0;margin-bottom:.8rem;font-size:1.2em}
+            - *#toc.toc2>ul{font-size:.9em;margin-bottom:0}
+            - *#toc.toc2 ul ul{margin-left:0;padding-left:1em}
+            - *#toc.toc2 ul.sectlevel0 ul.sectlevel1{padding-left:0;margin-top:.5em;margin-bottom:.5em}
+            - *#toc.toc2{width:20em}
+            - *#toc.toc2 #toctitle{font-size:1.375em}
+            - *#toc.toc2>ul{font-size:.95em}
+            - *#toc.toc2 ul ul{padding-left:1.25em}
+            - *#content #toc{border-style:solid;border-width:1px;border-color:#e0e0dc;margin-bottom:1.25em;padding:1.25em;background:#f8f8f7;-webkit-border-radius:4px;border-radius:4px}
+            - *#content #toc>:first-child{margin-top:0}
+            - *#content #toc>:last-child{margin-bottom:0}
+            - *#footer{max-width:100%;background:rgba(0,0,0,.8);padding:1.25em}
+            - *#footer-text{color:rgba(255,255,255,.8);line-height:1.44}
+            - *#content{margin-bottom:.625em}
+            - *#content h1>a.anchor,h2>a.anchor,h3>a.anchor,#toctitle>a.anchor,.sidebarblock>.content>.title>a.anchor,h4>a.anchor,h5>a.anchor,h6>a.anchor{position:absolute;z-index:1001;width:1.5ex;margin-left:-1.5ex;display:block;text-decoration:none!important;visibility:hidden;text-align:center;font-weight:400}
+            - *#content h1>a.anchor::before,h2>a.anchor::before,h3>a.anchor::before,#toctitle>a.anchor::before,.sidebarblock>.content>.title>a.anchor::before,h4>a.anchor::before,h5>a.anchor::before,h6>a.anchor::before{content:"\00A7";font-size:.85em;display:block;padding-top:.1em}
+            - *#content h1:hover>a.anchor,#content h1>a.anchor:hover,h2:hover>a.anchor,h2>a.anchor:hover,h3:hover>a.anchor,#toctitle:hover>a.anchor,.sidebarblock>.content>.title:hover>a.anchor,h3>a.anchor:hover,#toctitle>a.anchor:hover,.sidebarblock>.content>.title>a.anchor:hover,h4:hover>a.anchor,h4>a.anchor:hover,h5:hover>a.anchor,h5>a.anchor:hover,h6:hover>a.anchor,h6>a.anchor:hover{visibility:visible}
+            - *#content h1>a.link,h2>a.link,h3>a.link,#toctitle>a.link,.sidebarblock>.content>.title>a.link,h4>a.link,h5>a.link,h6>a.link{color:#ba3925;text-decoration:none}
+            - *#content h1>a.link:hover,h2>a.link:hover,h3>a.link:hover,#toctitle>a.link:hover,.sidebarblock>.content>.title>a.link:hover,h4>a.link:hover,h5>a.link:hover,h6>a.link:hover{color:#a53221}
+            - *#footnotes{padding-top:.75em;padding-bottom:.75em;margin-bottom:.625em}
+            - *#footnotes hr{width:20%;min-width:6.25em;margin:-.25em 0 .75em;border-width:1px 0 0}
+            - *#footnotes .footnote{padding:0 .375em 0 .225em;line-height:1.3334;font-size:.875em;margin-left:1.2em;margin-bottom:.2em}
+            - *#footnotes .footnote a:first-of-type{font-weight:bold;text-decoration:none;margin-left:-1.05em}
+            - *#footnotes .footnote:last-of-type{margin-bottom:0}
+            - *#content #footnotes{margin-top:-.625em;margin-bottom:0;padding:.75em 0}
+            - *#toc,.sidebarblock,.exampleblock>.content{background:none!important}
+            - *#toc{border-bottom:1px solid #dddddf!important;padding-bottom:0!important}
+            - *#footer{padding:0 .9375em}
+            - *#footer{background:none}
+            - *#footer-text{color:rgba(0,0,0,.6);font-size:.9em}}
+    
+    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\_src\doc\git-doc_converted\technical\.partial-clone.html.dir\cat..partial-clone.html.dir\dir..partial-clone.html.dir.md">.partial-clone.html.dir</a>
+        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\_src\doc\git-doc_converted\technical\.partial-clone.html.dir\partial-clone.html.md">partial-clone.html.md</a>
+            - *#header,#content,#footnotes,#footer{width:100%;margin-left:auto;margin-right:auto;margin-top:0;margin-bottom:0;max-width:62.5em;*zoom:1;position:relative;padding-left:.9375em;padding-right:.9375em}
+            - *#header::before,#header::after,#content::before,#content::after,#footnotes::before,#footnotes::after,#footer::before,#footer::after{content:" ";display:table}
+            - *#header::after,#content::after,#footnotes::after,#footer::after{clear:both}
+            - *#content{margin-top:1.25em}
+            - *#content::before{content:none}
+            - *#header>h1:first-child{color:rgba(0,0,0,.85);margin-top:2.25rem;margin-bottom:0}
+            - *#header>h1:first-child+#toc{margin-top:8px;border-top:1px solid #dddddf}
+            - *#header>h1:only-child,body.toc2 #header>h1:nth-last-child(2){border-bottom:1px solid #dddddf;padding-bottom:8px}
+            - *#header .details{border-bottom:1px solid #dddddf;line-height:1.45;padding-top:.25em;padding-bottom:.25em;padding-left:.25em;color:rgba(0,0,0,.6);display:-ms-flexbox;display:-webkit-flex;display:flex;-ms-flex-flow:row wrap;-webkit-flex-flow:row wrap;flex-flow:row wrap}
+            - *#header .details span:first-child{margin-left:-.125em}
+            - *#header .details span.email a{color:rgba(0,0,0,.85)}
+            - *#header .details br{display:none}
+            - *#header .details br+span::before{content:"\00a0\2013\00a0"}
+            - *#header .details br+span.author::before{content:"\00a0\22c5\00a0";color:rgba(0,0,0,.85)}
+            - *#header .details br+span#revremark::before{content:"\00a0|\00a0"}
+            - *#header #revnumber{text-transform:capitalize}
+            - *#header #revnumber::after{content:"\00a0"}
+            - *#content>h1:first-child:not([class]){color:rgba(0,0,0,.85);border-bottom:1px solid #dddddf;padding-bottom:8px;margin-top:0;padding-top:1rem;margin-bottom:1.25rem}
+            - *#toc{border-bottom:1px solid #e7e7e9;padding-bottom:.5em}
+            - *#toc>ul{margin-left:.125em}
+            - *#toc ul.sectlevel0>li>a{font-style:italic}
+            - *#toc ul.sectlevel0 ul.sectlevel1{margin:.5em 0}
+            - *#toc ul{font-family:"Open Sans","DejaVu Sans",sans-serif;list-style-type:none}
+            - *#toc li{line-height:1.3334;margin-top:.3334em}
+            - *#toc a{text-decoration:none}
+            - *#toc a:active{text-decoration:underline}
+            - *#toctitle{color:#7a2518;font-size:1.2em}
+            - *#toc.toc2{margin-top:0!important;background:#f8f8f7;position:fixed;width:15em;left:0;top:0;border-right:1px solid #e7e7e9;border-top-width:0!important;border-bottom-width:0!important;z-index:1000;padding:1.25em 1em;height:100%;overflow:auto}
+            - *#toc.toc2 #toctitle{margin-top:0;margin-bottom:.8rem;font-size:1.2em}
+            - *#toc.toc2>ul{font-size:.9em;margin-bottom:0}
+            - *#toc.toc2 ul ul{margin-left:0;padding-left:1em}
+            - *#toc.toc2 ul.sectlevel0 ul.sectlevel1{padding-left:0;margin-top:.5em;margin-bottom:.5em}
+            - *#toc.toc2{width:20em}
+            - *#toc.toc2 #toctitle{font-size:1.375em}
+            - *#toc.toc2>ul{font-size:.95em}
+            - *#toc.toc2 ul ul{padding-left:1.25em}
+            - *#content #toc{border-style:solid;border-width:1px;border-color:#e0e0dc;margin-bottom:1.25em;padding:1.25em;background:#f8f8f7;-webkit-border-radius:4px;border-radius:4px}
+            - *#content #toc>:first-child{margin-top:0}
+            - *#content #toc>:last-child{margin-bottom:0}
+            - *#footer{max-width:100%;background:rgba(0,0,0,.8);padding:1.25em}
+            - *#footer-text{color:rgba(255,255,255,.8);line-height:1.44}
+            - *#content{margin-bottom:.625em}
+            - *#content h1>a.anchor,h2>a.anchor,h3>a.anchor,#toctitle>a.anchor,.sidebarblock>.content>.title>a.anchor,h4>a.anchor,h5>a.anchor,h6>a.anchor{position:absolute;z-index:1001;width:1.5ex;margin-left:-1.5ex;display:block;text-decoration:none!important;visibility:hidden;text-align:center;font-weight:400}
+            - *#content h1>a.anchor::before,h2>a.anchor::before,h3>a.anchor::before,#toctitle>a.anchor::before,.sidebarblock>.content>.title>a.anchor::before,h4>a.anchor::before,h5>a.anchor::before,h6>a.anchor::before{content:"\00A7";font-size:.85em;display:block;padding-top:.1em}
+            - *#content h1:hover>a.anchor,#content h1>a.anchor:hover,h2:hover>a.anchor,h2>a.anchor:hover,h3:hover>a.anchor,#toctitle:hover>a.anchor,.sidebarblock>.content>.title:hover>a.anchor,h3>a.anchor:hover,#toctitle>a.anchor:hover,.sidebarblock>.content>.title>a.anchor:hover,h4:hover>a.anchor,h4>a.anchor:hover,h5:hover>a.anchor,h5>a.anchor:hover,h6:hover>a.anchor,h6>a.anchor:hover{visibility:visible}
+            - *#content h1>a.link,h2>a.link,h3>a.link,#toctitle>a.link,.sidebarblock>.content>.title>a.link,h4>a.link,h5>a.link,h6>a.link{color:#ba3925;text-decoration:none}
+            - *#content h1>a.link:hover,h2>a.link:hover,h3>a.link:hover,#toctitle>a.link:hover,.sidebarblock>.content>.title>a.link:hover,h4>a.link:hover,h5>a.link:hover,h6>a.link:hover{color:#a53221}
+            - *#footnotes{padding-top:.75em;padding-bottom:.75em;margin-bottom:.625em}
+            - *#footnotes hr{width:20%;min-width:6.25em;margin:-.25em 0 .75em;border-width:1px 0 0}
+            - *#footnotes .footnote{padding:0 .375em 0 .225em;line-height:1.3334;font-size:.875em;margin-left:1.2em;margin-bottom:.2em}
+            - *#footnotes .footnote a:first-of-type{font-weight:bold;text-decoration:none;margin-left:-1.05em}
+            - *#footnotes .footnote:last-of-type{margin-bottom:0}
+            - *#content #footnotes{margin-top:-.625em;margin-bottom:0;padding:.75em 0}
+            - *#toc,.sidebarblock,.exampleblock>.content{background:none!important}
+            - *#toc{border-bottom:1px solid #dddddf!important;padding-bottom:0!important}
+            - *#footer{padding:0 .9375em}
+            - *#footer{background:none}
+            - *#footer-text{color:rgba(0,0,0,.6);font-size:.9em}}
+    
+    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\_src\doc\git-doc_converted\technical\.protocol-capabilities.html.dir\cat..protocol-capabilities.html.dir\dir..protocol-capabilities.html.dir.md">.protocol-capabilities.html.dir</a>
+        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\_src\doc\git-doc_converted\technical\.protocol-capabilities.html.dir\protocol-capabilities.html.md">protocol-capabilities.html.md</a>
+            - *#header,#content,#footnotes,#footer{width:100%;margin-left:auto;margin-right:auto;margin-top:0;margin-bottom:0;max-width:62.5em;*zoom:1;position:relative;padding-left:.9375em;padding-right:.9375em}
+            - *#header::before,#header::after,#content::before,#content::after,#footnotes::before,#footnotes::after,#footer::before,#footer::after{content:" ";display:table}
+            - *#header::after,#content::after,#footnotes::after,#footer::after{clear:both}
+            - *#content{margin-top:1.25em}
+            - *#content::before{content:none}
+            - *#header>h1:first-child{color:rgba(0,0,0,.85);margin-top:2.25rem;margin-bottom:0}
+            - *#header>h1:first-child+#toc{margin-top:8px;border-top:1px solid #dddddf}
+            - *#header>h1:only-child,body.toc2 #header>h1:nth-last-child(2){border-bottom:1px solid #dddddf;padding-bottom:8px}
+            - *#header .details{border-bottom:1px solid #dddddf;line-height:1.45;padding-top:.25em;padding-bottom:.25em;padding-left:.25em;color:rgba(0,0,0,.6);display:-ms-flexbox;display:-webkit-flex;display:flex;-ms-flex-flow:row wrap;-webkit-flex-flow:row wrap;flex-flow:row wrap}
+            - *#header .details span:first-child{margin-left:-.125em}
+            - *#header .details span.email a{color:rgba(0,0,0,.85)}
+            - *#header .details br{display:none}
+            - *#header .details br+span::before{content:"\00a0\2013\00a0"}
+            - *#header .details br+span.author::before{content:"\00a0\22c5\00a0";color:rgba(0,0,0,.85)}
+            - *#header .details br+span#revremark::before{content:"\00a0|\00a0"}
+            - *#header #revnumber{text-transform:capitalize}
+            - *#header #revnumber::after{content:"\00a0"}
+            - *#content>h1:first-child:not([class]){color:rgba(0,0,0,.85);border-bottom:1px solid #dddddf;padding-bottom:8px;margin-top:0;padding-top:1rem;margin-bottom:1.25rem}
+            - *#toc{border-bottom:1px solid #e7e7e9;padding-bottom:.5em}
+            - *#toc>ul{margin-left:.125em}
+            - *#toc ul.sectlevel0>li>a{font-style:italic}
+            - *#toc ul.sectlevel0 ul.sectlevel1{margin:.5em 0}
+            - *#toc ul{font-family:"Open Sans","DejaVu Sans",sans-serif;list-style-type:none}
+            - *#toc li{line-height:1.3334;margin-top:.3334em}
+            - *#toc a{text-decoration:none}
+            - *#toc a:active{text-decoration:underline}
+            - *#toctitle{color:#7a2518;font-size:1.2em}
+            - *#toc.toc2{margin-top:0!important;background:#f8f8f7;position:fixed;width:15em;left:0;top:0;border-right:1px solid #e7e7e9;border-top-width:0!important;border-bottom-width:0!important;z-index:1000;padding:1.25em 1em;height:100%;overflow:auto}
+            - *#toc.toc2 #toctitle{margin-top:0;margin-bottom:.8rem;font-size:1.2em}
+            - *#toc.toc2>ul{font-size:.9em;margin-bottom:0}
+            - *#toc.toc2 ul ul{margin-left:0;padding-left:1em}
+            - *#toc.toc2 ul.sectlevel0 ul.sectlevel1{padding-left:0;margin-top:.5em;margin-bottom:.5em}
+            - *#toc.toc2{width:20em}
+            - *#toc.toc2 #toctitle{font-size:1.375em}
+            - *#toc.toc2>ul{font-size:.95em}
+            - *#toc.toc2 ul ul{padding-left:1.25em}
+            - *#content #toc{border-style:solid;border-width:1px;border-color:#e0e0dc;margin-bottom:1.25em;padding:1.25em;background:#f8f8f7;-webkit-border-radius:4px;border-radius:4px}
+            - *#content #toc>:first-child{margin-top:0}
+            - *#content #toc>:last-child{margin-bottom:0}
+            - *#footer{max-width:100%;background:rgba(0,0,0,.8);padding:1.25em}
+            - *#footer-text{color:rgba(255,255,255,.8);line-height:1.44}
+            - *#content{margin-bottom:.625em}
+            - *#content h1>a.anchor,h2>a.anchor,h3>a.anchor,#toctitle>a.anchor,.sidebarblock>.content>.title>a.anchor,h4>a.anchor,h5>a.anchor,h6>a.anchor{position:absolute;z-index:1001;width:1.5ex;margin-left:-1.5ex;display:block;text-decoration:none!important;visibility:hidden;text-align:center;font-weight:400}
+            - *#content h1>a.anchor::before,h2>a.anchor::before,h3>a.anchor::before,#toctitle>a.anchor::before,.sidebarblock>.content>.title>a.anchor::before,h4>a.anchor::before,h5>a.anchor::before,h6>a.anchor::before{content:"\00A7";font-size:.85em;display:block;padding-top:.1em}
+            - *#content h1:hover>a.anchor,#content h1>a.anchor:hover,h2:hover>a.anchor,h2>a.anchor:hover,h3:hover>a.anchor,#toctitle:hover>a.anchor,.sidebarblock>.content>.title:hover>a.anchor,h3>a.anchor:hover,#toctitle>a.anchor:hover,.sidebarblock>.content>.title>a.anchor:hover,h4:hover>a.anchor,h4>a.anchor:hover,h5:hover>a.anchor,h5>a.anchor:hover,h6:hover>a.anchor,h6>a.anchor:hover{visibility:visible}
+            - *#content h1>a.link,h2>a.link,h3>a.link,#toctitle>a.link,.sidebarblock>.content>.title>a.link,h4>a.link,h5>a.link,h6>a.link{color:#ba3925;text-decoration:none}
+            - *#content h1>a.link:hover,h2>a.link:hover,h3>a.link:hover,#toctitle>a.link:hover,.sidebarblock>.content>.title>a.link:hover,h4>a.link:hover,h5>a.link:hover,h6>a.link:hover{color:#a53221}
+            - *#footnotes{padding-top:.75em;padding-bottom:.75em;margin-bottom:.625em}
+            - *#footnotes hr{width:20%;min-width:6.25em;margin:-.25em 0 .75em;border-width:1px 0 0}
+            - *#footnotes .footnote{padding:0 .375em 0 .225em;line-height:1.3334;font-size:.875em;margin-left:1.2em;margin-bottom:.2em}
+            - *#footnotes .footnote a:first-of-type{font-weight:bold;text-decoration:none;margin-left:-1.05em}
+            - *#footnotes .footnote:last-of-type{margin-bottom:0}
+            - *#content #footnotes{margin-top:-.625em;margin-bottom:0;padding:.75em 0}
+            - *#toc,.sidebarblock,.exampleblock>.content{background:none!important}
+            - *#toc{border-bottom:1px solid #dddddf!important;padding-bottom:0!important}
+            - *#footer{padding:0 .9375em}
+            - *#footer{background:none}
+            - *#footer-text{color:rgba(0,0,0,.6);font-size:.9em}}
+    
+    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\_src\doc\git-doc_converted\technical\.protocol-common.html.dir\cat..protocol-common.html.dir\dir..protocol-common.html.dir.md">.protocol-common.html.dir</a>
+        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\_src\doc\git-doc_converted\technical\.protocol-common.html.dir\protocol-common.html.md">protocol-common.html.md</a>
+            - *#header,#content,#footnotes,#footer{width:100%;margin-left:auto;margin-right:auto;margin-top:0;margin-bottom:0;max-width:62.5em;*zoom:1;position:relative;padding-left:.9375em;padding-right:.9375em}
+            - *#header::before,#header::after,#content::before,#content::after,#footnotes::before,#footnotes::after,#footer::before,#footer::after{content:" ";display:table}
+            - *#header::after,#content::after,#footnotes::after,#footer::after{clear:both}
+            - *#content{margin-top:1.25em}
+            - *#content::before{content:none}
+            - *#header>h1:first-child{color:rgba(0,0,0,.85);margin-top:2.25rem;margin-bottom:0}
+            - *#header>h1:first-child+#toc{margin-top:8px;border-top:1px solid #dddddf}
+            - *#header>h1:only-child,body.toc2 #header>h1:nth-last-child(2){border-bottom:1px solid #dddddf;padding-bottom:8px}
+            - *#header .details{border-bottom:1px solid #dddddf;line-height:1.45;padding-top:.25em;padding-bottom:.25em;padding-left:.25em;color:rgba(0,0,0,.6);display:-ms-flexbox;display:-webkit-flex;display:flex;-ms-flex-flow:row wrap;-webkit-flex-flow:row wrap;flex-flow:row wrap}
+            - *#header .details span:first-child{margin-left:-.125em}
+            - *#header .details span.email a{color:rgba(0,0,0,.85)}
+            - *#header .details br{display:none}
+            - *#header .details br+span::before{content:"\00a0\2013\00a0"}
+            - *#header .details br+span.author::before{content:"\00a0\22c5\00a0";color:rgba(0,0,0,.85)}
+            - *#header .details br+span#revremark::before{content:"\00a0|\00a0"}
+            - *#header #revnumber{text-transform:capitalize}
+            - *#header #revnumber::after{content:"\00a0"}
+            - *#content>h1:first-child:not([class]){color:rgba(0,0,0,.85);border-bottom:1px solid #dddddf;padding-bottom:8px;margin-top:0;padding-top:1rem;margin-bottom:1.25rem}
+            - *#toc{border-bottom:1px solid #e7e7e9;padding-bottom:.5em}
+            - *#toc>ul{margin-left:.125em}
+            - *#toc ul.sectlevel0>li>a{font-style:italic}
+            - *#toc ul.sectlevel0 ul.sectlevel1{margin:.5em 0}
+            - *#toc ul{font-family:"Open Sans","DejaVu Sans",sans-serif;list-style-type:none}
+            - *#toc li{line-height:1.3334;margin-top:.3334em}
+            - *#toc a{text-decoration:none}
+            - *#toc a:active{text-decoration:underline}
+            - *#toctitle{color:#7a2518;font-size:1.2em}
+            - *#toc.toc2{margin-top:0!important;background:#f8f8f7;position:fixed;width:15em;left:0;top:0;border-right:1px solid #e7e7e9;border-top-width:0!important;border-bottom-width:0!important;z-index:1000;padding:1.25em 1em;height:100%;overflow:auto}
+            - *#toc.toc2 #toctitle{margin-top:0;margin-bottom:.8rem;font-size:1.2em}
+            - *#toc.toc2>ul{font-size:.9em;margin-bottom:0}
+            - *#toc.toc2 ul ul{margin-left:0;padding-left:1em}
+            - *#toc.toc2 ul.sectlevel0 ul.sectlevel1{padding-left:0;margin-top:.5em;margin-bottom:.5em}
+            - *#toc.toc2{width:20em}
+            - *#toc.toc2 #toctitle{font-size:1.375em}
+            - *#toc.toc2>ul{font-size:.95em}
+            - *#toc.toc2 ul ul{padding-left:1.25em}
+            - *#content #toc{border-style:solid;border-width:1px;border-color:#e0e0dc;margin-bottom:1.25em;padding:1.25em;background:#f8f8f7;-webkit-border-radius:4px;border-radius:4px}
+            - *#content #toc>:first-child{margin-top:0}
+            - *#content #toc>:last-child{margin-bottom:0}
+            - *#footer{max-width:100%;background:rgba(0,0,0,.8);padding:1.25em}
+            - *#footer-text{color:rgba(255,255,255,.8);line-height:1.44}
+            - *#content{margin-bottom:.625em}
+            - *#content h1>a.anchor,h2>a.anchor,h3>a.anchor,#toctitle>a.anchor,.sidebarblock>.content>.title>a.anchor,h4>a.anchor,h5>a.anchor,h6>a.anchor{position:absolute;z-index:1001;width:1.5ex;margin-left:-1.5ex;display:block;text-decoration:none!important;visibility:hidden;text-align:center;font-weight:400}
+            - *#content h1>a.anchor::before,h2>a.anchor::before,h3>a.anchor::before,#toctitle>a.anchor::before,.sidebarblock>.content>.title>a.anchor::before,h4>a.anchor::before,h5>a.anchor::before,h6>a.anchor::before{content:"\00A7";font-size:.85em;display:block;padding-top:.1em}
+            - *#content h1:hover>a.anchor,#content h1>a.anchor:hover,h2:hover>a.anchor,h2>a.anchor:hover,h3:hover>a.anchor,#toctitle:hover>a.anchor,.sidebarblock>.content>.title:hover>a.anchor,h3>a.anchor:hover,#toctitle>a.anchor:hover,.sidebarblock>.content>.title>a.anchor:hover,h4:hover>a.anchor,h4>a.anchor:hover,h5:hover>a.anchor,h5>a.anchor:hover,h6:hover>a.anchor,h6>a.anchor:hover{visibility:visible}
+            - *#content h1>a.link,h2>a.link,h3>a.link,#toctitle>a.link,.sidebarblock>.content>.title>a.link,h4>a.link,h5>a.link,h6>a.link{color:#ba3925;text-decoration:none}
+            - *#content h1>a.link:hover,h2>a.link:hover,h3>a.link:hover,#toctitle>a.link:hover,.sidebarblock>.content>.title>a.link:hover,h4>a.link:hover,h5>a.link:hover,h6>a.link:hover{color:#a53221}
+            - *#footnotes{padding-top:.75em;padding-bottom:.75em;margin-bottom:.625em}
+            - *#footnotes hr{width:20%;min-width:6.25em;margin:-.25em 0 .75em;border-width:1px 0 0}
+            - *#footnotes .footnote{padding:0 .375em 0 .225em;line-height:1.3334;font-size:.875em;margin-left:1.2em;margin-bottom:.2em}
+            - *#footnotes .footnote a:first-of-type{font-weight:bold;text-decoration:none;margin-left:-1.05em}
+            - *#footnotes .footnote:last-of-type{margin-bottom:0}
+            - *#content #footnotes{margin-top:-.625em;margin-bottom:0;padding:.75em 0}
+            - *#toc,.sidebarblock,.exampleblock>.content{background:none!important}
+            - *#toc{border-bottom:1px solid #dddddf!important;padding-bottom:0!important}
+            - *#footer{padding:0 .9375em}
+            - *#footer{background:none}
+            - *#footer-text{color:rgba(0,0,0,.6);font-size:.9em}}
+    
+    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\_src\doc\git-doc_converted\technical\.protocol-v2.html.dir\cat..protocol-v2.html.dir\dir..protocol-v2.html.dir.md">.protocol-v2.html.dir</a>
+        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\_src\doc\git-doc_converted\technical\.protocol-v2.html.dir\protocol-v2.html.md">protocol-v2.html.md</a>
+            - *#header,#content,#footnotes,#footer{width:100%;margin-left:auto;margin-right:auto;margin-top:0;margin-bottom:0;max-width:62.5em;*zoom:1;position:relative;padding-left:.9375em;padding-right:.9375em}
+            - *#header::before,#header::after,#content::before,#content::after,#footnotes::before,#footnotes::after,#footer::before,#footer::after{content:" ";display:table}
+            - *#header::after,#content::after,#footnotes::after,#footer::after{clear:both}
+            - *#content{margin-top:1.25em}
+            - *#content::before{content:none}
+            - *#header>h1:first-child{color:rgba(0,0,0,.85);margin-top:2.25rem;margin-bottom:0}
+            - *#header>h1:first-child+#toc{margin-top:8px;border-top:1px solid #dddddf}
+            - *#header>h1:only-child,body.toc2 #header>h1:nth-last-child(2){border-bottom:1px solid #dddddf;padding-bottom:8px}
+            - *#header .details{border-bottom:1px solid #dddddf;line-height:1.45;padding-top:.25em;padding-bottom:.25em;padding-left:.25em;color:rgba(0,0,0,.6);display:-ms-flexbox;display:-webkit-flex;display:flex;-ms-flex-flow:row wrap;-webkit-flex-flow:row wrap;flex-flow:row wrap}
+            - *#header .details span:first-child{margin-left:-.125em}
+            - *#header .details span.email a{color:rgba(0,0,0,.85)}
+            - *#header .details br{display:none}
+            - *#header .details br+span::before{content:"\00a0\2013\00a0"}
+            - *#header .details br+span.author::before{content:"\00a0\22c5\00a0";color:rgba(0,0,0,.85)}
+            - *#header .details br+span#revremark::before{content:"\00a0|\00a0"}
+            - *#header #revnumber{text-transform:capitalize}
+            - *#header #revnumber::after{content:"\00a0"}
+            - *#content>h1:first-child:not([class]){color:rgba(0,0,0,.85);border-bottom:1px solid #dddddf;padding-bottom:8px;margin-top:0;padding-top:1rem;margin-bottom:1.25rem}
+            - *#toc{border-bottom:1px solid #e7e7e9;padding-bottom:.5em}
+            - *#toc>ul{margin-left:.125em}
+            - *#toc ul.sectlevel0>li>a{font-style:italic}
+            - *#toc ul.sectlevel0 ul.sectlevel1{margin:.5em 0}
+            - *#toc ul{font-family:"Open Sans","DejaVu Sans",sans-serif;list-style-type:none}
+            - *#toc li{line-height:1.3334;margin-top:.3334em}
+            - *#toc a{text-decoration:none}
+            - *#toc a:active{text-decoration:underline}
+            - *#toctitle{color:#7a2518;font-size:1.2em}
+            - *#toc.toc2{margin-top:0!important;background:#f8f8f7;position:fixed;width:15em;left:0;top:0;border-right:1px solid #e7e7e9;border-top-width:0!important;border-bottom-width:0!important;z-index:1000;padding:1.25em 1em;height:100%;overflow:auto}
+            - *#toc.toc2 #toctitle{margin-top:0;margin-bottom:.8rem;font-size:1.2em}
+            - *#toc.toc2>ul{font-size:.9em;margin-bottom:0}
+            - *#toc.toc2 ul ul{margin-left:0;padding-left:1em}
+            - *#toc.toc2 ul.sectlevel0 ul.sectlevel1{padding-left:0;margin-top:.5em;margin-bottom:.5em}
+            - *#toc.toc2{width:20em}
+            - *#toc.toc2 #toctitle{font-size:1.375em}
+            - *#toc.toc2>ul{font-size:.95em}
+            - *#toc.toc2 ul ul{padding-left:1.25em}
+            - *#content #toc{border-style:solid;border-width:1px;border-color:#e0e0dc;margin-bottom:1.25em;padding:1.25em;background:#f8f8f7;-webkit-border-radius:4px;border-radius:4px}
+            - *#content #toc>:first-child{margin-top:0}
+            - *#content #toc>:last-child{margin-bottom:0}
+            - *#footer{max-width:100%;background:rgba(0,0,0,.8);padding:1.25em}
+            - *#footer-text{color:rgba(255,255,255,.8);line-height:1.44}
+            - *#content{margin-bottom:.625em}
+            - *#content h1>a.anchor,h2>a.anchor,h3>a.anchor,#toctitle>a.anchor,.sidebarblock>.content>.title>a.anchor,h4>a.anchor,h5>a.anchor,h6>a.anchor{position:absolute;z-index:1001;width:1.5ex;margin-left:-1.5ex;display:block;text-decoration:none!important;visibility:hidden;text-align:center;font-weight:400}
+            - *#content h1>a.anchor::before,h2>a.anchor::before,h3>a.anchor::before,#toctitle>a.anchor::before,.sidebarblock>.content>.title>a.anchor::before,h4>a.anchor::before,h5>a.anchor::before,h6>a.anchor::before{content:"\00A7";font-size:.85em;display:block;padding-top:.1em}
+            - *#content h1:hover>a.anchor,#content h1>a.anchor:hover,h2:hover>a.anchor,h2>a.anchor:hover,h3:hover>a.anchor,#toctitle:hover>a.anchor,.sidebarblock>.content>.title:hover>a.anchor,h3>a.anchor:hover,#toctitle>a.anchor:hover,.sidebarblock>.content>.title>a.anchor:hover,h4:hover>a.anchor,h4>a.anchor:hover,h5:hover>a.anchor,h5>a.anchor:hover,h6:hover>a.anchor,h6>a.anchor:hover{visibility:visible}
+            - *#content h1>a.link,h2>a.link,h3>a.link,#toctitle>a.link,.sidebarblock>.content>.title>a.link,h4>a.link,h5>a.link,h6>a.link{color:#ba3925;text-decoration:none}
+            - *#content h1>a.link:hover,h2>a.link:hover,h3>a.link:hover,#toctitle>a.link:hover,.sidebarblock>.content>.title>a.link:hover,h4>a.link:hover,h5>a.link:hover,h6>a.link:hover{color:#a53221}
+            - *#footnotes{padding-top:.75em;padding-bottom:.75em;margin-bottom:.625em}
+            - *#footnotes hr{width:20%;min-width:6.25em;margin:-.25em 0 .75em;border-width:1px 0 0}
+            - *#footnotes .footnote{padding:0 .375em 0 .225em;line-height:1.3334;font-size:.875em;margin-left:1.2em;margin-bottom:.2em}
+            - *#footnotes .footnote a:first-of-type{font-weight:bold;text-decoration:none;margin-left:-1.05em}
+            - *#footnotes .footnote:last-of-type{margin-bottom:0}
+            - *#content #footnotes{margin-top:-.625em;margin-bottom:0;padding:.75em 0}
+            - *#toc,.sidebarblock,.exampleblock>.content{background:none!important}
+            - *#toc{border-bottom:1px solid #dddddf!important;padding-bottom:0!important}
+            - *#footer{padding:0 .9375em}
+            - *#footer{background:none}
+            - *#footer-text{color:rgba(0,0,0,.6);font-size:.9em}}
+    
+    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\_src\doc\git-doc_converted\technical\.racy-git.html.dir\cat..racy-git.html.dir\dir..racy-git.html.dir.md">.racy-git.html.dir</a>
+        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\_src\doc\git-doc_converted\technical\.racy-git.html.dir\racy-git.html.md">racy-git.html.md</a>
+            - *#header,#content,#footnotes,#footer{width:100%;margin-left:auto;margin-right:auto;margin-top:0;margin-bottom:0;max-width:62.5em;*zoom:1;position:relative;padding-left:.9375em;padding-right:.9375em}
+            - *#header::before,#header::after,#content::before,#content::after,#footnotes::before,#footnotes::after,#footer::before,#footer::after{content:" ";display:table}
+            - *#header::after,#content::after,#footnotes::after,#footer::after{clear:both}
+            - *#content{margin-top:1.25em}
+            - *#content::before{content:none}
+            - *#header>h1:first-child{color:rgba(0,0,0,.85);margin-top:2.25rem;margin-bottom:0}
+            - *#header>h1:first-child+#toc{margin-top:8px;border-top:1px solid #dddddf}
+            - *#header>h1:only-child,body.toc2 #header>h1:nth-last-child(2){border-bottom:1px solid #dddddf;padding-bottom:8px}
+            - *#header .details{border-bottom:1px solid #dddddf;line-height:1.45;padding-top:.25em;padding-bottom:.25em;padding-left:.25em;color:rgba(0,0,0,.6);display:-ms-flexbox;display:-webkit-flex;display:flex;-ms-flex-flow:row wrap;-webkit-flex-flow:row wrap;flex-flow:row wrap}
+            - *#header .details span:first-child{margin-left:-.125em}
+            - *#header .details span.email a{color:rgba(0,0,0,.85)}
+            - *#header .details br{display:none}
+            - *#header .details br+span::before{content:"\00a0\2013\00a0"}
+            - *#header .details br+span.author::before{content:"\00a0\22c5\00a0";color:rgba(0,0,0,.85)}
+            - *#header .details br+span#revremark::before{content:"\00a0|\00a0"}
+            - *#header #revnumber{text-transform:capitalize}
+            - *#header #revnumber::after{content:"\00a0"}
+            - *#content>h1:first-child:not([class]){color:rgba(0,0,0,.85);border-bottom:1px solid #dddddf;padding-bottom:8px;margin-top:0;padding-top:1rem;margin-bottom:1.25rem}
+            - *#toc{border-bottom:1px solid #e7e7e9;padding-bottom:.5em}
+            - *#toc>ul{margin-left:.125em}
+            - *#toc ul.sectlevel0>li>a{font-style:italic}
+            - *#toc ul.sectlevel0 ul.sectlevel1{margin:.5em 0}
+            - *#toc ul{font-family:"Open Sans","DejaVu Sans",sans-serif;list-style-type:none}
+            - *#toc li{line-height:1.3334;margin-top:.3334em}
+            - *#toc a{text-decoration:none}
+            - *#toc a:active{text-decoration:underline}
+            - *#toctitle{color:#7a2518;font-size:1.2em}
+            - *#toc.toc2{margin-top:0!important;background:#f8f8f7;position:fixed;width:15em;left:0;top:0;border-right:1px solid #e7e7e9;border-top-width:0!important;border-bottom-width:0!important;z-index:1000;padding:1.25em 1em;height:100%;overflow:auto}
+            - *#toc.toc2 #toctitle{margin-top:0;margin-bottom:.8rem;font-size:1.2em}
+            - *#toc.toc2>ul{font-size:.9em;margin-bottom:0}
+            - *#toc.toc2 ul ul{margin-left:0;padding-left:1em}
+            - *#toc.toc2 ul.sectlevel0 ul.sectlevel1{padding-left:0;margin-top:.5em;margin-bottom:.5em}
+            - *#toc.toc2{width:20em}
+            - *#toc.toc2 #toctitle{font-size:1.375em}
+            - *#toc.toc2>ul{font-size:.95em}
+            - *#toc.toc2 ul ul{padding-left:1.25em}
+            - *#content #toc{border-style:solid;border-width:1px;border-color:#e0e0dc;margin-bottom:1.25em;padding:1.25em;background:#f8f8f7;-webkit-border-radius:4px;border-radius:4px}
+            - *#content #toc>:first-child{margin-top:0}
+            - *#content #toc>:last-child{margin-bottom:0}
+            - *#footer{max-width:100%;background:rgba(0,0,0,.8);padding:1.25em}
+            - *#footer-text{color:rgba(255,255,255,.8);line-height:1.44}
+            - *#content{margin-bottom:.625em}
+            - *#content h1>a.anchor,h2>a.anchor,h3>a.anchor,#toctitle>a.anchor,.sidebarblock>.content>.title>a.anchor,h4>a.anchor,h5>a.anchor,h6>a.anchor{position:absolute;z-index:1001;width:1.5ex;margin-left:-1.5ex;display:block;text-decoration:none!important;visibility:hidden;text-align:center;font-weight:400}
+            - *#content h1>a.anchor::before,h2>a.anchor::before,h3>a.anchor::before,#toctitle>a.anchor::before,.sidebarblock>.content>.title>a.anchor::before,h4>a.anchor::before,h5>a.anchor::before,h6>a.anchor::before{content:"\00A7";font-size:.85em;display:block;padding-top:.1em}
+            - *#content h1:hover>a.anchor,#content h1>a.anchor:hover,h2:hover>a.anchor,h2>a.anchor:hover,h3:hover>a.anchor,#toctitle:hover>a.anchor,.sidebarblock>.content>.title:hover>a.anchor,h3>a.anchor:hover,#toctitle>a.anchor:hover,.sidebarblock>.content>.title>a.anchor:hover,h4:hover>a.anchor,h4>a.anchor:hover,h5:hover>a.anchor,h5>a.anchor:hover,h6:hover>a.anchor,h6>a.anchor:hover{visibility:visible}
+            - *#content h1>a.link,h2>a.link,h3>a.link,#toctitle>a.link,.sidebarblock>.content>.title>a.link,h4>a.link,h5>a.link,h6>a.link{color:#ba3925;text-decoration:none}
+            - *#content h1>a.link:hover,h2>a.link:hover,h3>a.link:hover,#toctitle>a.link:hover,.sidebarblock>.content>.title>a.link:hover,h4>a.link:hover,h5>a.link:hover,h6>a.link:hover{color:#a53221}
+            - *#footnotes{padding-top:.75em;padding-bottom:.75em;margin-bottom:.625em}
+            - *#footnotes hr{width:20%;min-width:6.25em;margin:-.25em 0 .75em;border-width:1px 0 0}
+            - *#footnotes .footnote{padding:0 .375em 0 .225em;line-height:1.3334;font-size:.875em;margin-left:1.2em;margin-bottom:.2em}
+            - *#footnotes .footnote a:first-of-type{font-weight:bold;text-decoration:none;margin-left:-1.05em}
+            - *#footnotes .footnote:last-of-type{margin-bottom:0}
+            - *#content #footnotes{margin-top:-.625em;margin-bottom:0;padding:.75em 0}
+            - *#toc,.sidebarblock,.exampleblock>.content{background:none!important}
+            - *#toc{border-bottom:1px solid #dddddf!important;padding-bottom:0!important}
+            - *#footer{padding:0 .9375em}
+            - *#footer{background:none}
+            - *#footer-text{color:rgba(0,0,0,.6);font-size:.9em}}
+    
+    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\_src\doc\git-doc_converted\technical\.reftable.html.dir\cat..reftable.html.dir\dir..reftable.html.dir.md">.reftable.html.dir</a>
+        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\_src\doc\git-doc_converted\technical\.reftable.html.dir\reftable.html.md">reftable.html.md</a>
+            - *#header,#content,#footnotes,#footer{width:100%;margin-left:auto;margin-right:auto;margin-top:0;margin-bottom:0;max-width:62.5em;*zoom:1;position:relative;padding-left:.9375em;padding-right:.9375em}
+            - *#header::before,#header::after,#content::before,#content::after,#footnotes::before,#footnotes::after,#footer::before,#footer::after{content:" ";display:table}
+            - *#header::after,#content::after,#footnotes::after,#footer::after{clear:both}
+            - *#content{margin-top:1.25em}
+            - *#content::before{content:none}
+            - *#header>h1:first-child{color:rgba(0,0,0,.85);margin-top:2.25rem;margin-bottom:0}
+            - *#header>h1:first-child+#toc{margin-top:8px;border-top:1px solid #dddddf}
+            - *#header>h1:only-child,body.toc2 #header>h1:nth-last-child(2){border-bottom:1px solid #dddddf;padding-bottom:8px}
+            - *#header .details{border-bottom:1px solid #dddddf;line-height:1.45;padding-top:.25em;padding-bottom:.25em;padding-left:.25em;color:rgba(0,0,0,.6);display:-ms-flexbox;display:-webkit-flex;display:flex;-ms-flex-flow:row wrap;-webkit-flex-flow:row wrap;flex-flow:row wrap}
+            - *#header .details span:first-child{margin-left:-.125em}
+            - *#header .details span.email a{color:rgba(0,0,0,.85)}
+            - *#header .details br{display:none}
+            - *#header .details br+span::before{content:"\00a0\2013\00a0"}
+            - *#header .details br+span.author::before{content:"\00a0\22c5\00a0";color:rgba(0,0,0,.85)}
+            - *#header .details br+span#revremark::before{content:"\00a0|\00a0"}
+            - *#header #revnumber{text-transform:capitalize}
+            - *#header #revnumber::after{content:"\00a0"}
+            - *#content>h1:first-child:not([class]){color:rgba(0,0,0,.85);border-bottom:1px solid #dddddf;padding-bottom:8px;margin-top:0;padding-top:1rem;margin-bottom:1.25rem}
+            - *#toc{border-bottom:1px solid #e7e7e9;padding-bottom:.5em}
+            - *#toc>ul{margin-left:.125em}
+            - *#toc ul.sectlevel0>li>a{font-style:italic}
+            - *#toc ul.sectlevel0 ul.sectlevel1{margin:.5em 0}
+            - *#toc ul{font-family:"Open Sans","DejaVu Sans",sans-serif;list-style-type:none}
+            - *#toc li{line-height:1.3334;margin-top:.3334em}
+            - *#toc a{text-decoration:none}
+            - *#toc a:active{text-decoration:underline}
+            - *#toctitle{color:#7a2518;font-size:1.2em}
+            - *#toc.toc2{margin-top:0!important;background:#f8f8f7;position:fixed;width:15em;left:0;top:0;border-right:1px solid #e7e7e9;border-top-width:0!important;border-bottom-width:0!important;z-index:1000;padding:1.25em 1em;height:100%;overflow:auto}
+            - *#toc.toc2 #toctitle{margin-top:0;margin-bottom:.8rem;font-size:1.2em}
+            - *#toc.toc2>ul{font-size:.9em;margin-bottom:0}
+            - *#toc.toc2 ul ul{margin-left:0;padding-left:1em}
+            - *#toc.toc2 ul.sectlevel0 ul.sectlevel1{padding-left:0;margin-top:.5em;margin-bottom:.5em}
+            - *#toc.toc2{width:20em}
+            - *#toc.toc2 #toctitle{font-size:1.375em}
+            - *#toc.toc2>ul{font-size:.95em}
+            - *#toc.toc2 ul ul{padding-left:1.25em}
+            - *#content #toc{border-style:solid;border-width:1px;border-color:#e0e0dc;margin-bottom:1.25em;padding:1.25em;background:#f8f8f7;-webkit-border-radius:4px;border-radius:4px}
+            - *#content #toc>:first-child{margin-top:0}
+            - *#content #toc>:last-child{margin-bottom:0}
+            - *#footer{max-width:100%;background:rgba(0,0,0,.8);padding:1.25em}
+            - *#footer-text{color:rgba(255,255,255,.8);line-height:1.44}
+            - *#content{margin-bottom:.625em}
+            - *#content h1>a.anchor,h2>a.anchor,h3>a.anchor,#toctitle>a.anchor,.sidebarblock>.content>.title>a.anchor,h4>a.anchor,h5>a.anchor,h6>a.anchor{position:absolute;z-index:1001;width:1.5ex;margin-left:-1.5ex;display:block;text-decoration:none!important;visibility:hidden;text-align:center;font-weight:400}
+            - *#content h1>a.anchor::before,h2>a.anchor::before,h3>a.anchor::before,#toctitle>a.anchor::before,.sidebarblock>.content>.title>a.anchor::before,h4>a.anchor::before,h5>a.anchor::before,h6>a.anchor::before{content:"\00A7";font-size:.85em;display:block;padding-top:.1em}
+            - *#content h1:hover>a.anchor,#content h1>a.anchor:hover,h2:hover>a.anchor,h2>a.anchor:hover,h3:hover>a.anchor,#toctitle:hover>a.anchor,.sidebarblock>.content>.title:hover>a.anchor,h3>a.anchor:hover,#toctitle>a.anchor:hover,.sidebarblock>.content>.title>a.anchor:hover,h4:hover>a.anchor,h4>a.anchor:hover,h5:hover>a.anchor,h5>a.anchor:hover,h6:hover>a.anchor,h6>a.anchor:hover{visibility:visible}
+            - *#content h1>a.link,h2>a.link,h3>a.link,#toctitle>a.link,.sidebarblock>.content>.title>a.link,h4>a.link,h5>a.link,h6>a.link{color:#ba3925;text-decoration:none}
+            - *#content h1>a.link:hover,h2>a.link:hover,h3>a.link:hover,#toctitle>a.link:hover,.sidebarblock>.content>.title>a.link:hover,h4>a.link:hover,h5>a.link:hover,h6>a.link:hover{color:#a53221}
+            - *#footnotes{padding-top:.75em;padding-bottom:.75em;margin-bottom:.625em}
+            - *#footnotes hr{width:20%;min-width:6.25em;margin:-.25em 0 .75em;border-width:1px 0 0}
+            - *#footnotes .footnote{padding:0 .375em 0 .225em;line-height:1.3334;font-size:.875em;margin-left:1.2em;margin-bottom:.2em}
+            - *#footnotes .footnote a:first-of-type{font-weight:bold;text-decoration:none;margin-left:-1.05em}
+            - *#footnotes .footnote:last-of-type{margin-bottom:0}
+            - *#content #footnotes{margin-top:-.625em;margin-bottom:0;padding:.75em 0}
+            - *#toc,.sidebarblock,.exampleblock>.content{background:none!important}
+            - *#toc{border-bottom:1px solid #dddddf!important;padding-bottom:0!important}
+            - *#footer{padding:0 .9375em}
+            - *#footer{background:none}
+            - *#footer-text{color:rgba(0,0,0,.6);font-size:.9em}}
+    
+    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\_src\doc\git-doc_converted\technical\.send-pack-pipeline.html.dir\cat..send-pack-pipeline.html.dir\dir..send-pack-pipeline.html.dir.md">.send-pack-pipeline.html.dir</a>
+        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\_src\doc\git-doc_converted\technical\.send-pack-pipeline.html.dir\send-pack-pipeline.html.md">send-pack-pipeline.html.md</a>
+            - *#header,#content,#footnotes,#footer{width:100%;margin-left:auto;margin-right:auto;margin-top:0;margin-bottom:0;max-width:62.5em;*zoom:1;position:relative;padding-left:.9375em;padding-right:.9375em}
+            - *#header::before,#header::after,#content::before,#content::after,#footnotes::before,#footnotes::after,#footer::before,#footer::after{content:" ";display:table}
+            - *#header::after,#content::after,#footnotes::after,#footer::after{clear:both}
+            - *#content{margin-top:1.25em}
+            - *#content::before{content:none}
+            - *#header>h1:first-child{color:rgba(0,0,0,.85);margin-top:2.25rem;margin-bottom:0}
+            - *#header>h1:first-child+#toc{margin-top:8px;border-top:1px solid #dddddf}
+            - *#header>h1:only-child,body.toc2 #header>h1:nth-last-child(2){border-bottom:1px solid #dddddf;padding-bottom:8px}
+            - *#header .details{border-bottom:1px solid #dddddf;line-height:1.45;padding-top:.25em;padding-bottom:.25em;padding-left:.25em;color:rgba(0,0,0,.6);display:-ms-flexbox;display:-webkit-flex;display:flex;-ms-flex-flow:row wrap;-webkit-flex-flow:row wrap;flex-flow:row wrap}
+            - *#header .details span:first-child{margin-left:-.125em}
+            - *#header .details span.email a{color:rgba(0,0,0,.85)}
+            - *#header .details br{display:none}
+            - *#header .details br+span::before{content:"\00a0\2013\00a0"}
+            - *#header .details br+span.author::before{content:"\00a0\22c5\00a0";color:rgba(0,0,0,.85)}
+            - *#header .details br+span#revremark::before{content:"\00a0|\00a0"}
+            - *#header #revnumber{text-transform:capitalize}
+            - *#header #revnumber::after{content:"\00a0"}
+            - *#content>h1:first-child:not([class]){color:rgba(0,0,0,.85);border-bottom:1px solid #dddddf;padding-bottom:8px;margin-top:0;padding-top:1rem;margin-bottom:1.25rem}
+            - *#toc{border-bottom:1px solid #e7e7e9;padding-bottom:.5em}
+            - *#toc>ul{margin-left:.125em}
+            - *#toc ul.sectlevel0>li>a{font-style:italic}
+            - *#toc ul.sectlevel0 ul.sectlevel1{margin:.5em 0}
+            - *#toc ul{font-family:"Open Sans","DejaVu Sans",sans-serif;list-style-type:none}
+            - *#toc li{line-height:1.3334;margin-top:.3334em}
+            - *#toc a{text-decoration:none}
+            - *#toc a:active{text-decoration:underline}
+            - *#toctitle{color:#7a2518;font-size:1.2em}
+            - *#toc.toc2{margin-top:0!important;background:#f8f8f7;position:fixed;width:15em;left:0;top:0;border-right:1px solid #e7e7e9;border-top-width:0!important;border-bottom-width:0!important;z-index:1000;padding:1.25em 1em;height:100%;overflow:auto}
+            - *#toc.toc2 #toctitle{margin-top:0;margin-bottom:.8rem;font-size:1.2em}
+            - *#toc.toc2>ul{font-size:.9em;margin-bottom:0}
+            - *#toc.toc2 ul ul{margin-left:0;padding-left:1em}
+            - *#toc.toc2 ul.sectlevel0 ul.sectlevel1{padding-left:0;margin-top:.5em;margin-bottom:.5em}
+            - *#toc.toc2{width:20em}
+            - *#toc.toc2 #toctitle{font-size:1.375em}
+            - *#toc.toc2>ul{font-size:.95em}
+            - *#toc.toc2 ul ul{padding-left:1.25em}
+            - *#content #toc{border-style:solid;border-width:1px;border-color:#e0e0dc;margin-bottom:1.25em;padding:1.25em;background:#f8f8f7;-webkit-border-radius:4px;border-radius:4px}
+            - *#content #toc>:first-child{margin-top:0}
+            - *#content #toc>:last-child{margin-bottom:0}
+            - *#footer{max-width:100%;background:rgba(0,0,0,.8);padding:1.25em}
+            - *#footer-text{color:rgba(255,255,255,.8);line-height:1.44}
+            - *#content{margin-bottom:.625em}
+            - *#content h1>a.anchor,h2>a.anchor,h3>a.anchor,#toctitle>a.anchor,.sidebarblock>.content>.title>a.anchor,h4>a.anchor,h5>a.anchor,h6>a.anchor{position:absolute;z-index:1001;width:1.5ex;margin-left:-1.5ex;display:block;text-decoration:none!important;visibility:hidden;text-align:center;font-weight:400}
+            - *#content h1>a.anchor::before,h2>a.anchor::before,h3>a.anchor::before,#toctitle>a.anchor::before,.sidebarblock>.content>.title>a.anchor::before,h4>a.anchor::before,h5>a.anchor::before,h6>a.anchor::before{content:"\00A7";font-size:.85em;display:block;padding-top:.1em}
+            - *#content h1:hover>a.anchor,#content h1>a.anchor:hover,h2:hover>a.anchor,h2>a.anchor:hover,h3:hover>a.anchor,#toctitle:hover>a.anchor,.sidebarblock>.content>.title:hover>a.anchor,h3>a.anchor:hover,#toctitle>a.anchor:hover,.sidebarblock>.content>.title>a.anchor:hover,h4:hover>a.anchor,h4>a.anchor:hover,h5:hover>a.anchor,h5>a.anchor:hover,h6:hover>a.anchor,h6>a.anchor:hover{visibility:visible}
+            - *#content h1>a.link,h2>a.link,h3>a.link,#toctitle>a.link,.sidebarblock>.content>.title>a.link,h4>a.link,h5>a.link,h6>a.link{color:#ba3925;text-decoration:none}
+            - *#content h1>a.link:hover,h2>a.link:hover,h3>a.link:hover,#toctitle>a.link:hover,.sidebarblock>.content>.title>a.link:hover,h4>a.link:hover,h5>a.link:hover,h6>a.link:hover{color:#a53221}
+            - *#footnotes{padding-top:.75em;padding-bottom:.75em;margin-bottom:.625em}
+            - *#footnotes hr{width:20%;min-width:6.25em;margin:-.25em 0 .75em;border-width:1px 0 0}
+            - *#footnotes .footnote{padding:0 .375em 0 .225em;line-height:1.3334;font-size:.875em;margin-left:1.2em;margin-bottom:.2em}
+            - *#footnotes .footnote a:first-of-type{font-weight:bold;text-decoration:none;margin-left:-1.05em}
+            - *#footnotes .footnote:last-of-type{margin-bottom:0}
+            - *#content #footnotes{margin-top:-.625em;margin-bottom:0;padding:.75em 0}
+            - *#toc,.sidebarblock,.exampleblock>.content{background:none!important}
+            - *#toc{border-bottom:1px solid #dddddf!important;padding-bottom:0!important}
+            - *#footer{padding:0 .9375em}
+            - *#footer{background:none}
+            - *#footer-text{color:rgba(0,0,0,.6);font-size:.9em}}
+    
+    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\_src\doc\git-doc_converted\technical\.shallow.html.dir\cat..shallow.html.dir\dir..shallow.html.dir.md">.shallow.html.dir</a>
+        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\_src\doc\git-doc_converted\technical\.shallow.html.dir\shallow.html.md">shallow.html.md</a>
+            - *#header,#content,#footnotes,#footer{width:100%;margin-left:auto;margin-right:auto;margin-top:0;margin-bottom:0;max-width:62.5em;*zoom:1;position:relative;padding-left:.9375em;padding-right:.9375em}
+            - *#header::before,#header::after,#content::before,#content::after,#footnotes::before,#footnotes::after,#footer::before,#footer::after{content:" ";display:table}
+            - *#header::after,#content::after,#footnotes::after,#footer::after{clear:both}
+            - *#content{margin-top:1.25em}
+            - *#content::before{content:none}
+            - *#header>h1:first-child{color:rgba(0,0,0,.85);margin-top:2.25rem;margin-bottom:0}
+            - *#header>h1:first-child+#toc{margin-top:8px;border-top:1px solid #dddddf}
+            - *#header>h1:only-child,body.toc2 #header>h1:nth-last-child(2){border-bottom:1px solid #dddddf;padding-bottom:8px}
+            - *#header .details{border-bottom:1px solid #dddddf;line-height:1.45;padding-top:.25em;padding-bottom:.25em;padding-left:.25em;color:rgba(0,0,0,.6);display:-ms-flexbox;display:-webkit-flex;display:flex;-ms-flex-flow:row wrap;-webkit-flex-flow:row wrap;flex-flow:row wrap}
+            - *#header .details span:first-child{margin-left:-.125em}
+            - *#header .details span.email a{color:rgba(0,0,0,.85)}
+            - *#header .details br{display:none}
+            - *#header .details br+span::before{content:"\00a0\2013\00a0"}
+            - *#header .details br+span.author::before{content:"\00a0\22c5\00a0";color:rgba(0,0,0,.85)}
+            - *#header .details br+span#revremark::before{content:"\00a0|\00a0"}
+            - *#header #revnumber{text-transform:capitalize}
+            - *#header #revnumber::after{content:"\00a0"}
+            - *#content>h1:first-child:not([class]){color:rgba(0,0,0,.85);border-bottom:1px solid #dddddf;padding-bottom:8px;margin-top:0;padding-top:1rem;margin-bottom:1.25rem}
+            - *#toc{border-bottom:1px solid #e7e7e9;padding-bottom:.5em}
+            - *#toc>ul{margin-left:.125em}
+            - *#toc ul.sectlevel0>li>a{font-style:italic}
+            - *#toc ul.sectlevel0 ul.sectlevel1{margin:.5em 0}
+            - *#toc ul{font-family:"Open Sans","DejaVu Sans",sans-serif;list-style-type:none}
+            - *#toc li{line-height:1.3334;margin-top:.3334em}
+            - *#toc a{text-decoration:none}
+            - *#toc a:active{text-decoration:underline}
+            - *#toctitle{color:#7a2518;font-size:1.2em}
+            - *#toc.toc2{margin-top:0!important;background:#f8f8f7;position:fixed;width:15em;left:0;top:0;border-right:1px solid #e7e7e9;border-top-width:0!important;border-bottom-width:0!important;z-index:1000;padding:1.25em 1em;height:100%;overflow:auto}
+            - *#toc.toc2 #toctitle{margin-top:0;margin-bottom:.8rem;font-size:1.2em}
+            - *#toc.toc2>ul{font-size:.9em;margin-bottom:0}
+            - *#toc.toc2 ul ul{margin-left:0;padding-left:1em}
+            - *#toc.toc2 ul.sectlevel0 ul.sectlevel1{padding-left:0;margin-top:.5em;margin-bottom:.5em}
+            - *#toc.toc2{width:20em}
+            - *#toc.toc2 #toctitle{font-size:1.375em}
+            - *#toc.toc2>ul{font-size:.95em}
+            - *#toc.toc2 ul ul{padding-left:1.25em}
+            - *#content #toc{border-style:solid;border-width:1px;border-color:#e0e0dc;margin-bottom:1.25em;padding:1.25em;background:#f8f8f7;-webkit-border-radius:4px;border-radius:4px}
+            - *#content #toc>:first-child{margin-top:0}
+            - *#content #toc>:last-child{margin-bottom:0}
+            - *#footer{max-width:100%;background:rgba(0,0,0,.8);padding:1.25em}
+            - *#footer-text{color:rgba(255,255,255,.8);line-height:1.44}
+            - *#content{margin-bottom:.625em}
+            - *#content h1>a.anchor,h2>a.anchor,h3>a.anchor,#toctitle>a.anchor,.sidebarblock>.content>.title>a.anchor,h4>a.anchor,h5>a.anchor,h6>a.anchor{position:absolute;z-index:1001;width:1.5ex;margin-left:-1.5ex;display:block;text-decoration:none!important;visibility:hidden;text-align:center;font-weight:400}
+            - *#content h1>a.anchor::before,h2>a.anchor::before,h3>a.anchor::before,#toctitle>a.anchor::before,.sidebarblock>.content>.title>a.anchor::before,h4>a.anchor::before,h5>a.anchor::before,h6>a.anchor::before{content:"\00A7";font-size:.85em;display:block;padding-top:.1em}
+            - *#content h1:hover>a.anchor,#content h1>a.anchor:hover,h2:hover>a.anchor,h2>a.anchor:hover,h3:hover>a.anchor,#toctitle:hover>a.anchor,.sidebarblock>.content>.title:hover>a.anchor,h3>a.anchor:hover,#toctitle>a.anchor:hover,.sidebarblock>.content>.title>a.anchor:hover,h4:hover>a.anchor,h4>a.anchor:hover,h5:hover>a.anchor,h5>a.anchor:hover,h6:hover>a.anchor,h6>a.anchor:hover{visibility:visible}
+            - *#content h1>a.link,h2>a.link,h3>a.link,#toctitle>a.link,.sidebarblock>.content>.title>a.link,h4>a.link,h5>a.link,h6>a.link{color:#ba3925;text-decoration:none}
+            - *#content h1>a.link:hover,h2>a.link:hover,h3>a.link:hover,#toctitle>a.link:hover,.sidebarblock>.content>.title>a.link:hover,h4>a.link:hover,h5>a.link:hover,h6>a.link:hover{color:#a53221}
+            - *#footnotes{padding-top:.75em;padding-bottom:.75em;margin-bottom:.625em}
+            - *#footnotes hr{width:20%;min-width:6.25em;margin:-.25em 0 .75em;border-width:1px 0 0}
+            - *#footnotes .footnote{padding:0 .375em 0 .225em;line-height:1.3334;font-size:.875em;margin-left:1.2em;margin-bottom:.2em}
+            - *#footnotes .footnote a:first-of-type{font-weight:bold;text-decoration:none;margin-left:-1.05em}
+            - *#footnotes .footnote:last-of-type{margin-bottom:0}
+            - *#content #footnotes{margin-top:-.625em;margin-bottom:0;padding:.75em 0}
+            - *#toc,.sidebarblock,.exampleblock>.content{background:none!important}
+            - *#toc{border-bottom:1px solid #dddddf!important;padding-bottom:0!important}
+            - *#footer{padding:0 .9375em}
+            - *#footer{background:none}
+            - *#footer-text{color:rgba(0,0,0,.6);font-size:.9em}}
+    
+    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\_src\doc\git-doc_converted\technical\.signature-format.html.dir\cat..signature-format.html.dir\dir..signature-format.html.dir.md">.signature-format.html.dir</a>
+        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\_src\doc\git-doc_converted\technical\.signature-format.html.dir\signature-format.html.md">signature-format.html.md</a>
+            - *#header,#content,#footnotes,#footer{width:100%;margin-left:auto;margin-right:auto;margin-top:0;margin-bottom:0;max-width:62.5em;*zoom:1;position:relative;padding-left:.9375em;padding-right:.9375em}
+            - *#header::before,#header::after,#content::before,#content::after,#footnotes::before,#footnotes::after,#footer::before,#footer::after{content:" ";display:table}
+            - *#header::after,#content::after,#footnotes::after,#footer::after{clear:both}
+            - *#content{margin-top:1.25em}
+            - *#content::before{content:none}
+            - *#header>h1:first-child{color:rgba(0,0,0,.85);margin-top:2.25rem;margin-bottom:0}
+            - *#header>h1:first-child+#toc{margin-top:8px;border-top:1px solid #dddddf}
+            - *#header>h1:only-child,body.toc2 #header>h1:nth-last-child(2){border-bottom:1px solid #dddddf;padding-bottom:8px}
+            - *#header .details{border-bottom:1px solid #dddddf;line-height:1.45;padding-top:.25em;padding-bottom:.25em;padding-left:.25em;color:rgba(0,0,0,.6);display:-ms-flexbox;display:-webkit-flex;display:flex;-ms-flex-flow:row wrap;-webkit-flex-flow:row wrap;flex-flow:row wrap}
+            - *#header .details span:first-child{margin-left:-.125em}
+            - *#header .details span.email a{color:rgba(0,0,0,.85)}
+            - *#header .details br{display:none}
+            - *#header .details br+span::before{content:"\00a0\2013\00a0"}
+            - *#header .details br+span.author::before{content:"\00a0\22c5\00a0";color:rgba(0,0,0,.85)}
+            - *#header .details br+span#revremark::before{content:"\00a0|\00a0"}
+            - *#header #revnumber{text-transform:capitalize}
+            - *#header #revnumber::after{content:"\00a0"}
+            - *#content>h1:first-child:not([class]){color:rgba(0,0,0,.85);border-bottom:1px solid #dddddf;padding-bottom:8px;margin-top:0;padding-top:1rem;margin-bottom:1.25rem}
+            - *#toc{border-bottom:1px solid #e7e7e9;padding-bottom:.5em}
+            - *#toc>ul{margin-left:.125em}
+            - *#toc ul.sectlevel0>li>a{font-style:italic}
+            - *#toc ul.sectlevel0 ul.sectlevel1{margin:.5em 0}
+            - *#toc ul{font-family:"Open Sans","DejaVu Sans",sans-serif;list-style-type:none}
+            - *#toc li{line-height:1.3334;margin-top:.3334em}
+            - *#toc a{text-decoration:none}
+            - *#toc a:active{text-decoration:underline}
+            - *#toctitle{color:#7a2518;font-size:1.2em}
+            - *#toc.toc2{margin-top:0!important;background:#f8f8f7;position:fixed;width:15em;left:0;top:0;border-right:1px solid #e7e7e9;border-top-width:0!important;border-bottom-width:0!important;z-index:1000;padding:1.25em 1em;height:100%;overflow:auto}
+            - *#toc.toc2 #toctitle{margin-top:0;margin-bottom:.8rem;font-size:1.2em}
+            - *#toc.toc2>ul{font-size:.9em;margin-bottom:0}
+            - *#toc.toc2 ul ul{margin-left:0;padding-left:1em}
+            - *#toc.toc2 ul.sectlevel0 ul.sectlevel1{padding-left:0;margin-top:.5em;margin-bottom:.5em}
+            - *#toc.toc2{width:20em}
+            - *#toc.toc2 #toctitle{font-size:1.375em}
+            - *#toc.toc2>ul{font-size:.95em}
+            - *#toc.toc2 ul ul{padding-left:1.25em}
+            - *#content #toc{border-style:solid;border-width:1px;border-color:#e0e0dc;margin-bottom:1.25em;padding:1.25em;background:#f8f8f7;-webkit-border-radius:4px;border-radius:4px}
+            - *#content #toc>:first-child{margin-top:0}
+            - *#content #toc>:last-child{margin-bottom:0}
+            - *#footer{max-width:100%;background:rgba(0,0,0,.8);padding:1.25em}
+            - *#footer-text{color:rgba(255,255,255,.8);line-height:1.44}
+            - *#content{margin-bottom:.625em}
+            - *#content h1>a.anchor,h2>a.anchor,h3>a.anchor,#toctitle>a.anchor,.sidebarblock>.content>.title>a.anchor,h4>a.anchor,h5>a.anchor,h6>a.anchor{position:absolute;z-index:1001;width:1.5ex;margin-left:-1.5ex;display:block;text-decoration:none!important;visibility:hidden;text-align:center;font-weight:400}
+            - *#content h1>a.anchor::before,h2>a.anchor::before,h3>a.anchor::before,#toctitle>a.anchor::before,.sidebarblock>.content>.title>a.anchor::before,h4>a.anchor::before,h5>a.anchor::before,h6>a.anchor::before{content:"\00A7";font-size:.85em;display:block;padding-top:.1em}
+            - *#content h1:hover>a.anchor,#content h1>a.anchor:hover,h2:hover>a.anchor,h2>a.anchor:hover,h3:hover>a.anchor,#toctitle:hover>a.anchor,.sidebarblock>.content>.title:hover>a.anchor,h3>a.anchor:hover,#toctitle>a.anchor:hover,.sidebarblock>.content>.title>a.anchor:hover,h4:hover>a.anchor,h4>a.anchor:hover,h5:hover>a.anchor,h5>a.anchor:hover,h6:hover>a.anchor,h6>a.anchor:hover{visibility:visible}
+            - *#content h1>a.link,h2>a.link,h3>a.link,#toctitle>a.link,.sidebarblock>.content>.title>a.link,h4>a.link,h5>a.link,h6>a.link{color:#ba3925;text-decoration:none}
+            - *#content h1>a.link:hover,h2>a.link:hover,h3>a.link:hover,#toctitle>a.link:hover,.sidebarblock>.content>.title>a.link:hover,h4>a.link:hover,h5>a.link:hover,h6>a.link:hover{color:#a53221}
+            - *#footnotes{padding-top:.75em;padding-bottom:.75em;margin-bottom:.625em}
+            - *#footnotes hr{width:20%;min-width:6.25em;margin:-.25em 0 .75em;border-width:1px 0 0}
+            - *#footnotes .footnote{padding:0 .375em 0 .225em;line-height:1.3334;font-size:.875em;margin-left:1.2em;margin-bottom:.2em}
+            - *#footnotes .footnote a:first-of-type{font-weight:bold;text-decoration:none;margin-left:-1.05em}
+            - *#footnotes .footnote:last-of-type{margin-bottom:0}
+            - *#content #footnotes{margin-top:-.625em;margin-bottom:0;padding:.75em 0}
+            - *#toc,.sidebarblock,.exampleblock>.content{background:none!important}
+            - *#toc{border-bottom:1px solid #dddddf!important;padding-bottom:0!important}
+            - *#footer{padding:0 .9375em}
+            - *#footer{background:none}
+            - *#footer-text{color:rgba(0,0,0,.6);font-size:.9em}}
+            - *# gpg: Signature made Wed Jun 15 08:56:46 2016 UTC using RSA key ID B7227189
+            - *# gpg: Good signature from "Eris Discordia &lt;discord@example.net&gt;"
+            - *# gpg: WARNING: This key is not certified with a trusted signature!
+            - *# gpg:          There is no indication that the signature belongs to the owner.
+            - *# Primary key fingerprint: D4BE 2231 1AD3 131E 5EDA  29A4 6109 2E85 B722 7189</pre>
+    
+    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\_src\doc\git-doc_converted\technical\.trivial-merge.html.dir\cat..trivial-merge.html.dir\dir..trivial-merge.html.dir.md">.trivial-merge.html.dir</a>
+        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\_src\doc\git-doc_converted\technical\.trivial-merge.html.dir\trivial-merge.html.md">trivial-merge.html.md</a>
+            - *#header,#content,#footnotes,#footer{width:100%;margin-left:auto;margin-right:auto;margin-top:0;margin-bottom:0;max-width:62.5em;*zoom:1;position:relative;padding-left:.9375em;padding-right:.9375em}
+            - *#header::before,#header::after,#content::before,#content::after,#footnotes::before,#footnotes::after,#footer::before,#footer::after{content:" ";display:table}
+            - *#header::after,#content::after,#footnotes::after,#footer::after{clear:both}
+            - *#content{margin-top:1.25em}
+            - *#content::before{content:none}
+            - *#header>h1:first-child{color:rgba(0,0,0,.85);margin-top:2.25rem;margin-bottom:0}
+            - *#header>h1:first-child+#toc{margin-top:8px;border-top:1px solid #dddddf}
+            - *#header>h1:only-child,body.toc2 #header>h1:nth-last-child(2){border-bottom:1px solid #dddddf;padding-bottom:8px}
+            - *#header .details{border-bottom:1px solid #dddddf;line-height:1.45;padding-top:.25em;padding-bottom:.25em;padding-left:.25em;color:rgba(0,0,0,.6);display:-ms-flexbox;display:-webkit-flex;display:flex;-ms-flex-flow:row wrap;-webkit-flex-flow:row wrap;flex-flow:row wrap}
+            - *#header .details span:first-child{margin-left:-.125em}
+            - *#header .details span.email a{color:rgba(0,0,0,.85)}
+            - *#header .details br{display:none}
+            - *#header .details br+span::before{content:"\00a0\2013\00a0"}
+            - *#header .details br+span.author::before{content:"\00a0\22c5\00a0";color:rgba(0,0,0,.85)}
+            - *#header .details br+span#revremark::before{content:"\00a0|\00a0"}
+            - *#header #revnumber{text-transform:capitalize}
+            - *#header #revnumber::after{content:"\00a0"}
+            - *#content>h1:first-child:not([class]){color:rgba(0,0,0,.85);border-bottom:1px solid #dddddf;padding-bottom:8px;margin-top:0;padding-top:1rem;margin-bottom:1.25rem}
+            - *#toc{border-bottom:1px solid #e7e7e9;padding-bottom:.5em}
+            - *#toc>ul{margin-left:.125em}
+            - *#toc ul.sectlevel0>li>a{font-style:italic}
+            - *#toc ul.sectlevel0 ul.sectlevel1{margin:.5em 0}
+            - *#toc ul{font-family:"Open Sans","DejaVu Sans",sans-serif;list-style-type:none}
+            - *#toc li{line-height:1.3334;margin-top:.3334em}
+            - *#toc a{text-decoration:none}
+            - *#toc a:active{text-decoration:underline}
+            - *#toctitle{color:#7a2518;font-size:1.2em}
+            - *#toc.toc2{margin-top:0!important;background:#f8f8f7;position:fixed;width:15em;left:0;top:0;border-right:1px solid #e7e7e9;border-top-width:0!important;border-bottom-width:0!important;z-index:1000;padding:1.25em 1em;height:100%;overflow:auto}
+            - *#toc.toc2 #toctitle{margin-top:0;margin-bottom:.8rem;font-size:1.2em}
+            - *#toc.toc2>ul{font-size:.9em;margin-bottom:0}
+            - *#toc.toc2 ul ul{margin-left:0;padding-left:1em}
+            - *#toc.toc2 ul.sectlevel0 ul.sectlevel1{padding-left:0;margin-top:.5em;margin-bottom:.5em}
+            - *#toc.toc2{width:20em}
+            - *#toc.toc2 #toctitle{font-size:1.375em}
+            - *#toc.toc2>ul{font-size:.95em}
+            - *#toc.toc2 ul ul{padding-left:1.25em}
+            - *#content #toc{border-style:solid;border-width:1px;border-color:#e0e0dc;margin-bottom:1.25em;padding:1.25em;background:#f8f8f7;-webkit-border-radius:4px;border-radius:4px}
+            - *#content #toc>:first-child{margin-top:0}
+            - *#content #toc>:last-child{margin-bottom:0}
+            - *#footer{max-width:100%;background:rgba(0,0,0,.8);padding:1.25em}
+            - *#footer-text{color:rgba(255,255,255,.8);line-height:1.44}
+            - *#content{margin-bottom:.625em}
+            - *#content h1>a.anchor,h2>a.anchor,h3>a.anchor,#toctitle>a.anchor,.sidebarblock>.content>.title>a.anchor,h4>a.anchor,h5>a.anchor,h6>a.anchor{position:absolute;z-index:1001;width:1.5ex;margin-left:-1.5ex;display:block;text-decoration:none!important;visibility:hidden;text-align:center;font-weight:400}
+            - *#content h1>a.anchor::before,h2>a.anchor::before,h3>a.anchor::before,#toctitle>a.anchor::before,.sidebarblock>.content>.title>a.anchor::before,h4>a.anchor::before,h5>a.anchor::before,h6>a.anchor::before{content:"\00A7";font-size:.85em;display:block;padding-top:.1em}
+            - *#content h1:hover>a.anchor,#content h1>a.anchor:hover,h2:hover>a.anchor,h2>a.anchor:hover,h3:hover>a.anchor,#toctitle:hover>a.anchor,.sidebarblock>.content>.title:hover>a.anchor,h3>a.anchor:hover,#toctitle>a.anchor:hover,.sidebarblock>.content>.title>a.anchor:hover,h4:hover>a.anchor,h4>a.anchor:hover,h5:hover>a.anchor,h5>a.anchor:hover,h6:hover>a.anchor,h6>a.anchor:hover{visibility:visible}
+            - *#content h1>a.link,h2>a.link,h3>a.link,#toctitle>a.link,.sidebarblock>.content>.title>a.link,h4>a.link,h5>a.link,h6>a.link{color:#ba3925;text-decoration:none}
+            - *#content h1>a.link:hover,h2>a.link:hover,h3>a.link:hover,#toctitle>a.link:hover,.sidebarblock>.content>.title>a.link:hover,h4>a.link:hover,h5>a.link:hover,h6>a.link:hover{color:#a53221}
+            - *#footnotes{padding-top:.75em;padding-bottom:.75em;margin-bottom:.625em}
+            - *#footnotes hr{width:20%;min-width:6.25em;margin:-.25em 0 .75em;border-width:1px 0 0}
+            - *#footnotes .footnote{padding:0 .375em 0 .225em;line-height:1.3334;font-size:.875em;margin-left:1.2em;margin-bottom:.2em}
+            - *#footnotes .footnote a:first-of-type{font-weight:bold;text-decoration:none;margin-left:-1.05em}
+            - *#footnotes .footnote:last-of-type{margin-bottom:0}
+            - *#content #footnotes{margin-top:-.625em;margin-bottom:0;padding:.75em 0}
+            - *#toc,.sidebarblock,.exampleblock>.content{background:none!important}
+            - *#toc{border-bottom:1px solid #dddddf!important;padding-bottom:0!important}
+            - *#footer{padding:0 .9375em}
+            - *#footer{background:none}
+            - *#footer-text{color:rgba(0,0,0,.6);font-size:.9em}}
+            - *#1. This is not used, due to the likelihood that it arises due to
+    

@@ -1,0 +1,6 @@
+- <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Arch\_EGE\Русский\contaners\contaner_1\19\cat.19\dir.19.md">19</a>
+    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Arch\_EGE\Русский\contaners\contaner_1\19\100ka.md">100ka.md</a>
+        - *# 
+    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Arch\_EGE\Русский\contaners\contaner_1\19\rus_ege.md">rus_ege.md</a>
+        - *# Задание 19. Знаки препинания в сложноподчинённом предложении Подробнее
+        - *# СЛОЖНОПОДЧИНЁННОЕ ПРЕДЛОЖЕНИЕ КАК ЕДИНИЦА СИНТАКСИСА

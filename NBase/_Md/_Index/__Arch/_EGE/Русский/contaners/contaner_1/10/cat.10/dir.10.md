@@ -1,0 +1,13 @@
+- <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Arch\_EGE\Русский\contaners\contaner_1\10\cat.10\dir.10.md">10</a>
+    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Arch\_EGE\Русский\contaners\contaner_1\10\essens.md">essens.md</a>
+        - *# Ы И после приставки
+        - *# Ь Ъ
+        - *# З С
+    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Arch\_EGE\Русский\contaners\contaner_1\10\rus_ege.md">rus_ege.md</a>
+        - *# Задание 10. Правописание приставок. Обобщение Подробнее
+        - *### 9.1.1 Не изменяющиеся на письме приставки
+        - *### 9.1.2 Приставки, оканчивающиеся на буквы З и С
+        - *### 9.1.3 Приставки ПРЕ и ПРИ
+        - *### 9.1.4 Приставки РАС и РОЗ
+        - *### 9.2.1 Написание разделительного мягкого и твёрдого знака после приставок
+        - *### 9.2.2 Написание Ы и И после приставок

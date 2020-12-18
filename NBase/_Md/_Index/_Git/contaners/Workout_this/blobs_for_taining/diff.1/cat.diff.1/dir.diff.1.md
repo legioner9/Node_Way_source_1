@@ -1,0 +1,77 @@
+- <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\diff.1\cat.diff.1\dir.diff.1.md">diff.1</a>
+    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\diff.1\Git_what_trane{diff}@1_{repo}\cat.Git_what_trane{diff}@1_{repo}\dir.Git_what_trane{diff}@1_{repo}.md">Git_what_trane{diff}@1_{repo}</a>
+        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\diff.1\Git_what_trane{diff}@1_{repo}\create_bind_repo.md">create_bind_repo.md</a>
+            - *# create repo
+            - *# bind repo
+        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\diff.1\Git_what_trane{diff}@1_{repo}\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
+            - *## {st} - (blob|ident) area :ident{stash}::blob: + :blob:
+            - *## {fs} - (file) area :file:
+            - *## {ws} - (ident) area :wd::file: - label on unstage file 
+            - *## {in} - (ident) area :in::file: - label on stage file
+            - *## {lr} - (blob|ident) area :ident{local repo}::blob: + :blob:
+            - *## {ur} - (blob|ident) area :ident{upstr repo}::blob: + :blob:
+            - *## git init
+            - *## create mas1
+            - *##  add mas1
+            - *## commit mas1
+            - *## touch mas2
+            - *## sta1 go to {stash}
+            - *### atten! {stash} add modif {ws}
+            - *## bring inside mas3   
+            - *## bring clear_workspaced (cl_ws)
+            - *## bring clear_indexed (cl_in)
+            - *## bring modifi_indexed (mo_in)
+        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\diff.1\Git_what_trane{diff}@1_{repo}\create_what_trane.md">create_what_trane.md</a>
+            - *## NAME
+            - *## SYNOPSIS
+            - *## DESCRIPTION
+            - *### git diff [\<options>] [--] [\<path>…​]
+            - *### git diff [\<options>] --no-index [--] \<path> \<path>
+            - *### git diff [\<options>] --cached [\<commit>] [--] [\<path>…​]
+            - *### git diff [\<options>] \<commit> [--] [\<path>…​]
+            - *### git diff [\<options>] \<commit> \<commit> [--] [\<path>…​]
+            - *### git diff [\<options>] \<commit> \<commit>…​ \<commit> [--] [\<path>…​]
+            - *### git diff [\<options>] \<commit>..\<commit> [--] [\<path>…​]
+            - *### git diff [\<options>] \<commit>...\<commit> [--] [\<path>…​]
+            - *### git diff [\<options>] \<blob> \<blob>
+            - *## OPTIONS
+            - *### -p
+            - *### -u
+            - *### -s
+            - *### -U\<n>
+            - *### -X[\<param1,param2,…​>]
+            - *### -z
+            - *### -B[\<n>][/\<m>]
+            - *### -M[\<n>]
+            - *### -C[\<n>]
+            - *### -D
+            - *### -l\<num>
+            - *### -S\<string>
+            - *### -G\<regex>
+            - *### -O\<orderfile>
+            - *### -R
+            - *### -a
+            - *### -b
+            - *### -w
+            - *### -W
+            - *### -1 --base
+            - *### -2 --ours
+            - *### -3 --theirs
+            - *### -0
+            - *### \<path>…​
+            - *### Raw output format
+            - *### diff format for merges
+            - *### Generating patch text with -p
+            - *### Combined diff format
+            - *### other diff formats
+            - *## EXAMPLES
+            - *### Various ways to check your working tree
+            - *#
+            - *### Comparing with arbitrary commits
+            - *# 
+            - *### Comparing branches
+            - *#
+            - *### Limiting the diff output
+            - *# 
+            - *# 
+    

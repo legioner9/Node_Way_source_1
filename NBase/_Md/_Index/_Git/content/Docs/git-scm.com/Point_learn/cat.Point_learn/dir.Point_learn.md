@@ -1,0 +1,37 @@
+- <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\git-scm.com\Point_learn\cat.Point_learn\dir.Point_learn.md">Point_learn</a>
+    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\git-scm.com\Point_learn\Guides\cat.Guides\dir.Guides.md">Guides</a>
+        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\git-scm.com\Point_learn\Guides\Command-line_interface_conventions.md">Command-line_interface_conventions.md</a>
+            - *# NAME
+            - *# SYNOPSIS
+            - *# DESCRIPTION
+            - *# ENHANCED OPTION PARSER
+            - *## Magic Options
+            - *## Negating options
+            - *## Aggregating short options
+            - *## Abbreviating long options
+            - *# NOTES ON FREQUENTLY CONFUSED OPTIONS
+        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\git-scm.com\Point_learn\Guides\gitattributes.md">gitattributes.md</a>
+            - *# [gitattributes](https://git-scm.com/docs/gitattributes)
+            - *## NAME
+            - *## SYNOPSIS
+            - *## DESCRIPTION
+        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\git-scm.com\Point_learn\Guides\gitattributes.md.dir\cat.gitattributes.md.dir\dir.gitattributes.md.dir.md">gitattributes.md.dir</a>
+            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\git-scm.com\Point_learn\Guides\gitattributes.md.dir\ReadMe.md">ReadMe.md</a>
+        
+    
+    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\git-scm.com\Point_learn\_.Reference.md">_.Reference.md</a>
+        - *# [Reference](https://git-scm.com/docs)
+        - *## Установка и конфигурация
+        - *## Получение и создание проектов
+        - *## Базовый снимок
+        - *## Ветвление и слияние
+        - *## Совместное использование и обновление проектов
+        - *## Осмотр и сравнение
+        - *## Патчинг
+        - *## Отладка
+        - *## Гиды
+        - *## Эл. адрес
+        - *## Внешние системы
+        - *## Администрация
+        - *## Администратор сервера
+        - *## Команды сантехника

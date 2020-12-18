@@ -1,0 +1,830 @@
+- <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Postgres\cat._Postgres\dir._Postgres.md">_Postgres</a>
+    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Postgres\GUI\cat.GUI\dir.GUI.md">GUI</a>
+        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Postgres\GUI\content\cat.content\dir.content.md">content</a>
+            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Postgres\GUI\content\Docs\cat.Docs\dir.Docs.md">Docs</a>
+                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Postgres\GUI\content\Docs\sites_docs.com\cat.sites_docs.com\dir.sites_docs.com.md">sites_docs.com</a>
+                    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Postgres\GUI\content\Docs\sites_docs.com\site_docs.com copy.md">site_docs.com copy.md</a>
+                        - *# Сущности
+                
+            
+            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Postgres\GUI\content\Usage\cat.Usage\dir.Usage.md">Usage</a>
+                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Postgres\GUI\content\Usage\SetComand.md">SetComand.md</a>
+                    - *#ls
+                    - *# touch
+                    - *# mkdir
+                    - *# mv
+                    - *## mv as rename
+                    - *# cp (dubl + mv)
+                    - *# rm 
+                    - *# cat
+                    - *# (runtime start)
+                    - *## chmod 
+                    - *## sh
+                    - *# ps
+                    - *# man 
+                    - *# head
+                    - *# tail 
+                    - *# stdin
+                    - *# stdout
+                    - *# [less](less/___setcomand.md)
+                    - *# curl
+                    - *# grep
+            
+        
+    
+    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Postgres\postgrespro.ru_12\cat.postgrespro.ru_12\dir.postgrespro.ru_12.md">postgrespro.ru_12</a>
+        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Postgres\postgrespro.ru_12\content\cat.content\dir.content.md">content</a>
+            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Postgres\postgrespro.ru_12\content\datatype.md">datatype.md</a>
+                - *# 8. Типы данных
+                - *## 8.1. Числовые типы
+                - *### 8.1.1. Целочисленные типы
+                - *### 8.1.2 Числа с произвольной точностью
+                - *### 8.1.4 Последовательные типы
+                - *## 8.2. Денежные типы
+                - *## 8.3. Символьные типы
+                - *## 8.4. Двоичные типы данных
+                - *### 8.4.1. Шестнадцатеричный формат bytea
+                - *### 8.4.2 Формат спецпоследовательностей bytea
+                - *## 8.5. Типы даты/времени
+                - *### 8.5.1. Ввод даты/времени
+                - *#### 8.5.1.1. Даты
+                - *#### 8.5.1.2. Время
+                - *#### 8.5.1.3. Даты и время
+                - *#### 8.5.1.4. Специальные значения
+                - *### 8.5.2. Вывод даты/времени
+                - *### 8.5.3. Часовые пояса
+                - *### 8.5.4. Ввод интервалов
+                - *### 8.5.5. Вывод интервалов
+                - *### 8.7.3. Безопасность типа
+                - *### 8.7.4. Тонкости реализации
+                - *## 8.8. Геометрические типы
+                - *### 8.8.1. Точки
+                - *### 8.8.2. Прямые
+                - *### 8.8.3. Отрезки
+                - *### 8.8.4. Прямоугольники
+                - *### 8.8.5. Пути
+                - *### 8.8.6. Многоугольники
+                - *### 8.8.7. Окружности
+                - *## 8.9. Типы, описывающие сетевые адреса
+                - *### 8.9.1. inet
+                - *### 8.9.2. cidr
+                - *### 8.9.3. Различия inet и cidr
+                - *### 8.9.4. macaddr
+                - *### 8.9.5. macaddr8
+                - *## 8.10. Битовые строки
+                - *## 8.11. Типы, предназначенные для текстового поиска
+                - *### 8.11.1. tsvector
+                - *### 8.11.2. tsquery
+                - *## 8.12. Тип UUID
+                - *## 8.13. Тип XML
+                - *### 8.13.1. Создание XML-значений
+                - *### 8.13.2. Обработка кодировки
+                - *### 8.13.3. Обращение к XML-значениям
+                - *## 8.14. Типы JSON
+                - *### 8.14.1. Синтаксис вводимых и выводимых значений JSON
+                - *### 8.14.2. Проектирование документов JSON
+                - *### 8.14.3. Проверки на вхождение и существование jsonb
+                - *### 8.14.4. Индексация jsonb
+                - *### 8.14.5. Трансформации
+                - *### 8.14.6. Тип jsonpath
+                - *## 8.15. Массивы
+                - *### 8.15.1. Объявления типов массивов
+                - *### 8.15.2. Ввод значения массива
+                - *### 8.15.3. Обращение к массивам
+                - *### 8.15.4. Изменение массивов
+                - *### 8.15.5. Поиск значений в массивах
+                - *### 8.15.6. Синтаксис вводимых и выводимых значений массива
+            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Postgres\postgrespro.ru_12\content\datatype_2.md">datatype_2.md</a>
+                - *### 8.16.1. Объявление составных типов
+                - *### 8.16.2. Конструирование составных значений
+                - *### 8.16.3. Обращение к составным типам
+                - *### 8.16.4. Изменение составных типов
+                - *### 8.16.5. Использование составных типов в запросах
+                - *### 8.16.6. Синтаксис вводимых и выводимых значений составного типа
+                - *## 8.17. Диапазонные типы
+                - *### 8.17.1. Встроенные диапазонные типы
+                - *### 8.17.2. Примеры
+                - *### 8.17.3. Включение и исключение границ
+                - *### 8.17.4. Неограниченные (бесконечные) диапазоны
+                - *### 8.17.5. Ввод/вывод диапазонов
+                - *### 8.17.6. Конструирование диапазонов
+                - *### 8.17.7. Типы дискретных диапазонов
+                - *### 8.17.8. Определение новых диапазонных типов
+                - *### 8.17.9. Индексация
+                - *### 8.17.10. Ограничения для диапазонов
+                - *## 8.18. Типы доменов
+                - *## 8.19. Идентификаторы объектов
+                - *## 8.20. Тип pg_lsn
+                - *## 8.21. Псевдотипы
+            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Postgres\postgrespro.ru_12\content\ddl.md">ddl.md</a>
+                - *## [5.1. Основы таблиц](https://postgrespro.ru/docs/postgrespro/12/ddl-basics)
+                - *## [5.2. Значения по умолчанию](https://postgrespro.ru/docs/postgrespro/12/ddl-default)
+                - *### SERIAL
+                - *## [5.3. Генерируемые столбцы](https://postgrespro.ru/docs/postgrespro/12/ddl-generated-columns)
+                - *### GENERATED , STORED
+                - *## [5.4. Ограничения](https://postgrespro.ru/docs/postgrespro/12/ddl-constraints)
+                - *### 5.4.1. Ограничения-проверки
+                - *### 5.4.2. Ограничения NOT NULL
+                - *### 5.4.3. Ограничения уникальности
+                - *### 5.4.4. Первичные ключи
+                - *### 5.4.5. Внешние ключи
+                - *#### RESTRICT 
+                - *#### CASCADE
+                - *### 5.4.6. Ограничения-исключения
+                - *## [5.5. Системные столбцы](https://postgrespro.ru/docs/postgrespro/12/ddl-system-columns)
+                - *### tableoid
+                - *### xmin
+                - *### cmin
+                - *### xmax
+                - *### cmax
+                - *### ctid
+                - *## [5.6. Изменение таблиц](https://postgrespro.ru/docs/postgrespro/12/ddl-alter)
+                - *### 5.6.1. Добавление столбца
+                - *#### ADD COLUMN
+                - *##### Add column steps:
+                - *###### without Defolt 
+                - *###### Update 
+                - *###### add Defolt value
+                - *##### with CHECK
+                - *### 5.6.2. Удаление столбца
+                - *#### DROP COLUMN
+                - *#### DROP COLUMN description CASCADE
+                - *### 5.6.3. Добавление ограничения
+                - *#### ADD CONSTRAINT
+                - *#### ADD CONSTRAINT SET NOT NULL
+                - *### 5.6.4. Удаление ограничения
+                - *#### DROP CONSTRAINT (some_name)
+                - *#### DROP CONSTRAINT NOT NULL
+                - *### 5.6.5. Изменение значения по умолчанию
+                - *#### SET DEFAULT
+                - *#### DROP DEFAULT
+                - *### 5.6.6. Изменение типа данных столбца
+                - *#### TYPE
+                - *### 5.6.7. Переименование столбца
+                - *#### RENAME COLUMN ... TO
+                - *### 5.6.8. Переименование таблицы
+                - *#### RENAME T
+                - *## [5.7. Права](https://postgrespro.ru/docs/postgrespro/12/ddl-priv)
+                - *### ALTER TABLE ... OWNER TO
+                - *### GRANT UPDATE ON ... TO
+                - *### GRANT ALL ON ... TO    
+                - *### REVOKE
+                - *### Rights of use
+                - *#### SELECT
+                - *#### INSERT
+                - *#### UPDATE
+                - *#### DELETE
+                - *#### TRUNCATE
+                - *#### REFERENCES
+                - *#### TRIGGER
+                - *#### CREATE
+                - *#### CONNECT
+                - *##### pg_hba.conf
+                - *#### EXECUTE (к функциям)
+                - *#### USAGE (к процедурным языкам)
+                - *#### ALTER DEFAULT PRIVILEGES
+                - *## [5.8. Политики защиты строк](https://postgrespro.ru/docs/postgrespro/12/ddl-rowsecurity)
+                - *### RLS, Row-Level Security
+                - *### ALTER TABLE ... ENABLE ROW LEVEL SECURITY
+                - *#### attr BYPASSRLS
+                - *#### ALTER TABLE ... FORCE ROW LEVEL SECURITY
+                - *#### row_security значение off
+                - *## [5.9. Схемы](https://postgrespro.ru/docs/postgrespro/12/ddl-schemas)
+                - *### 5.9.1. Создание схемы
+                - *### 5.9.2. Схема public
+                - *### 5.9.3. Путь поиска схемы
+                - *### 5.9.4. Схемы и права
+                - *### 5.9.5. Схема системного каталога
+                - *### 5.9.6. Шаблоны использования
+                - *### 5.9.7. Переносимость
+                - *## [5.10. Наследование](https://postgrespro.ru/docs/postgrespro/12/ddl-inherit)
+                - *### 5.10.1 Ограничения
+                - *##  [5.11. Секционирование таблиц](https://postgrespro.ru/docs/postgrespro/12/ddl-partitioning)
+                - *### 5.11.1. Обзор
+                - *### 5.11.2 Декларативное секционирование
+                - *#### Пример
+                - *#### Ограничения
+                - *### 5.11.3 Реализация с использованием наследования
+                - *#### Пример
+                - *#### Обслуживание таблиц, секционированных через наследование
+                - *#### Ограничения
+                - *### 5.11.4. Устранение секций
+                - *### 5.11.5. Секционирование и исключение по ограничению
+                - *### 5.11.6. Рекомендации по декларативному секционированию
+                - *## [5.12. Сторонние данные](https://postgrespro.ru/docs/postgrespro/12/ddl-foreign-data)
+                - *## [5.13. Другие объекты баз данных](https://postgrespro.ru/docs/postgrespro/12/ddl-others)
+                - *## [5.14.Отслеживание зависимостей](https://postgrespro.ru/docs/postgrespro/12/ddl-depend)
+            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Postgres\postgrespro.ru_12\content\dml.md">dml.md</a>
+                - *# 6.1. Добавление данных
+                - *# 6.2. Изменение данных
+                - *# 6.3. Удаление данных
+                - *# 6.4. Возврат данных из изменённых строк
+            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Postgres\postgrespro.ru_12\content\functions.md">functions.md</a>
+                - *# 9. Функции и операторы
+                - *## 9.1. Логические операторы
+                - *## 9.2. Функции и операторы сравнения
+                - *## 9.3. Математические функции и операторы
+                - *## 9.4. Строковые функции и операторы
+                - *### 9.4.1. format
+                - *#### позиция (необязателен)
+                - *#### флаги (необязателен)
+                - *#### ширина (необязателен)
+                - *#### тип (обязателен)
+            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Postgres\postgrespro.ru_12\content\functions_10.md">functions_10.md</a>
+                - *## 9.10. Функции для перечислений
+                - *## 9.11. Геометрические функции и операторы
+                - *## 9.12. Функции и операторы для работы с сетевыми адресами
+                - *## 9.13. Функции и операторы текстового поиска
+                - *## 9.14. XML-функции
+                - *### 9.14.1. Создание XML-контента
+                - *#### 9.14.1.1. xmlcomment
+                - *#### 9.14.1.2. xmlconcat
+                - *#### 9.14.1.3. xmlelement
+                - *#### 9.14.1.4. xmlforest
+                - *#### 9.14.1.5. xmlpi
+                - *#### 9.14.1.6. xmlroot
+                - *#### 9.14.1.7. xmlagg
+                - *### 9.14.2. Условия с XML
+                - *#### 9.14.2.1. IS DOCUMENT
+                - *#### 9.14.2.2. IS NOT DOCUMENT
+                - *#### 9.14.2.3. XMLEXISTS
+                - *#### 9.14.2.4. xml_is_well_formed
+                - *### 9.14.3. Обработка XML
+                - *#### 9.14.3.1. xpath
+                - *#### 9.14.3.2. xpath_exists
+                - *#### 9.14.3.3. xmltable
+                - *### 9.14.4. Отображение таблиц в XML
+            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Postgres\postgrespro.ru_12\content\functions_15.md">functions_15.md</a>
+                - *## 9.15. Функции и операторы JSON
+                - *### 9.15.1. Обработка и создание данных JSON
+                - *### 9.15.2. Язык путей SQL/JSON
+                - *#### 9.15.2.1. Строгий и нестрогий режимы
+                - *#### 9.15.2.2. Регулярные выражения
+                - *#### 9.15.2.3. Операторы и методы SQL/JSON
+                - *## 9.16. Функции для работы с последовательностями
+                - *### nextval
+                - *### currval
+                - *### lastval
+                - *### setval
+                - *## 9.17. Условные выражения
+                - *### 9.17.1. CASE
+                - *### 9.17.2. COALESCE
+                - *### 9.17.3. NULLIF
+                - *### 9.17.4. GREATEST и LEAST
+                - *## 9.18. Функции и операторы для работы с массивами
+                - *## 9.19. Диапазонные функции и операторы
+            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Postgres\postgrespro.ru_12\content\functions_20.md">functions_20.md</a>
+                - *## 9.20. Агрегатные функции
+                - *## 9.22. Выражения подзапросов
+                - *### 9.22.1. EXISTS
+                - *### 9.22.2. IN
+                - *### 9.22.3. NOT IN
+                - *### 9.22.4. ANY/SOME
+                - *### 9.22.5. ALL
+                - *### 9.22.6. Сравнение единичных строк
+                - *## 9.23. Сравнение табличных строк и массивов
+                - *### 9.23.1. IN
+                - *### 9.23.2. NOT IN
+                - *### 9.23.3. ANY/SOME (с массивом)
+                - *### 9.23.4. ALL (с массивом)
+                - *### 9.23.5. Сравнение конструкторов строк
+                - *### 9.23.6. Сравнение составных типов
+                - *## 9.24. Функции, возвращающие множества
+            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Postgres\postgrespro.ru_12\content\functions_25.md">functions_25.md</a>
+                - *## 9.25. Системные информационные функции и операторы
+                - *## 9.26. Функции для системного администрирования
+                - *### 9.26.1. Функции для управления конфигурацией
+                - *### 9.26.2. Функции для передачи сигналов серверу
+                - *### 9.26.3. Функции управления резервным копированием
+                - *### 9.26.4. Функции управления восстановлением
+                - *### 9.26.5. Функции синхронизации снимков
+                - *### 9.26.6. Функции репликации
+                - *### 9.26.7. Функции управления объектами баз данных
+                - *### 9.26.8. Функции обслуживания индексов
+                - *### 9.26.9. Функции для работы с обычными файлами
+                - *### 9.26.10. Функции управления рекомендательными блокировками
+                - *## 9.27. Триггерные функции
+                - *## 9.28. Функции событийных триггеров
+                - *### 9.28.1. Получение изменений в конце команды
+                - *### 9.28.2. Обработка объектов, удалённых командой DDL
+                - *### 9.28.3. Обработка события перезаписи таблицы
+                - *## 9.29. Системные информационные функции
+                - *### 9.29.1. Исследование списков MCV
+            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Postgres\postgrespro.ru_12\content\functions_5.md">functions_5.md</a>
+                - *## 9.6. Функции и операторы для работы с битовыми строками
+                - *## 9.7. Поиск по шаблону
+                - *### 9.7.1. LIKE
+                - *### 9.7.2. Регулярные выражения SIMILAR TO
+                - *#### 9.7.3.1. Подробное описание регулярных выражений
+                - *#### 9.7.3.2. Выражения в квадратных скобках
+                - *#### 9.7.3.3. Спецсимволы регулярных выражений
+                - *#### 9.7.3.4. Метасинтаксис регулярных выражений
+                - *#### 9.7.3.5. Правила соответствия регулярным выражениям
+                - *#### 9.7.3.6. Пределы и совместимость
+                - *#### 9.7.3.7. Простые регулярные выражения
+                - *#### 9.7.3.8. Отличия от XQuery (LIKE_REGEX)
+                - *## 9.9. Операторы и функции даты/времени
+                - *### 9.9.1. EXTRACT, date_part
+                - *#### century
+                - *#### day
+                - *#### decade
+                - *#### dow
+                - *#### doy
+                - *#### epoch
+                - *#### hour
+                - *#### isodow
+                - *#### isoyear
+                - *#### microseconds
+                - *#### millennium
+                - *#### milliseconds
+                - *#### month
+                - *#### quarter
+                - *#### second
+                - *#### timezone
+                - *#### timezone_hour
+                - *#### timezone_minute
+                - *#### week
+                - *### 9.9.2. date_trunc
+                - *### 9.9.3. AT TIME ZONE
+                - *### 9.9.4. Текущая дата/время
+                - *### 9.9.5. Задержка выполнения
+            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Postgres\postgrespro.ru_12\content\indexes.md">indexes.md</a>
+                - *# 11. Индексы
+                - *## 11.1. Введение
+                - *## 11.2. Типы индексов
+                - *## 11.3. Составные индексы
+                - *## 11.4. Индексы и предложения ORDER BY
+                - *## 11.5. Объединение нескольких индексов
+                - *## 11.6. Уникальные индексы
+                - *## 11.7. Индексы по выражениям
+                - *## 11.8. Частичные индексы
+                - *### Пример 11.1. Настройка частичного индекса, исключающего распространённые значения
+                - *### Пример 11.2. Настройка частичного индекса, исключающего неинтересные значения
+                - *### Пример 11.3. Настройка частичного уникального индекса
+                - *## 11.9. Сканирование только индекса и покрывающие индексы
+                - *## 11.10. Семейства и классы операторов
+                - *## 11.11. Индексы и правила сортировки
+                - *## 11.12. Контроль использования индексов
+            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Postgres\postgrespro.ru_12\content\intro-pgpro-vs-pg.md">intro-pgpro-vs-pg.md</a>
+                - *# 2. Различия между Postgres Pro Standard и PostgreSQL
+            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Postgres\postgrespro.ru_12\content\intro-whatis.md">intro-whatis.md</a>
+                - *# 1. Что такое Postgres Pro Standard?
+            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Postgres\postgrespro.ru_12\content\mvcc.md">mvcc.md</a>
+                - *# 13. Управление конкурентным доступом
+                - *## 13.1. Введение
+                - *## 13.2. Изоляция транзакций
+                - *#### «грязное» чтение
+                - *#### неповторяемое чтение
+                - *#### фантомное чтение
+                - *#### аномалия сериализации
+                - *### 13.2.1. Уровень изоляции Read Committed
+                - *### 13.2.2. Уровень изоляции Repeatable Read
+                - *### 13.2.3. Уровень изоляции Serializable
+                - *## 13.3. Явные блокировки
+                - *### 13.3.1. Блокировки на уровне таблицы
+                - *#### ACCESS SHARE
+                - *#### ROW SHARE
+                - *#### ROW EXCLUSIVE
+                - *#### SHARE UPDATE EXCLUSIVE
+                - *#### SHARE
+                - *#### SHARE ROW EXCLUSIVE
+                - *#### EXCLUSIVE
+                - *#### ACCESS EXCLUSIVE
+                - *#### APPLICATION SHARE
+                - *#### APPLICATION EXCLUSIVE
+                - *### 13.3.2. Блокировки на уровне строк
+                - *#### FOR UPDATE
+                - *#### FOR NO KEY UPDATE
+                - *#### FOR SHARE
+                - *#### FOR KEY SHARE
+                - *### 13.3.3. Блокировки на уровне страниц
+                - *### 13.3.4. Взаимоблокировки
+                - *### 13.3.5. Рекомендательные блокировки
+                - *### 13.3.3. Блокировки на уровне страниц
+                - *### 13.3.4. Взаимоблокировки
+                - *### 13.3.5. Рекомендательные блокировки
+                - *### 13.4.1. Обеспечение согласованности в сериализуемых транзакциях
+                - *### 13.4.2. Применение явных блокировок для обеспечения согласованности
+                - *## 13.5. Ограничения
+                - *## 13.6. Блокировки и индексы
+                - *#### Индексы типа B-дерево, GiST и SP-GiST
+                - *#### Хеш-индексы
+                - *#### Индексы GIN
+            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Postgres\postgrespro.ru_12\content\notation.md">notation.md</a>
+                - *# 4. Соглашения
+            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Postgres\postgrespro.ru_12\content\parallel-query.md">parallel-query.md</a>
+                - *# 15. Параллельный запрос
+                - *## 15.1. Как работают параллельно выполняемые запросы
+                - *## 15.2. Когда может применяться распараллеливание запросов?
+                - *## 15.3. Параллельные планы
+                - *### 15.3.1. Параллельные сканирования
+                - *### 15.3.2. Параллельные соединения
+                - *### 15.3.3. Параллельное агрегирование
+                - *### 15.3.4. Параллельное присоединение
+                - *### 15.3.5. Советы по параллельным планам
+                - *## 15.4. Безопасность распараллеливания
+                - *### 15.4.1. Пометки параллельности для функций и агрегатов
+                - *### 15.4.1. Пометки параллельности для функций и агрегатов
+            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Postgres\postgrespro.ru_12\content\performance-tips.md">performance-tips.md</a>
+                - *# 14. Оптимизация производительности
+                - *## 14.1. Использование EXPLAIN
+                - *### 14.1.1. Азы EXPLAIN
+                - *### 14.1.2. EXPLAIN ANALYZE
+                - *### 14.1.3. Ограничения
+                - *## 14.2. Статистика, используемая планировщиком
+                - *### 14.2.1. Статистика по одному столбцу
+                - *### 14.2.2. Расширенная статистика
+                - *#### 14.2.2.1. Функциональные зависимости
+                - *##### 14.2.2.1.1. Ограничения функциональных зависимостей
+                - *#### 14.2.2.2. Многовариантное число различных значений
+                - *#### 14.2.2.3. Многовариантные списки MCV
+                - *## 14.3. Управление планировщиком с помощью явных предложений JOIN
+                - *## 14.4. Наполнение базы данных
+                - *### 14.4.1. Отключите автофиксацию транзакций
+                - *### 14.4.2. Используйте COPY
+                - *### 14.4.3. Удалите индексы
+                - *### 14.4.4. Удалите ограничения внешних ключей
+                - *### 14.4.5. Увеличьте maintenance_work_mem
+                - *### 14.4.6. Увеличьте max_wal_size
+                - *### 14.4.7. Отключите архивацию WAL и потоковую репликацию
+                - *### 14.4.8. Выполните в конце ANALYZE
+                - *### 14.4.9. Несколько замечаний относительно pg_dump
+                - *## 14.5. Оптимизация, угрожающая стабильности
+            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Postgres\postgrespro.ru_12\content\queries.md">queries.md</a>
+                - *# [7.1. Обзор](https://postgrespro.ru/docs/postgrespro/12/queries-overview)
+                - *# [7.2. Табличные выражения](https://postgrespro.ru/docs/postgrespro/12/queries-table-expressions)
+                - *## 7.2.1 Предложение FROM
+                - *### 7.2.1.1. Соединённые таблицы
+                - *### 7.2.1.2. Псевдонимы таблиц и столбцов
+                - *### 7.2.1.3. Подзапросы
+                - *### 7.2.1.4. Табличные функции
+                - *### 7.2.1.5. Подзапросы LATERAL
+                - *## 7.2.2. Предложение WHERE
+                - *## 7.2.3. Предложения GROUP BY и HAVING
+                - *## 7.2.4. GROUPING SETS, CUBE и ROLLUP
+                - *## 7.2.5. Обработка оконных функций
+                - *# Списки выборки
+                - *## [Элементы списка выборки](https://postgrespro.ru/docs/postgrespro/12/queries-select-lists)
+                - *## Метки столбцов
+                - *## DISTINCT
+                - *# [Сочетание запросов](https://postgrespro.ru/docs/postgrespro/12/queries-union)
+                - *# [Сортировка строк](https://postgrespro.ru/docs/postgrespro/12/queries-order)
+                - *# [LIMIT и OFFSET](https://postgrespro.ru/docs/postgrespro/12/queries-limit)
+                - *# [Списки VALUES](https://postgrespro.ru/docs/postgrespro/12/queries-values)
+                - *# [Запросы WITH (Общие табличные выражения)](https://postgrespro.ru/docs/postgrespro/12/queries-with)
+                - *## SELECT в WITH
+                - *## Изменение данных в WITH
+            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Postgres\postgrespro.ru_12\content\sql-syntax.md">sql-syntax.md</a>
+                - *# [4.1. Лексическая структура](https://postgrespro.ru/docs/postgrespro/12/sql-syntax-lexical)
+                - *## 4.1.1. Идентификаторы и ключевые слова
+                - *## 4.1.2. Константы
+                - *### 4.1.2.1. Строковые константы
+                - *### 4.1.2.2. Строковые константы со спецпоследовательностями в стиле C
+                - *### 4.1.2.3. Строковые константы со спецпоследовательностями Unicode
+                - *### 4.1.2.4. Строковые константы, заключённые в доллары
+                - *#### 4.1.2.5. Битовые строковые константы
+                - *#### 4.1.2.6. Числовые константы
+                - *#### 4.1.2.7. Константы других типов
+                - *## 4.1.3. Операторы
+                - *## 4.1.4. Специальные знаки
+                - *## 4.1.5. Комментарии
+                - *## 4.1.6. Приоритеты операторов
+                - *#  [4.2. Выражения значения](https://postgrespro.ru/docs/postgrespro/12/sql-expressions)
+                - *## 4.2.1.  Ссылки на столбцы
+                - *## 4.2.2.  Позиционные параметры
+                - *## 4.2.3.  Индексы элементов
+                - *## 4.2.4.  Выбор поля
+                - *## 4.2.5.  Применение оператора
+                - *## 4.2.6.  Вызовы функций
+                - *## 4.2.7.  Агрегатные выражения
+                - *### generate_series
+                - *## 4.2.8.  Вызовы оконных функций
+                - *### форма вызова
+                - *### определение_окна
+                - *### определение_рамки
+                - *### начало_рамки и конец_рамки
+                - *### исключение_рамки
+                - *### PARTITION BY
+                - *### UNBOUNDED
+                - *## 4.2.9.  Приведения типов
+                - *### как вызов функции
+                - *## 4.2.10.  Применение правил сортировки
+                - *### COLLATE
+                - *## 4.2.11. Скалярные подзапросы
+                - *## 4.2.12. Конструкторы массивов
+                - *### array from create table
+                - *### empty array
+                - *### crate as result of subquery
+                - *#### with generate_series
+                - *## 4.2.13. Конструкторы табличных строк
+                - *## 4.2.14. Правила вычисления выражений
+                - *# [4.3. Вызов функций](https://postgrespro.ru/docs/postgrespro/12/sql-syntax-calling-funcs)
+                - *## 4.3.1. Позиционная передача
+                - *## 4.3.2. Именная передача
+                - *## 4.3.3. Смешанная передача
+            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Postgres\postgrespro.ru_12\content\textsearch.md">textsearch.md</a>
+                - *# 12. Полнотекстовый поиск
+                - *#### Разбор документов на фрагменты.
+                - *#### Преобразование фрагментов в лексемы.
+                - *#### Хранение документов в форме, подготовленной для поиска. 
+                - *### 12.1.1. Что такое документ?
+                - *### 12.1.2. Простое соответствие текста
+                - *### 12.1.3. Конфигурации
+                - *## 12.2. Таблицы и индексы
+                - *### 12.2.1. Поиск в таблице
+                - *### 12.2.2. Создание индексов
+                - *## 12.3. Управление текстовым поиском
+                - *### 12.3.1. Разбор документов
+                - *### 12.3.2. Разбор запросов
+                - *### 12.3.3. Ранжирование результатов поиска
+                - *### 12.3.4. Выделение результатов
+                - *### 12.4.2. Обработка запросов
+                - *#### tsquery && tsquery
+                - *#### tsquery || tsquery
+                - *#### !! tsquery
+                - *#### tsquery <-> tsquery
+                - *#### tsquery_phrase(запрос1 tsquery, запрос2 tsquery [, расстояние integer ]) returns tsquery
+                - *#### numnode(запрос tsquery) returns integer
+                - *#### querytree(запрос tsquery) returns text
+                - *#### 12.4.2.1. Перезапись запросов
+                - *### 12.4.3. Триггеры для автоматического обновления
+                - *### 12.4.4. Сбор статистики по документу
+                - *## 12.5. Анализаторы
+                - *## 12.6. Словари
+                - *### 12.6.1. Стоп-слова
+                - *### 12.6.2. Простой словарь
+                - *### 12.6.3. Словарь синонимов
+                - *### 12.6.4. Тезаурус
+                - *#### 12.6.4.1. Конфигурация тезауруса
+                - *#### 12.6.4.2. Пример тезауруса
+                - *### 12.6.5. Словарь Ispell
+                - *### 12.6.6. Словарь Snowball
+                - *## 12.7. Пример конфигурации
+                - *## 12.8. Тестирование и отладка текстового поиска
+                - *### 12.8.1. Тестирование конфигурации
+                - *### 12.8.2. Тестирование анализатора
+                - *### 12.8.3. Тестирование словаря
+                - *## 12.9. Типы индексов GIN и GiST
+                - *## 12.10. Поддержка psql
+                - *#### \dF{d,p,t}[+] [ШАБЛОН]
+                - *#### \dF[+] [ШАБЛОН]
+                - *#### \dFd[+] [ШАБЛОН]
+                - *## 12.11. Ограничения
+            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Postgres\postgrespro.ru_12\content\tutorial-advanced.md">tutorial-advanced.md</a>
+                - *# [Введение](https://postgrespro.ru/docs/postgrespro/12/tutorial-advanced-intro)
+                - *# [Представления](https://postgrespro.ru/docs/postgrespro/12/tutorial-views)
+                - *# [Внешние ключи](https://postgrespro.ru/docs/postgrespro/12/tutorial-fk)
+                - *# [Транзакции](https://postgrespro.ru/docs/postgrespro/12/tutorial-transactions)
+                - *# [Оконные функции](https://postgrespro.ru/docs/postgrespro/12/tutorial-window)
+                - *# [Наследование](https://postgrespro.ru/docs/postgrespro/12/tutorial-inheritance)
+                - *# [Заключение](https://postgrespro.ru/docs/postgrespro/12/tutorial-conclusion)
+            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Postgres\postgrespro.ru_12\content\tutorial-sql.md">tutorial-sql.md</a>
+                - *# [2.1. Введение](https://postgrespro.ru/docs/postgrespro/12/tutorial-sql-intro)
+                - *# [2.2. Основные понятия](https://postgrespro.ru/docs/postgrespro/12/tutorial-concepts)
+                - *# [2.3. Создание таблицы](https://postgrespro.ru/docs/postgrespro/12/tutorial-table)
+                - *# [2.4. Добавление строк в таблицу](https://postgrespro.ru/docs/postgrespro/12/tutorial-populate)
+                - *# [2.5. Выполнение запроса](https://postgrespro.ru/docs/postgrespro/12/tutorial-select)
+                - *# [2.6. Соединения таблиц](https://postgrespro.ru/docs/postgrespro/12/tutorial-join)
+                - *# [2.7. Агрегатные функции](https://postgrespro.ru/docs/postgrespro/12/tutorial-agg)
+                - *# [2.8. Изменение данных](https://postgrespro.ru/docs/postgrespro/12/tutorial-update)
+                - *# [2.9. Удаление данных](https://postgrespro.ru/docs/postgrespro/12/tutorial-delete)
+            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Postgres\postgrespro.ru_12\content\tutorial-start.md">tutorial-start.md</a>
+                - *# [1.1. Установка](https://postgrespro.ru/docs/postgrespro/12/tutorial-install)
+                - *# [1.2. Основы архитектуры](https://postgrespro.ru/docs/postgrespro/12/tutorial-arch)
+                - *# [1.3. Создание базы данных](https://postgrespro.ru/docs/postgrespro/12/tutorial-createdb)
+                - *## [tutorial-start\tutorial-createdb.sql](tutorial-start\tutorial-createdb.sql)
+                - *# [1.4. Подключение к базе данных](https://postgrespro.ru/docs/postgrespro/12/tutorial-accessdb)
+            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Postgres\postgrespro.ru_12\content\typeconv.md">typeconv.md</a>
+                - *# 10. Преобразование типов
+                - *## 10.1. Обзор
+                - *### Вызовы функций
+                - *### Операторы
+                - *### Сохранение значений
+                - *### UNION, CASE и связанные конструкции
+                - *## 10.2. Операторы
+                - *### Выбор оператора по типу
+                - *#### Пример 10.1. Разрешение оператора факториала
+                - *#### Пример 10.2. Разрешение оператора конкатенации строк
+                - *#### Пример 10.3. Разрешение оператора абсолютного значения и отрицания
+                - *#### Пример 10.4. Разрешение оператора включения в массив
+                - *#### Пример 10.5. Нестандартный оператор с доменом
+                - *## 10.3. Функции
+                - *### Разрешение функции по типу
+                - *#### Пример 10.6. Разрешение функции округления по типам аргументов
+                - *#### Пример 10.7. Разрешение функций с переменными параметрами
+                - *#### Пример 10.8. Разрешение функции извлечения подстроки
+                - *## 10.4. Хранимое значение
+                - *### Преобразование по типу хранения
+                - *#### Пример 10.9. Преобразование для типа хранения character
+                - *## 10.5. UNION, CASE и связанные конструкции
+                - *### Разрешение типов для UNION, CASE и связанных конструкций
+                - *#### Пример 10.10. Разрешение типов с частичным определением в Union
+                - *#### Пример 10.11. Разрешение типов в простом объединении
+                - *#### Пример 10.12. Разрешение типов в противоположном объединении
+                - *#### Пример 10.13. Разрешение типов во вложенном объединении
+                - *## 10.6. Выходные столбцы SELECT
+        
+        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Postgres\postgrespro.ru_12\postgrespro.ru_12.md">postgrespro.ru_12.md</a>
+            - *# Предисловие
+            - *## [Что такое Postgres Pro Standard?](https://postgrespro.ru/docs/postgrespro/12/intro-whatis)
+            - *## [Различия между Postgres Pro Standard и PostgreSQL](https://postgrespro.ru/docs/postgrespro/12/intro-pgpro-vs-pg)
+            - *## [Краткая история PostgreSQL](https://postgrespro.ru/docs/postgrespro/12/history)
+            - *## [Соглашения](https://postgrespro.ru/docs/postgrespro/12/notation)
+            - *## [Как правильно сообщить об ошибке](https://postgrespro.ru/docs/postgrespro/12/bug-reporting)
+            - *# [I. Введение](https://postgrespro.ru/docs/postgrespro/12/tutorial)
+            - *## [Начало](https://postgrespro.ru/docs/postgrespro/12/tutorial-start)
+            - *## [Язык SQL](https://postgrespro.ru/docs/postgrespro/12/tutorial-sql)
+            - *## [Расширенные возможности](https://postgrespro.ru/docs/postgrespro/12/tutorial-advanced)
+            - *# [II. Язык SQL](https://postgrespro.ru/docs/postgrespro/12/sql)
+            - *## [Синтаксис SQL](https://postgrespro.ru/docs/postgrespro/12/sql-syntax)
+            - *## [Определение данных](https://postgrespro.ru/docs/postgrespro/12/ddl)
+            - *## [Модификация данных](https://postgrespro.ru/docs/postgrespro/12/dml)
+            - *## [Запросы](https://postgrespro.ru/docs/postgrespro/12/queries)
+            - *## [Типы данных](https://postgrespro.ru/docs/postgrespro/12/datatype)
+            - *## [Функции и операторы](https://postgrespro.ru/docs/postgrespro/12/functions)
+            - *## [Преобразование типов](https://postgrespro.ru/docs/postgrespro/12/typeconv)
+            - *## [Индексы](https://postgrespro.ru/docs/postgrespro/12/indexes)
+            - *## [Полнотекстовый поиск](https://postgrespro.ru/docs/postgrespro/12/textsearch)
+            - *## [Управление конкурентным доступом](https://postgrespro.ru/docs/postgrespro/12/mvcc)
+            - *## [Оптимизация производительности](https://postgrespro.ru/docs/postgrespro/12/performance-tips)
+            - *## [Параллельный запрос](https://postgrespro.ru/docs/postgrespro/12/parallel-query)
+            - *# [III. Администрирование сервера](https://postgrespro.ru/docs/postgrespro/12/admin)
+            - *## [Установка из двоичных пакетов](https://postgrespro.ru/docs/postgrespro/12/installation-bin)
+            - *## [Подготовка к работе и сопровождение сервера](https://postgrespro.ru/docs/postgrespro/12/runtime)
+            - *## [Настройка сервера](https://postgrespro.ru/docs/postgrespro/12/runtime-config)
+            - *## [Аутентификация клиентского приложения](https://postgrespro.ru/docs/postgrespro/12/client-authentication)
+            - *## [Роли базы данных](https://postgrespro.ru/docs/postgrespro/12/user-manag)
+            - *## [Управление базами данных](https://postgrespro.ru/docs/postgrespro/12/managing-databases)
+            - *## [Локализация](https://postgrespro.ru/docs/postgrespro/12/charset)
+            - *## [Регламентные задачи обслуживания базы данных](https://postgrespro.ru/docs/postgrespro/12/maintenance)
+            - *## [Резервное копирование и восстановление](https://postgrespro.ru/docs/postgrespro/12/backup)
+            - *## [Отказоустойчивость, балансировка нагрузки и репликация](https://postgrespro.ru/docs/postgrespro/12/high-availability)
+            - *## [Мониторинг работы СУБД](https://postgrespro.ru/docs/postgrespro/12/monitoring)
+            - *## [Мониторинг использования диска](https://postgrespro.ru/docs/postgrespro/12/diskusage)
+            - *## [Надёжность и журнал предзаписи](https://postgrespro.ru/docs/postgrespro/12/wal)
+            - *## [Логическая репликация](https://postgrespro.ru/docs/postgrespro/12/logical-replication)
+            - *## [JIT-компиляция](https://postgrespro.ru/docs/postgrespro/12/jit)
+            - *## [Регрессионные тесты](https://postgrespro.ru/docs/postgrespro/12/regress)
+            - *# IV. Клиентские интерфейсы
+            - *## [libpq — библиотека для языка C](https://postgrespro.ru/docs/postgrespro/12/libpq)
+            - *## [Большие объекты](https://postgrespro.ru/docs/postgrespro/12/largeobjects)
+            - *## [ECPG — встраиваемый SQL в C](https://postgrespro.ru/docs/postgrespro/12/ecpg)
+            - *## [Информационная схема](https://postgrespro.ru/docs/postgrespro/12/information-schema)
+            - *# V. Серверное программирование
+            - *## [Расширение SQL](https://postgrespro.ru/docs/postgrespro/12/extend)
+            - *## [Триггеры](https://postgrespro.ru/docs/postgrespro/12/triggers)
+            - *## [Триггеры событий](https://postgrespro.ru/docs/postgrespro/12/event-triggers)
+            - *## [Система правил](https://postgrespro.ru/docs/postgrespro/12/rules)
+            - *## [Процедурные языки](https://postgrespro.ru/docs/postgrespro/12/xplang)
+            - *## [PL/pgSQL — процедурный язык SQL](https://postgrespro.ru/docs/postgrespro/12/plpgsql)
+            - *## [PL/Tcl — процедурный язык Tcl](https://postgrespro.ru/docs/postgrespro/12/pltcl)
+            - *## [PL/Perl — процедурный язык Perl](https://postgrespro.ru/docs/postgrespro/12/plperl)
+            - *## [PL/Python — процедурный язык Python](https://postgrespro.ru/docs/postgrespro/12/plpython)
+            - *## [Интерфейс программирования сервера](https://postgrespro.ru/docs/postgrespro/12/spi)
+            - *## [Фоновые рабочие процессы](https://postgrespro.ru/docs/postgrespro/12/bgworker)
+            - *## [Логическое декодирование](https://postgrespro.ru/docs/postgrespro/12/logicaldecoding)
+            - *## [Отслеживание прогресса репликации](https://postgrespro.ru/docs/postgrespro/12/replication-origins)
+            - *# VI. Справочное руководство
+            - *## [I. Команды SQL](https://postgrespro.ru/docs/postgrespro/12/sql-commands)
+            - *## [II. Клиентские приложения Postgres Pro](https://postgrespro.ru/docs/postgrespro/12/reference-client)
+            - *## [III. Серверные приложения Postgres Pro](https://postgrespro.ru/docs/postgrespro/12/reference-server)
+            - *# VII. Внутреннее устройство
+            - *## [Обзор внутреннего устройства Postgres Pro](https://postgrespro.ru/docs/postgrespro/12/overview)
+            - *## [Системные каталоги](https://postgrespro.ru/docs/postgrespro/12/catalogs)
+            - *## [Клиент-серверный протокол](https://postgrespro.ru/docs/postgrespro/12/protocol)
+            - *## [Написание обработчика процедурного языка](https://postgrespro.ru/docs/postgrespro/12/plhandler)
+            - *## [Написание обёртки сторонних данных](https://postgrespro.ru/docs/postgrespro/12/fdwhandler)
+            - *## [Написание метода извлечения выборки таблицы](https://postgrespro.ru/docs/postgrespro/12/tablesample-method)
+            - *## [Написание провайдера нестандартного сканирования](https://postgrespro.ru/docs/postgrespro/12/custom-scan)
+            - *## [Генетический оптимизатор запросов](https://postgrespro.ru/docs/postgrespro/12/geqo)
+            - *## [Определение интерфейса для табличных методов доступа](https://postgrespro.ru/docs/postgrespro/12/tableam)
+            - *## [Определение интерфейса для индексных методов доступа](https://postgrespro.ru/docs/postgrespro/12/indexam)
+            - *## [Унифицированные записи WAL](https://postgrespro.ru/docs/postgrespro/12/generic-wal)
+            - *## [Индексы B-деревья](https://postgrespro.ru/docs/postgrespro/12/btree)
+            - *## [Индексы GiST](https://postgrespro.ru/docs/postgrespro/12/gist)
+            - *## [Индексы SP-GiST](https://postgrespro.ru/docs/postgrespro/12/spgist)
+            - *## [Индексы GIN](https://postgrespro.ru/docs/postgrespro/12/gin)
+            - *## [Индексы BRIN](https://postgrespro.ru/docs/postgrespro/12/brin)
+            - *## [Физическое хранение базы данных](https://postgrespro.ru/docs/postgrespro/12/storage)
+            - *## [Объявление и начальное содержимое системных каталогов](https://postgrespro.ru/docs/postgrespro/12/bki)
+            - *## [Как планировщик использует статистику](https://postgrespro.ru/docs/postgrespro/12/planner-stats-details)
+            - *# VIII. Приложения
+            - *## [A. Коды ошибок Postgres Pro](https://postgrespro.ru/docs/postgrespro/12/errcodes-appendix)
+            - *## [B. Поддержка даты и времени](https://postgrespro.ru/docs/postgrespro/12/datetime-appendix)
+            - *## [C. Ключевые слова SQL](https://postgrespro.ru/docs/postgrespro/12/sql-keywords-appendix)
+            - *## [D. Соответствие стандарту SQL](https://postgrespro.ru/docs/postgrespro/12/features)
+            - *## [E. Замечания к выпускам](https://postgrespro.ru/docs/postgrespro/12/release)
+            - *## [F. Дополнительно поставляемые модули](https://postgrespro.ru/docs/postgrespro/12/contrib)
+            - *## [G. Дополнительно поставляемые программы](https://postgrespro.ru/docs/postgrespro/12/contrib-prog)
+            - *## [H. Внешние проекты](https://postgrespro.ru/docs/postgrespro/12/external-projects)
+            - *## [I. Настройка Postgres Pro для решений 1С](https://postgrespro.ru/docs/postgrespro/12/config-one-c)
+            - *## [J. Ограничения Postgres Pro](https://postgrespro.ru/docs/postgrespro/12/limits)
+            - *## [K. Демонстрационная база данных «Авиаперевозки»](https://postgrespro.ru/docs/postgrespro/12/demodb-bookings)
+            - *## [L. Сокращения](https://postgrespro.ru/docs/postgrespro/12/acronyms)
+            - *# [Библиография](https://postgrespro.ru/docs/postgrespro/12/biblio)
+            - *# [Предметный указатель](https://postgrespro.ru/docs/postgrespro/12/acronyms)
+        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Postgres\postgrespro.ru_12\src\cat.src\dir.src.md">src</a>
+            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Postgres\postgrespro.ru_12\src\postgrespro.ru_12.md">postgrespro.ru_12.md</a>
+                - *# Предисловие
+                - *## [Что такое Postgres Pro Standard?](https://postgrespro.ru/docs/postgrespro/12/intro-whatis)
+                - *## [Различия между Postgres Pro Standard и PostgreSQL](https://postgrespro.ru/docs/postgrespro/12/intro-pgpro-vs-pg)
+                - *## [Краткая история PostgreSQL](https://postgrespro.ru/docs/postgrespro/12/history)
+                - *## [Соглашения](https://postgrespro.ru/docs/postgrespro/12/notation)
+                - *## [Как правильно сообщить об ошибке](https://postgrespro.ru/docs/postgrespro/12/bug-reporting)
+                - *# I. Введение
+                - *## [Начало](https://postgrespro.ru/docs/postgrespro/12/tutorial-start)
+                - *## [Язык SQL](https://postgrespro.ru/docs/postgrespro/12/tutorial-sql)
+                - *## [Расширенные возможности](https://postgrespro.ru/docs/postgrespro/12/tutorial-advanced)
+                - *# II. Язык SQL
+                - *## [Синтаксис SQL](https://postgrespro.ru/docs/postgrespro/12/sql-syntax)
+                - *## [Определение данных](https://postgrespro.ru/docs/postgrespro/12/ddl)
+                - *## [Модификация данных](https://postgrespro.ru/docs/postgrespro/12/dml)
+                - *## [Запросы](https://postgrespro.ru/docs/postgrespro/12/queries)
+                - *## [Типы данных](https://postgrespro.ru/docs/postgrespro/12/datatype)
+                - *## [Функции и операторы](https://postgrespro.ru/docs/postgrespro/12/functions)
+                - *## [Преобразование типов](https://postgrespro.ru/docs/postgrespro/12/typeconv)
+                - *## [Индексы](https://postgrespro.ru/docs/postgrespro/12/indexesa)
+                - *## [Полнотекстовый поиск](https://postgrespro.ru/docs/postgrespro/12/textsearch)
+                - *## [Управление конкурентным доступом](https://postgrespro.ru/docs/postgrespro/12/mvcc)
+                - *## [Оптимизация производительности](https://postgrespro.ru/docs/postgrespro/12/performance-tips)
+                - *## [Параллельный запрос](https://postgrespro.ru/docs/postgrespro/12/parallel-query)
+                - *# III. Администрирование сервера
+                - *## [Установка из двоичных пакетов](https://postgrespro.ru/docs/postgrespro/12/installation-bin)
+                - *## [Подготовка к работе и сопровождение сервера](https://postgrespro.ru/docs/postgrespro/12/runtime)
+                - *## [Настройка сервера](https://postgrespro.ru/docs/postgrespro/12/runtime-config)
+                - *## [Аутентификация клиентского приложения](https://postgrespro.ru/docs/postgrespro/12/client-authentication)
+                - *## [Роли базы данных](https://postgrespro.ru/docs/postgrespro/12/user-manag)
+                - *## [Управление базами данных](https://postgrespro.ru/docs/postgrespro/12/managing-databases)
+                - *## [Локализация](https://postgrespro.ru/docs/postgrespro/12/charset)
+                - *## [Регламентные задачи обслуживания базы данных](https://postgrespro.ru/docs/postgrespro/12/maintenance)
+                - *## [Резервное копирование и восстановление](https://postgrespro.ru/docs/postgrespro/12/backup)
+                - *## [Отказоустойчивость, балансировка нагрузки и репликация](https://postgrespro.ru/docs/postgrespro/12/high-availability)
+                - *## [Мониторинг работы СУБД](https://postgrespro.ru/docs/postgrespro/12/monitoring)
+                - *## [Мониторинг использования диска](https://postgrespro.ru/docs/postgrespro/12/diskusage)
+                - *## [Надёжность и журнал предзаписи](https://postgrespro.ru/docs/postgrespro/12/wal)
+                - *## [Логическая репликация](https://postgrespro.ru/docs/postgrespro/12/logical-replication)
+                - *## [JIT-компиляция](https://postgrespro.ru/docs/postgrespro/12/jit)
+                - *## [Регрессионные тесты](https://postgrespro.ru/docs/postgrespro/12/regress)
+                - *# IV. Клиентские интерфейсы
+                - *## [libpq — библиотека для языка C](https://postgrespro.ru/docs/postgrespro/12/libpq)
+                - *## [Большие объекты](https://postgrespro.ru/docs/postgrespro/12/largeobjects)
+                - *## [ECPG — встраиваемый SQL в C](https://postgrespro.ru/docs/postgrespro/12/ecpg)
+                - *## [Информационная схема](https://postgrespro.ru/docs/postgrespro/12/information-schema)
+                - *# V. Серверное программирование
+                - *## [Расширение SQL](https://postgrespro.ru/docs/postgrespro/12/extend)
+                - *## [Триггеры](https://postgrespro.ru/docs/postgrespro/12/triggers)
+                - *## [Триггеры событий](https://postgrespro.ru/docs/postgrespro/12/event-triggers)
+                - *## [Система правил](https://postgrespro.ru/docs/postgrespro/12/rules)
+                - *## [Процедурные языки](https://postgrespro.ru/docs/postgrespro/12/xplang)
+                - *## [PL/pgSQL — процедурный язык SQL](https://postgrespro.ru/docs/postgrespro/12/plpgsql)
+                - *## [PL/Tcl — процедурный язык Tcl](https://postgrespro.ru/docs/postgrespro/12/pltcl)
+                - *## [PL/Perl — процедурный язык Perl](https://postgrespro.ru/docs/postgrespro/12/plperl)
+                - *## [PL/Python — процедурный язык Python](https://postgrespro.ru/docs/postgrespro/12/plpython)
+                - *## [Интерфейс программирования сервера](https://postgrespro.ru/docs/postgrespro/12/spi)
+                - *## [Фоновые рабочие процессы](https://postgrespro.ru/docs/postgrespro/12/bgworker)
+                - *## [Логическое декодирование](https://postgrespro.ru/docs/postgrespro/12/logicaldecoding)
+                - *## [Отслеживание прогресса репликации](https://postgrespro.ru/docs/postgrespro/12/replication-origins)
+                - *# VI. Справочное руководство
+                - *## [I. Команды SQL](https://postgrespro.ru/docs/postgrespro/12/sql-commands)
+                - *## [II. Клиентские приложения Postgres Pro](https://postgrespro.ru/docs/postgrespro/12/reference-client)
+                - *## [III. Серверные приложения Postgres Pro](https://postgrespro.ru/docs/postgrespro/12/reference-server)
+                - *# VII. Внутреннее устройство
+                - *## [Обзор внутреннего устройства Postgres Pro](https://postgrespro.ru/docs/postgrespro/12/overview)
+                - *## [Системные каталоги](https://postgrespro.ru/docs/postgrespro/12/catalogs)
+                - *## [Клиент-серверный протокол](https://postgrespro.ru/docs/postgrespro/12/protocol)
+                - *## [Написание обработчика процедурного языка](https://postgrespro.ru/docs/postgrespro/12/plhandler)
+                - *## [Написание обёртки сторонних данных](https://postgrespro.ru/docs/postgrespro/12/fdwhandler)
+                - *## [Написание метода извлечения выборки таблицы](https://postgrespro.ru/docs/postgrespro/12/tablesample-method)
+                - *## [Написание провайдера нестандартного сканирования](https://postgrespro.ru/docs/postgrespro/12/custom-scan)
+                - *## [Генетический оптимизатор запросов](https://postgrespro.ru/docs/postgrespro/12/geqo)
+                - *## [Определение интерфейса для табличных методов доступа](https://postgrespro.ru/docs/postgrespro/12/tableam)
+                - *## [Определение интерфейса для индексных методов доступа](https://postgrespro.ru/docs/postgrespro/12/indexam)
+                - *## [Унифицированные записи WAL](https://postgrespro.ru/docs/postgrespro/12/generic-wal)
+                - *## [Индексы B-деревья](https://postgrespro.ru/docs/postgrespro/12/btree)
+                - *## [Индексы GiST](https://postgrespro.ru/docs/postgrespro/12/gist)
+                - *## [Индексы SP-GiST](https://postgrespro.ru/docs/postgrespro/12/spgist)
+                - *## [Индексы GIN](https://postgrespro.ru/docs/postgrespro/12/gin)
+                - *## [Индексы BRIN](https://postgrespro.ru/docs/postgrespro/12/brin)
+                - *## [Физическое хранение базы данных](https://postgrespro.ru/docs/postgrespro/12/storage)
+                - *## [Объявление и начальное содержимое системных каталогов](https://postgrespro.ru/docs/postgrespro/12/bki)
+                - *## [Как планировщик использует статистику](https://postgrespro.ru/docs/postgrespro/12/planner-stats-details)
+                - *# VIII. Приложения
+                - *## [A. Коды ошибок Postgres Pro](https://postgrespro.ru/docs/postgrespro/12/errcodes-appendix)
+                - *## [B. Поддержка даты и времени](https://postgrespro.ru/docs/postgrespro/12/datetime-appendix)
+                - *## [C. Ключевые слова SQL](https://postgrespro.ru/docs/postgrespro/12/sql-keywords-appendix)
+                - *## [D. Соответствие стандарту SQL](https://postgrespro.ru/docs/postgrespro/12/features)
+                - *## [E. Замечания к выпускам](https://postgrespro.ru/docs/postgrespro/12/release)
+                - *## [F. Дополнительно поставляемые модули](https://postgrespro.ru/docs/postgrespro/12/contrib)
+                - *## [G. Дополнительно поставляемые программы](https://postgrespro.ru/docs/postgrespro/12/contrib-prog)
+                - *## [H. Внешние проекты](https://postgrespro.ru/docs/postgrespro/12/external-projects)
+                - *## [I. Настройка Postgres Pro для решений 1С](https://postgrespro.ru/docs/postgrespro/12/config-one-c)
+                - *## [J. Ограничения Postgres Pro](https://postgrespro.ru/docs/postgrespro/12/limits)
+                - *## [K. Демонстрационная база данных «Авиаперевозки»](https://postgrespro.ru/docs/postgrespro/12/demodb-bookings)
+                - *## [L. Сокращения](https://postgrespro.ru/docs/postgrespro/12/acronyms)
+                - *# [Библиография](https://postgrespro.ru/docs/postgrespro/12/biblio)
+                - *# [Предметный указатель](https://postgrespro.ru/docs/postgrespro/12/acronyms)
+        
+        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Postgres\postgrespro.ru_12\_postgrespro.ru_12.md">_postgrespro.ru_12.md</a>
+            - *# Pdf part 
+            - *# My Md part
+    

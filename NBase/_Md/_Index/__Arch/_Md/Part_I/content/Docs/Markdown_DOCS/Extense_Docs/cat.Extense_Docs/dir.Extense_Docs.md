@@ -1,0 +1,48 @@
+- <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Arch\_Md\Part_I\content\Docs\Markdown_DOCS\Extense_Docs\cat.Extense_Docs\dir.Extense_Docs.md">Extense_Docs</a>
+    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Arch\_Md\Part_I\content\Docs\Markdown_DOCS\Extense_Docs\gridTable\cat.gridTable\dir.gridTable.md">gridTable</a>
+        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Arch\_Md\Part_I\content\Docs\Markdown_DOCS\Extense_Docs\gridTable\examp.md">examp.md</a>
+            - *# grid tables
+            - *# pipe tables
+            - *# user blicks
+            - *## inline UB
+            - *# definition list
+            - *# strikethrough text
+            - *# up and lower index
+            - *# undelined text
+            - *# grouping elements tag \<figure>
+            - *# tag \<footer>
+            - *# tag \<cite>
+            - *# fdcs  {#linc}
+            - *## The Site ##    {.main}
+        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Arch\_Md\Part_I\content\Docs\Markdown_DOCS\Extense_Docs\gridTable\link.md">link.md</a>
+            - *#linc_to_header4
+    
+    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Arch\_Md\Part_I\content\Docs\Markdown_DOCS\Extense_Docs\MdMonster_Samples.md">MdMonster_Samples.md</a>
+        - *# Welcome to Markdown Monster
+        - *### Problems? Please let us know
+        - *# Markdown Features
+        - *### Bold and Italic
+        - *### Header Text
+        - *# Header 1
+        - *## Header 2
+        - *### Header 3
+        - *#### Header 4
+        - *##### Header 5
+        - *###### Header 6
+        - *### Line Continuation
+        - *### Links
+        - *### Images
+        - *### Block Quotes
+        - *### Fontawesome Icons
+        - *### Emojiis
+        - *### HTML Markup
+        - *### Unordered Lists
+        - *### Ordered Lists
+        - *### Inline Code
+        - *### Indented Code Blocks 
+        - *### Fenced Code Blocks with Syntax Highlighting
+        - *### Footnotes
+        - *### Pipe Tables
+        - *### Grid Tables
+        - *### Ссылки
+        - *## Картинки

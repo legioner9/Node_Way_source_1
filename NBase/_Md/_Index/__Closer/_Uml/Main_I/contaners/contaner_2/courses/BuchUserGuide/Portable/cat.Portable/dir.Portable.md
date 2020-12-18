@@ -1,0 +1,23 @@
+- <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Uml\Main_I\contaners\contaner_2\courses\BuchUserGuide\Portable\cat.Portable\dir.Portable.md">Portable</a>
+    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Uml\Main_I\contaners\contaner_2\courses\BuchUserGuide\Portable\BuchUserGuide_black+.consp\cat.BuchUserGuide_black+.consp\dir.BuchUserGuide_black+.consp.md">BuchUserGuide_black+.consp</a>
+        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Uml\Main_I\contaners\contaner_2\courses\BuchUserGuide\Portable\BuchUserGuide_black+.consp\1.md">1.md</a>
+            - *#  [Chapter_first](../Issue/BuchUserGuide_black+.html#%D0%B3%D0%BB%D0%B0%D0%B2%D0%B0-1-%D0%B7%D0%B0%D1%87%D0%B5%D0%BC-%D0%BC%D1%8B-%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D1%80%D1%83%D0%B5%D0%BC)
+            - *## Модель
+            - *## Model
+            - *## Проект 
+            - *## Project
+            - *## Design principles
+            - *## [Object modelling ](../Issue/BuchUserGuide_black+.html#%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%BD%D0%BE%D0%B5-%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)
+            - *### Simple example
+        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Uml\Main_I\contaners\contaner_2\courses\BuchUserGuide\Portable\BuchUserGuide_black+.consp\2.md">2.md</a>
+            - *## [Foreword](../Issue/BuchUserGuide_black+.html#%D0%BF%D1%80%D0%B5%D0%B4%D0%B8%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D0%B5-1)
+            - *## [Concept UML](../Issue/BuchUserGuide_black+.html#%D0%BA%D0%BE%D0%BD%D1%86%D0%B5%D0%BF%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F-%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C-uml)
+            - *## [Общие механизмы языка UML](../Issue/BuchUserGuide_black+.html#%D0%BE%D0%B1%D1%89%D0%B8%D0%B5-%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D0%B7%D0%BC%D1%8B-%D1%8F%D0%B7%D1%8B%D0%BA%D0%B0-uml)
+            - *## [Архитектура](../Issue/BuchUserGuide_black+.html#%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0)
+            - *## Cmplex  vieu
+            - *## Жизненный цикл разработки ПО
+        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Uml\Main_I\contaners\contaner_2\courses\BuchUserGuide\Portable\BuchUserGuide_black+.consp\3.md">3.md</a>
+            - *# [Capter_third](../Issue/BuchUserGuide_black+.html#%D0%B3%D0%BB%D0%B0%D0%B2%D0%%D0%B7%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9-%D0%BC%D0%B8%D1%80)
+        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Uml\Main_I\contaners\contaner_2\courses\BuchUserGuide\Portable\BuchUserGuide_black+.consp\4.md">4.md</a>
+            - *# Capter_fourth
+    

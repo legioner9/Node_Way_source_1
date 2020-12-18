@@ -1,0 +1,89 @@
+- <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\_in_stash\_stash_2\Bash\cat.Bash\dir.Bash.md">Bash</a>
+    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\_in_stash\_stash_2\Bash\bash-script-easy-guide\cat.bash-script-easy-guide\dir.bash-script-easy-guide.md">bash-script-easy-guide</a>
+        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\_in_stash\_stash_2\Bash\bash-script-easy-guide\_bash-script-easy-guide.md">_bash-script-easy-guide.md</a>
+            - *# [Bash-скрипты: начало](https://habr.com/ru/company/ruvds/blog/325522/)
+    
+    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\_in_stash\_stash_2\Bash\devdocs.io\cat.devdocs.io\dir.devdocs.io.md">devdocs.io</a>
+        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\_in_stash\_stash_2\Bash\devdocs.io\_devdocs.io.md">_devdocs.io.md</a>
+            - *# [Bash](https://devdocs.io/bash/)
+    
+    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\_in_stash\_stash_2\Bash\Docs\cat.Docs\dir.Docs.md">Docs</a>
+        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\_in_stash\_stash_2\Bash\Docs\_Docs.md">_Docs.md</a>
+            - *# [DNF](https://docs.fedoraproject.org/ru/fedora/rawhide/system-administrators-guide/package-management/DNF/)
+    
+    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\_in_stash\_stash_2\Bash\losst.ru\cat.losst.ru\dir.losst.ru.md">losst.ru</a>
+        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\_in_stash\_stash_2\Bash\losst.ru\_losst.ru.md">_losst.ru.md</a>
+            - *## ОСНОВЫ СКРИПТОВ
+            - *## ПЕРЕМЕННЫЕ В СКРИПТАХ
+            - *## ПЕРЕМЕННЫЕ И ВЫВОД КОМАНД
+            - *## ПАРАМЕТРЫ СКРИПТА
+            - *## УПРАВЛЯЮЩИЕ КОНСТРУКЦИИ В СКРИПТАХ
+            - *## ЦИКЛЫ В СКРИПТАХ
+    
+    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\_in_stash\_stash_2\Bash\studylinux.ru\cat.studylinux.ru\dir.studylinux.ru.md">studylinux.ru</a>
+        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\_in_stash\_stash_2\Bash\studylinux.ru\_studylinux.ru.md">_studylinux.ru.md</a>
+            - *# [Основы BASH](https://studylinux.ru/osnovy-bash.html)
+            - *## Введение
+            - *### ряд встроенных команд,
+            - *####  break 
+            - *####  continue 
+            - *####  echo 
+            - *####  exit 
+            - *####  export 
+            - *####  hash 
+            - *####  kill
+            - *####  pwd 
+            - *####  read 
+            - *####  return 
+            - *####  shift 
+            - *####  test 
+            - *####  times 
+            - *####  trap 
+            - *####  unset
+            - *####  wait
+            - *## Переменные и параметры скрипта
+            - *### зарезервированными переменными:
+            - *####  $DIRSTACK
+            - *####  $EDITOR 
+            - *####  $EUID 
+            - *####  $UID 
+            - *####  $FUNCNAME 
+            - *####  $GROUPS 
+            - *####  $HOME 
+            - *####  $HOSTNAME
+            - *####  $HOSTTYPE 
+            - *####  $LC_CTYPE 
+            - *####  $OLDPWD 
+            - *####  $OSTYPE 
+            - *####  $PATH 
+            - *####  $PPID 
+            - *####  $SECONDS 
+            - *####  $# 
+            - *####  $####  
+            - *####  $@ 
+            - *####  $!
+            - *####  $$
+            - *## Условия
+            - *####  if 
+            - *####  then
+            - *####  else
+            - *####  fi
+            - *## Условия. Множественный выбор
+            - *####  -z # строка пуста
+            - *####  -n # строка не пуста
+            - *####  =, (==) # строки равны
+            - *####  != # строки неравны
+            - *####  -eq # равно
+            - *####  -ne # неравно
+            - *####  -lt,(< ) # меньше
+            - *####  -le,(<=) # меньше или равно
+            - *####  -gt,(>) #больше
+            - *####  -ge,(>=) #больше или равно
+            - *####  ! #отрицание логического выражения
+            - *####  -a,(&&) #логическое «И»
+            - *####  -o,(//) # логическое «ИЛИ»
+    
+    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\_in_stash\_stash_2\Bash\www.fpublisher.ru\cat.www.fpublisher.ru\dir.www.fpublisher.ru.md">www.fpublisher.ru</a>
+        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\_in_stash\_stash_2\Bash\www.fpublisher.ru\_www.fpublisher.ru.md">_www.fpublisher.ru.md</a>
+            - *# [Документация bash](https://www.fpublisher.ru/documentation/bash_documentation)
+    

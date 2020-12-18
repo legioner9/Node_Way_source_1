@@ -1,0 +1,49 @@
+- <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_DB\_SQL\sqlbolt.com\cat.sqlbolt.com\dir.sqlbolt.com.md">sqlbolt.com</a>
+    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_DB\_SQL\sqlbolt.com\content_bolt.md">content_bolt.md</a>
+        - *# SQL Lesson 2: Queries with constraints (Pt. 1)        
+        - *# SQL Lesson 3: Queries with constraints (Pt. 2)
+        - *# SQL Lesson 4: Filtering and sorting Query results
+        - *#### ORDER BY
+        - *#### DISTYNCT
+        - *# SQL Review: Simple SELECT Queries
+        - *### answers
+        - *#### OFFSET
+        - *# SQL Lesson 6: Multi-table queries with JOINs
+        - *### answers
+        - *#### INNER JOIN
+        - *# SQL Lesson 7: OUTER JOINs
+        - *### answers
+        - *#### LEFT JOIN
+        - *# SQL Lesson 8: A short note on NULLs
+        - *### answers 
+        - *# SQL Lesson 9: Queries with expressions
+        - *#### Aliases for columns and tables
+        - *### answers
+        - *#### Expr In SELECT
+        - *# SQL Lesson 10: Queries with aggregates (Pt. 1)
+        - *### answers 
+        - *#### MAX , SUM , AVG , Group BY
+        - *# SQL Lesson 11: Queries with aggregates (Pt. 2)
+        - *### ansver 
+        - *# SQL Lesson 12: Order of execution of a Query
+        - *### answers
+        - *# SQL Lesson 13: Inserting rows
+        - *### answers
+        - *#### INSERT INTO
+        - *# SQL Lesson 14: Updating rows
+        - *### answer
+        - *#### UPDATE
+        - *# SQL Lesson 15: Deleting rows
+        - *# answers 
+        - *#### DELETE
+        - *# SQL Lesson 16: Creating tables
+        - *#### CREATE TABLE
+        - *### example
+        - *### answers
+        - *# SQL Lesson 17: Altering tables
+        - *#### ADD COLUMN
+        - *#### DROP COLUMN
+        - *#### RENAME TO
+        - *### answers
+        - *# SQL Lesson 18: Dropping tables
+        - *#### answers 

@@ -1,0 +1,19 @@
+- <a href = "E:\Node_projects\Node_Way\Education\src\Markdown_DOCS\VS_code_Trane\In_Catalogs\cat.In_Catalogs\dir.In_Catalogs.md">In_Catalogs</a>
+    - <a href = "E:\Node_projects\Node_Way\Education\src\Markdown_DOCS\VS_code_Trane\In_Catalogs\Link_to_this.md">Link_to_this.md</a>
+        - *# dfa
+        - *## fgbsf
+        - *## iyhgfhujnf 3
+    - <a href = "E:\Node_projects\Node_Way\Education\src\Markdown_DOCS\VS_code_Trane\In_Catalogs\Tiltle_trane_VS.md">Tiltle_trane_VS.md</a>
+        - *# cefed
+        - *# x
+        - *# pragma Section name (case sensitive)
+    - <a href = "E:\Node_projects\Node_Way\Education\src\Markdown_DOCS\VS_code_Trane\In_Catalogs\Title_parts.md">Title_parts.md</a>
+        - *# (Часть I) Характерные ошибки при решении задач на написание запросов на выборку (SELECT)
+        - *# (Часть II) Язык манипуляции данными в SQL
+        - *# (Часть III) Готовимся ко второму этапу тестирования
+        - *# (Часть IV) Новое в стандарте и реализациях языка SQL
+        - *# (Часть V) Заметки о типах данных
+        - *# Язык определения данных (SQL DDL)
+        - *# Вопросы оптимизации
+        - *# Графовые базы данных
+        - *# Приложения

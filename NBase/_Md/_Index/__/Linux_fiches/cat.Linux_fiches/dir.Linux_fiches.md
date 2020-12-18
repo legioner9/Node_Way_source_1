@@ -1,0 +1,17 @@
+- <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__\Linux_fiches\cat.Linux_fiches\dir.Linux_fiches.md">Linux_fiches</a>
+    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__\Linux_fiches\cli\cat.cli\dir.cli.md">cli</a>
+        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__\Linux_fiches\cli\Pingvinus.md">Pingvinus.md</a>
+            - *# Секреты и трюки Командной строки Linux. Стань гуру. Впервые конкурс
+            - *## history
+            - *# ! , :p , * 
+            - *## HotKeys
+            - *## priority command &
+            - *## ; 
+            - *## logics && ||
+            - *## cat less more 
+            - *## head tail
+            - *## clear reset
+            - *## find
+            - *## grep 
+            - *## apropos - finder in all commands
+    

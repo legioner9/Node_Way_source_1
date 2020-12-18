@@ -1,0 +1,7 @@
+- <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\_in_stash\_stash_2\Rpm\losst.ru\cat.losst.ru\dir.losst.ru.md">losst.ru</a>
+    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\_in_stash\_stash_2\Rpm\losst.ru\_losst.ru.md">_losst.ru.md</a>
+        - *# [УСТАНОВКА RPM ПАКЕТОВ В LINUX](https://losst.ru/ustanovka-rpm-paketov-v-linux)
+        - *## ЧТО ТАКОЕ RPM?
+        - *## УСТАНОВКА RPM ПАКЕТОВ В LINUX
+        - *## УСТАНОВКА RPM ФАЙЛА В GUI
+        - *## ВЫВОДЫ

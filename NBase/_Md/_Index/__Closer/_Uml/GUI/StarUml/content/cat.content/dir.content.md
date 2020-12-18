@@ -1,0 +1,24 @@
+- <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Uml\GUI\StarUml\content\cat.content\dir.content.md">content</a>
+    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Uml\GUI\StarUml\content\Usage\cat.Usage\dir.Usage.md">Usage</a>
+        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Uml\GUI\StarUml\content\Usage\SetComand.md">SetComand.md</a>
+            - *#ls
+            - *# touch
+            - *# mkdir
+            - *# mv
+            - *## mv as rename
+            - *# cp (dubl + mv)
+            - *# rm 
+            - *# cat
+            - *# (runtime start)
+            - *## chmod 
+            - *## sh
+            - *# ps
+            - *# man 
+            - *# head
+            - *# tail 
+            - *# stdin
+            - *# stdout
+            - *# [less](less/___setcomand.md)
+            - *# curl
+            - *# grep
+    

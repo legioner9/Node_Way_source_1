@@ -1,0 +1,2 @@
+- <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Uml\Main_I\contaners\contaner_2\courses\EA_tutorials\whatisuml\umldiagrams\behavioraldiagrams\_more\code_generation_from_behaviora\cat.code_generation_from_behaviora\dir.code_generation_from_behaviora.md">code_generation_from_behaviora</a>
+    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Uml\Main_I\contaners\contaner_2\courses\EA_tutorials\whatisuml\umldiagrams\behavioraldiagrams\_more\code_generation_from_behaviora\code_generation_from_behaviora.md">code_generation_from_behaviora.md</a>

@@ -1,0 +1,33 @@
+- <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\_in_stash\_stash_2\Rpm\Common\cat.Common\dir.Common.md">Common</a>
+    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\_in_stash\_stash_2\Rpm\Common\main_comand_1.md">main_comand_1.md</a>
+        - *# <a href="http://unix-tut.blogspot.com/2010/02/rpm-linux-red-hat.html" target="_blank">Полный список опций данной команды, вы можете получить набрав в командной строке</a>
+        - *# rpm - установка и удаление программ в Linux Red Hat
+        - *## -i
+        - *## -e
+        - *## -U
+        - *## -q
+        - *## -V
+        - *## Основные примеры:
+        - *### Установка пакета:
+        - *### Установка несмотря на ошибки:
+        - *### Обновление пакета или установка нового, в замен текущего:
+        - *### Удаление пакета:
+        - *### Посмотреть список всех установленных пакетов:
+        - *### Посмотреть список всех установленных пакетов, скорее всего имеющих отношение к MySQL:
+        - *# [Подключение RPM-репозиториев](http://server-tuning.info/linux/rpm-repositories.html)
+        - *## <a href="https://www.easycoding.org/2017/03/24/poleznye-storonnie-repozitorii-dlya-fedora.html" target="_blank">Полезные сторонние репозитории для Fedora</a>
+        - *### RPM Fusion
+        - *### Negativo17
+        - *### Dropbox (*)
+        - *### VSCode (*)
+        - *# <a href="https://blog.sedicomm.com/2019/05/11/kak-nastroit-repozitorii-programmnogo-obespecheniya-v-fedora/" target="_blank">Как настроить репозитории программного обеспечения в Fedora?</a>
+        - *## отобразить список всех включенных репозиториев 
+        - *## список пакетов из указанного репозитория
+        - *## доступных или установленных из указанного репозитория,
+        - *## Добавление, включение и отключение репозитория DNF
+        - *## определить хранилище для Grafana 
+        - *## Чтобы добавить и включить новый репозиторий,
+        - *## Чтобы включить/отключить репозиторий DNF
+        - *## включать или отключать более одного репозитория 
+        - *## навсегда включить определенный репозиторий
+        - *## Чтобы навсегда отключить 

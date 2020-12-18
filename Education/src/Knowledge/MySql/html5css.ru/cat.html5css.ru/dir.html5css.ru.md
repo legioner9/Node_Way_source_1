@@ -1,0 +1,392 @@
+- <a href = "E:\Node_projects\Node_Way\Education\src\Knowledge\MySql\html5css.ru\cat.html5css.ru\dir.html5css.ru.md">html5css.ru</a>
+    - <a href = "E:\Node_projects\Node_Way\Education\src\Knowledge\MySql\html5css.ru\sql_datatypes.md">sql_datatypes.md</a>
+        - *# Типы данных SQL
+        - *## Типы данных MySQL
+        - *### Текстовые типы данных:
+        - *#### CHAR(size)	
+        - *#### VARCHAR(size)
+        - *#### TINYTEXT
+        - *#### TEXT
+        - *#### BLOB
+        - *#### MEDIUMTEXT
+        - *#### MEDIUMBLOB
+        - *#### LONGTEXT
+        - *#### ENUM(x,y,z,etc.)
+        - *#### SET
+        - *### Типы данных чисел:
+        - *#### TINYINT(size)
+        - *#### SMALLINT(size)
+        - *#### MEDIUMINT(size)
+        - *#### INT(size)
+        - *#### BIGINT(size)
+        - *#### FLOAT(size,d)
+        - *#### DOUBLE(size,d)
+        - *#### DECIMAL(size,d)
+        - *### Типы данных дат:
+        - *#### DATE()
+        - *#### DATETIME()	
+        - *#### TIMESTAMP()
+        - *#### TIME()
+        - *#### YEAR()
+        - *### Типы строковых данных:
+        - *#### char(n)
+        - *#### varchar(n)
+        - *#### varchar(max)
+        - *#### text
+        - *#### nchar
+        - *#### nvarchar
+        - *#### nvarchar(max)
+        - *#### ntext
+        - *#### binary(n)
+        - *#### varbinary
+        - *#### varbinary(max)
+        - *#### image
+        - *### Типы данных чисел:
+        - *#### bit
+        - *#### tinyint
+        - *#### smallint
+        - *#### int
+        - *#### bigint
+        - *#### decimal(p,s)
+        - *#### smallmoney
+        - *#### float(n)
+        - *#### real
+        - *### Типы данных дат:
+        - *#### datetime
+        - *#### datetime2
+        - *#### smalldatetime
+        - *#### date
+        - *#### time
+        - *#### datetimeoffset
+        - *#### timestamp
+        - *### Другие типы данных:
+        - *#### sql_variant
+        - *#### uniqueidentifier
+        - *#### xml
+        - *#### cursor
+        - *#### table
+        - *## Типы данных Microsoft Access
+        - *#### Text
+        - *#### Memo
+        - *#### Byte
+        - *#### Integer
+        - *#### Long
+        - *#### Single
+        - *#### Double
+        - *#### Currency
+        - *#### AutoNumber
+        - *#### Date/Time
+        - *#### Yes/No
+        - *#### Ole Object
+        - *#### Hyperlink
+        - *#### Lookup Wizard
+    - <a href = "E:\Node_projects\Node_Way\Education\src\Knowledge\MySql\html5css.ru\sql_functions.md">sql_functions.md</a>
+        - *# MySQL строковые функции
+        - *## ASCII
+        - *## CHAR_LENGTH
+        - *## CHARACTER_LENGTH
+        - *## CONCAT
+        - *### TR
+        - *## CONCAT_WS
+        - *### TR
+        - *## GROUP_CONCAT
+        - *### TR
+        - *## FIELD
+        - *### TR
+        - *## FORMAT
+        - *## INSERT
+        - *## INSTR
+        - *### TR
+        - *## LCASE
+        - *## LEFT
+        - *### TR
+        - *## LENGTH
+        - *### TR 
+        - *## LOCATE
+        - *### TR
+        - *## LOWER
+        - *### TR
+        - *## LPAD
+        - *### TR
+        - *## LTRIM
+        - *### TR
+        - *## MID
+        - *### TR 
+        - *## POSITION
+        - *### TR
+        - *## REPEAT
+        - *### TR
+        - *## REPLACE
+        - *### TR
+        - *## REVERSE
+        - *### TR
+        - *## RIGHT
+        - *### TR
+        - *## RPAD
+        - *### TR 
+        - *## RTRIM
+        - *## SPACE
+        - *### TR
+        - *## STRCMP
+        - *## SUBSTR
+        - *### TR
+        - *## SUBSTRING
+        - *## SUBSTRING_INDEX
+        - *### TR
+        - *## TRIM
+        - *### TR
+        - *## UCASE
+        - *### TR
+        - *## UPPER
+        - *# Цифровые функции MySQL
+        - *## ABS
+        - *### TR
+        - *## ACOS
+        - *## ASIN
+        - *## ATAN
+        - *## ATAN2
+        - *## AVG
+        - *### TR
+        - *## CEIL
+        - *## CEILING
+        - *### TR
+        - *## COS
+        - *## COT
+        - *## COUNT
+        - *## DEGREES
+        - *## DIV
+        - *## EXP
+        - *## FLOOR
+        - *### TR
+        - *## GREATEST
+        - *### TR
+        - *## LEAST
+        - *### TR
+        - *## LN
+        - *## LOG
+        - *## LOG10
+        - *## LOG2
+        - *## MAX
+        - *### TR
+        - *## MIN
+        - *### TR
+        - *## MOD
+        - *### TR
+        - *## PI
+        - *## POW
+        - *### TR
+        - *## POWER
+        - *## RADIANS
+        - *## RAND
+        - *### TR
+        - *## ROUND
+        - *### TR
+        - *## SIGN
+        - *### TR
+        - *## SIN
+        - *## SQRT
+        - *### TR
+        - *## SUM
+        - *### TR
+        - *## TAN
+        - *## TRUNCATE
+        - *### TR
+        - *# Дата 
+        - *## ADDDATE
+        - *## ADDTIME
+        - *## CURDATE
+        - *## CURRENT_DATE
+        - *### TR
+        - *## CURRENT_TIME
+        - *### TR
+        - *## CURRENT_TIMESTAMP
+        - *## CURTIME
+        - *## DATE
+        - *### TR
+        - *## DATEDIFF
+        - *## DATE_ADD
+        - *### TR
+        - *## DATE_FORMAT
+        - *### TR
+        - *## DATE_SUB
+        - *### TR
+        - *## DAY
+        - *### TR
+        - *## DAYNAME
+        - *### TR
+        - *## DAYOFMONTH
+        - *## DAYOFWEEK
+        - *### TR
+        - *## DAYOFYEAR
+        - *### TR
+        - *## EXTRACT
+        - *### TR
+        - *## FROM_DAYS
+        - *## INTERVAL
+        - *### TR
+        - *#### 1
+        - *#### 2
+        - *## HOUR
+        - *### TR
+        - *#### hour, minute, second
+        - *## LAST_DAY
+        - *## LOCALTIME
+        - *## LOCALTIMESTAMP
+        - *## MAKEDATE
+        - *## MAKETIME
+        - *## MICROSECOND
+        - *## MINUTE
+        - *## MONTH
+        - *### TR
+        - *## MONTHNAME
+        - *## NOW
+        - *### TR
+        - *## PERIOD_ADD
+        - *## PERIOD_DIFF
+        - *## QUARTER
+        - *## SECOND
+        - *## SEC_TO_TIME
+        - *### TR
+        - *## STR_TO_DATE
+        - *## SUBDATE
+        - *## SUBTIME
+        - *## SYSDATE
+        - *## TIME
+        - *## TIME_FORMAT
+        - *### TR
+        - *## TIME_TO_SEC
+        - *### TR
+        - *## TIMEDIFF
+        - *## TIMESTAMP
+        - *## TO_DAYS
+        - *### TR
+        - *## WEEK
+        - *### TR
+        - *## WEEKDAY
+        - *### TR
+        - *## WEEKOFYEAR
+        - *## YEAR
+        - *## YEARWEEK
+        - *### TR
+        - *# Расширенные функции MySQL
+        - *## BIN
+        - *## BINARY
+        - *## CASE
+        - *## CAST	
+        - *## COALESCE	
+        - *## CONNECTION_ID
+        - *## CONV
+        - *## CONVERT
+        - *## CURRENT_USER
+        - *## DATABASE
+        - *## SESSION_USER
+        - *## SYSTEM_USER
+        - *## USER
+        - *## VERSION
+    - <a href = "E:\Node_projects\Node_Way\Education\src\Knowledge\MySql\html5css.ru\sql_quickref v.2.md">sql_quickref v.2.md</a>
+        - *# SQL Statement	Syntax
+        - *## AND
+        - *### TR
+        - *## OR
+        - *### TR
+        - *## ALTER TABLE
+        - *## AS (alias)
+        - *### TR
+        - *## BETWEEN
+        - *### TR
+        - *## COUNT
+        - *### TR
+        - *## CREATE INDEX
+        - *## CREATE VIEW
+        - *## DELETE	
+        - *### TR
+        - *## DISTINCT
+        - *### TR
+        - *## DROP DATABASE
+        - *## DROP INDEX
+        - *## DROP TABLE
+        - *## ELT
+        - *### TR
+        - *## EXISTS
+        - *## GROUP BY
+        - *### TR
+        - *## HAVING
+        - *### TR
+        - *## IF
+        - *## IFNULL
+        - *## IS
+        - *## IS NOT NULL
+        - *### TR
+        - *## IS NULL
+        - *### TR
+        - *## LAST_INSERT_ID
+        - *## NULLIF
+        - *## IN
+        - *### TR
+        - *## INSERT INTO
+        - *### TR
+        - *## INNER JOIN
+        - *### TR 
+        - *### TR JOIN
+        - *#### LEFT JOIN
+        - *#### RIGHT JOIN
+        - *#### INNER JOIN
+        - *## LEFT JOIN
+        - *### TR
+        - *## RIGHT JOIN
+        - *### TR
+        - *## FULL JOIN
+        - *## LIKE
+        - *### TR
+        - *#### reg Like %
+        - *#### reg Like _
+        - *## LIMIT
+        - *### TR
+        - *## NOT
+        - *### TR
+        - *## ORDER BY	
+        - *### TR
+        - *## SELECT *	
+        - *### TR 
+        - *## SELECT DISTINCT
+        - *## SELECT INTO
+        - *### TR
+        - *## SELECT TOP
+        - *## UNION
+        - *### TR
+        - *## UNION ALL
+        - *## UPDATE
+        - *### TR
+        - *## WHERE
+        - *### TR
+    - <a href = "E:\Node_projects\Node_Way\Education\src\Knowledge\MySql\html5css.ru\sql_quickref.md">sql_quickref.md</a>
+        - *# SQL Statement	Syntax
+        - *## AND / OR
+        - *## ALTER TABLE
+        - *## AS (alias)
+        - *## BETWEEN
+        - *## CREATE INDEX
+        - *## CREATE VIEW
+        - *## DELETE	
+        - *## DROP DATABASE
+        - *## DROP INDEX
+        - *## DROP TABLE
+        - *## EXISTS
+        - *## GROUP BY
+        - *## HAVING
+        - *## IN
+        - *## INSERT INTO
+        - *## INNER JOIN
+        - *## LEFT JOIN
+        - *## RIGHT JOIN
+        - *## FULL JOIN
+        - *## LIKE
+        - *## ORDER BY	
+        - *## SELECT *	
+        - *## SELECT DISTINCT
+        - *## SELECT INTO
+        - *## SELECT TOP
+        - *## UNION
+        - *## UNION ALL
+        - *## UPDATE
+        - *## WHERE

@@ -1,0 +1,23 @@
+- <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\add.1\Git_what_trane{add-i}@1_arch\cat.Git_what_trane{add-i}@1_arch\dir.Git_what_trane{add-i}@1_arch.md">Git_what_trane{add-i}@1_arch</a>
+    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\add.1\Git_what_trane{add-i}@1_arch\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
+        - *## {st} - (blob|ident) area :ident{stash}::blob: + :blob:
+        - *## {fs} - (file) area :file:
+        - *## {ws} - (ident) area :wd::file: - label on unstage file 
+        - *## {in} - (ident) area :in::file: - label on stage file
+        - *## {lr} - (blob|ident) area :ident{local repo}::blob: + :blob:
+        - *## {ur} - (blob|ident) area :ident{upstr repo}::blob: + :blob:
+        - *## git init
+        - *## create mas1
+        - *##  add mas1
+        - *## commit mas1
+        - *## touch mas2
+        - *## sta1 go to {stash}
+        - *### atten! {stash} add modif {ws}
+        - *## bring inside mas3   
+        - *## bring clear_workspaced (cl_ws)
+        - *## bring clear_indexed (cl_in)
+        - *## bring modifi_indexed (mo_in)
+    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\add.1\Git_what_trane{add-i}@1_arch\create_what_trane{}.md">create_what_trane{}.md</a>
+        - *### git restore --staged  is opposit git add
+        - *## [7.2 Инструменты Git - Интерактивное индексирование](https://git-scm.com/book/ru/v2/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B-Git-%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D0%B5-%D0%B8%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)
+        - *## what that?:

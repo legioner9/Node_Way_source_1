@@ -1,0 +1,2 @@
+- <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__\Md\InnerPath\working\directory\cat.directory\dir.directory.md">directory</a>
+    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__\Md\InnerPath\working\directory\out_file.md">out_file.md</a>

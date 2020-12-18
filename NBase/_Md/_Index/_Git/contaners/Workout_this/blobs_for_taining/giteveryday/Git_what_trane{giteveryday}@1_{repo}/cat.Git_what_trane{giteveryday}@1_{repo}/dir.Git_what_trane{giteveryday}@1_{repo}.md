@@ -1,0 +1,45 @@
+- <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\giteveryday\Git_what_trane{giteveryday}@1_{repo}\cat.Git_what_trane{giteveryday}@1_{repo}\dir.Git_what_trane{giteveryday}@1_{repo}.md">Git_what_trane{giteveryday}@1_{repo}</a>
+    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\giteveryday\Git_what_trane{giteveryday}@1_{repo}\create_bind_repo.md">create_bind_repo.md</a>
+        - *# create repo
+        - *# bind repo
+    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\giteveryday\Git_what_trane{giteveryday}@1_{repo}\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
+        - *## {st} - (blob|ident) area :ident{stash}::blob: + :blob:
+        - *## {fs} - (file) area :file:
+        - *## {ws} - (ident) area :wd::file: - label on unstage file 
+        - *## {in} - (ident) area :in::file: - label on stage file
+        - *## {lr} - (blob|ident) area :ident{local repo}::blob: + :blob:
+        - *## {ur} - (blob|ident) area :ident{upstr repo}::blob: + :blob:
+        - *## git init
+        - *## create mas1
+        - *##  add mas1
+        - *## commit mas1
+        - *## touch mas2
+        - *## sta1 go to {stash}
+        - *### atten! {stash} add modif {ws}
+        - *## bring inside mas3   
+        - *## bring clear_workspaced (cl_ws)
+        - *## bring clear_indexed (cl_in)
+        - *## bring modifi_indexed (mo_in)
+    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\giteveryday\Git_what_trane{giteveryday}@1_{repo}\create_what_trane.md">create_what_trane.md</a>
+        - *## NAME
+        - *## SYNOPSIS
+        - *## DESCRIPTION
+        - *## Individual Developer (Standalone)
+        - *### Examples
+        - *#### Use a tarball as a starting point for a new repository.
+        - *#### Create a topic branch and develop.
+        - *## Individual Developer (Participant)
+        - *###  Examples
+        - *#### Clone the upstream and work on it. Feed changes to upstream.
+        - *#### Push into another repository.
+        - *#### Branch off of a specific tag.
+        - *## Integrator
+        - *### Examples
+        - *#### A typical integrator’s Git day.
+        - *## Repository Administration
+        - *### Examples
+        - *#### We assume the following in /etc/services
+        - *#### Run git-daemon to serve /pub/scm from inetd.
+        - *#### Run git-daemon to serve /pub/scm from xinetd.
+        - *#### Give push/pull only access to developers using git-over-ssh.
+        - *#### CVS-style shared repository.

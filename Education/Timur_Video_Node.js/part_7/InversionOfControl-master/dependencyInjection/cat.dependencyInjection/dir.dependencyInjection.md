@@ -1,0 +1,6 @@
+- <a href = "E:\Node_projects\Node_Way\Education\Timur_Video_Node.js\part_7\InversionOfControl-master\dependencyInjection\cat.dependencyInjection\dir.dependencyInjection.md">dependencyInjection</a>
+    - <a href = "E:\Node_projects\Node_Way\Education\Timur_Video_Node.js\part_7\InversionOfControl-master\dependencyInjection\README.md">README.md</a>
+        - *## Описание
+        - *## Файлы
+        - *## Запуск
+        - *## Задания

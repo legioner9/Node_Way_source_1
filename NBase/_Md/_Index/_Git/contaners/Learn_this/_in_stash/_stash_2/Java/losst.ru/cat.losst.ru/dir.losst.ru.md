@@ -1,0 +1,22 @@
+- <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\_in_stash\_stash_2\Java\losst.ru\cat.losst.ru\dir.losst.ru.md">losst.ru</a>
+    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\_in_stash\_stash_2\Java\losst.ru\_losst.ru.md">_losst.ru.md</a>
+        - *# [УСТАНОВКА JAVA В LINUX](https://losst.ru/ustanovka-java-v-linux)
+        - *## УСТАНОВКА JAVA В LINUX СВОИМИ РУКАМИ
+        - *###     JRE
+        - *###     JDK
+        - *## УСТАНОВКА JAVA В UBUNTU
+        - *### JRE И JDK
+        - *##      УСТАНОВКА JAVA В ARCHLINUX
+        - *#### JRE
+        - *### JDK
+        - *## УСТАНОВКА JAVA В CENTOS
+        - *###     JRE
+        - *### JDK
+        - *## ВЫБОР ВЕРСИИ JAVA
+        - *### UBUNTU
+        - *###  ARCHLINUX
+        - *### CENTOS
+        - *## НАСТРОЙКА ПЕРЕМЕННЫХ ОКРУЖЕНИЯ
+        - *## ВЫВОДЫ
+        - *## Install
+        - *### <a href="https://www.java.com/ru/download/help/linux_x64rpm_install.xml" target="_blank">Инструкции по установке Java для 64-разрядной версии Linux RPM</a>

@@ -1,0 +1,5 @@
+- <a href = "E:\Node_projects\Node_Way\Education\Timur_Video_JS\ind_1\Closure-master\cat.Closure-master\dir.Closure-master.md">Closure-master</a>
+    - <a href = "E:\Node_projects\Node_Way\Education\Timur_Video_JS\ind_1\Closure-master\Exercises.ru.md">Exercises.ru.md</a>
+        - *# Замыкания и чеининг
+    - <a href = "E:\Node_projects\Node_Way\Education\Timur_Video_JS\ind_1\Closure-master\README.md">README.md</a>
+        - *# Function closures and storing data in function scope

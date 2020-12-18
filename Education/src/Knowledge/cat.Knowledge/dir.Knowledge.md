@@ -1,0 +1,753 @@
+- <a href = "E:\Node_projects\Node_Way\Education\src\Knowledge\cat.Knowledge\dir.Knowledge.md">Knowledge</a>
+    - <a href = "E:\Node_projects\Node_Way\Education\src\Knowledge\Git\cat.Git\dir.Git.md">Git</a>
+        - <a href = "E:\Node_projects\Node_Way\Education\src\Knowledge\Git\Conspects\cat.Conspects\dir.Conspects.md">Conspects</a>
+            - <a href = "E:\Node_projects\Node_Way\Education\src\Knowledge\Git\Conspects\progit_v2.1.49\cat.progit_v2.1.49\dir.progit_v2.1.49.md">progit_v2.1.49</a>
+                - <a href = "E:\Node_projects\Node_Way\Education\src\Knowledge\Git\Conspects\progit_v2.1.49\Mane\cat.Mane\dir.Mane.md">Mane</a>
+                    - <a href = "E:\Node_projects\Node_Way\Education\src\Knowledge\Git\Conspects\progit_v2.1.49\Mane\mane.md">mane.md</a>
+                        - *# Команды консоли
+                        - *## Синтаксис
+                        - *### &&
+                        - *## Файлы
+                        - *### notepad
+                        - *### more
+                        - *### echo
+                        - *## Каталоги
+                        - *### ls , dir
+                        - *### cd
+                        - *### md
+                        - *### ren
+                        - *### rd
+                        - *## Система
+                        - *# Первоначальная настройка Git
+                        - *## Проверка настроек
+                        - *## Выбор редактора
+                        - *# Создание Git-репозитория
+                        - *## Создание репозитория в существующей директории
+                        - *## Клонирование существующего репозитория
+                        - *## Запись изменений в репозиторий
+                        - *### reset 
+                        - *### echo
+                        - *### .gitignore
+                        - *### diff
+                        - *### commit
+                        - *### rm
+                        - *###  mv
+                        - *### log
+                        - *### graph
+                        - *### Операции отмены --amend , reset HEAD  , checkout -- 
+                        - *# Работа с удалёнными репозиториями
+                        - *## Просмотр удалённых репозиториев
+                        - *## Добавление удалённых репозиториев
+                        - *## Получение изменений из удалённого репозитория — Fetch и Pull
+                        - *## Отправка изменений в удаленный репозиторий (Push)
+                        - *## Просмотр удаленного репозитория
+                        - *## Удаление и переименование удалённых репозиториев
+                        - *# Работа с метками
+                        - *## Просмотр списка меток
+                        - *## Аннотированные метки
+                        - *# Alias Git
+                        - *# Основы ветвления и слияния
+                    - <a href = "E:\Node_projects\Node_Way\Education\src\Knowledge\Git\Conspects\progit_v2.1.49\Mane\StepByStep.md">StepByStep.md</a>
+                        - *#### Remove from index 
+                        - *#### Rewrite from index
+                        - *#### Switched to a new branch "iss53"
+                
+                - <a href = "E:\Node_projects\Node_Way\Education\src\Knowledge\Git\Conspects\progit_v2.1.49\Other\cat.Other\dir.Other.md">Other</a>
+                    - <a href = "E:\Node_projects\Node_Way\Education\src\Knowledge\Git\Conspects\progit_v2.1.49\Other\cmd_set_comand.md">cmd_set_comand.md</a>
+                        - *### A
+                        - *###  B
+                        - *###  C
+                        - *###  D
+                        - *###  E
+                        - *###  F
+                        - *###  G
+                        - *###  H
+                        - *###  I
+                        - *###  K
+                        - *###  L
+                        - *###  M
+                        - *###  N
+                        - *###  O
+                        - *###  P
+                        - *###  Q
+                        - *###  R
+                        - *###  S
+                        - *###  T
+                        - *### U
+                        - *###  V
+                        - *###  X
+                        - *###  W
+                
+            
+        
+    
+    - <a href = "E:\Node_projects\Node_Way\Education\src\Knowledge\MySql\cat.MySql\dir.MySql.md">MySql</a>
+        - <a href = "E:\Node_projects\Node_Way\Education\src\Knowledge\MySql\Ancor.md">Ancor.md</a>
+        - <a href = "E:\Node_projects\Node_Way\Education\src\Knowledge\MySql\html5css.ru\cat.html5css.ru\dir.html5css.ru.md">html5css.ru</a>
+            - <a href = "E:\Node_projects\Node_Way\Education\src\Knowledge\MySql\html5css.ru\sql_datatypes.md">sql_datatypes.md</a>
+                - *# Типы данных SQL
+                - *## Типы данных MySQL
+                - *### Текстовые типы данных:
+                - *#### CHAR(size)	
+                - *#### VARCHAR(size)
+                - *#### TINYTEXT
+                - *#### TEXT
+                - *#### BLOB
+                - *#### MEDIUMTEXT
+                - *#### MEDIUMBLOB
+                - *#### LONGTEXT
+                - *#### ENUM(x,y,z,etc.)
+                - *#### SET
+                - *### Типы данных чисел:
+                - *#### TINYINT(size)
+                - *#### SMALLINT(size)
+                - *#### MEDIUMINT(size)
+                - *#### INT(size)
+                - *#### BIGINT(size)
+                - *#### FLOAT(size,d)
+                - *#### DOUBLE(size,d)
+                - *#### DECIMAL(size,d)
+                - *### Типы данных дат:
+                - *#### DATE()
+                - *#### DATETIME()	
+                - *#### TIMESTAMP()
+                - *#### TIME()
+                - *#### YEAR()
+                - *### Типы строковых данных:
+                - *#### char(n)
+                - *#### varchar(n)
+                - *#### varchar(max)
+                - *#### text
+                - *#### nchar
+                - *#### nvarchar
+                - *#### nvarchar(max)
+                - *#### ntext
+                - *#### binary(n)
+                - *#### varbinary
+                - *#### varbinary(max)
+                - *#### image
+                - *### Типы данных чисел:
+                - *#### bit
+                - *#### tinyint
+                - *#### smallint
+                - *#### int
+                - *#### bigint
+                - *#### decimal(p,s)
+                - *#### smallmoney
+                - *#### float(n)
+                - *#### real
+                - *### Типы данных дат:
+                - *#### datetime
+                - *#### datetime2
+                - *#### smalldatetime
+                - *#### date
+                - *#### time
+                - *#### datetimeoffset
+                - *#### timestamp
+                - *### Другие типы данных:
+                - *#### sql_variant
+                - *#### uniqueidentifier
+                - *#### xml
+                - *#### cursor
+                - *#### table
+                - *## Типы данных Microsoft Access
+                - *#### Text
+                - *#### Memo
+                - *#### Byte
+                - *#### Integer
+                - *#### Long
+                - *#### Single
+                - *#### Double
+                - *#### Currency
+                - *#### AutoNumber
+                - *#### Date/Time
+                - *#### Yes/No
+                - *#### Ole Object
+                - *#### Hyperlink
+                - *#### Lookup Wizard
+            - <a href = "E:\Node_projects\Node_Way\Education\src\Knowledge\MySql\html5css.ru\sql_functions.md">sql_functions.md</a>
+                - *# MySQL строковые функции
+                - *## ASCII
+                - *## CHAR_LENGTH
+                - *## CHARACTER_LENGTH
+                - *## CONCAT
+                - *### TR
+                - *## CONCAT_WS
+                - *### TR
+                - *## GROUP_CONCAT
+                - *### TR
+                - *## FIELD
+                - *### TR
+                - *## FORMAT
+                - *## INSERT
+                - *## INSTR
+                - *### TR
+                - *## LCASE
+                - *## LEFT
+                - *### TR
+                - *## LENGTH
+                - *### TR 
+                - *## LOCATE
+                - *### TR
+                - *## LOWER
+                - *### TR
+                - *## LPAD
+                - *### TR
+                - *## LTRIM
+                - *### TR
+                - *## MID
+                - *### TR 
+                - *## POSITION
+                - *### TR
+                - *## REPEAT
+                - *### TR
+                - *## REPLACE
+                - *### TR
+                - *## REVERSE
+                - *### TR
+                - *## RIGHT
+                - *### TR
+                - *## RPAD
+                - *### TR 
+                - *## RTRIM
+                - *## SPACE
+                - *### TR
+                - *## STRCMP
+                - *## SUBSTR
+                - *### TR
+                - *## SUBSTRING
+                - *## SUBSTRING_INDEX
+                - *### TR
+                - *## TRIM
+                - *### TR
+                - *## UCASE
+                - *### TR
+                - *## UPPER
+                - *# Цифровые функции MySQL
+                - *## ABS
+                - *### TR
+                - *## ACOS
+                - *## ASIN
+                - *## ATAN
+                - *## ATAN2
+                - *## AVG
+                - *### TR
+                - *## CEIL
+                - *## CEILING
+                - *### TR
+                - *## COS
+                - *## COT
+                - *## COUNT
+                - *## DEGREES
+                - *## DIV
+                - *## EXP
+                - *## FLOOR
+                - *### TR
+                - *## GREATEST
+                - *### TR
+                - *## LEAST
+                - *### TR
+                - *## LN
+                - *## LOG
+                - *## LOG10
+                - *## LOG2
+                - *## MAX
+                - *### TR
+                - *## MIN
+                - *### TR
+                - *## MOD
+                - *### TR
+                - *## PI
+                - *## POW
+                - *### TR
+                - *## POWER
+                - *## RADIANS
+                - *## RAND
+                - *### TR
+                - *## ROUND
+                - *### TR
+                - *## SIGN
+                - *### TR
+                - *## SIN
+                - *## SQRT
+                - *### TR
+                - *## SUM
+                - *### TR
+                - *## TAN
+                - *## TRUNCATE
+                - *### TR
+                - *# Дата 
+                - *## ADDDATE
+                - *## ADDTIME
+                - *## CURDATE
+                - *## CURRENT_DATE
+                - *### TR
+                - *## CURRENT_TIME
+                - *### TR
+                - *## CURRENT_TIMESTAMP
+                - *## CURTIME
+                - *## DATE
+                - *### TR
+                - *## DATEDIFF
+                - *## DATE_ADD
+                - *### TR
+                - *## DATE_FORMAT
+                - *### TR
+                - *## DATE_SUB
+                - *### TR
+                - *## DAY
+                - *### TR
+                - *## DAYNAME
+                - *### TR
+                - *## DAYOFMONTH
+                - *## DAYOFWEEK
+                - *### TR
+                - *## DAYOFYEAR
+                - *### TR
+                - *## EXTRACT
+                - *### TR
+                - *## FROM_DAYS
+                - *## INTERVAL
+                - *### TR
+                - *#### 1
+                - *#### 2
+                - *## HOUR
+                - *### TR
+                - *#### hour, minute, second
+                - *## LAST_DAY
+                - *## LOCALTIME
+                - *## LOCALTIMESTAMP
+                - *## MAKEDATE
+                - *## MAKETIME
+                - *## MICROSECOND
+                - *## MINUTE
+                - *## MONTH
+                - *### TR
+                - *## MONTHNAME
+                - *## NOW
+                - *### TR
+                - *## PERIOD_ADD
+                - *## PERIOD_DIFF
+                - *## QUARTER
+                - *## SECOND
+                - *## SEC_TO_TIME
+                - *### TR
+                - *## STR_TO_DATE
+                - *## SUBDATE
+                - *## SUBTIME
+                - *## SYSDATE
+                - *## TIME
+                - *## TIME_FORMAT
+                - *### TR
+                - *## TIME_TO_SEC
+                - *### TR
+                - *## TIMEDIFF
+                - *## TIMESTAMP
+                - *## TO_DAYS
+                - *### TR
+                - *## WEEK
+                - *### TR
+                - *## WEEKDAY
+                - *### TR
+                - *## WEEKOFYEAR
+                - *## YEAR
+                - *## YEARWEEK
+                - *### TR
+                - *# Расширенные функции MySQL
+                - *## BIN
+                - *## BINARY
+                - *## CASE
+                - *## CAST	
+                - *## COALESCE	
+                - *## CONNECTION_ID
+                - *## CONV
+                - *## CONVERT
+                - *## CURRENT_USER
+                - *## DATABASE
+                - *## SESSION_USER
+                - *## SYSTEM_USER
+                - *## USER
+                - *## VERSION
+            - <a href = "E:\Node_projects\Node_Way\Education\src\Knowledge\MySql\html5css.ru\sql_quickref v.2.md">sql_quickref v.2.md</a>
+                - *# SQL Statement	Syntax
+                - *## AND
+                - *### TR
+                - *## OR
+                - *### TR
+                - *## ALTER TABLE
+                - *## AS (alias)
+                - *### TR
+                - *## BETWEEN
+                - *### TR
+                - *## COUNT
+                - *### TR
+                - *## CREATE INDEX
+                - *## CREATE VIEW
+                - *## DELETE	
+                - *### TR
+                - *## DISTINCT
+                - *### TR
+                - *## DROP DATABASE
+                - *## DROP INDEX
+                - *## DROP TABLE
+                - *## ELT
+                - *### TR
+                - *## EXISTS
+                - *## GROUP BY
+                - *### TR
+                - *## HAVING
+                - *### TR
+                - *## IF
+                - *## IFNULL
+                - *## IS
+                - *## IS NOT NULL
+                - *### TR
+                - *## IS NULL
+                - *### TR
+                - *## LAST_INSERT_ID
+                - *## NULLIF
+                - *## IN
+                - *### TR
+                - *## INSERT INTO
+                - *### TR
+                - *## INNER JOIN
+                - *### TR 
+                - *### TR JOIN
+                - *#### LEFT JOIN
+                - *#### RIGHT JOIN
+                - *#### INNER JOIN
+                - *## LEFT JOIN
+                - *### TR
+                - *## RIGHT JOIN
+                - *### TR
+                - *## FULL JOIN
+                - *## LIKE
+                - *### TR
+                - *#### reg Like %
+                - *#### reg Like _
+                - *## LIMIT
+                - *### TR
+                - *## NOT
+                - *### TR
+                - *## ORDER BY	
+                - *### TR
+                - *## SELECT *	
+                - *### TR 
+                - *## SELECT DISTINCT
+                - *## SELECT INTO
+                - *### TR
+                - *## SELECT TOP
+                - *## UNION
+                - *### TR
+                - *## UNION ALL
+                - *## UPDATE
+                - *### TR
+                - *## WHERE
+                - *### TR
+            - <a href = "E:\Node_projects\Node_Way\Education\src\Knowledge\MySql\html5css.ru\sql_quickref.md">sql_quickref.md</a>
+                - *# SQL Statement	Syntax
+                - *## AND / OR
+                - *## ALTER TABLE
+                - *## AS (alias)
+                - *## BETWEEN
+                - *## CREATE INDEX
+                - *## CREATE VIEW
+                - *## DELETE	
+                - *## DROP DATABASE
+                - *## DROP INDEX
+                - *## DROP TABLE
+                - *## EXISTS
+                - *## GROUP BY
+                - *## HAVING
+                - *## IN
+                - *## INSERT INTO
+                - *## INNER JOIN
+                - *## LEFT JOIN
+                - *## RIGHT JOIN
+                - *## FULL JOIN
+                - *## LIKE
+                - *## ORDER BY	
+                - *## SELECT *	
+                - *## SELECT DISTINCT
+                - *## SELECT INTO
+                - *## SELECT TOP
+                - *## UNION
+                - *## UNION ALL
+                - *## UPDATE
+                - *## WHERE
+        
+        - <a href = "E:\Node_projects\Node_Way\Education\src\Knowledge\MySql\Pdfs\cat.Pdfs\dir.Pdfs.md">Pdfs</a>
+            - <a href = "E:\Node_projects\Node_Way\Education\src\Knowledge\MySql\Pdfs\md.md">md.md</a>
+                - *# SQL Statement	Syntax
+                - *## AND / OR
+                - *## ALTER TABLE
+                - *## AS (alias)
+                - *## BETWEEN
+                - *## CREATE INDEX
+                - *## CREATE VIEW
+                - *## DELETE	
+                - *## DROP DATABASE
+                - *## DROP INDEX
+                - *## DROP TABLE
+                - *## EXISTS
+                - *## GROUP BY
+                - *## HAVING
+                - *## IN
+                - *## INSERT INTO
+                - *## INNER JOIN
+                - *## LEFT JOIN
+                - *## RIGHT JOIN
+                - *## FULL JOIN
+                - *## LIKE
+                - *## ORDER BY	
+                - *## SELECT *	
+                - *## SELECT DISTINCT
+                - *## SELECT INTO
+                - *## SELECT TOP	SELECT TOP number|percent column_name(s)
+                - *## UNION	
+                - *## UNION ALL
+                - *## UPDATE
+                - *## WHERE
+        
+        - <a href = "E:\Node_projects\Node_Way\Education\src\Knowledge\MySql\sql-tutorial.ru\cat.sql-tutorial.ru\dir.sql-tutorial.ru.md">sql-tutorial.ru</a>
+            - <a href = "E:\Node_projects\Node_Way\Education\src\Knowledge\MySql\sql-tutorial.ru\sql-tutorial_part_1.ru.md">sql-tutorial_part_1.ru.md</a>
+                - *# Create Comp Base
+                - *## Script create
+                - *### drop table
+                - *### create table
+                - *### insert Primary Key
+                - *###  insert Foreign Key
+                - *### filling	
+                - *# Упражнение 2
+                - *# Упражнение 5
+                - *# Упражнение 6
+            - <a href = "E:\Node_projects\Node_Way\Education\src\Knowledge\MySql\sql-tutorial.ru\sql-tutorial_part_2.ru.md">sql-tutorial_part_2.ru.md</a>
+                - *# Язык манипуляции данными в SQL
+                - *## (Глава 5) Оператор SELECT
+                - *### (5.1) Простой оператор SELECT
+                - *#
+                - *### Сортировка по дням рождения
+                - *### (5.2.) Предикаты I
+                - *### (5.3.) Переименование столбцов и вычисления в результирующем наборе
+                - *### (5.4.) Предикаты II
+                - *### (5.5.) Получение итоговых значений
+                - *### (5.6.) Использование в запросе нескольких источников записей
+                - *### (5.7) Традиционные операции над множествами и оператор SELECT
+                - *### Реляционное деление
+                - *### (5.8) Использование ключевых слов SOME (ANY) и ALL с предикатами сравнения 
+                - *### (5.9.) Преобразование типов и оператор CAST
+                - *### (5.10.) Оператор CASE
+                - *## (Глава 6) Операторы модификации данных
+                - *### (6.1.) Оператор INSERT
+                - *### Конструктор значений таблицы
+                - *### (6.2.) Оператор UPDATE
+                - *### (6.3.) Оператор DELETE
+            - <a href = "E:\Node_projects\Node_Way\Education\src\Knowledge\MySql\sql-tutorial.ru\Title_parts.md">Title_parts.md</a>
+                - *# (Часть I) Характерные ошибки при решении задач на написание запросов на выборку (SELECT)
+                - *# (Часть II) Язык манипуляции данными в SQL
+                - *# (Часть III) Готовимся ко второму этапу тестирования
+                - *# (Часть IV) Новое в стандарте и реализациях языка SQL
+                - *# (Часть V) Заметки о типах данных
+                - *# Язык определения данных (SQL DDL)
+                - *# Вопросы оптимизации
+                - *# Графовые базы данных
+                - *# Приложения
+        
+        - <a href = "E:\Node_projects\Node_Way\Education\src\Knowledge\MySql\sql.ru\cat.sql.ru\dir.sql.ru.md">sql.ru</a>
+            - <a href = "E:\Node_projects\Node_Way\Education\src\Knowledge\MySql\sql.ru\sql.ru.md">sql.ru.md</a>
+                - *# ALTER TABLE
+                - *# CREATE TABLE
+                - *## ZEROFILL
+                - *## Типы данных
+                - *### BLOB
+                - *### CHAR(NUM)
+                - *### DATE 
+                - *### DATETIME
+                - *### DECIMAL (length,dec)
+                - *### DOUBLE [(length,dec)]
+                - *### FLOAT [(precision)]	
+                - *### FLOAT [(length,decimals)]
+                - *### INT [(length)] [UNSIGNED] [ZEROFILL]
+                - *### INTEGER [(length)] [UNSIGNED] [ZEROFILL]
+                - *### LONGBLOB
+                - *### MEDIUMBLOB
+                - *### MEDIUMINT [(length)] [UNSIGNED] [ZEROFILL]
+                - *### REAL [(length,dec)]
+                - *### SMALLINT[(length)] [UNSIGNED] [ZEROFILL]
+                - *### TINYBLOB
+                - *### TINYINT [(length)] [UNSIGNED] [ZEROFILL]
+                - *### VARCHAR(NUM)
+                - *### TIME	
+                - *### TIMESTAMP(NUM)
+                - *## Ключи
+                - *## BLOB'ы
+                - *### Двоичные данные в BLOBS
+                - *# CREATE INDEX
+                - *# DELETE
+                - *# DESCRIBE
+                - *# DROP
+                - *# DROP INDEX
+                - *# GRANT
+                - *# SELECT
+                - *## Функции
+                - *### One
+                - *#### + - * /	
+                - *#### %	
+                - *#### | &
+                - *#### -
+                - *#### ( )
+                - *#### BETWEEN(A,B,C)
+                - *#### BIT_COUNT()
+                - *#### ELT(N,a,b,c,d)
+                - *#### FIELD(Z,a,b,c)
+                - *#### IF(A,B,C)
+                - *#### IFNULL(A,B)
+                - *#### ISNULL(A)
+                - *#### NOT !
+                - *#### OR, AND
+                - *#### SIGN()
+                - *#### SUM()
+                - *#### = <> <= < >= >
+                - *#### expr LIKE expr
+                - *#### expr NOT LIKE expr
+                - *#### expr REGEXP expr
+                - *#### expr NOT REGEXP expr
+                - *### Математика
+                - *#### ABS()
+                - *#### CEILING()
+                - *####  EXP()
+                - *#### FORMAT(nr,NUM)
+                - *#### LOG()
+                - *#### LOG10()
+                - *#### MIN(),MAX()
+                - *#### MOD()
+                - *#### POW()
+                - *#### ROUND()
+                - *#### RAND([integer_expr])
+                - *#### SQRT()
+                - *### Строки
+                - *#### CONCAT()
+                - *#### INTERVAL(A,a,b,c,d)
+                - *#### INSERT(org,strt,len,new)
+                - *#### LCASE(A)
+                - *#### LEFT()
+                - *#### LENGTH()
+                - *#### LOCATE(A,B)
+                - *#### LOCATE(A,B,C)
+                - *#### LTRIM(str)
+                - *#### REPLACE(A,B,C)
+                - *#### RIGHT()
+                - *#### RTRIM(str)
+                - *#### STRCMP()
+                - *#### SUBSTRING(A,B,C)
+                - *#### UCASE(A)	Переводит A в верхний регистр.
+                - *### Other
+                - *#### CURDATE()
+                - *#### DATABASE()
+                - *#### FROM_DAYS()
+                - *#### NOW()
+                - *#### PASSWORD()
+                - *#### PERIOD_ADD(P:N)
+                - *#### PERIOD_DIFF(A,B)
+                - *#### TO_DAYS()
+                - *#### UNIX_TIMESTAMP([date])
+                - *#### USER()
+                - *#### WEEKDAY()
+                - *### With Group
+                - *#### AVG()
+                - *#### SUM()
+                - *#### COUNT()
+                - *#### MIN()
+                - *#### MAX()
+                - *## Присоединения
+                - *## Псевдонимы
+                - *# INSERT INTO
+                - *# LOAD DATA INFILE
+                - *# SET OPTION
+                - *## SQL_SELECT_LIMIT=value
+                - *# UPDATE
+                - *# SHOW
+                - *# AddOns 
+                - *## \ 
+                - *### \0
+                - *### \n
+                - *### \t
+                - *### \r
+                - *### \b
+                - *### \'
+                - *### \"
+                - *### \\
+                - *### \%
+                - *### \_
+                - *## Примеры правильных строк:
+                - *## О числах
+        
+        - <a href = "E:\Node_projects\Node_Way\Education\src\Knowledge\MySql\sqlbolt.com\cat.sqlbolt.com\dir.sqlbolt.com.md">sqlbolt.com</a>
+            - <a href = "E:\Node_projects\Node_Way\Education\src\Knowledge\MySql\sqlbolt.com\content_bolt.md">content_bolt.md</a>
+                - *# SQL Lesson 2: Queries with constraints (Pt. 1)        
+                - *# SQL Lesson 3: Queries with constraints (Pt. 2)
+                - *# SQL Lesson 4: Filtering and sorting Query results
+                - *#### ORDER BY
+                - *#### DISTYNCT
+                - *# SQL Review: Simple SELECT Queries
+                - *### answers
+                - *#### OFFSET
+                - *# SQL Lesson 6: Multi-table queries with JOINs
+                - *### answers
+                - *#### INNER JOIN
+                - *# SQL Lesson 7: OUTER JOINs
+                - *### answers
+                - *#### LEFT JOIN
+                - *# SQL Lesson 8: A short note on NULLs
+                - *### answers 
+                - *# SQL Lesson 9: Queries with expressions
+                - *#### Aliases for columns and tables
+                - *### answers
+                - *#### Expr In SELECT
+                - *# SQL Lesson 10: Queries with aggregates (Pt. 1)
+                - *### answers 
+                - *#### MAX , SUM , AVG , Group BY
+                - *# SQL Lesson 11: Queries with aggregates (Pt. 2)
+                - *### ansver 
+                - *# SQL Lesson 12: Order of execution of a Query
+                - *### answers
+                - *# SQL Lesson 13: Inserting rows
+                - *### answers
+                - *#### INSERT INTO
+                - *# SQL Lesson 14: Updating rows
+                - *### answer
+                - *#### UPDATE
+                - *# SQL Lesson 15: Deleting rows
+                - *# answers 
+                - *#### DELETE
+                - *# SQL Lesson 16: Creating tables
+                - *#### CREATE TABLE
+                - *### example
+                - *### answers
+                - *# SQL Lesson 17: Altering tables
+                - *#### ADD COLUMN
+                - *#### DROP COLUMN
+                - *#### RENAME TO
+                - *### answers
+                - *# SQL Lesson 18: Dropping tables
+                - *#### answers 
+        
+    
+    - <a href = "E:\Node_projects\Node_Way\Education\src\Knowledge\OwnSyntax\cat.OwnSyntax\dir.OwnSyntax.md">OwnSyntax</a>
+        - <a href = "E:\Node_projects\Node_Way\Education\src\Knowledge\OwnSyntax\NameTag.md">NameTag.md</a>
+            - *### inside within indoors inland
+            - *### outside without out
+            - *### definition finding specification  modifier
+            - *### assumption admission allowance sumption
+            - *### call cause induce summon produce evoke bring fetch generate create involve exert draw entail move spawn breed suggest work send
+            - *### operator manipulator statement operation controller
+            - *### problem task objective goal why
+        - <a href = "E:\Node_projects\Node_Way\Education\src\Knowledge\OwnSyntax\NameTagPrepositions.md">NameTagPrepositions.md</a>
+            - *#### Простые
+            - *#### Производные
+            - *#### Сложные
+            - *#### Составные
+            - *#### Предлоги места (prepositions of place)
+            - *#### Предлоги времени (prepositions of time )
+            - *#### Предлоги деятеля и инструмента
+    

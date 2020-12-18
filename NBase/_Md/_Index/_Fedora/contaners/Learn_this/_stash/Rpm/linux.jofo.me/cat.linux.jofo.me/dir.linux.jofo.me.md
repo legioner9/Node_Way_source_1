@@ -1,0 +1,16 @@
+- <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Fedora\contaners\Learn_this\_stash\Rpm\linux.jofo.me\cat.linux.jofo.me\dir.linux.jofo.me.md">linux.jofo.me</a>
+    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Fedora\contaners\Learn_this\_stash\Rpm\linux.jofo.me\content_1.md">content_1.md</a>
+        - *# <a href="https://linux.jofo.me/223645.html?fclk=54&jsoid=0" target="_blank">Полный список опций данной команды, вы можете получить набрав в командной строке</a>
+        - *# rpm - установка и удаление программ в Linux Red Hat
+        - *## -i
+        - *## -e
+        - *## -U
+        - *## -q
+        - *## -V
+        - *## Основные примеры:
+        - *### Установка пакета:
+        - *### Установка несмотря на ошибки:
+        - *### Обновление пакета или установка нового, в замен текущего:
+        - *### Удаление пакета:
+        - *### Посмотреть список всех установленных пакетов:
+        - *### Посмотреть список всех установленных пакетов, скорее всего имеющих отношение к MySQL:

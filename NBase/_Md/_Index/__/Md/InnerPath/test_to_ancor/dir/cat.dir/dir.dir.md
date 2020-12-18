@@ -1,0 +1,3 @@
+- <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__\Md\InnerPath\test_to_ancor\dir\cat.dir\dir.dir.md">dir</a>
+    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__\Md\InnerPath\test_to_ancor\dir\out_file.md">out_file.md</a>
+        - *#mark

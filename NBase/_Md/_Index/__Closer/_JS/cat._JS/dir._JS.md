@@ -1,0 +1,104 @@
+- <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_JS\cat._JS\dir._JS.md">_JS</a>
+    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_JS\NodeJs\cat.NodeJs\dir.NodeJs.md">NodeJs</a>
+        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_JS\NodeJs\Part_I\cat.Part_I\dir.Part_I.md">Part_I</a>
+            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_JS\NodeJs\Part_I\content\cat.content\dir.content.md">content</a>
+                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_JS\NodeJs\Part_I\content\Docs\cat.Docs\dir.Docs.md">Docs</a>
+                    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_JS\NodeJs\Part_I\content\Docs\sites_docs.com\cat.sites_docs.com\dir.sites_docs.com.md">sites_docs.com</a>
+                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_JS\NodeJs\Part_I\content\Docs\sites_docs.com\site_docs.com copy.md">site_docs.com copy.md</a>
+                            - *# Сущности
+                    
+                
+                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_JS\NodeJs\Part_I\content\Usage\cat.Usage\dir.Usage.md">Usage</a>
+                    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_JS\NodeJs\Part_I\content\Usage\SetComand.md">SetComand.md</a>
+                        - *#ls
+                        - *# touch
+                        - *# mkdir
+                        - *# mv
+                        - *## mv as rename
+                        - *# cp (dubl + mv)
+                        - *# rm 
+                        - *# cat
+                        - *# (runtime start)
+                        - *## chmod 
+                        - *## sh
+                        - *# ps
+                        - *# man 
+                        - *# head
+                        - *# tail 
+                        - *# stdin
+                        - *# stdout
+                        - *# [less](less/___setcomand.md)
+                        - *# curl
+                        - *# grep
+                
+            
+        
+    
+    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_JS\VJs\cat.VJs\dir.VJs.md">VJs</a>
+        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_JS\VJs\Part_I\cat.Part_I\dir.Part_I.md">Part_I</a>
+            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_JS\VJs\Part_I\content\cat.content\dir.content.md">content</a>
+                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_JS\VJs\Part_I\content\Docs\cat.Docs\dir.Docs.md">Docs</a>
+                    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_JS\VJs\Part_I\content\Docs\sites_docs.com\cat.sites_docs.com\dir.sites_docs.com.md">sites_docs.com</a>
+                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_JS\VJs\Part_I\content\Docs\sites_docs.com\site_docs.com copy.md">site_docs.com copy.md</a>
+                            - *# Сущности
+                    
+                
+                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_JS\VJs\Part_I\content\Usage\cat.Usage\dir.Usage.md">Usage</a>
+                    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_JS\VJs\Part_I\content\Usage\SetComand.md">SetComand.md</a>
+                        - *#ls
+                        - *# touch
+                        - *# mkdir
+                        - *# mv
+                        - *## mv as rename
+                        - *# cp (dubl + mv)
+                        - *# rm 
+                        - *# cat
+                        - *# (runtime start)
+                        - *## chmod 
+                        - *## sh
+                        - *# ps
+                        - *# man 
+                        - *# head
+                        - *# tail 
+                        - *# stdin
+                        - *# stdout
+                        - *# [less](less/___setcomand.md)
+                        - *# curl
+                        - *# grep
+                
+            
+        
+    
+    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_JS\Yuidocjs\cat.Yuidocjs\dir.Yuidocjs.md">Yuidocjs</a>
+        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_JS\Yuidocjs\content\cat.content\dir.content.md">content</a>
+            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_JS\Yuidocjs\content\Docs\cat.Docs\dir.Docs.md">Docs</a>
+                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_JS\Yuidocjs\content\Docs\sites_docs.com\cat.sites_docs.com\dir.sites_docs.com.md">sites_docs.com</a>
+                    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_JS\Yuidocjs\content\Docs\sites_docs.com\site_docs.com copy.md">site_docs.com copy.md</a>
+                        - *# Сущности
+                
+            
+            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_JS\Yuidocjs\content\Usage\cat.Usage\dir.Usage.md">Usage</a>
+                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_JS\Yuidocjs\content\Usage\SetComand.md">SetComand.md</a>
+                    - *#ls
+                    - *# touch
+                    - *# mkdir
+                    - *# mv
+                    - *## mv as rename
+                    - *# cp (dubl + mv)
+                    - *# rm 
+                    - *# cat
+                    - *# (runtime start)
+                    - *## chmod 
+                    - *## sh
+                    - *# ps
+                    - *# man 
+                    - *# head
+                    - *# tail 
+                    - *# stdin
+                    - *# stdout
+                    - *# [less](less/___setcomand.md)
+                    - *# curl
+                    - *# grep
+            
+        
+    

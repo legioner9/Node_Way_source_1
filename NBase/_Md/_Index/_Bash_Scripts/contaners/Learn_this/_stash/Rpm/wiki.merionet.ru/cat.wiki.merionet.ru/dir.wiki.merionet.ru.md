@@ -1,0 +1,24 @@
+- <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Bash_Scripts\contaners\Learn_this\_stash\Rpm\wiki.merionet.ru\cat.wiki.merionet.ru\dir.wiki.merionet.ru.md">wiki.merionet.ru</a>
+    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Bash_Scripts\contaners\Learn_this\_stash\Rpm\wiki.merionet.ru\_wiki.merionet.ru.md">_wiki.merionet.ru.md</a>
+        - *# <a href="https://wiki.merionet.ru/servernye-resheniya/30/rpm-ustanovka-i-ispolzovanie-v-linux/" target="_blank">RPM - УСТАНОВКА И ИСПОЛЬЗОВАНИЕ В LINUX</a>
+        - *#### Install 
+        - *#### Remove 
+        - *#### Upgrade 
+        - *#### Query 
+        - *#### Verify 
+        - *## УСТАНОВКА
+        - *### Как узнать информацию о пакете RPM без установки?
+        - *### Как установить RPM пакет?
+        - *### Как проверить установленный пакет RPM?
+        - *### Как вывести список всех файлов для определенного установленного пакета RPM?
+        - *###  Как вывести список недавно установленных пакетов RPM?
+        - *### Как установить RPM пакет без зависимостей?
+        - *### Как заменить установленный пакет RPM?
+        - *### Как удалить пакет RPM?
+        - *### Как обновить установленный пакет RPM?
+        - *### Как запросить все установленные пакеты?
+        - *### Как запросить конкретный пакет?
+        - *###  Как запросить файл, который принадлежит пакету RPM?
+        - *### Как получить информацию для конкретного пакета?
+        - *### Как проверить RPM пакет?
+        - *### Мы можем проверить все установленные пакеты rpm, используя опцию -Va

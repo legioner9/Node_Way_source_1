@@ -1,0 +1,8 @@
+- <a href = "E:\Node_projects\Node_Way\Education\Timur_Video_JS\ind_2\Iteration-master\cat.Iteration-master\dir.Iteration-master.md">Iteration-master</a>
+    - <a href = "E:\Node_projects\Node_Way\Education\Timur_Video_JS\ind_2\Iteration-master\Exercises.ru.md">Exercises.ru.md</a>
+        - *# Упражнения
+        - *## Итерирование циклами
+        - *## Итерирование по двумерному массиву
+        - *## Итерирование объектов-справочников
+    - <a href = "E:\Node_projects\Node_Way\Education\Timur_Video_JS\ind_2\Iteration-master\README.md">README.md</a>
+        - *# Different implementation of iterations as a code abstraction

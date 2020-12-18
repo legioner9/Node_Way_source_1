@@ -1,0 +1,12 @@
+- <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Fedora\contaners\Learn_this\_stash\Dnf\www.alv.me\cat.www.alv.me\dir.www.alv.me.md">www.alv.me</a>
+    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Fedora\contaners\Learn_this\_stash\Dnf\www.alv.me\_www.alv.me.md">_www.alv.me.md</a>
+        - *# [Fedora: управление пакетами. Репозитории](https://www.alv.me/fedora-upravlenie-paketami-Repozitorii/)
+        - *## Что такое репозиторий
+        - *## Физическая структура репозиториев
+        - *### Структура главного репозитория
+        - *### Структура репозитория RPMFusion
+        - *### Структура репозитория RFRemix
+        - *### Дополнительные репозитории
+        - *## Логическая организация репозиториев
+        - *### Классификация программ
+        - *###  Основные репозитории

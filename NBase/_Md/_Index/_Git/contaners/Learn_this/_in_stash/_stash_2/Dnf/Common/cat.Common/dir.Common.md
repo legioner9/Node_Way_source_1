@@ -1,0 +1,13 @@
+- <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\_in_stash\_stash_2\Dnf\Common\cat.Common\dir.Common.md">Common</a>
+    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\_in_stash\_stash_2\Dnf\Common\_Common.md">_Common.md</a>
+        - *# <a href="https://www.easycoding.org/2017/03/24/poleznye-storonnie-repozitorii-dlya-fedora.html" target="_blank">Полезные сторонние репозитории для Fedora</a>
+        - *## RPM Fusion
+        - *## Negativo17
+        - *## Dropbox (*)
+        - *## VSCode (*)
+        - *# <a href="https://blog.sedicomm.com/2019/05/11/kak-nastroit-repozitorii-programmnogo-obespecheniya-v-fedora/" target="_blank">Как настроить репозитории программного обеспечения в Fedora?</a>
+        - *## отобразить список всех включенных репозиториев 
+        - *## список пакетов из указанного репозитория
+        - *## доступных или установленных из указанного репозитория,
+        - *## Добавление, включение и отключение репозитория DNF
+        - *## определить хранилище для Grafana 

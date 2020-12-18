@@ -1,0 +1,2 @@
+- <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Bash\content\Docs\gnu.org\cat.gnu.org\dir.gnu.org.md">gnu.org</a>
+    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Bash\content\Docs\gnu.org\manual.md">manual.md</a>
