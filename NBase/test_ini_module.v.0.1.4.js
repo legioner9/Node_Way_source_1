@@ -15,12 +15,10 @@ arht.before ( funcExamp, module );
 
 anls.preset = { if_basename: false };
 
-
-
-const res = anls ( '_Md' );
-
+const res = anls ( 'DIR_root' );
 
 // anlsFs_1.mode.deb = true;
-funcExamp (res);
+funcExamp ( res );
 
-debugger
+console.log ( '\n\nThe END __________________________ process.exit ( 0 )\n\n' );
+process.exit ( 0 );

@@ -205,6 +205,7 @@ const Func_examp = obj_ctlg_1 => {
     // END   INNER STANDARD FUNCTION BLOCK &&&&&&&&&&&&&&&&&&
 
     const make_catalog = ( arr_init, previous_path ) => {
+
         let data_init = '';
         let data_return = '';
         let data_write = '';
