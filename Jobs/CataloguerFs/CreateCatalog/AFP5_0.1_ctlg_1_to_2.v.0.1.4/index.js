@@ -145,8 +145,12 @@ const Func_examp = obj_ctlg_1 => {
     };
 
     const write_to_cat = ( path, data ) => {
-        const path_dir_file = Path.join ( path, 'dir.' + Path.basename ( path ) + '.md' );
-        if ( !!data ) s_Fs.s_writeFileSync ( path_dir_file, data );
+        const path_cat_dir = Path.join ( path, 'cat.' + Path.basename ( path ) );
+        const path_dir_file = Path.join ( path_cat_dir, 'dir.' + Path.basename ( path ) + '.md' );
+        if ( !!data ) {
+            s_Fs.s_mkdirSync ( path_cat_dir );
+            s_Fs.s_writeFileSync ( path_dir_file, data );
+        }
     };
 
     const add_from_file = ( data, add ) => {
@@ -200,7 +204,6 @@ const Func_examp = obj_ctlg_1 => {
         let data_write = '';
         let trg_exist_file = 0;
         const arr_0 = arr_init[0];
-
 
         for ( let i = 0 ; i < arr_init.length ; i++ ) {
             if ( i === 0 ) {
