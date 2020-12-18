@@ -176,7 +176,13 @@ const Func_examp = obj_ctlg_1 => {
     const PRE_TEXT = `<a href = "${ PATH_ROOT_CATALOG }">${ Path.basename ( obj_ctlg_1[0] ) }</a>\n\n`;
 
     const path_to_href = path => `<a href = "${ path }">${ Path.basename ( path ) }</a>`;
-    const path_to_root_path = path => Path.join ( path, 'dir.' + Path.basename ( path + '.md' ) );
+
+    const path_to_root_path = path => {
+
+        const path_cat_dir = Path.join ( path, 'cat.' + Path.basename ( path ) );
+        return Path.join ( path_cat_dir, 'dir.' + Path.basename ( path ) + '.md' );
+
+    };
     const path_to_root_href = path => `<a href = "${ path_to_root_path ( path ) }">${ Path.basename ( path ) }</a>`;
 
     const extr_file = path => {

@@ -27,8 +27,11 @@
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.4/Examples/cleare/DIR_root/cat.DIR_root/dir.DIR_root.md" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.4/Examples/cleare/DIR_root/cat.DIR_root/dir.DIR_root.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.4/Examples/cleare/DIR_root/dir_1/cat.dir_1/dir.dir_1.md" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.4/Examples/cleare/DIR_root/dir_1/cat.dir_1/dir.dir_1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.4/Examples/cleare/DIR_root/dir_1/dir_1_1/cat.dir_1_1/dir.dir_1_1.md" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.4/Examples/cleare/DIR_root/dir_1/dir_1_1/cat.dir_1_1/dir.dir_1_1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.4/Examples/cleare/fsLog/logErr.md" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.4/Examples/cleare/fsLog/logErr.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.4/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.4/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tmp/last_commit.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Tmp/last_commit.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -210,6 +213,8 @@
       <item itemvalue="JavaScript Debug.a.html" />
       <item itemvalue="Node.js.6-parse_1.js" />
       <item itemvalue="Node.js.Object.create.js" />
+      <item itemvalue="Node.js.index.js" />
+      <item itemvalue="Node.js.test_ini_module.js" />
       <item itemvalue="Node.js._1.js" />
       <item itemvalue="Node.js.function_test.js" />
       <item itemvalue="Node.js.test_ini_module_free.js" />
@@ -1005,22 +1010,22 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="519" y="178" width="699" height="606" key="FileChooserDialogImpl/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1604737356241" />
-    <state width="1174" height="180" key="GridCell.Tab.0.bottom" timestamp="1608266445318">
+    <state width="1174" height="180" key="GridCell.Tab.0.bottom" timestamp="1608270872378">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1174" height="180" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1608266445318" />
-    <state width="1174" height="180" key="GridCell.Tab.0.center" timestamp="1608266445318">
+    <state width="1174" height="180" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1608270872378" />
+    <state width="1174" height="180" key="GridCell.Tab.0.center" timestamp="1608270872377">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1174" height="180" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1608266445318" />
-    <state width="1174" height="180" key="GridCell.Tab.0.left" timestamp="1608266445318">
+    <state width="1174" height="180" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1608270872377" />
+    <state width="1174" height="180" key="GridCell.Tab.0.left" timestamp="1608270872377">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1174" height="180" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1608266445318" />
-    <state width="1174" height="180" key="GridCell.Tab.0.right" timestamp="1608266445318">
+    <state width="1174" height="180" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1608270872377" />
+    <state width="1174" height="180" key="GridCell.Tab.0.right" timestamp="1608270872378">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1174" height="180" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1608266445318" />
+    <state width="1174" height="180" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1608270872378" />
     <state width="1247" height="769" key="GridCell.Tab.1.bottom" timestamp="1605966686878">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
