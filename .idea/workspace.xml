@@ -27,11 +27,9 @@
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/1.Документ.dir/1.10.Размеры_и_прокрутка_окна.dir/1.10.Размеры_и_прокрутка_окна.md" beforeDir="false" afterPath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/1.Документ.dir/1.10.Размеры_и_прокрутка_окна.dir/1.10.Размеры_и_прокрутка_окна.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/1.Документ.dir/1.11.Координаты.dir/1.11.Координаты.md" beforeDir="false" afterPath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/1.Документ.dir/1.11.Координаты.dir/1.11.Координаты.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/1.Документ.dir/1.8.Стили_и_классы.dir/1.8.Стили_и_классы.md" beforeDir="false" afterPath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/1.Документ.dir/1.8.Стили_и_классы.dir/1.8.Стили_и_классы.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/1.Документ.dir/1.9.Размеры_и_прокрутка_элементов.dir/1.9.Размеры_и_прокрутка_элементов.md" beforeDir="false" afterPath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/1.Документ.dir/1.9.Размеры_и_прокрутка_элементов.dir/1.9.Размеры_и_прокрутка_элементов.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/Education_Store/S_6/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Education/Education_Store/S_6/Readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/2.Введение_в_события.dir/2.1.Введение_в_браузерные_события.dir/2.1.Введение_в_браузерные_события.md" beforeDir="false" afterPath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/2.Введение_в_события.dir/2.1.Введение_в_браузерные_события.dir/2.1.Введение_в_браузерные_события.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tmp/last_commit.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Tmp/last_commit.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -456,7 +454,10 @@
       <workItem from="1607766514959" duration="16967000" />
       <workItem from="1607843946729" duration="2113000" />
       <workItem from="1607848620642" duration="7813000" />
-      <workItem from="1607926973109" duration="15715000" />
+      <workItem from="1607926973109" duration="16325000" />
+      <workItem from="1608136445866" duration="2230000" />
+      <workItem from="1608190180933" duration="1564000" />
+      <workItem from="1608260614293" duration="615000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>

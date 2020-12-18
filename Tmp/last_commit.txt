@@ -1,1 +1,1 @@
-init Education/IlKan/js.ru/Part_1/1.Документ.dir/1.8.Стили_и_классы.dir/1.8.Стили_и_классы.md
+step_1 Education\IlKan\js.ru\Part_1\2.Введение_в_события.dir\2.1.Введение_в_браузерные_события.dir
