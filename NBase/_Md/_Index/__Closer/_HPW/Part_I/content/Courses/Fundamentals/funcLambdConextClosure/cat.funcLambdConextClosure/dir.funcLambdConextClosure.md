@@ -1,6 +1,4 @@
 - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_HPW\Part_I\content\Courses\Fundamentals\funcLambdConextClosure\cat.funcLambdConextClosure\dir.funcLambdConextClosure.md">funcLambdConextClosure</a>
-    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_HPW\Part_I\content\Courses\Fundamentals\funcLambdConextClosure\1.md">1.md</a>
-        - *#
     - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_HPW\Part_I\content\Courses\Fundamentals\funcLambdConextClosure\Closure-master\cat.Closure-master\dir.Closure-master.md">Closure-master</a>
         - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_HPW\Part_I\content\Courses\Fundamentals\funcLambdConextClosure\Closure-master\Exercises.ru.md">Exercises.ru.md</a>
             - *# Замыкания и чеининг

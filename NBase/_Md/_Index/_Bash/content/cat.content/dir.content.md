@@ -1,9 +1,4 @@
 - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Bash\content\cat.content\dir.content.md">content</a>
-    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Bash\content\Docs\cat.Docs\dir.Docs.md">Docs</a>
-        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Bash\content\Docs\gnu.org\cat.gnu.org\dir.gnu.org.md">gnu.org</a>
-            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Bash\content\Docs\gnu.org\manual.md">manual.md</a>
-        
-    
     - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Bash\content\Usage\cat.Usage\dir.Usage.md">Usage</a>
         - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Bash\content\Usage\Package_composition\cat.Package_composition\dir.Package_composition.md">Package_composition</a>
             - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Bash\content\Usage\Package_composition\Dig\cat.Dig\dir.Dig.md">Dig</a>
@@ -19,25 +14,4 @@
                     - *# [КОМАНДА TREE LINUX](https://losst.ru/komanda-tree-linux)
             
         
-        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Bash\content\Usage\SetMainComand.md">SetMainComand.md</a>
-            - *#ls
-            - *# touch
-            - *# mkdir
-            - *# mv
-            - *## mv as rename
-            - *# cp (dubl + mv)
-            - *# rm 
-            - *# cat
-            - *# (runtime start)
-            - *## chmod 
-            - *## sh
-            - *# ps
-            - *# man 
-            - *# head
-            - *# tail 
-            - *# stdin
-            - *# stdout
-            - *# [less](less/___setcomand.md)
-            - *# curl
-            - *# grep
     

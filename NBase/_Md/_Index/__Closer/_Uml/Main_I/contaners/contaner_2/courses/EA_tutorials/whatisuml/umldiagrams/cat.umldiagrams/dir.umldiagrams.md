@@ -48,11 +48,6 @@
             - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Uml\Main_I\contaners\contaner_2\courses\EA_tutorials\whatisuml\umldiagrams\behavioraldiagrams\usecasediagram\usecasediagram.md">usecasediagram.md</a>
                 - *#### [Use Case Diagram](https://sparxsystems.com/enterprise_architect_user_guide/15.1/model_domains/usecasediagram.html)
         
-        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Uml\Main_I\contaners\contaner_2\courses\EA_tutorials\whatisuml\umldiagrams\behavioraldiagrams\_more\cat._more\dir._more.md">_more</a>
-            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Uml\Main_I\contaners\contaner_2\courses\EA_tutorials\whatisuml\umldiagrams\behavioraldiagrams\_more\code_generation_from_behaviora\cat.code_generation_from_behaviora\dir.code_generation_from_behaviora.md">code_generation_from_behaviora</a>
-                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Uml\Main_I\contaners\contaner_2\courses\EA_tutorials\whatisuml\umldiagrams\behavioraldiagrams\_more\code_generation_from_behaviora\code_generation_from_behaviora.md">code_generation_from_behaviora.md</a>
-            
-        
     
     - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Uml\Main_I\contaners\contaner_2\courses\EA_tutorials\whatisuml\umldiagrams\specialized_models\cat.specialized_models\dir.specialized_models.md">specialized_models</a>
         - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Uml\Main_I\contaners\contaner_2\courses\EA_tutorials\whatisuml\umldiagrams\specialized_models\specialized_models.md">specialized_models.md</a>

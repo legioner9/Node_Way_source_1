@@ -1,26 +1,10 @@
 - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Far\_Voip\Ozeki\cat.Ozeki\dir.Ozeki.md">Ozeki</a>
-    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Far\_Voip\Ozeki\content\cat.content\dir.content.md">content</a>
-        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Far\_Voip\Ozeki\content\Usage\cat.Usage\dir.Usage.md">Usage</a>
-            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Far\_Voip\Ozeki\content\Usage\SetComand.md">SetComand.md</a>
-                - *#ls
-                - *# touch
-                - *# mkdir
-                - *# mv
-                - *## mv as rename
-                - *# cp (dubl + mv)
-                - *# rm 
-                - *# cat
-                - *# (runtime start)
-                - *## chmod 
-                - *## sh
-                - *# ps
-                - *# man 
-                - *# head
-                - *# tail 
-                - *# stdin
-                - *# stdout
-                - *# [less](less/___setcomand.md)
-                - *# curl
-                - *# grep
-        
+    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Far\_Voip\Ozeki\src\cat.src\dir.src.md">src</a>
+        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Far\_Voip\Ozeki\src\_src.md">_src.md</a>
+            - *@[file_src.md](file_src.md)
+            - *@[_NameDir](NameDir/_NameDir.md)
     
+    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Far\_Voip\Ozeki\_Ozeki.md">_Ozeki.md</a>
+        - *@[content](content/_content.md)
+        - *@[contaners](contaners/_contaners.md)
+        - *@[src](src/_src.md)

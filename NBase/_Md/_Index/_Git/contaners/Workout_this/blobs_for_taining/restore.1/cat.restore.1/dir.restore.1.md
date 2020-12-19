@@ -21,10 +21,6 @@
             - *## bring clear_workspaced (cl_ws)
             - *## bring clear_indexed (cl_in)
             - *## bring modifi_indexed (mo_in)
-        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\restore.1\Git_what_trane{restore--staged--source}@1_{repo}\create_what_trane.md">create_what_trane.md</a>
-            - *## SYNOPSIS
-            - *## DESCRIPTION
-            - *## EXAMPLES
     
     - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\restore.1\Git_what_trane{restore--staged}@1_{repo}\cat.Git_what_trane{restore--staged}@1_{repo}\dir.Git_what_trane{restore--staged}@1_{repo}.md">Git_what_trane{restore--staged}@1_{repo}</a>
         - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\restore.1\Git_what_trane{restore--staged}@1_{repo}\create_bind_repo.md">create_bind_repo.md</a>
@@ -48,8 +44,6 @@
             - *## bring clear_workspaced (cl_ws)
             - *## bring clear_indexed (cl_in)
             - *## bring modifi_indexed (mo_in)
-        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\restore.1\Git_what_trane{restore--staged}@1_{repo}\create_what_trane.md">create_what_trane.md</a>
-            - *### cl_in remove from index
     
     - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\restore.1\Git_what_trane{restore}@1_{repo}\cat.Git_what_trane{restore}@1_{repo}\dir.Git_what_trane{restore}@1_{repo}.md">Git_what_trane{restore}@1_{repo}</a>
         - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\restore.1\Git_what_trane{restore}@1_{repo}\create_bind_repo.md">create_bind_repo.md</a>
@@ -73,16 +67,4 @@
             - *## bring clear_workspaced (cl_ws)
             - *## bring clear_indexed (cl_in)
             - *## bring modifi_indexed (mo_in)
-        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\restore.1\Git_what_trane{restore}@1_{repo}\create_what_trane.md">create_what_trane.md</a>
-            - *## SYNOPSIS
-            - *## DESCRIPTION
-            - *## OPTIONS
-            - *### -s \<tree>
-            - *###  -p
-            - *### -W
-            - *### -S
-            - *### -q
-            - *### -m
-            - *## EXAMPLES
-            - *# 
     

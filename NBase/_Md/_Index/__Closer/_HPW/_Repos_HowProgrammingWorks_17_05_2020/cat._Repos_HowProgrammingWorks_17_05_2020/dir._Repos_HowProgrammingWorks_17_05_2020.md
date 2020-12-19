@@ -367,24 +367,6 @@
     - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_HPW\_Repos_HowProgrammingWorks_17_05_2020\Generator-master\cat.Generator-master\dir.Generator-master.md">Generator-master</a>
         - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_HPW\_Repos_HowProgrammingWorks_17_05_2020\Generator-master\Exercises.ru.md">Exercises.ru.md</a>
             - *## Генераторы
-        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_HPW\_Repos_HowProgrammingWorks_17_05_2020\Generator-master\JavaScript\cat.JavaScript\dir.JavaScript.md">JavaScript</a>
-            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_HPW\_Repos_HowProgrammingWorks_17_05_2020\Generator-master\JavaScript\theory\cat.theory\dir.theory.md">theory</a>
-                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_HPW\_Repos_HowProgrammingWorks_17_05_2020\Generator-master\JavaScript\theory\presentation.md">presentation.md</a>
-                    - *### Итерабельные объекты и итераторы в ES6
-                    - *### Iterable Protocol
-                    - *### Iterator Protocol
-                    - *### Примеры итерабельных объектов
-                    - *### Методы коллекций, которые возвращают итераторы
-                    - *### Некоторые функции, которые принимают итерабельные объекты
-                    - *### Синтаксические конструкции, которые работают с итерабельными объектами
-                    - *### Генераторы
-                    - *### Yield
-                    - *### Yield*
-                    - *#### ≈
-                    - *### Yield* Expression
-                    - *# Q&A
-            
-        
         - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_HPW\_Repos_HowProgrammingWorks_17_05_2020\Generator-master\README.md">README.md</a>
             - *## Generators
     
@@ -975,9 +957,6 @@
             - *## Reflection allows programs to introspect and modify its structure and behavior at runtime
     
     - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_HPW\_Repos_HowProgrammingWorks_17_05_2020\RegExp-master\cat.RegExp-master\dir.RegExp-master.md">RegExp-master</a>
-        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_HPW\_Repos_HowProgrammingWorks_17_05_2020\RegExp-master\CSharp\cat.CSharp\dir.CSharp.md">CSharp</a>
-            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_HPW\_Repos_HowProgrammingWorks_17_05_2020\RegExp-master\CSharp\README.md">README.md</a>
-        
         - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_HPW\_Repos_HowProgrammingWorks_17_05_2020\RegExp-master\README.md">README.md</a>
             - *# RegExp
     

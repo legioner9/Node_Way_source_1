@@ -1,7 +1,4 @@
 - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Uml\Main_I\content\Docs\sites_docs.com\cat.sites_docs.com\dir.sites_docs.com.md">sites_docs.com</a>
-    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Uml\Main_I\content\Docs\sites_docs.com\omg.org_spec_UML\cat.omg.org_spec_UML\dir.omg.org_spec_UML.md">omg.org_spec_UML</a>
-        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Uml\Main_I\content\Docs\sites_docs.com\omg.org_spec_UML\omg.org_spec_UML.md">omg.org_spec_UML.md</a>
-    
     - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Uml\Main_I\content\Docs\sites_docs.com\sparxsystems.com\cat.sparxsystems.com\dir.sparxsystems.com.md">sparxsystems.com</a>
         - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Uml\Main_I\content\Docs\sites_docs.com\sparxsystems.com\ReadMe.md">ReadMe.md</a>
             - *## [Tutorials](https://sparxsystems.com/resources/tutorials/index.html)

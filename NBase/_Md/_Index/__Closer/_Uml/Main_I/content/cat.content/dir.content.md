@@ -1,9 +1,6 @@
 - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Uml\Main_I\content\cat.content\dir.content.md">content</a>
     - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Uml\Main_I\content\Docs\cat.Docs\dir.Docs.md">Docs</a>
         - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Uml\Main_I\content\Docs\sites_docs.com\cat.sites_docs.com\dir.sites_docs.com.md">sites_docs.com</a>
-            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Uml\Main_I\content\Docs\sites_docs.com\omg.org_spec_UML\cat.omg.org_spec_UML\dir.omg.org_spec_UML.md">omg.org_spec_UML</a>
-                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Uml\Main_I\content\Docs\sites_docs.com\omg.org_spec_UML\omg.org_spec_UML.md">omg.org_spec_UML.md</a>
-            
             - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Uml\Main_I\content\Docs\sites_docs.com\sparxsystems.com\cat.sparxsystems.com\dir.sparxsystems.com.md">sparxsystems.com</a>
                 - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Uml\Main_I\content\Docs\sites_docs.com\sparxsystems.com\ReadMe.md">ReadMe.md</a>
                     - *## [Tutorials](https://sparxsystems.com/resources/tutorials/index.html)
@@ -13,27 +10,4 @@
                     - *### [Enterprise Architect 12.1 User Guide](https://sparxsystems.com/enterprise_architect_user_guide/12.1/index/index.html)
             
         
-    
-    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Uml\Main_I\content\Usage\cat.Usage\dir.Usage.md">Usage</a>
-        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Uml\Main_I\content\Usage\SetComand.md">SetComand.md</a>
-            - *#ls
-            - *# touch
-            - *# mkdir
-            - *# mv
-            - *## mv as rename
-            - *# cp (dubl + mv)
-            - *# rm 
-            - *# cat
-            - *# (runtime start)
-            - *## chmod 
-            - *## sh
-            - *# ps
-            - *# man 
-            - *# head
-            - *# tail 
-            - *# stdin
-            - *# stdout
-            - *# [less](less/___setcomand.md)
-            - *# curl
-            - *# grep
     

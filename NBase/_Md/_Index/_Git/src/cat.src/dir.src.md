@@ -22,3 +22,6 @@
             - *## bring clear_indexed (cl_in)
             - *## bring modifi_indexed (mo_in)
     
+    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\src\_src.md">_src.md</a>
+        - *@[file_src.md](file_src.md)
+        - *@[_NameDir](NameDir/_NameDir.md)

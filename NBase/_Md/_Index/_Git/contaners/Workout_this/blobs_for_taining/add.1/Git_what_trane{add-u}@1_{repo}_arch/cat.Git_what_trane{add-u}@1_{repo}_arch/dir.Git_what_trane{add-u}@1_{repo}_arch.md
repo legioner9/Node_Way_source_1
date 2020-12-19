@@ -20,5 +20,3 @@
         - *## bring clear_workspaced (cl_ws)
         - *## bring clear_indexed (cl_in)
         - *## bring modifi_indexed (mo_in)
-    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\add.1\Git_what_trane{add-u}@1_{repo}_arch\create_what_trane.md">create_what_trane.md</a>
-        - *### modified files not added as  `git add -u`

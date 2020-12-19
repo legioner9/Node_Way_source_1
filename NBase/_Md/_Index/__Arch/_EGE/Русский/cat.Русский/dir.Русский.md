@@ -6,98 +6,11 @@
                     - *# Ы И после приставки
                     - *# Ь Ъ
                     - *# З С
-                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Arch\_EGE\Русский\contaners\contaner_1\10\rus_ege.md">rus_ege.md</a>
-                    - *# Задание 10. Правописание приставок. Обобщение Подробнее
-                    - *### 9.1.1 Не изменяющиеся на письме приставки
-                    - *### 9.1.2 Приставки, оканчивающиеся на буквы З и С
-                    - *### 9.1.3 Приставки ПРЕ и ПРИ
-                    - *### 9.1.4 Приставки РАС и РОЗ
-                    - *### 9.2.1 Написание разделительного мягкого и твёрдого знака после приставок
-                    - *### 9.2.2 Написание Ы и И после приставок
-            
-            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Arch\_EGE\Русский\contaners\contaner_1\11\cat.11\dir.11.md">11</a>
-                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Arch\_EGE\Русский\contaners\contaner_1\11\rus_ege.md">rus_ege.md</a>
-                    - *# Задание 11. Правописание суффиксов (кроме Н/НН) Подробнее
-                    - *## 10.1 БЕЗ­УДАР­НЫЕ СУФ­ФИК­СЫ ПРИЛАГАТЕЛЬНЫХ
-                    - *### 10.1.1 СУФФИКСЫ ЕВ/ОВ; ИВ (ЧИВ/ЛИВ)
-                    - *### 10.1.2. ДРУГИЕ СУФФИКСЫ ПРИЛАГАТЕЛЬНЫХ
-                    - *## 10.2 БЕЗ­УДАР­НЫЕ СУФ­ФИК­СЫ ГЛАГОЛОВ
-                    - *### 10.2.1. ГЛАСНЫЕ В ИНФИНИТИВЕ (НЕОПРЕДЕЛЁННОЙ ФОРМЕ) ПЕРЕД -ТЬ. БАЗОВОЕ, ОСНОВНОЕ ПРАВИЛО.
-                    - *### 10.2.2 ГЛАСНЫЕ БУКВЫ В СУФФИКСАХ ГЛАГОЛОВ ПРОШЕДШЕГО ВРЕМЕНИ
-                    - *### 10.2.3 ГЛАСНЫЕ БУКВЫ В ДЕЕПРИЧАСТИЯХ ПРОШЕДШЕГО ВРЕМЕНИ
-                    - *### 10.2.4. ГЛАСНЫЕ БУКВЫ В СУФФИКСАХ -ИВА-/-ЫВА-, -ЕВА-/-ОВА-; ПЕРЕД ВА
-                    - *## 10.3 БЕЗ­УДАР­НЫЕ СУФ­ФИК­СЫ ИМЁН СУЩЕСТВИТЕЛЬНЫХ
-                    - *## 10.4 СУФ­ФИК­СЫ НАРЕЧИЙ
-                    - *## 10.5 ГЛАС­НЫЕ ПОСЛЕ ШИ­ПЯ­ЩИХ В СУФ­ФИК­САХ РАЗ­НЫХ ЧА­СТЕЙ РЕЧИ
-            
-            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Arch\_EGE\Русский\contaners\contaner_1\12\cat.12\dir.12.md">12</a>
-                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Arch\_EGE\Русский\contaners\contaner_1\12\rus_ege.md">rus_ege.md</a>
-                    - *# Задание 12. Гласные буквы в окончаниях глаголов и в суффиксах причастий Подробнее
-                    - *## 11.1 НАПИСАНИЯ, КО­ТО­РЫЕ ЗА­ВИ­СЯТ ОТ СПРЯ­ЖЕ­НИЯ ГЛАГОЛА.
-                    - *### 11.1.1 Без­удар­ные лич­ные окон­ча­ния гла­го­лов
-                    - *### 11.1.2 Без­удар­ные глас­ные в суф­фик­сах дей­стви­тель­ных при­ча­стий на­сто­я­ще­го вре­ме­ни
-                    - *### 11.1.3 Без­удар­ные глас­ные в суф­фик­сах стра­да­тель­ных при­ча­стий на­сто­я­ще­го вре­ме­ни
-                    - *## 11.2 НАПИСАНИЯ, КО­ТО­РЫЕ НЕ ЗА­ВИ­СЯТ ОТ СПРЯ­ЖЕ­НИЯ ГЛАГОЛА.
-                    - *### 11.2.1 Глас­ные перед суф­фик­сами дей­стви­тель­ных при­ча­стий про­шед­ше­го вре­ме­ни
-                    - *### 11.2.2 Ана­ло­гич­но пра­ви­ло ра­бо­та­ет и при опре­де­ле­нии без­удар­ной глас­ной буквы перед суф­фик­сами деепри­ча­стий про­шед­ше­го вре­ме­ни :
-                    - *### 11.2.3 Глас­ные в суф­фик­сах стра­да­тель­ных при­ча­стий про­шед­ше­го вре­ме­ни
-            
-            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Arch\_EGE\Русский\contaners\contaner_1\13\cat.13\dir.13.md">13</a>
-                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Arch\_EGE\Русский\contaners\contaner_1\13\rus_ege.md">rus_ege.md</a>
-                    - *# Задание 13. Слитное и раздельное написание НЕ и НИ с разными частями речи Подробнее
-                    - *## 12.1 Слитное и раздельное написание частиц НЕ и НИ.
-                    - *## 12.2 Слитное написание НЕ и НИ.
-                    - *## 12.3. Частицы НЕ и НИ отличаются по значению:
-            
-            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Arch\_EGE\Русский\contaners\contaner_1\14\cat.14\dir.14.md">14</a>
-                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Arch\_EGE\Русский\contaners\contaner_1\14\rus_ege.md">rus_ege.md</a>
-                    - *#  Задание 14. Слитное, раздельное и дефисное написание слов
-            
-            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Arch\_EGE\Русский\contaners\contaner_1\15\cat.15\dir.15.md">15</a>
-                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Arch\_EGE\Русский\contaners\contaner_1\15\rus_ege.md">rus_ege.md</a>
-                    - *## Задание 15. Написание Н и НН в словах разных частей речи Подробнее
-                    - *## 14.1 Н и НН в отыменных прилагательных (образованных от имён существительных).
-                    - *### 14.1.1 Две НН в суффиксах
-                    - *### 14.1.2. В суффиксах прилагательных пишется Н
-                    - *## 14.2. Н и НН в суффиксах слов, образованных от глаголов. Полные формы.
-                    - *### 14.2.1 НН в суффиксах полных причастий и отглагольных прилагательных
-                    - *## 14.2. 2 Одна Н в отглагольных прилагательных
-                    - *### 14.2.3. Написание Н и НН в сложных прилагательных
-                    - *## 14.3. Н и НН в кратких прилагательных и кратких причастиях
-                    - *## 14.4. Одна или две Н могут писаться и в наречиях.
-                    - *## 14.5. Н и НН в именах существительных
             
             - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Arch\_EGE\Русский\contaners\contaner_1\16\cat.16\dir.16.md">16</a>
                 - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Arch\_EGE\Русский\contaners\contaner_1\16\100ka.md">100ka.md</a>
                     - *# Однородные члены ОЧ
                     - *# Сложносочиненные предложения
-                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Arch\_EGE\Русский\contaners\contaner_1\16\rus_ege.md">rus_ege.md</a>
-                    - *#  Задание 16. Знаки препинания в ССП и в предложении с однородными членами Подробнее
-                    - *## 15.1 ЗНАКИ ПРЕ­ПИ­НА­НИЯ ПРИ ОД­НО­РОД­НЫХ ЧЛЕНАХ
-                    - *### 15.1.1. Ряд однородных членов, соединённых ТОЛЬКО интонацией, без союзов.
-                    - *### 15.1.2 Два однородных члена соединены союзом И, ДА (в значении И), ЛИБО, ИЛИ
-                    - *### 15.1.3 Последний ОЧ присоединён союзом И.
-                    - *### 15.1.4. Од­но­род­ных чле­нов боль­ше двух и союз И по­вто­ря­ет­ся хотя бы дважды
-                    - *### 15.1.5 Однородные члены соединены союзом А, НО, ДА(=но)
-                    - *### 15.1.6 При однородных членах повторяются союзы НИ, НИ; НЕ ТО, НЕ ТО; ТО, ТО; ЛИБО, ЛИБО; ИЛИ, ИЛИ
-                    - *### 15.1.7. При однородных членах имеются двойные союзы.
-                    - *### 15.1.8. Часто однородные члены соединяются попарно
-                    - *### 15.1.9.Не яв­ля­ют­ся однородными, по­это­му не вы­де­ля­ют­ся запятыми:
-                    - *### 15.2.1 Основное правило постановки запятой в ССП.
-                    - *### 15.2.2 Особые условия постановки знаков в сложносочинённом предложении
-            
-            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Arch\_EGE\Русский\contaners\contaner_1\17\cat.17\dir.17.md">17</a>
-                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Arch\_EGE\Русский\contaners\contaner_1\17\100ka.md">100ka.md</a>
-                    - *# Обособленные определения
-                    - *# Обособленные обстоятельства
-                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Arch\_EGE\Русский\contaners\contaner_1\17\rus_ege.md">rus_ege.md</a>
-                    - *# Задание 17. Обособление определений и обстоятельств Подробнее
-                    - *## 16.1 Обособленные определения. Основные понятия.
-                    - *### 16.1.1. БАЗОВОЕ ПРАВИЛО обособ­ле­ния определений
-                    - *### 16.1.2. ДОПОЛНИТЕЛЬНЫЕ ПРАВИЛА обособ­ле­ния определений
-                    - *## 16.2. Обособленные обстоятельства. Основные понятия
-                    - *### 16.2.1 Основное пра­ви­ло обособления де­е­при­ча­стий и де­е­при­част­ных оборотов.
-                    - *### 16.2.2 Особые случаи. По­ста­нов­ка запятых при не­сколь­ких сказуемых или не­сколь­ких оборотах (одиночных деепричастиях).
             
             - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Arch\_EGE\Русский\contaners\contaner_1\18\cat.18\dir.18.md">18</a>
                 - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Arch\_EGE\Русский\contaners\contaner_1\18\100ka.md">100ka.md</a>
@@ -111,21 +24,10 @@
                     - *# Частицы
                     - *## формы слова 
                     - *## смысловые оттенки предложения 
-                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Arch\_EGE\Русский\contaners\contaner_1\18\rus_ege.md">rus_ege.md</a>
-                    - *# Задание 18. Вводные слова и обращение Подробнее
-                    - *## 17.1 Общее понятие о вводных словах и основное правило их выделения.
-                    - *## 17.1. 1 НЕ ЯВЛЯЮТСЯ ВВОДНЫМИ СЛОВАМИ и поэтому не выделяются запятыми на письме следующие слова:
-                    - *### 17.1.2 В зависимости от контекста одни и те же слова могут выступать то в роли вводных слов, то в качестве членов предложения.
-                    - *###  17.1.3 Существуют особые случаи постановки знаков препинания при вводных словах.
-                    - *## 17.2 Общее понятие об обращении и основное правило его выделения.
-                    - *### 17.1.2. Существуют и более сложные правила выделения обращений.
             
             - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Arch\_EGE\Русский\contaners\contaner_1\19\cat.19\dir.19.md">19</a>
                 - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Arch\_EGE\Русский\contaners\contaner_1\19\100ka.md">100ka.md</a>
                     - *# 
-                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Arch\_EGE\Русский\contaners\contaner_1\19\rus_ege.md">rus_ege.md</a>
-                    - *# Задание 19. Знаки препинания в сложноподчинённом предложении Подробнее
-                    - *# СЛОЖНОПОДЧИНЁННОЕ ПРЕДЛОЖЕНИЕ КАК ЕДИНИЦА СИНТАКСИСА
             
             - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Arch\_EGE\Русский\contaners\contaner_1\2\cat.2\dir.2.md">2</a>
                 - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Arch\_EGE\Русский\contaners\contaner_1\2\80lev.md">80lev.md</a>
@@ -182,45 +84,17 @@
             - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Arch\_EGE\Русский\contaners\contaner_1\9\cat.9\dir.9.md">9</a>
                 - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Arch\_EGE\Русский\contaners\contaner_1\9\exept.md">exept.md</a>
                     - *# Чередование гласных
-                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Arch\_EGE\Русский\contaners\contaner_1\9\_rus_ege.md">_rus_ege.md</a>
-                    - *# Задание 9. Безударные гласные в корнях слов Подробнее
-                    - *## 8.1. Безударные гласные, проверяемые ударением
-                    - *## 8.2. Безударные гласные, не проверяемые ударением
-                    - *## 8.3. Безударные гласные в корнях с чередованием
-                    - *### 8.3.1.Чередование гласных и/е в корне
-                    - *### 8.3.2.Правописание корней с чередованием ИМ/ИН с А/Я
-                    - *### 8.3.3.Чередование гласных а/о в корне
             
+            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Arch\_EGE\Русский\contaners\contaner_1\Билеты_по_номерам.md">Билеты_по_номерам.md</a>
+                - *@__s_EGE
         
     
-    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Arch\_EGE\Русский\content\cat.content\dir.content.md">content</a>
-        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Arch\_EGE\Русский\content\Docs\cat.Docs\dir.Docs.md">Docs</a>
-            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Arch\_EGE\Русский\content\Docs\sites_docs.com\cat.sites_docs.com\dir.sites_docs.com.md">sites_docs.com</a>
-                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Arch\_EGE\Русский\content\Docs\sites_docs.com\site_docs.com copy.md">site_docs.com copy.md</a>
-                    - *# Сущности
-            
-        
-        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Arch\_EGE\Русский\content\Usage\cat.Usage\dir.Usage.md">Usage</a>
-            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Arch\_EGE\Русский\content\Usage\SetComand.md">SetComand.md</a>
-                - *#ls
-                - *# touch
-                - *# mkdir
-                - *# mv
-                - *## mv as rename
-                - *# cp (dubl + mv)
-                - *# rm 
-                - *# cat
-                - *# (runtime start)
-                - *## chmod 
-                - *## sh
-                - *# ps
-                - *# man 
-                - *# head
-                - *# tail 
-                - *# stdin
-                - *# stdout
-                - *# [less](less/___setcomand.md)
-                - *# curl
-                - *# grep
-        
+    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Arch\_EGE\Русский\src\cat.src\dir.src.md">src</a>
+        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Arch\_EGE\Русский\src\_src.md">_src.md</a>
+            - *@[file_src.md](file_src.md)
+            - *@[_NameDir](NameDir/_NameDir.md)
     
+    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Arch\_EGE\Русский\_Part_I.md">_Part_I.md</a>
+        - *@[content](content/_content.md)
+        - *@[contaners](contaners/_contaners.md)
+        - *@[src](src/_src.md)

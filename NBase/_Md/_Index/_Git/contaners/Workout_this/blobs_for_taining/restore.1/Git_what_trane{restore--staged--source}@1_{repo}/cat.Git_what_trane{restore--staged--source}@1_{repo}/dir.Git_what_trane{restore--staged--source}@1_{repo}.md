@@ -20,7 +20,3 @@
         - *## bring clear_workspaced (cl_ws)
         - *## bring clear_indexed (cl_in)
         - *## bring modifi_indexed (mo_in)
-    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\restore.1\Git_what_trane{restore--staged--source}@1_{repo}\create_what_trane.md">create_what_trane.md</a>
-        - *## SYNOPSIS
-        - *## DESCRIPTION
-        - *## EXAMPLES

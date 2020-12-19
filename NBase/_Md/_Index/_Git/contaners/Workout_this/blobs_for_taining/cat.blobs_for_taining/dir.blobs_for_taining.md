@@ -19,10 +19,6 @@
                 - *## bring clear_workspaced (cl_ws)
                 - *## bring clear_indexed (cl_in)
                 - *## bring modifi_indexed (mo_in)
-            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\add.1\Git_what_trane{add-i}@1_arch\create_what_trane{}.md">create_what_trane{}.md</a>
-                - *### git restore --staged  is opposit git add
-                - *## [7.2 Инструменты Git - Интерактивное индексирование](https://git-scm.com/book/ru/v2/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B-Git-%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D0%B5-%D0%B8%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)
-                - *## what that?:
         
         - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\add.1\Git_what_trane{add-u}@1_{repo}_arch\cat.Git_what_trane{add-u}@1_{repo}_arch\dir.Git_what_trane{add-u}@1_{repo}_arch.md">Git_what_trane{add-u}@1_{repo}_arch</a>
             - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\add.1\Git_what_trane{add-u}@1_{repo}_arch\create_bind_repo.md">create_bind_repo.md</a>
@@ -46,8 +42,6 @@
                 - *## bring clear_workspaced (cl_ws)
                 - *## bring clear_indexed (cl_in)
                 - *## bring modifi_indexed (mo_in)
-            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\add.1\Git_what_trane{add-u}@1_{repo}_arch\create_what_trane.md">create_what_trane.md</a>
-                - *### modified files not added as  `git add -u`
         
         - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\add.1\Git_what_trane{add}@1_{repo}\cat.Git_what_trane{add}@1_{repo}\dir.Git_what_trane{add}@1_{repo}.md">Git_what_trane{add}@1_{repo}</a>
             - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\add.1\Git_what_trane{add}@1_{repo}\create_bind_repo.md">create_bind_repo.md</a>
@@ -71,38 +65,6 @@
                 - *## bring clear_workspaced (cl_ws)
                 - *## bring clear_indexed (cl_in)
                 - *## bring modifi_indexed (mo_in)
-            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\add.1\Git_what_trane{add}@1_{repo}\create_what_trane.md">create_what_trane.md</a>
-                - *# [git-add(1) Manual Page](file:///E:/Node_projects/Node_Way/NBase/_Md/_Index/_Git/content/Docs/C_Program_Files_Git_mingw64_share_doc_git-doc/Point_learn/git-doc_converted/git-add.html)
-                - *## NAME
-                - *## SYNOPSIS
-                - *## DESCRIPTION
-                - *## OPTIONS
-                - *### -n
-                - *### -v
-                - *### -f
-                - *### -i
-                - *### -p
-                - *### -e
-                - *### -u
-                - *### -A
-                - *### -N
-                - *### --
-                - *## EXAMPLES
-                - *## INTERACTIVE MODE
-                - *### status
-                - *### update
-                - *### revert
-                - *### add untracked
-                - *### patch
-                - *### diff
-                - *## EDITING PATCHES
-                - *### added content
-                - *### removed content
-                - *### modified content
-                - *### removing untouched content
-                - *### modifying existing content
-                - *### new content
-                - *#
         
     
     - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\bash\cat.bash\dir.bash.md">bash</a>
@@ -153,50 +115,6 @@
                 - *## bring clear_workspaced (cl_ws)
                 - *## bring clear_indexed (cl_in)
                 - *## bring modifi_indexed (mo_in)
-            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\commit.1\Git_what_trane{commit}@1_{repo}\create_what_trane.md">create_what_trane.md</a>
-                - *## NAME
-                - *## SYNOPSIS
-                - *## DESCRIPTION
-                - *## OPTIONS
-                - *### -a
-                - *### -p
-                - *### -C \<commit>
-                - *### -c \<commit>
-                - *### -z
-                - *### -F \<file>
-                - *### -m \<msg>
-                - *### -t \<file>
-                - *### -s
-                - *### -n
-                - *### strip
-                - *### whitespace
-                - *### verbatim
-                - *### scissors
-                - *### default
-                - *### -e
-                - *### -i
-                - *### -o
-                - *### -u[\<mode>]
-                - *#
-                - *### -v
-                - *### -q
-                - *### -S[\<keyid>]
-                - *###     --
-                - *## EXAMPLES
-                - *## OUR LIVE
-                - *### git restore --staged  is opposit git add
-                - *### git commit -a
-                - *#### is commit without modified     
-                - *## COMMIT INFORMATION
-                - *## DATE FORMATS
-                - *### Git internal format
-                - *### RFC 2822
-                - *### ISO 8601
-                - *## DISCUSSION
-                - *## ENVIRONMENT AND CONFIGURATION VARIABLES
-                - *## HOOKS
-                - *## FILES
-                - *## SEE ALSO
         
     
     - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\config\cat.config\dir.config.md">config</a>
@@ -247,59 +165,6 @@
                 - *## bring clear_workspaced (cl_ws)
                 - *## bring clear_indexed (cl_in)
                 - *## bring modifi_indexed (mo_in)
-            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\diff.1\Git_what_trane{diff}@1_{repo}\create_what_trane.md">create_what_trane.md</a>
-                - *## NAME
-                - *## SYNOPSIS
-                - *## DESCRIPTION
-                - *### git diff [\<options>] [--] [\<path>…​]
-                - *### git diff [\<options>] --no-index [--] \<path> \<path>
-                - *### git diff [\<options>] --cached [\<commit>] [--] [\<path>…​]
-                - *### git diff [\<options>] \<commit> [--] [\<path>…​]
-                - *### git diff [\<options>] \<commit> \<commit> [--] [\<path>…​]
-                - *### git diff [\<options>] \<commit> \<commit>…​ \<commit> [--] [\<path>…​]
-                - *### git diff [\<options>] \<commit>..\<commit> [--] [\<path>…​]
-                - *### git diff [\<options>] \<commit>...\<commit> [--] [\<path>…​]
-                - *### git diff [\<options>] \<blob> \<blob>
-                - *## OPTIONS
-                - *### -p
-                - *### -u
-                - *### -s
-                - *### -U\<n>
-                - *### -X[\<param1,param2,…​>]
-                - *### -z
-                - *### -B[\<n>][/\<m>]
-                - *### -M[\<n>]
-                - *### -C[\<n>]
-                - *### -D
-                - *### -l\<num>
-                - *### -S\<string>
-                - *### -G\<regex>
-                - *### -O\<orderfile>
-                - *### -R
-                - *### -a
-                - *### -b
-                - *### -w
-                - *### -W
-                - *### -1 --base
-                - *### -2 --ours
-                - *### -3 --theirs
-                - *### -0
-                - *### \<path>…​
-                - *### Raw output format
-                - *### diff format for merges
-                - *### Generating patch text with -p
-                - *### Combined diff format
-                - *### other diff formats
-                - *## EXAMPLES
-                - *### Various ways to check your working tree
-                - *#
-                - *### Comparing with arbitrary commits
-                - *# 
-                - *### Comparing branches
-                - *#
-                - *### Limiting the diff output
-                - *# 
-                - *# 
         
     
     - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\fsck.1\cat.fsck.1\dir.fsck.1.md">fsck.1</a>
@@ -325,23 +190,6 @@
                 - *## bring clear_workspaced (cl_ws)
                 - *## bring clear_indexed (cl_in)
                 - *## bring modifi_indexed (mo_in)
-            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\fsck.1\Git_what_trane{fsck}@1_{repo}\create_what_trane.md">create_what_trane.md</a>
-                - *## NAME
-                - *## SYNOPSIS
-                - *## DESCRIPTION
-                - *## OPTIONS
-                - *## CONFIGURATION
-                - *### fsck.\<msg-id>
-                - *### fsck.skipList
-                - *## DISCUSSION
-                - *## Extracted Diagnostics
-                - *### expect dangling commits - potential heads - due to lack of head information
-                - *### missing sha1 directory \<dir>
-                - *### unreachable \<type> \<object>
-                - *### missing \<type> \<object>
-                - *### dangling \<type> \<object>
-                - *### hash mismatch \<object>
-                - *## Environment Variables
         
     
     - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\git\cat.git\dir.git.md">git</a>
@@ -392,29 +240,6 @@
                 - *## bring clear_workspaced (cl_ws)
                 - *## bring clear_indexed (cl_in)
                 - *## bring modifi_indexed (mo_in)
-            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\giteveryday\Git_what_trane{giteveryday}@1_{repo}\create_what_trane.md">create_what_trane.md</a>
-                - *## NAME
-                - *## SYNOPSIS
-                - *## DESCRIPTION
-                - *## Individual Developer (Standalone)
-                - *### Examples
-                - *#### Use a tarball as a starting point for a new repository.
-                - *#### Create a topic branch and develop.
-                - *## Individual Developer (Participant)
-                - *###  Examples
-                - *#### Clone the upstream and work on it. Feed changes to upstream.
-                - *#### Push into another repository.
-                - *#### Branch off of a specific tag.
-                - *## Integrator
-                - *### Examples
-                - *#### A typical integrator’s Git day.
-                - *## Repository Administration
-                - *### Examples
-                - *#### We assume the following in /etc/services
-                - *#### Run git-daemon to serve /pub/scm from inetd.
-                - *#### Run git-daemon to serve /pub/scm from xinetd.
-                - *#### Give push/pull only access to developers using git-over-ssh.
-                - *#### CVS-style shared repository.
         
     
     - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\gittutorial\cat.gittutorial\dir.gittutorial.md">gittutorial</a>
@@ -605,25 +430,6 @@
                 - *## bring clear_workspaced (cl_ws)
                 - *## bring clear_indexed (cl_in)
                 - *## bring modifi_indexed (mo_in)
-            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\help.1\Git_what_trane{help}@1_{repo}\create_what_trane.md">create_what_trane.md</a>
-                - *## NAME
-                - *## SYNOPSIS
-                - *## DESCRIPTION
-                - *## OPTIONS
-                - *### -a
-                - *### -c
-                - *### -g
-                - *### -i
-                - *### -m
-                - *### -w
-                - *## CONFIGURATION VARIABLES
-                - *### help.format
-                - *### help.browser, web.browser and browser.\<tool>.path
-                - *### man.viewer
-                - *### man.\<tool>.path
-                - *### man.\<tool>.cmd
-                - *### Note about konqueror
-                - *### Note about git config --global
         
     
     - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\merge\cat.merge\dir.merge.md">merge</a>
@@ -674,17 +480,6 @@
                 - *## bring clear_workspaced (cl_ws)
                 - *## bring clear_indexed (cl_in)
                 - *## bring modifi_indexed (mo_in)
-            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\mv.1\Git_what_trane{mv}@1_{repo}\create_what_trane.md">create_what_trane.md</a>
-                - *## NAME
-                - *## SYNOPSIS
-                - *## DESCRIPTION
-                - *## OPTIONS
-                - *### -f
-                - *### -k
-                - *### -n
-                - *### -v
-                - *## SUBMODULES
-                - *## BUGS
         
     
     - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\MyFirstContribution\cat.MyFirstContribution\dir.MyFirstContribution.md">MyFirstContribution</a>
@@ -785,10 +580,6 @@
                 - *## bring clear_workspaced (cl_ws)
                 - *## bring clear_indexed (cl_in)
                 - *## bring modifi_indexed (mo_in)
-            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\restore.1\Git_what_trane{restore--staged--source}@1_{repo}\create_what_trane.md">create_what_trane.md</a>
-                - *## SYNOPSIS
-                - *## DESCRIPTION
-                - *## EXAMPLES
         
         - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\restore.1\Git_what_trane{restore--staged}@1_{repo}\cat.Git_what_trane{restore--staged}@1_{repo}\dir.Git_what_trane{restore--staged}@1_{repo}.md">Git_what_trane{restore--staged}@1_{repo}</a>
             - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\restore.1\Git_what_trane{restore--staged}@1_{repo}\create_bind_repo.md">create_bind_repo.md</a>
@@ -812,8 +603,6 @@
                 - *## bring clear_workspaced (cl_ws)
                 - *## bring clear_indexed (cl_in)
                 - *## bring modifi_indexed (mo_in)
-            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\restore.1\Git_what_trane{restore--staged}@1_{repo}\create_what_trane.md">create_what_trane.md</a>
-                - *### cl_in remove from index
         
         - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\restore.1\Git_what_trane{restore}@1_{repo}\cat.Git_what_trane{restore}@1_{repo}\dir.Git_what_trane{restore}@1_{repo}.md">Git_what_trane{restore}@1_{repo}</a>
             - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\restore.1\Git_what_trane{restore}@1_{repo}\create_bind_repo.md">create_bind_repo.md</a>
@@ -837,18 +626,6 @@
                 - *## bring clear_workspaced (cl_ws)
                 - *## bring clear_indexed (cl_in)
                 - *## bring modifi_indexed (mo_in)
-            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\restore.1\Git_what_trane{restore}@1_{repo}\create_what_trane.md">create_what_trane.md</a>
-                - *## SYNOPSIS
-                - *## DESCRIPTION
-                - *## OPTIONS
-                - *### -s \<tree>
-                - *###  -p
-                - *### -W
-                - *### -S
-                - *### -q
-                - *### -m
-                - *## EXAMPLES
-                - *# 
         
     
     - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\revert\cat.revert\dir.revert.md">revert</a>
@@ -874,10 +651,6 @@
                 - *## bring clear_workspaced (cl_ws)
                 - *## bring clear_indexed (cl_in)
                 - *## bring modifi_indexed (mo_in)
-            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\revert\Git_what_trane{revert}@1_{repo}\create_what_trane.md">create_what_trane.md</a>
-                - *## NAME
-                - *## SYNOPSIS
-                - *## DESCRIPTION
         
     
     - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\rm.1\cat.rm.1\dir.rm.1.md">rm.1</a>
@@ -903,24 +676,6 @@
                 - *## bring clear_workspaced (cl_ws)
                 - *## bring clear_indexed (cl_in)
                 - *## bring modifi_indexed (mo_in)
-            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\rm.1\Git_what_trane{rm}@1_{repo}\create_what_trane.md">create_what_trane.md</a>
-                - *## NAME
-                - *##  SYNOPSIS
-                - *## DESCRIPTION
-                - *## OPTIONS
-                - *### <pathspec>…​
-                - *### -f
-                - *### -n
-                - *### -r
-                - *###  --
-                - *### -q
-                - *## REMOVING FILES THAT HAVE DISAPPEARED FROM THE FILESYSTEM
-                - *### Using “git commit -a”
-                - *### Using “git add -A”
-                - *### Other ways
-                - *## SUBMODULES
-                - *## EXAMPLES
-                - *## BUGS
         
     
     - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\stash\cat.stash\dir.stash.md">stash</a>
@@ -996,32 +751,6 @@
                 - *## bring clear_workspaced (cl_ws)
                 - *## bring clear_indexed (cl_in)
                 - *## bring modifi_indexed (mo_in)
-            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\tag.1\Git_what_trane{tag}@1_{repo}\create_what_trane.md">create_what_trane.md</a>
-                - *## NAME
-                - *## SYNOPSIS
-                - *## DESCRIPTION
-                - *## OPTIONS
-                - *### -a
-                - *### -s
-                - *### -u <keyid>
-                - *### -f
-                - *### -d
-                - *### -v
-                - *### -n<num>
-                - *### -l
-                - *### -i
-                - *### -m <msg>
-                - *### -F <file>
-                - *### -e
-                - *##  CONFIGURATION
-                - *## DISCUSSION
-                - *### On Re-tagging
-                - *### On Automatic following
-                - *### On Backdating Tags
-                - *## DATE FORMATS
-                - *### Git internal format
-                - *### RFC 2822
-                - *### ISO 8601
         
     
     - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\user-manual\cat.user-manual\dir.user-manual.md">user-manual</a>

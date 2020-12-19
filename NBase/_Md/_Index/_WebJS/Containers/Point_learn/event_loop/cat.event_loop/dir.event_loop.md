@@ -10,4 +10,5 @@
             - *## [Using the Web Animations API](https://developer.mozilla.org/ru/docs/Web/API/Web_Animations_API/Using_the_Web_Animations_API)
             - *## MicroTask
             - *### Mutation events
+            - *@@ [stop time 24.08](https://www.youtube.com/watch?v=j4_9BZezSUA&t=1347s&ab_channel=MakeWeb.me)
     

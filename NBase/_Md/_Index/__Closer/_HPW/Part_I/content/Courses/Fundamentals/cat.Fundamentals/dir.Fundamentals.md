@@ -33,21 +33,6 @@
         
     
     - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_HPW\Part_I\content\Courses\Fundamentals\basic_sintax\cat.basic_sintax\dir.basic_sintax.md">basic_sintax</a>
-        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_HPW\Part_I\content\Courses\Fundamentals\basic_sintax\1.md">1.md</a>
-            - *# N < 2**31-1; n <= 30
-            - *## encription bit
-            - *## bitMask  
-            - *#
-            - *## check for -1 bit
-            - *#
-            - *## check isInteger 
-            - *## conditional(ternary) operator
-            - *#  
-            - *#
-            - *## void operator
-            - *#
-            - *#
-            - *## operator precedence
         - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_HPW\Part_I\content\Courses\Fundamentals\basic_sintax\Conditional-master\cat.Conditional-master\dir.Conditional-master.md">Conditional-master</a>
             - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_HPW\Part_I\content\Courses\Fundamentals\basic_sintax\Conditional-master\README.md">README.md</a>
                 - *# Conditional
@@ -84,8 +69,6 @@
         
     
     - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_HPW\Part_I\content\Courses\Fundamentals\funcLambdConextClosure\cat.funcLambdConextClosure\dir.funcLambdConextClosure.md">funcLambdConextClosure</a>
-        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_HPW\Part_I\content\Courses\Fundamentals\funcLambdConextClosure\1.md">1.md</a>
-            - *#
         - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_HPW\Part_I\content\Courses\Fundamentals\funcLambdConextClosure\Closure-master\cat.Closure-master\dir.Closure-master.md">Closure-master</a>
             - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_HPW\Part_I\content\Courses\Fundamentals\funcLambdConextClosure\Closure-master\Exercises.ru.md">Exercises.ru.md</a>
                 - *# Замыкания и чеининг
@@ -159,4 +142,7 @@
             - *# ternary assignment
             - *# predicate IN
         - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_HPW\Part_I\content\Courses\Fundamentals\__internal_development\__structureUnits.md">__structureUnits.md</a>
+            - *@__f_aml_structure_units_code(AML)
+        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_HPW\Part_I\content\Courses\Fundamentals\__internal_development\__tag_table.md">__tag_table.md</a>
+            - *@__f_fund_tag_table_fundamentals
     

@@ -13,24 +13,3 @@
                 - *# [КОМАНДА TREE LINUX](https://losst.ru/komanda-tree-linux)
         
     
-    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Bash\content\Usage\SetMainComand.md">SetMainComand.md</a>
-        - *#ls
-        - *# touch
-        - *# mkdir
-        - *# mv
-        - *## mv as rename
-        - *# cp (dubl + mv)
-        - *# rm 
-        - *# cat
-        - *# (runtime start)
-        - *## chmod 
-        - *## sh
-        - *# ps
-        - *# man 
-        - *# head
-        - *# tail 
-        - *# stdin
-        - *# stdout
-        - *# [less](less/___setcomand.md)
-        - *# curl
-        - *# grep

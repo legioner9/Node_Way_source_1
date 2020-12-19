@@ -39,9 +39,6 @@
         - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Uml\Main_I\contaners\contaner_2\courses\EA_tutorials\mdastyletransforms\mdastyletransforms.md">mdastyletransforms.md</a>
             - *# <a href="https://sparxsystems.com/enterprise_architect_user_guide/15.1/model_domains/mdastyletransforms.html" target="_blank">Model Transformation</a>  Преобразование модели
     
-    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Uml\Main_I\contaners\contaner_2\courses\EA_tutorials\modeling_with_uml.md">modeling_with_uml.md</a>
-        - *# [Model Domains](https://sparxsystems.com/enterprise_architect_user_guide/15.1/model_domains/modeling_with_uml.html)
-        - *## File Catalog
     - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Uml\Main_I\contaners\contaner_2\courses\EA_tutorials\model_validation\cat.model_validation\dir.model_validation.md">model_validation</a>
         - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Uml\Main_I\contaners\contaner_2\courses\EA_tutorials\model_validation\model_validation.md">model_validation.md</a>
             - *# <a href="https://sparxsystems.com/enterprise_architect_user_guide/15.1/model_domains/model_validation.html" target="_blank">Model Validation</a> Проверка модели
@@ -365,11 +362,6 @@
                     - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Uml\Main_I\contaners\contaner_2\courses\EA_tutorials\whatisuml\umldiagrams\behavioraldiagrams\usecasediagram\usecasediagram.md">usecasediagram.md</a>
                         - *#### [Use Case Diagram](https://sparxsystems.com/enterprise_architect_user_guide/15.1/model_domains/usecasediagram.html)
                 
-                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Uml\Main_I\contaners\contaner_2\courses\EA_tutorials\whatisuml\umldiagrams\behavioraldiagrams\_more\cat._more\dir._more.md">_more</a>
-                    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Uml\Main_I\contaners\contaner_2\courses\EA_tutorials\whatisuml\umldiagrams\behavioraldiagrams\_more\code_generation_from_behaviora\cat.code_generation_from_behaviora\dir.code_generation_from_behaviora.md">code_generation_from_behaviora</a>
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Uml\Main_I\contaners\contaner_2\courses\EA_tutorials\whatisuml\umldiagrams\behavioraldiagrams\_more\code_generation_from_behaviora\code_generation_from_behaviora.md">code_generation_from_behaviora.md</a>
-                    
-                
             
             - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Uml\Main_I\contaners\contaner_2\courses\EA_tutorials\whatisuml\umldiagrams\specialized_models\cat.specialized_models\dir.specialized_models.md">specialized_models</a>
                 - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Uml\Main_I\contaners\contaner_2\courses\EA_tutorials\whatisuml\umldiagrams\specialized_models\specialized_models.md">specialized_models.md</a>
@@ -540,13 +532,4 @@
     - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Uml\Main_I\contaners\contaner_2\courses\EA_tutorials\wireframe_for_website_modeling\cat.wireframe_for_website_modeling\dir.wireframe_for_website_modeling.md">wireframe_for_website_modeling</a>
         - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Uml\Main_I\contaners\contaner_2\courses\EA_tutorials\wireframe_for_website_modeling\wireframe_for_website_modeling.md">wireframe_for_website_modeling.md</a>
             - *# <a href="https://sparxsystems.com/enterprise_architect_user_guide/15.1/model_domains/wireframe_for_website_modeling.html" target="_blank">Wireframe Models</a> Каркасные модели
-    
-    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Uml\Main_I\contaners\contaner_2\courses\EA_tutorials\_over_head\cat._over_head\dir._over_head.md">_over_head</a>
-        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Uml\Main_I\contaners\contaner_2\courses\EA_tutorials\_over_head\init_page.md">init_page.md</a>
-            - *## Модели UML Enterprise Architect
-            - *## Диаграммы UML
-            - *### Структурные модели UML
-            - *### Поведенческие модели UML
-            - *### Диаграммы на основе доменов
-            - *### Бизнес-моделирование / Взаимодействие
     

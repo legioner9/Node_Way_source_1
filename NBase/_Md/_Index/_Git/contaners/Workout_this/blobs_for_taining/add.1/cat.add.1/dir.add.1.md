@@ -18,10 +18,6 @@
             - *## bring clear_workspaced (cl_ws)
             - *## bring clear_indexed (cl_in)
             - *## bring modifi_indexed (mo_in)
-        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\add.1\Git_what_trane{add-i}@1_arch\create_what_trane{}.md">create_what_trane{}.md</a>
-            - *### git restore --staged  is opposit git add
-            - *## [7.2 Инструменты Git - Интерактивное индексирование](https://git-scm.com/book/ru/v2/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B-Git-%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D0%B5-%D0%B8%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)
-            - *## what that?:
     
     - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\add.1\Git_what_trane{add-u}@1_{repo}_arch\cat.Git_what_trane{add-u}@1_{repo}_arch\dir.Git_what_trane{add-u}@1_{repo}_arch.md">Git_what_trane{add-u}@1_{repo}_arch</a>
         - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\add.1\Git_what_trane{add-u}@1_{repo}_arch\create_bind_repo.md">create_bind_repo.md</a>
@@ -45,8 +41,6 @@
             - *## bring clear_workspaced (cl_ws)
             - *## bring clear_indexed (cl_in)
             - *## bring modifi_indexed (mo_in)
-        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\add.1\Git_what_trane{add-u}@1_{repo}_arch\create_what_trane.md">create_what_trane.md</a>
-            - *### modified files not added as  `git add -u`
     
     - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\add.1\Git_what_trane{add}@1_{repo}\cat.Git_what_trane{add}@1_{repo}\dir.Git_what_trane{add}@1_{repo}.md">Git_what_trane{add}@1_{repo}</a>
         - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\add.1\Git_what_trane{add}@1_{repo}\create_bind_repo.md">create_bind_repo.md</a>
@@ -70,36 +64,4 @@
             - *## bring clear_workspaced (cl_ws)
             - *## bring clear_indexed (cl_in)
             - *## bring modifi_indexed (mo_in)
-        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\add.1\Git_what_trane{add}@1_{repo}\create_what_trane.md">create_what_trane.md</a>
-            - *# [git-add(1) Manual Page](file:///E:/Node_projects/Node_Way/NBase/_Md/_Index/_Git/content/Docs/C_Program_Files_Git_mingw64_share_doc_git-doc/Point_learn/git-doc_converted/git-add.html)
-            - *## NAME
-            - *## SYNOPSIS
-            - *## DESCRIPTION
-            - *## OPTIONS
-            - *### -n
-            - *### -v
-            - *### -f
-            - *### -i
-            - *### -p
-            - *### -e
-            - *### -u
-            - *### -A
-            - *### -N
-            - *### --
-            - *## EXAMPLES
-            - *## INTERACTIVE MODE
-            - *### status
-            - *### update
-            - *### revert
-            - *### add untracked
-            - *### patch
-            - *### diff
-            - *## EDITING PATCHES
-            - *### added content
-            - *### removed content
-            - *### modified content
-            - *### removing untouched content
-            - *### modifying existing content
-            - *### new content
-            - *#
     

@@ -1,0 +1,4 @@
+- <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Far\_Java\Part_I\src\cat.src\dir.src.md">src</a>
+    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Far\_Java\Part_I\src\_src.md">_src.md</a>
+        - *@[file_src.md](file_src.md)
+        - *@[_NameDir](NameDir/_NameDir.md)

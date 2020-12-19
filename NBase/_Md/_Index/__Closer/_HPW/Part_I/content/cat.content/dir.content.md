@@ -13,16 +13,6 @@
             - *## Видео-лекции
         - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_HPW\Part_I\content\Courses\Databases.md">Databases.md</a>
             - *# Проектирования баз данных
-        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_HPW\Part_I\content\Courses\Dictionary.md">Dictionary.md</a>
-            - *# Словарь-индекс понятий со ссылками
-            - *## Базовые понятия
-            - *## Основные понятия
-            - *## Вспомогательные материалы
-            - *## Структуры данных
-            - *## Расширенные понятия
-            - *## Асинхронное программирование
-            - *## Параллельное программирование
-            - *## Парадигмы программирования
         - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_HPW\Part_I\content\Courses\Functional.md">Functional.md</a>
             - *# Функциональное программирование
         - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_HPW\Part_I\content\Courses\Fundamentals\cat.Fundamentals\dir.Fundamentals.md">Fundamentals</a>
@@ -60,21 +50,6 @@
                 
             
             - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_HPW\Part_I\content\Courses\Fundamentals\basic_sintax\cat.basic_sintax\dir.basic_sintax.md">basic_sintax</a>
-                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_HPW\Part_I\content\Courses\Fundamentals\basic_sintax\1.md">1.md</a>
-                    - *# N < 2**31-1; n <= 30
-                    - *## encription bit
-                    - *## bitMask  
-                    - *#
-                    - *## check for -1 bit
-                    - *#
-                    - *## check isInteger 
-                    - *## conditional(ternary) operator
-                    - *#  
-                    - *#
-                    - *## void operator
-                    - *#
-                    - *#
-                    - *## operator precedence
                 - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_HPW\Part_I\content\Courses\Fundamentals\basic_sintax\Conditional-master\cat.Conditional-master\dir.Conditional-master.md">Conditional-master</a>
                     - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_HPW\Part_I\content\Courses\Fundamentals\basic_sintax\Conditional-master\README.md">README.md</a>
                         - *# Conditional
@@ -111,8 +86,6 @@
                 
             
             - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_HPW\Part_I\content\Courses\Fundamentals\funcLambdConextClosure\cat.funcLambdConextClosure\dir.funcLambdConextClosure.md">funcLambdConextClosure</a>
-                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_HPW\Part_I\content\Courses\Fundamentals\funcLambdConextClosure\1.md">1.md</a>
-                    - *#
                 - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_HPW\Part_I\content\Courses\Fundamentals\funcLambdConextClosure\Closure-master\cat.Closure-master\dir.Closure-master.md">Closure-master</a>
                     - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_HPW\Part_I\content\Courses\Fundamentals\funcLambdConextClosure\Closure-master\Exercises.ru.md">Exercises.ru.md</a>
                         - *# Замыкания и чеининг
@@ -186,6 +159,9 @@
                     - *# ternary assignment
                     - *# predicate IN
                 - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_HPW\Part_I\content\Courses\Fundamentals\__internal_development\__structureUnits.md">__structureUnits.md</a>
+                    - *@__f_aml_structure_units_code(AML)
+                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_HPW\Part_I\content\Courses\Fundamentals\__internal_development\__tag_table.md">__tag_table.md</a>
+                    - *@__f_fund_tag_table_fundamentals
             
         
         - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_HPW\Part_I\content\Courses\Fundamentals.md">Fundamentals.md</a>
@@ -258,33 +234,4 @@
             - *# Проектирование пользовательских интерфейсов
         - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_HPW\Part_I\content\Courses\Web.md">Web.md</a>
             - *# Веб-технологии
-    
-    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_HPW\Part_I\content\Docs\cat.Docs\dir.Docs.md">Docs</a>
-        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_HPW\Part_I\content\Docs\sites_docs.com\cat.sites_docs.com\dir.sites_docs.com.md">sites_docs.com</a>
-            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_HPW\Part_I\content\Docs\sites_docs.com\site_docs.com copy.md">site_docs.com copy.md</a>
-                - *# Сущности
-        
-    
-    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_HPW\Part_I\content\Usage\cat.Usage\dir.Usage.md">Usage</a>
-        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_HPW\Part_I\content\Usage\SetComand.md">SetComand.md</a>
-            - *#ls
-            - *# touch
-            - *# mkdir
-            - *# mv
-            - *## mv as rename
-            - *# cp (dubl + mv)
-            - *# rm 
-            - *# cat
-            - *# (runtime start)
-            - *## chmod 
-            - *## sh
-            - *# ps
-            - *# man 
-            - *# head
-            - *# tail 
-            - *# stdin
-            - *# stdout
-            - *# [less](less/___setcomand.md)
-            - *# curl
-            - *# grep
     

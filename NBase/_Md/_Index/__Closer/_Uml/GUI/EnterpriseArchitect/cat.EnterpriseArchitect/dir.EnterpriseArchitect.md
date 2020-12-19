@@ -1,33 +1,10 @@
 - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Uml\GUI\EnterpriseArchitect\cat.EnterpriseArchitect\dir.EnterpriseArchitect.md">EnterpriseArchitect</a>
-    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Uml\GUI\EnterpriseArchitect\content\cat.content\dir.content.md">content</a>
-        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Uml\GUI\EnterpriseArchitect\content\Docs\cat.Docs\dir.Docs.md">Docs</a>
-            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Uml\GUI\EnterpriseArchitect\content\Docs\sparxsystems.com\cat.sparxsystems.com\dir.sparxsystems.com.md">sparxsystems.com</a>
-                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Uml\GUI\EnterpriseArchitect\content\Docs\sparxsystems.com\ancors.md">ancors.md</a>
-                    - *# Firstly... What is UML?
-                    - *## The Object Management Group (OMG) specification states:
-            
-        
-        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Uml\GUI\EnterpriseArchitect\content\Usage\cat.Usage\dir.Usage.md">Usage</a>
-            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Uml\GUI\EnterpriseArchitect\content\Usage\SetComand.md">SetComand.md</a>
-                - *#ls
-                - *# touch
-                - *# mkdir
-                - *# mv
-                - *## mv as rename
-                - *# cp (dubl + mv)
-                - *# rm 
-                - *# cat
-                - *# (runtime start)
-                - *## chmod 
-                - *## sh
-                - *# ps
-                - *# man 
-                - *# head
-                - *# tail 
-                - *# stdin
-                - *# stdout
-                - *# [less](less/___setcomand.md)
-                - *# curl
-                - *# grep
-        
+    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Uml\GUI\EnterpriseArchitect\EnterpriseArchitect.md">EnterpriseArchitect.md</a>
+        - *@[content](content/_content.md)
+        - *@[contaners](contaners/_contaners.md)
+        - *@[src](src/_src.md)
+    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Uml\GUI\EnterpriseArchitect\src\cat.src\dir.src.md">src</a>
+        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Uml\GUI\EnterpriseArchitect\src\_src.md">_src.md</a>
+            - *@[file_src.md](file_src.md)
+            - *@[_NameDir](NameDir/_NameDir.md)
     

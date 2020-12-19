@@ -26,7 +26,6 @@
     - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Use_this\First_steps\custom.md">custom.md</a>
         - *## Установка из исходников
         - *## Первоначальная настройка Git
-    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Use_this\First_steps\new_repository.md">new_repository.md</a>
     - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Use_this\First_steps\Индексирование_коммитов_с_Git_Add_Patch.md">Индексирование_коммитов_с_Git_Add_Patch.md</a>
         - *# [Индексирование коммитов с Git Add Patch](https://nuancesprog.ru/p/7502/)
         - *## Что такое git add -patch?
