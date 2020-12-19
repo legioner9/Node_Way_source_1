@@ -19,4 +19,4 @@
 
 <a href="E:\Node_projects\Node_Way\NBase\_Md\_Index\_WebJS\Containers\Point_learn\event_loop\youtube\_src\2.html">2.html</a>
 
-[stop time 24.08](https://www.youtube.com/watch?v=j4_9BZezSUA&t=1347s&ab_channel=MakeWeb.me)
+@@ [stop time 24.08](https://www.youtube.com/watch?v=j4_9BZezSUA&t=1347s&ab_channel=MakeWeb.me)
