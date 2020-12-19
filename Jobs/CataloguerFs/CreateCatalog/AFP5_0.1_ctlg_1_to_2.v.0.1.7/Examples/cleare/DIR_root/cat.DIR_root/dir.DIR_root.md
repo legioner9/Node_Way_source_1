@@ -1,3 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\Jobs\CataloguerFs\CreateCatalog\AFP5_0.1_ctlg_1_to_2.v.0.1.6\Examples\cleare\DIR_root\cat.DIR_root\dir.DIR_root.md">DIR_root</a>
-    - <a href = "E:\Node_projects\Node_Way\Jobs\CataloguerFs\CreateCatalog\AFP5_0.1_ctlg_1_to_2.v.0.1.6\Examples\cleare\DIR_root\file_root_empty.md">file_root_empty.md</a>
-        - *@ )))

@@ -15,7 +15,7 @@ arht.before ( funcExamp, module );
 
 anls.preset = { if_basename: false };
 
-const res = anls ( 'DIR_root' );
+const res = anls ( 'Education' );
 
 // anlsFs_1.mode.deb = true;
 funcExamp ( res, [ '#','@' ] );
