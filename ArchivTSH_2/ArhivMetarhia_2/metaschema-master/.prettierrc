@@ -1,0 +1,14 @@
+{
+  "singleQuote": true,
+  "trailingComma": "es5",
+  "overrides": [
+    {
+      "files": [".prettierrc", ".metadocrc"],
+      "options": { "parser": "json" }
+    },
+    {
+      "files": ["*.category", "*.domains"],
+      "options": { "parser": "babel" }
+    }
+  ]
+}

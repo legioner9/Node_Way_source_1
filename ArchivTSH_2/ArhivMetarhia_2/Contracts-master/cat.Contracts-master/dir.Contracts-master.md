@@ -1,0 +1,44 @@
+- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\Contracts-master\cat.Contracts-master\dir.Contracts-master.md">Contracts-master</a>
+    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\Contracts-master\doc\cat.doc\dir.doc.md">doc</a>
+        - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\Contracts-master\doc\API.md">API.md</a>
+            - *# API function contract
+            - *## API methods different contracts
+            - *## Extended function declaration
+            - *## External schemas
+            - *## Possible errors
+            - *## Invocation example
+            - *## Multiple invocation examples
+            - *## Caption and description
+            - *## Method access definition
+        - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\Contracts-master\doc\Attribute.md">Attribute.md</a>
+            - *# Attribute/value schema
+        - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\Contracts-master\doc\Configuration.md">Configuration.md</a>
+            - *# Application configuration contract
+        - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\Contracts-master\doc\Database.md">Database.md</a>
+            - *# Database schema
+            - *## Schema parameters `.database.js`
+            - *## Custom types `.types.js`
+            - *## Entity definition `<EntityName>.js`
+            - *## Composite, complex and custom index
+        - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\Contracts-master\doc\Dependency.md">Dependency.md</a>
+            - *# Internal and external dependencies
+        - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\Contracts-master\doc\Error.md">Error.md</a>
+            - *# Error-handling guidelines
+            - *## Return error from method
+            - *## Rise exception
+        - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\Contracts-master\doc\Metacom.md">Metacom.md</a>
+            - *# Metacom protocol
+            - *## Packet types
+            - *## Calls and callbacks
+            - *## Events
+            - *## Streams
+            - *## Ping packets
+        - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\Contracts-master\doc\Module.md">Module.md</a>
+            - *# Domain and library module contract
+            - *## Single method module
+            - *## Module with multiple methods, constants and private fields
+        - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\Contracts-master\doc\Task.md">Task.md</a>
+            - *# Task definition file
+    
+    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\Contracts-master\README.md">README.md</a>
+        - *# Metarhia Technology Stack Core Contracts

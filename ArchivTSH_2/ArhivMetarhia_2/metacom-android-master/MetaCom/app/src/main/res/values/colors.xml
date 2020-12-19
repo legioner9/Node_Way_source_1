@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<color name="colorPrimary">#3F51B5</color>-->
+    <!--<color name="colorPrimaryDark">@color/grey</color>-->
+    <color name="colorAccent">@color/orange</color>
+    <color name="colorFirst">@color/black6</color>
+    <color name="colorSecond">@color/white</color>
+
+    <color name="black">#000000</color>
+    <color name="black6">#060606</color>
+    <color name="black14">#1c1c1c</color>
+
+    <color name="white">#FFFFFF</color>
+
+    <color name="greyDark">#1d2217</color> <!--message in-->
+    <color name="grey">#888888</color>
+
+    <color name="orange">#df9034</color>
+    <color name="dullOrange">#e8b889</color>
+
+</resources>

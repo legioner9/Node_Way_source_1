@@ -1,0 +1,3 @@
+- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\String-master\cat.String-master\dir.String-master.md">String-master</a>
+    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\String-master\README.md">README.md</a>
+        - *# String is a Sequence of Characters and Manipulation Methods

@@ -1,0 +1,7 @@
+- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\FaaS-master\cat.FaaS-master\dir.FaaS-master.md">FaaS-master</a>
+    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\FaaS-master\JavaScript\cat.JavaScript\dir.JavaScript.md">JavaScript</a>
+        - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\FaaS-master\JavaScript\1-aws-handler.md">1-aws-handler.md</a>
+            - *# HTTP Request with Async Function and Promises
+        - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\FaaS-master\JavaScript\3-aws-pg.md">3-aws-pg.md</a>
+            - *# Read record from PostgreSQL
+    

@@ -1,0 +1,3 @@
+- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Abstractions-master\cat.Abstractions-master\dir.Abstractions-master.md">Abstractions-master</a>
+    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Abstractions-master\README.md">README.md</a>
+        - *# Abstractions

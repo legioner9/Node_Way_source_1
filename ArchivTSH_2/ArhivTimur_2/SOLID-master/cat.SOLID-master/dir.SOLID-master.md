@@ -1,0 +1,3 @@
+- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\SOLID-master\cat.SOLID-master\dir.SOLID-master.md">SOLID-master</a>
+    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\SOLID-master\README.md">README.md</a>
+        - *# SOLID

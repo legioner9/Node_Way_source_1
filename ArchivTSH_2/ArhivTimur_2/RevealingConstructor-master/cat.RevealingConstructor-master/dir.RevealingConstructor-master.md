@@ -1,0 +1,3 @@
+- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\RevealingConstructor-master\cat.RevealingConstructor-master\dir.RevealingConstructor-master.md">RevealingConstructor-master</a>
+    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\RevealingConstructor-master\README.md">README.md</a>
+        - *## Revealing Constructor Pattern

@@ -1,0 +1,70 @@
+{
+  "name": "mdsf",
+  "version": "1.1.2-pre",
+  "author": "Timur Shemsedinov <timur.shemsedinov@gmail.com>",
+  "description": "Metarhia Data Serialization Format",
+  "license": "MIT",
+  "keywords": [
+    "mdsf",
+    "metadata",
+    "metarhia",
+    "jstp",
+    "protocol",
+    "serialization",
+    "deserialization",
+    "json",
+    "json5",
+    "schema",
+    "javascript"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/metarhia/mdsf"
+  },
+  "main": "./lib/",
+  "browser": "./dist/serde-fallback.js",
+  "readmeFilename": "README.md",
+  "files": [
+    "lib/",
+    "src/",
+    "!src/unicode_tables.h",
+    "dist/",
+    "binding.gyp",
+    "tools/build-native.js",
+    "tools/make-unicode-tables.js",
+    "tools/echo-env.js"
+  ],
+  "scripts": {
+    "test": "npm run lint && npm run test-node",
+    "test-node": "node tools/run-node-tests.js",
+    "test-todo": "tap test/todo",
+    "test-coverage": "nyc npm run test-node",
+    "lint": "eslint . && remark . && prettier -c \"**/*.js\" \"**/*.json\" \"**/*.md\" \".*rc\" \"**/*.yml\"",
+    "install": "npm run rebuild-node",
+    "build": "npm run build-node && npm run build-browser",
+    "build-node": "node tools/build-native",
+    "rebuild-node": "node tools/build-native --rebuild",
+    "build-browser": "babel -d ./dist/ lib/serde-fallback.js lib/stringify.js",
+    "prepublish": "npm run build-browser",
+    "pretest": "npm run build-node",
+    "fmt": "prettier --write \"**/*.js\" \"**/*.json\" \"**/*.md\" \".*rc\" \"**/*.yml\""
+  },
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.2.0",
+    "@babel/core": "^7.2.0",
+    "@babel/preset-env": "^7.2.0",
+    "eslint": "^5.9.0",
+    "eslint-config-metarhia": "^6.1.0",
+    "eslint-config-prettier": "^4.0.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-prettier": "^3.0.1",
+    "prettier": "1.16.x",
+    "remark-cli": "^6.0.1",
+    "remark-preset-lint-metarhia": "^1.0.2",
+    "remark-validate-links": "^7.1.2",
+    "tap": "^12.1.0"
+  }
+}

@@ -1,0 +1,5 @@
+- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\ServeStatic-master\cat.ServeStatic-master\dir.ServeStatic-master.md">ServeStatic-master</a>
+    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\ServeStatic-master\Exercises.ru.md">Exercises.ru.md</a>
+        - *## Упражнения
+    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\ServeStatic-master\README.md">README.md</a>
+        - *# Serve static content with HTTP

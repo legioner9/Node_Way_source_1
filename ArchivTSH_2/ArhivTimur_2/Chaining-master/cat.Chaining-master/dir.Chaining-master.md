@@ -1,0 +1,3 @@
+- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Chaining-master\cat.Chaining-master\dir.Chaining-master.md">Chaining-master</a>
+    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Chaining-master\README.md">README.md</a>
+        - *# Chaining with classes, ptototypes and functors

@@ -1,0 +1,11 @@
+- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Graph-master\cat.Graph-master\dir.Graph-master.md">Graph-master</a>
+    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Graph-master\JavaScript\cat.JavaScript\dir.JavaScript.md">JavaScript</a>
+        - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Graph-master\JavaScript\README.md">README.md</a>
+            - *## Матрица смежности - хранит связи вершин графа
+            - *## Матрица смежности в виде плоского массива
+            - *## Матрица инцидентности - связь вершин (строки) с дугами (колонки)
+            - *## Список смежности - список вершин, для каждой списк смежных вершин
+            - *## Список ребер - список с указанием ребра как пары вершин
+    
+    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Graph-master\README.md">README.md</a>
+        - *## Directed graph and Query language

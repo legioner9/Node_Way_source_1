@@ -1,0 +1,52 @@
+{
+  "name": "@metarhia/config",
+  "version": "2.0.0",
+  "author": "Timur Shemsedinov <timur.shemsedinov@gmail.com>",
+  "description": "Metarhia Configuration Loader",
+  "license": "MIT",
+  "keywords": [
+    "metarhia",
+    "config",
+    "application",
+    "configuration",
+    "impress",
+    "environment",
+    "env",
+    "metaserverless",
+    "app",
+    "metavm"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/metarhia/config"
+  },
+  "homepage": "https://github.com/metarhia",
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/tshemsedinov"
+  },
+  "main": "config.js",
+  "readmeFilename": "README.md",
+  "files": [],
+  "scripts": {
+    "lint": "eslint . && prettier -c \"**/*.js\" \"**/*.json\" \"**/*.md\" \".*rc\" \"**/*.yml\"",
+    "fmt": "prettier --write \"**/*.js\" \"**/*.json\" \"**/*.md\" \".*rc\" \"**/*.yml\"",
+    "test": "npm run -s lint && metatests test"
+  },
+  "engines": {
+    "node": "^12.9 || 14 || 15"
+  },
+  "dependencies": {
+    "metavm": "^1.0.0"
+  },
+  "devDependencies": {
+    "@metarhia/common": "^2.2.0",
+    "eslint": "^7.15.0",
+    "eslint-config-metarhia": "^7.0.1",
+    "eslint-config-prettier": "^7.0.0",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-prettier": "^3.3.0",
+    "metatests": "^0.7.2",
+    "prettier": "^2.2.1"
+  }
+}

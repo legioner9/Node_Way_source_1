@@ -1,0 +1,49 @@
+{
+  "name": "@metarhia/tools",
+  "version": "0.1.0",
+  "description": "Metarhia development tools",
+  "bin": {
+    "metarhia-update-authors": "./bin/update-authors.js",
+    "metarhia-copy-labels": "./bin/copy-labels.js"
+  },
+  "files": [
+    "bin/"
+  ],
+  "scripts": {
+    "lint": "eslint . && remark . && prettier -c \"**/*.js\" \"**/*.json\" \"**/*.md\" \"**/*.yml\" \"**/.*rc\"",
+    "fmt": "prettier --write \"**/*.js\" \"**/*.json\" \"**/*.md\" \"**/*.yml\" \"**/.*rc\"",
+    "test": "npm run -s lint"
+  },
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/metarhia/tools.git"
+  },
+  "keywords": [
+    "metarhia",
+    "devtools",
+    "tooling"
+  ],
+  "author": "Mykola Bilochub <nbelochub@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/metarhia/tools/issues"
+  },
+  "homepage": "https://github.com/metarhia/tools#readme",
+  "devDependencies": {
+    "@commitlint/cli": "^8.1.0",
+    "@commitlint/config-conventional": "^8.1.0",
+    "eslint": "^6.1.0",
+    "eslint-config-metarhia": "^7.0.0",
+    "eslint-config-prettier": "^6.0.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-prettier": "^3.1.0",
+    "husky": "^3.0.3",
+    "prettier": "1.18.x",
+    "remark-cli": "^7.0.0",
+    "remark-preset-lint-metarhia": "^2.0.0",
+    "remark-validate-links": "^9.0.1"
+  }
+}

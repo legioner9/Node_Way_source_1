@@ -1,0 +1,11 @@
+- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\PartialApplication-master\cat.PartialApplication-master\dir.PartialApplication-master.md">PartialApplication-master</a>
+    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\PartialApplication-master\Exercises.en.md">Exercises.en.md</a>
+        - *# Exercises
+        - *## Use partial or bind
+        - *## Use closure
+        - *## Use lambdas (arrow functions)
+        - *## Use bind
+        - *## Use curry
+        - *## Exercises
+    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\PartialApplication-master\README.md">README.md</a>
+        - *# Partial function application and Currying

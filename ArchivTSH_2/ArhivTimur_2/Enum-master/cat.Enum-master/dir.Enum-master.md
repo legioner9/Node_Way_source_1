@@ -1,0 +1,3 @@
+- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Enum-master\cat.Enum-master\dir.Enum-master.md">Enum-master</a>
+    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Enum-master\README.md">README.md</a>
+        - *## Enumerated type

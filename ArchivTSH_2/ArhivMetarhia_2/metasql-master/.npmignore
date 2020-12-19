@@ -1,0 +1,7 @@
+node_modules
+test
+types
+application
+doc
+*.log
+.DS_Store

@@ -1,0 +1,3 @@
+- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\TypedArrays-master\cat.TypedArrays-master\dir.TypedArrays-master.md">TypedArrays-master</a>
+    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\TypedArrays-master\README.md">README.md</a>
+        - *# TypedArrays

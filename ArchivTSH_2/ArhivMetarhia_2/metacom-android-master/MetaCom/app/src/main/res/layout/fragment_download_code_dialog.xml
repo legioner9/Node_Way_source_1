@@ -1,0 +1,31 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:background="@color/black14"
+              android:orientation="vertical"
+              tools:context=".activities.files.DownloadFileDialog">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/small_margin"
+        android:fontFamily="sans-serif-light"
+        android:text="@string/enter_download_code"
+        android:textColor="@color/white"
+        android:textSize="@dimen/text_size"/>
+
+    <android.support.design.widget.TextInputEditText
+        android:id="@+id/file_code"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/small_margin"
+        android:fontFamily="sans-serif-light"
+        android:hint="@string/download_code"
+        android:inputType="text"
+        android:textColor="@color/white"
+        android:textColorHint="@color/grey"
+        android:textSize="@dimen/text_size"/>
+
+
+</LinearLayout>

@@ -1,0 +1,32 @@
+- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\eslint-config-metarhia-master\cat.eslint-config-metarhia-master\dir.eslint-config-metarhia-master.md">eslint-config-metarhia-master</a>
+    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\eslint-config-metarhia-master\CHANGELOG.md">CHANGELOG.md</a>
+        - *# Change Log
+        - *# [7.0.0](https://github.com/metarhia/eslint-config-metarhia/compare/v6.1.0...v7.0.0) (2019-02-01)
+        - *### Features
+        - *### BREAKING CHANGES
+        - *# [6.1.0](https://github.com/metarhia/eslint-config-metarhia/compare/v6.0.0...v6.1.0) (2018-12-07)
+        - *### Features
+        - *# [6.0.0](https://github.com/metarhia/eslint-config-metarhia/compare/v5.0.0...v6.0.0) (2018-10-22)
+        - *### Features
+        - *### BREAKING CHANGES
+        - *# [5.0.0](https://github.com/metarhia/eslint-config-metarhia/compare/v4.0.0...v5.0.0) (2018-09-28)
+        - *### Features
+        - *### BREAKING CHANGES
+        - *# [4.0.0](https://github.com/metarhia/eslint-config-metarhia/compare/v3.0.0...v4.0.0) (2018-08-22)
+        - *### Features
+        - *### BREAKING CHANGES
+        - *# [3.0.0](https://github.com/metarhia/eslint-config-metarhia/compare/v2.0.0...v3.0.0) (2018-07-19)
+        - *### Features
+        - *### BREAKING CHANGES
+        - *# [2.0.0](https://github.com/metarhia/eslint-config-metarhia/compare/v1.0.1...v2.0.0) (2017-11-26)
+        - *### Features
+        - *### BREAKING CHANGES
+        - *## [1.0.1](https://github.com/metarhia/eslint-config-metarhia/compare/v1.0.0...v1.0.1) (2017-09-25)
+        - *# 1.0.0 (2017-09-06)
+        - *### Features
+    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\eslint-config-metarhia-master\README.md">README.md</a>
+        - *# eslint-config-metarhia
+        - *## Usage
+        - *## Contributing
+        - *### Releasing
+        - *## License

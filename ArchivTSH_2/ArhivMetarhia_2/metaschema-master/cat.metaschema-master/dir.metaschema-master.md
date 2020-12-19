@@ -1,0 +1,63 @@
+- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\metaschema-master\cat.metaschema-master\dir.metaschema-master.md">metaschema-master</a>
+    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\metaschema-master\doc\cat.doc\dir.doc.md">doc</a>
+        - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\metaschema-master\doc\footer.md">footer.md</a>
+            - *## Contributors
+        - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\metaschema-master\doc\header.md">header.md</a>
+            - *# Metaschema
+            - *## Installation
+            - *## API
+    
+    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\metaschema-master\README.md">README.md</a>
+        - *# Metaschema
+        - *## Installation
+        - *## API
+        - *### class Metaschema
+        - *#### Metaschema.create(schemas, config)
+        - *#### Metaschema.prototype.constructor(config)
+        - *#### Metaschema.prototype.validate(type, schema, instance, options)
+        - *#### Metaschema.prototype.create(type, schema, instance, options)
+        - *#### Metaschema.prototype.addSchemas(schemas)
+        - *### async fs.load(dir, options, config)
+        - *### async fs.applySystemConfig(path, systemConfig, oldConfig)
+        - *### class default.decorators.classes.ValuesDecorator
+        - *#### default.decorators.classes.ValuesDecorator.prototype.constructor(values)
+        - *### class default.decorators.classes.Enum extends ValuesDecorator
+        - *#### default.decorators.classes.Enum.prototype.constructor()
+        - *### class default.decorators.classes.Flags extends ValuesDecorator
+        - *#### default.decorators.classes.Flags.prototype.constructor({ values = \[\], enumDomain })
+        - *#### default.decorators.classes.Flags.prototype.parse(value)
+        - *### class default.decorators.classes.Validate
+        - *#### default.decorators.classes.Validate.prototype.constructor(fn)
+        - *### class default.decorators.classes.List
+        - *#### default.decorators.classes.List.prototype.constructor(def)
+        - *### default.decorators.functions.Enum(...values)
+        - *### default.decorators.functions.Flags(...args)
+        - *#### default.decorators.functions.Flags.of(enumDomain)
+        - *### default.decorators.functions.Validate(fn)
+        - *### default.decorators.functions.List(def)
+        - *### default.options.decorators.Validate(fn)
+        - *### default.options.localDecorators.domains.Enum(...values)
+        - *### default.options.localDecorators.domains.Flags(...args)
+        - *#### default.options.localDecorators.domains.Flags.of(enumDomain)
+        - *### default.options.localDecorators.category.List(def)
+        - *### default.config.prepare(ms)
+        - *### default.config.resolve(ms, type, name)
+        - *### default.config.processors.domains.add\[0\](domains, ms)
+        - *### default.config.processors.domains.postprocess\[0\](domains, ms)
+        - *### default.config.processors.domains.validateInstance(ms, domain, instance, { path = '' } = {})
+        - *### default.config.processors.category.add\[0\](category, ms)
+        - *### default.config.processors.category.postprocess\[0\](category, ms)
+        - *### default.config.processors.category.validateInstance(ms, { definition: schema }, instance, options = {})
+        - *### processSchema(name, source, options, evaluator)
+        - *### extractDecorator(schema)
+        - *### extractByPath(definition, path, ms, source)
+        - *### class errors.SchemaValidationError extends [Error][error]
+        - *#### errors.SchemaValidationError.prototype.constructor(type, source, info)
+        - *#### errors.SchemaValidationError.prototype.toString()
+        - *### class errors.ValidationError extends [Error][error]
+        - *#### errors.ValidationError.prototype.constructor(type, property, info)
+        - *#### errors.ValidationError.prototype.toString()
+        - *### class errors.MetaschemaError extends [Error][error]
+        - *#### errors.MetaschemaError.prototype.constructor(errors)
+        - *#### errors.MetaschemaError.prototype.toString()
+        - *## Contributors

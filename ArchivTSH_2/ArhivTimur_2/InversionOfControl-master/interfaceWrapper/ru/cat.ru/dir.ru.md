@@ -1,0 +1,7 @@
+- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\InversionOfControl-master\interfaceWrapper\ru\cat.ru\dir.ru.md">ru</a>
+    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\InversionOfControl-master\interfaceWrapper\ru\README.md">README.md</a>
+        - *## Описание
+        - *## Файлы
+        - *## Запуск
+        - *## Задание
+        - *## Дополнительные задания

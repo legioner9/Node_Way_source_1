@@ -1,0 +1,137 @@
+- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Index-master\cat.Index-master\dir.Index-master.md">Index-master</a>
+    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Index-master\Archive\cat.Archive\dir.Archive.md">Archive</a>
+        - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Index-master\Archive\2013-2016.md">2013-2016.md</a>
+            - *## Доклады 2013-2016
+        - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Index-master\Archive\2017-Archive.md">2017-Archive.md</a>
+            - *## Семинары и доклады 2017
+            - *### Семинары весной 2017
+            - *### Выступление и разное
+        - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Index-master\Archive\2017-Summer-school.md">2017-Summer-school.md</a>
+            - *## Летняя школа 2017
+        - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Index-master\Archive\2018-Archive.md">2018-Archive.md</a>
+            - *## Выступления 2018
+        - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Index-master\Archive\2018-Summer-school.md">2018-Summer-school.md</a>
+            - *## Летняя школа 2018 в Одессе
+        - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Index-master\Archive\2019-2020\cat.2019-2020\dir.2019-2020.md">2019-2020</a>
+            - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Index-master\Archive\2019-2020\Calendar.md">Calendar.md</a>
+                - *# Расписание на весну 2020
+                - *## Запланированные
+                - *## Очередь
+            - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Index-master\Archive\2019-2020\IP9X.md">IP9X.md</a>
+                - *# Материалы курса IP9X: Основы инженерии программного обеспечения
+                - *## Ссылки
+                - *## Программа на 1й семестр 2019-2020
+            - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Index-master\Archive\2019-2020\NodeUA.md">NodeUA.md</a>
+                - *# Расписание NodeUA на 2019-2020
+        
+    
+    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Index-master\Calendar\cat.Calendar\dir.Calendar.md">Calendar</a>
+        - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Index-master\Calendar\Calendar.md">Calendar.md</a>
+            - *# Расписание
+    
+    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Index-master\Courses\cat.Courses\dir.Courses.md">Courses</a>
+        - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Index-master\Courses\Advanced.md">Advanced.md</a>
+            - *# Вторая часть курса
+            - *## Асинхронное программирование
+            - *### Повторение
+            - *### Обзор асинхронного программирования
+            - *### Лекции
+            - *## Технологический стек Node.js
+        - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Index-master\Courses\AlgAndData.md">AlgAndData.md</a>
+            - *# Алгоритмы и структуры данных
+        - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Index-master\Courses\Architecture.md">Architecture.md</a>
+            - *# Архитектура информационных систем
+            - *## Структура курса
+            - *## Видео-лекции
+        - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Index-master\Courses\Asynchronous.md">Asynchronous.md</a>
+            - *# Асинхронное программирование
+            - *## Видео-лекции
+        - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Index-master\Courses\Databases.md">Databases.md</a>
+            - *# Проектирования баз данных
+        - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Index-master\Courses\Functional.md">Functional.md</a>
+            - *# Функциональное программирование
+        - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Index-master\Courses\Fundamentals.md">Fundamentals.md</a>
+            - *# Основы программирования
+            - *## Ссылки
+            - *## Модуль SEF1
+            - *## Модуль SEF2
+        - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Index-master\Courses\Highload.md">Highload.md</a>
+            - *# Высоконагруженные и масштабируемые системы
+        - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Index-master\Courses\Introduction.md">Introduction.md</a>
+            - *# Введение и обзор знаний
+        - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Index-master\Courses\Metaprogramming.md">Metaprogramming.md</a>
+            - *# Метапрограммирование и мультипарадигменное программирование
+        - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Index-master\Courses\Network.md">Network.md</a>
+            - *# Проектирование сетевых протоколов и сервисов
+        - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Index-master\Courses\NodeJS.md">NodeJS.md</a>
+            - *# Технологический стек Node.js
+            - *## Доклады на конференциях
+            - *## Вебинары Node.js: Выйди и зайди нормально
+            - *## Введение и основы
+            - *## Структура и архитектура приложений на Node.js
+            - *## Разработка серверов приложений и API на Node.js
+            - *## Работа с базами данных на Node.js
+            - *## Лекции по CQRS и Event Sourcing
+            - *## Управление памятью и параллельное программирование
+            - *## Безопасность, надежность, развертывание и управление инфраструктурой
+        - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Index-master\Courses\OOP.md">OOP.md</a>
+            - *# Объектно-ориентированное программирование
+        - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Index-master\Courses\OS.md">OS.md</a>
+            - *# Операционные системы
+        - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Index-master\Courses\Paradigms.md">Paradigms.md</a>
+            - *# Парадигмы программирования
+        - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Index-master\Courses\Parallel.md">Parallel.md</a>
+            - *# Параллельное программирование
+            - *## Структура курса
+            - *## Видео-лекции
+        - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Index-master\Courses\Patterns.md">Patterns.md</a>
+            - *# Шаблоны проектирования
+        - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Index-master\Courses\Quality.md">Quality.md</a>
+            - *# Качество, тестирование и надежность ПО
+        - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Index-master\Courses\Security.md">Security.md</a>
+            - *# Безопасность информационных систем
+        - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Index-master\Courses\Short.md">Short.md</a>
+            - *# Программная инженерия
+            - *## Основы программирования: 1 семестр 1 курса
+            - *## Основы программирования: 2 семестр 1 курса
+            - *## 1 семестр 2 курса
+            - *## Асинхронное программирование: 2 семестр 2 курса
+            - *## Технологический стек Node.js: 1 семестр 3 курса
+            - *## Технологический стек Node.js: 2 семестр 3 курса
+        - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Index-master\Courses\Special.md">Special.md</a>
+            - *# Special Course for Information System Security
+            - *## Web programming and technologies
+            - *## Creating server-side application
+            - *## Final contest
+        - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Index-master\Courses\System.md">System.md</a>
+            - *# Системное программирование
+        - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Index-master\Courses\Talks.md">Talks.md</a>
+            - *# Доклады на конференциях
+        - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Index-master\Courses\Tools.md">Tools.md</a>
+            - *# Инструменты разработки и жизненного цикла ПО
+        - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Index-master\Courses\UI-UX.md">UI-UX.md</a>
+            - *# Проектирование пользовательских интерфейсов
+        - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Index-master\Courses\Web.md">Web.md</a>
+            - *# Веб-технологии
+    
+    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Index-master\Links.md">Links.md</a>
+        - *# Индекс каналов и групп сообщества Метархия
+        - *## Общая тематика
+        - *## Для начинающих
+        - *## Node.js
+    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Index-master\Practice\cat.Practice\dir.Practice.md">Practice</a>
+        - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Index-master\Practice\Index.md">Index.md</a>
+            - *# Практика и проекты
+        - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Index-master\Practice\SEF1.ru.md">SEF1.ru.md</a>
+            - *# Практические задания
+        - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Index-master\Practice\SEF3.ru.md">SEF3.ru.md</a>
+            - *# Практика и проекты
+            - *## Возможные варианты:
+            - *## Разрешается (при зазумном обосновании выбора):
+            - *## Если вы делаете свой репозиторий, то он обязательно должен включать:
+            - *## Проекты, в которые можно конрибьютить:
+    
+    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Index-master\README.md">README.md</a>
+        - *# Индекс и состояние курсов
+        - *## Последовательная программа
+        - *## Отдельные курсы

@@ -1,0 +1,78 @@
+- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\globalstorage-master\doc\cat.doc\dir.doc.md">doc</a>
+    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\globalstorage-master\doc\api\cat.api\dir.api.md">api</a>
+        - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\globalstorage-master\doc\api\jstp.md">jstp.md</a>
+            - *# GlobalStorage JSTP API
+            - *## Server-side
+            - *#### Errors
+            - *### Interface `provider`
+            - *#### Methods
+            - *##### `get(id)`
+            - *###### Call arguments
+            - *###### Callback arguments
+            - *##### `getDetails(category, id, fieldName)`
+            - *###### Call arguments
+            - *###### Callback arguments
+            - *##### `set(record)`
+            - *###### Call arguments
+            - *###### Callback arguments
+            - *##### `create(category, record)`
+            - *###### Call arguments
+            - *###### Callback arguments
+            - *##### `update(category, query, patch)`
+            - *###### Call arguments
+            - *###### Callback arguments
+            - *##### `linkDetails(category, field, fromId, toIds)`
+            - *###### Call arguments
+            - *###### Callback arguments
+            - *##### `unlinkDetails(category, field, fromId, toIds)`
+            - *###### Call arguments
+            - *###### Callback arguments
+            - *##### `delete(category, query)`
+            - *###### Call arguments
+            - *###### Callback arguments
+            - *##### `select(category, jsql)`
+            - *###### Call arguments
+            - *###### Callback arguments
+            - *##### `execute(category, action, actionArgs)`
+            - *###### Call arguments
+            - *###### Callback arguments
+            - *##### `getSchemaSources()`
+            - *###### Call arguments
+            - *###### Callback arguments
+            - *##### `listCategories()`
+            - *###### Call arguments
+            - *###### Callback arguments
+            - *##### `listCategoriesPermissions()`
+            - *###### Call arguments
+            - *###### Callback arguments
+            - *##### `listActions()`
+            - *###### Call arguments
+            - *###### Callback arguments
+            - *##### `listApplications()`
+            - *###### Call arguments
+            - *###### Callback arguments
+            - *### Interface `l10n`
+            - *#### Methods
+            - *##### `getCategory(langTag, category)`
+            - *###### Call arguments
+            - *###### Callback arguments
+            - *##### `getDomains(langTag)`
+            - *###### Call arguments
+            - *###### Callback arguments
+            - *##### `getCommon(langTag)`
+            - *###### Call arguments
+            - *###### Callback arguments
+            - *##### `getForm(langTag, category, form)`
+            - *###### Call arguments
+            - *###### Callback arguments
+            - *##### `getAction(langTag, category, action)`
+            - *###### Call arguments
+            - *###### Callback arguments
+    
+    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\globalstorage-master\doc\header.md">header.md</a>
+        - *# GlobalStorage
+        - *## The Concept
+        - *## Metamodel Definition Language
+        - *## JavaScript Query Language
+        - *## Contributors
+        - *## API

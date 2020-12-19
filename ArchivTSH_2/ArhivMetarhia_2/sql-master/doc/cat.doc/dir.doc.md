@@ -1,0 +1,46 @@
+- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\sql-master\doc\cat.doc\dir.doc.md">doc</a>
+    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\sql-master\doc\sql.md">sql.md</a>
+        - *# API Documentation
+        - *## Interface: sql
+        - *### class QueryBuilder
+        - *#### QueryBuilder.prototype.constructor(params, options)
+        - *#### QueryBuilder.prototype.build()
+        - *### class SelectBuilder extends QueryBuilder
+        - *#### SelectBuilder.prototype.constructor(params, options)
+        - *#### SelectBuilder.prototype.avg(field)
+        - *#### SelectBuilder.prototype.build()
+        - *#### SelectBuilder.prototype.count(field = '\*')
+        - *#### SelectBuilder.prototype.distinct()
+        - *#### SelectBuilder.prototype.from(tableName)
+        - *#### SelectBuilder.prototype.groupBy(...fields)
+        - *#### SelectBuilder.prototype.innerJoin(tableName, leftKey, rightKey)
+        - *#### SelectBuilder.prototype.limit(limit)
+        - *#### SelectBuilder.prototype.max(field)
+        - *#### SelectBuilder.prototype.min(field)
+        - *#### SelectBuilder.prototype.offset(offset)
+        - *#### SelectBuilder.prototype.orderBy(field, dir = 'ASC')
+        - *#### SelectBuilder.prototype.processOperations(query, operations, functionHandlers)
+        - *#### SelectBuilder.prototype.processOrder(query, clauses)
+        - *#### SelectBuilder.prototype.processSelect(query, clauses)
+        - *#### SelectBuilder.prototype.processWhere(query, clauses)
+        - *#### SelectBuilder.prototype.select(...fields)
+        - *#### SelectBuilder.prototype.sum(field)
+        - *#### SelectBuilder.prototype.where(key, cond, value)
+        - *#### SelectBuilder.prototype.whereAny(key, value)
+        - *#### SelectBuilder.prototype.whereExists(subquery)
+        - *#### SelectBuilder.prototype.whereIn(key, conds)
+        - *#### SelectBuilder.prototype.whereNot(key, cond, value)
+        - *#### SelectBuilder.prototype.whereNotIn(key, conds)
+        - *#### SelectBuilder.prototype.whereNotNull(key)
+        - *#### SelectBuilder.prototype.whereNull(key)
+        - *### class RawBuilder extends QueryBuilder
+        - *#### RawBuilder.prototype.constructor(sqlTemplate)
+        - *#### RawBuilder.prototype.build()
+        - *### class ParamsBuilder
+        - *#### ParamsBuilder.prototype.constructor()
+        - *#### ParamsBuilder.prototype.add(value, options)
+        - *#### ParamsBuilder.prototype.build()
+        - *### class PostgresParamsBuilder extends [ParamsBuilder][paramsbuilder]
+        - *#### PostgresParamsBuilder.prototype.constructor()
+        - *#### PostgresParamsBuilder.prototype.add(value, options)
+        - *#### PostgresParamsBuilder.prototype.build()

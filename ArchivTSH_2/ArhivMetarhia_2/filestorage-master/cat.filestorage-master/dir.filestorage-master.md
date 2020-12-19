@@ -1,0 +1,19 @@
+- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\filestorage-master\cat.filestorage-master\dir.filestorage-master.md">filestorage-master</a>
+    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\filestorage-master\CHANGELOG.md">CHANGELOG.md</a>
+        - *# Changelog
+        - *## [Unreleased][unreleased]
+        - *### Added
+        - *### Removed
+        - *## [0.1.0][] - 2019-01-23
+        - *### Added
+    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\filestorage-master\README.md">README.md</a>
+        - *# FileStorage
+        - *## Interface: filestorage
+        - *### Create new FileStorage
+        - *### Write file to storage
+        - *### Update or write file in the storage
+        - *### Get information about file
+        - *### Read file from storage
+        - *### Delete file from storage
+        - *### Compress file in storage
+        - *### Create new Filestorage and root directory if it doesn't exits

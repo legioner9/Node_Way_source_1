@@ -1,0 +1,155 @@
+- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\jstp-master\doc\api\cat.api\dir.api.md">api</a>
+    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\jstp-master\doc\api\application.md">application.md</a>
+        - *# Application
+        - *## Class: jstp.Application
+        - *### Constructor: new Application(name, api\[, eventHandlers\[, version\]\[, ssp\]\])
+        - *### application.callMethod(connection, interfaceName, methodName, args, callback)
+        - *### application.getMethods(interfaceName)
+        - *### application.handleEvent(connection, interfaceName, eventName, args)
+        - *## jstp.createAppsIndex(applications)
+    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\jstp-master\doc\api\auth-policy.md">auth-policy.md</a>
+        - *# AuthPolicy
+        - *## Interface: jstp.AuthPolicy
+        - *### authPolicy.authenticate(connection, application, strategy, credentials, callback)
+    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\jstp-master\doc\api\client.md">client.md</a>
+        - *# Client
+        - *## Interface: jstp.Client
+        - *### client.connectPolicy(application, connection\[, session\], callback)
+        - *### client.application
+        - *### client.heartbeatInterval
+        - *### client.session
+        - *### client.logger
+        - *### client.reconnector(connection, reconnectFn)
+    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\jstp-master\doc\api\connection.md">connection.md</a>
+        - *# Connection
+        - *## Class: jstp.Connection
+        - *### Constructor: new Connection(transport, server, client)
+        - *### Event: 'reconnectAttempt'
+        - *### Event: 'reconnect'
+        - *### Event: 'client'
+        - *### Event: 'call'
+        - *### Event: 'callback'
+        - *### Event: 'event'
+        - *### Event: 'handshake'
+        - *### Event: 'heartbeat'
+        - *### Event: 'incomingMessage'
+        - *### Event: 'outgoingMessage'
+        - *### Event: 'inspect'
+        - *### Event: 'messageRejected'
+        - *### connection.handshake(app\[, session\], callback)
+        - *### connection.handshake(app, login, password, callback)
+        - *### connection.inspectInterface(interfaceName, callback)
+        - *### connection.callMethod(interfaceName, methodName, args, callback)
+        - *### connection.callMethodWithResend(interfaceName, methodName, args, callback)
+        - *### connection.emitRemoteEvent(interfaceName, eventName, args)
+        - *### connection.ping(callback)
+        - *### connection.startHeartbeat(interval)
+        - *### connection.stopHeartbeat()
+        - *### connection.close()
+        - *### connection.getTransport()
+        - *### connection.server
+        - *### connection.client
+        - *### connection.id
+        - *### connection.remoteAddress
+        - *### connection.handshakeDone
+        - *### connection.username
+        - *### connection.session
+        - *### connection.application
+        - *### connection.remoteProxies
+    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\jstp-master\doc\api\errors.md">errors.md</a>
+        - *# Errors
+        - *## Predefined Error Codes
+        - *### jstp.ERR_APP_NOT_FOUND
+        - *### jstp.ERR_AUTH_FAILED
+        - *### jstp.ERR_INTERFACE_NOT_FOUND
+        - *### jstp.ERR_INTERFACE_INCOMPATIBLE
+        - *### jstp.ERR_METHOD_NOT_FOUND
+        - *### jstp.ERR_NOT_A_SERVER
+        - *### jstp.ERR_INTERNAL_API_ERROR
+        - *## Class: jstp.RemoteError
+        - *### new RemoteError(code\[, message\[, info\]\])
+        - *### error.code
+        - *### error.message
+        - *### error.info
+        - *### error.toJstpArray()
+        - *### error.toJSTP()
+        - *### Class Method: RemoteError.fromJstpArray(array)
+        - *### Class Method: RemoteError.getJstpArrayFor(error)
+    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\jstp-master\doc\api\net.md">net.md</a>
+        - *# net
+        - *## Object: jstp.net
+        - *### jstp.net.connect(app, client, ...args, callback)
+        - *### jstp.net.connectAndInspect(app, client, interfaces, ...args, callback)
+        - *### jstp.net.reconnect(connection, ...args, callback)
+        - *### jstp.net.createServer(options\[, listener\])
+    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\jstp-master\doc\api\remote-proxy.md">remote-proxy.md</a>
+        - *# RemoteProxy
+        - *## Class: jstp.RemoteProxy
+        - *### Constructor: new RemoteProxy(connection, interfaceName\[, methods\])
+        - *### proxy.emit(eventName, ...eventArgs)
+        - *### proxy\[methodName\](...args, callback\[, resend\])
+    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\jstp-master\doc\api\server.md">server.md</a>
+        - *# Server
+        - *## Class: jstp.Server
+        - *### Event: 'connect'
+        - *### Event: 'reconnect'
+        - *### Event: 'disconnect'
+        - *### server.getClients()
+        - *### server.getClientsArray()
+        - *### server.updateApplications(applications)
+        - *### server.updateConnectionsApi()
+        - *### server.broadcast(interfaceName, eventName, ...args)
+    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\jstp-master\doc\api\session-storage-provider.md">session-storage-provider.md</a>
+        - *# SessionStorageProvider
+        - *## Interface: jstp.SessionStorageProvider
+        - *### ssp.isAsync()
+        - *### ssp.get(sessionId\[, callback\])
+        - *### ssp.set(sessionId, session)
+        - *### ssp.setInactive(sessionId)
+    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\jstp-master\doc\api\session.md">session.md</a>
+        - *# Session
+        - *## Class: jstp.Session
+        - *### session.id
+        - *### session.connection
+        - *### session.username
+        - *### session.toString()
+        - *### Session.fromString(sessionString)
+    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\jstp-master\doc\api\simple-connect-policy.md">simple-connect-policy.md</a>
+        - *# SimpleConnectPolicy
+        - *## Class: jstp.SimpleConnectPolicy
+        - *### simpleConnectPolicy.connect(app, connection\[, session], callback)
+    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\jstp-master\doc\api\simple-session-storage-provider.md">simple-session-storage-provider.md</a>
+        - *# SimpleSessionStorageProvider
+        - *## Class: jstp.SimpleSessionStorageProvider
+        - *### Constructor: new SimpleSessionStorageProvider(\[inactiveSessionLifetime\[, purgeInterval\]\])
+    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\jstp-master\doc\api\tls.md">tls.md</a>
+        - *# tls
+        - *## Object: jstp.tls
+        - *### jstp.tls.connect(app, client, ...args, callback)
+        - *### jstp.tls.connectAndInspect(app, client, interfaces, ...args, callback)
+        - *### jstp.tls.reconnect(connection, ...args, callback)
+        - *### jstp.tls.createServer(options\[, listener\])
+    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\jstp-master\doc\api\transport.md">transport.md</a>
+        - *# Transport
+        - *## Interface: Transport
+        - *### Event: 'message'
+        - *### transport.send(data)
+        - *### transport.end(\[data\])
+        - *### transport.getRawTransport()
+    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\jstp-master\doc\api\ws-browser.md">ws-browser.md</a>
+        - *# ws for browser
+        - *## Object: jstp.ws
+        - *### jstp.ws.connect(app, client, url, callback)
+        - *### jstp.ws.connectAndInspect(app, client, interfaces, url, callback)
+        - *### jstp.ws.reconnect(connection, url, callback)
+    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\jstp-master\doc\api\ws.md">ws.md</a>
+        - *# ws
+        - *## Object: jstp.ws
+        - *### jstp.ws.connect(app, client, webSocketConfig, requestUrl, callback)
+        - *### jstp.ws.connectAndInspect(app, client, interfaces, webSocketConfig, requestUrl, callback)
+        - *### jstp.ws.reconnect(connection, webSocketConfig, requestUrl, callback)
+        - *### jstp.ws.createServer(options\[, listener\])
+    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\jstp-master\doc\api\wss.md">wss.md</a>
+        - *# wss
+        - *## Object: jstp.wss
+        - *### jstp.wss.createServer(options\[, listener\])

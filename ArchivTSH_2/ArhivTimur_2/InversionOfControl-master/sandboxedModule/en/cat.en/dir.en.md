@@ -1,0 +1,7 @@
+- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\InversionOfControl-master\sandboxedModule\en\cat.en\dir.en.md">en</a>
+    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\InversionOfControl-master\sandboxedModule\en\README.md">README.md</a>
+        - *## Description
+        - *## Files
+        - *## How to execute
+        - *## Tasks
+        - *## Additional tasks

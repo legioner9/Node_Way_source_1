@@ -1,0 +1,5 @@
+- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\DependencyInjection-master\JavaScript\applications\cat.applications\dir.applications.md">applications</a>
+    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\DependencyInjection-master\JavaScript\applications\application1\cat.application1\dir.application1.md">application1</a>
+        - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\DependencyInjection-master\JavaScript\applications\application1\README.md">README.md</a>
+            - *# Markdown file from appliacation local directory
+    

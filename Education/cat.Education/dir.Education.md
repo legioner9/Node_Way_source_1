@@ -96,16 +96,6 @@
                             - *### document.createTextNode(text)
                             - *## Insert methods 
                     
-                    - <a href = "E:\Node_projects\Node_Way\Education\IlKan\js.ru\Part_1\1.Документ.dir\1.8.Стили_и_классы.dir\cat.1.8.Стили_и_классы.dir\dir.1.8.Стили_и_классы.dir.md">1.8.Стили_и_классы.dir</a>
-                        - <a href = "E:\Node_projects\Node_Way\Education\IlKan\js.ru\Part_1\1.Документ.dir\1.8.Стили_и_классы.dir\1.8.Стили_и_классы.md">1.8.Стили_и_классы.md</a>
-                            - *# [Стили и классы](https://learn.javascript.ru/styles-and-classes)
-                            - *## className и classList
-                            - *## Element style
-                            - *### Сброс стилей
-                            - *### Полная перезапись style.cssText
-                            - *### Следите за единицами измерения
-                            - *### getComputedStyle(element, [pseudo])
-                    
                     - <a href = "E:\Node_projects\Node_Way\Education\IlKan\js.ru\Part_1\1.Документ.dir\1.9.Размеры_и_прокрутка_элементов.dir\cat.1.9.Размеры_и_прокрутка_элементов.dir\dir.1.9.Размеры_и_прокрутка_элементов.dir.md">1.9.Размеры_и_прокрутка_элементов.dir</a>
                         - <a href = "E:\Node_projects\Node_Way\Education\IlKan\js.ru\Part_1\1.Документ.dir\1.9.Размеры_и_прокрутка_элементов.dir\1.9.Размеры_и_прокрутка_элементов.md">1.9.Размеры_и_прокрутка_элементов.md</a>
                             - *# [Размеры и прокрутка элементов](https://learn.javascript.ru/size-and-scroll)
@@ -380,9 +370,6 @@
             - <a href = "E:\Node_projects\Node_Way\Education\IlKan\_arh\learn.javascript.ru\cat.learn.javascript.ru\dir.learn.javascript.ru.md">learn.javascript.ru</a>
                 - <a href = "E:\Node_projects\Node_Way\Education\IlKan\_arh\learn.javascript.ru\Browser\cat.Browser\dir.Browser.md">Browser</a>
                     - <a href = "E:\Node_projects\Node_Way\Education\IlKan\_arh\learn.javascript.ru\Browser\1\cat.1\dir.1.md">1</a>
-                        - <a href = "E:\Node_projects\Node_Way\Education\IlKan\_arh\learn.javascript.ru\Browser\1\1.1\cat.1.1\dir.1.1.md">1.1</a>
-                            - <a href = "E:\Node_projects\Node_Way\Education\IlKan\_arh\learn.javascript.ru\Browser\1\1.1\a.md">a.md</a>
-                        
                         - <a href = "E:\Node_projects\Node_Way\Education\IlKan\_arh\learn.javascript.ru\Browser\1\1.2\cat.1.2\dir.1.2.md">1.2</a>
                             - <a href = "E:\Node_projects\Node_Way\Education\IlKan\_arh\learn.javascript.ru\Browser\1\1.2\a.md">a.md</a>
                                 - *## DOM-дерево
@@ -442,10 +429,6 @@
                                 - *## Аннотированные метки
                                 - *# Alias Git
                                 - *# Основы ветвления и слияния
-                            - <a href = "E:\Node_projects\Node_Way\Education\src\Knowledge\Git\Conspects\progit_v2.1.49\Mane\StepByStep.md">StepByStep.md</a>
-                                - *#### Remove from index 
-                                - *#### Rewrite from index
-                                - *#### Switched to a new branch "iss53"
                         
                         - <a href = "E:\Node_projects\Node_Way\Education\src\Knowledge\Git\Conspects\progit_v2.1.49\Other\cat.Other\dir.Other.md">Other</a>
                             - <a href = "E:\Node_projects\Node_Way\Education\src\Knowledge\Git\Conspects\progit_v2.1.49\Other\cmd_set_comand.md">cmd_set_comand.md</a>
@@ -477,400 +460,6 @@
                 
             
             - <a href = "E:\Node_projects\Node_Way\Education\src\Knowledge\MySql\cat.MySql\dir.MySql.md">MySql</a>
-                - <a href = "E:\Node_projects\Node_Way\Education\src\Knowledge\MySql\Ancor.md">Ancor.md</a>
-                - <a href = "E:\Node_projects\Node_Way\Education\src\Knowledge\MySql\html5css.ru\cat.html5css.ru\dir.html5css.ru.md">html5css.ru</a>
-                    - <a href = "E:\Node_projects\Node_Way\Education\src\Knowledge\MySql\html5css.ru\sql_datatypes.md">sql_datatypes.md</a>
-                        - *# Типы данных SQL
-                        - *## Типы данных MySQL
-                        - *### Текстовые типы данных:
-                        - *#### CHAR(size)	
-                        - *#### VARCHAR(size)
-                        - *#### TINYTEXT
-                        - *#### TEXT
-                        - *#### BLOB
-                        - *#### MEDIUMTEXT
-                        - *#### MEDIUMBLOB
-                        - *#### LONGTEXT
-                        - *#### ENUM(x,y,z,etc.)
-                        - *#### SET
-                        - *### Типы данных чисел:
-                        - *#### TINYINT(size)
-                        - *#### SMALLINT(size)
-                        - *#### MEDIUMINT(size)
-                        - *#### INT(size)
-                        - *#### BIGINT(size)
-                        - *#### FLOAT(size,d)
-                        - *#### DOUBLE(size,d)
-                        - *#### DECIMAL(size,d)
-                        - *### Типы данных дат:
-                        - *#### DATE()
-                        - *#### DATETIME()	
-                        - *#### TIMESTAMP()
-                        - *#### TIME()
-                        - *#### YEAR()
-                        - *### Типы строковых данных:
-                        - *#### char(n)
-                        - *#### varchar(n)
-                        - *#### varchar(max)
-                        - *#### text
-                        - *#### nchar
-                        - *#### nvarchar
-                        - *#### nvarchar(max)
-                        - *#### ntext
-                        - *#### binary(n)
-                        - *#### varbinary
-                        - *#### varbinary(max)
-                        - *#### image
-                        - *### Типы данных чисел:
-                        - *#### bit
-                        - *#### tinyint
-                        - *#### smallint
-                        - *#### int
-                        - *#### bigint
-                        - *#### decimal(p,s)
-                        - *#### smallmoney
-                        - *#### float(n)
-                        - *#### real
-                        - *### Типы данных дат:
-                        - *#### datetime
-                        - *#### datetime2
-                        - *#### smalldatetime
-                        - *#### date
-                        - *#### time
-                        - *#### datetimeoffset
-                        - *#### timestamp
-                        - *### Другие типы данных:
-                        - *#### sql_variant
-                        - *#### uniqueidentifier
-                        - *#### xml
-                        - *#### cursor
-                        - *#### table
-                        - *## Типы данных Microsoft Access
-                        - *#### Text
-                        - *#### Memo
-                        - *#### Byte
-                        - *#### Integer
-                        - *#### Long
-                        - *#### Single
-                        - *#### Double
-                        - *#### Currency
-                        - *#### AutoNumber
-                        - *#### Date/Time
-                        - *#### Yes/No
-                        - *#### Ole Object
-                        - *#### Hyperlink
-                        - *#### Lookup Wizard
-                    - <a href = "E:\Node_projects\Node_Way\Education\src\Knowledge\MySql\html5css.ru\sql_functions.md">sql_functions.md</a>
-                        - *# MySQL строковые функции
-                        - *## ASCII
-                        - *## CHAR_LENGTH
-                        - *## CHARACTER_LENGTH
-                        - *## CONCAT
-                        - *### TR
-                        - *## CONCAT_WS
-                        - *### TR
-                        - *## GROUP_CONCAT
-                        - *### TR
-                        - *## FIELD
-                        - *### TR
-                        - *## FORMAT
-                        - *## INSERT
-                        - *## INSTR
-                        - *### TR
-                        - *## LCASE
-                        - *## LEFT
-                        - *### TR
-                        - *## LENGTH
-                        - *### TR 
-                        - *## LOCATE
-                        - *### TR
-                        - *## LOWER
-                        - *### TR
-                        - *## LPAD
-                        - *### TR
-                        - *## LTRIM
-                        - *### TR
-                        - *## MID
-                        - *### TR 
-                        - *## POSITION
-                        - *### TR
-                        - *## REPEAT
-                        - *### TR
-                        - *## REPLACE
-                        - *### TR
-                        - *## REVERSE
-                        - *### TR
-                        - *## RIGHT
-                        - *### TR
-                        - *## RPAD
-                        - *### TR 
-                        - *## RTRIM
-                        - *## SPACE
-                        - *### TR
-                        - *## STRCMP
-                        - *## SUBSTR
-                        - *### TR
-                        - *## SUBSTRING
-                        - *## SUBSTRING_INDEX
-                        - *### TR
-                        - *## TRIM
-                        - *### TR
-                        - *## UCASE
-                        - *### TR
-                        - *## UPPER
-                        - *# Цифровые функции MySQL
-                        - *## ABS
-                        - *### TR
-                        - *## ACOS
-                        - *## ASIN
-                        - *## ATAN
-                        - *## ATAN2
-                        - *## AVG
-                        - *### TR
-                        - *## CEIL
-                        - *## CEILING
-                        - *### TR
-                        - *## COS
-                        - *## COT
-                        - *## COUNT
-                        - *## DEGREES
-                        - *## DIV
-                        - *## EXP
-                        - *## FLOOR
-                        - *### TR
-                        - *## GREATEST
-                        - *### TR
-                        - *## LEAST
-                        - *### TR
-                        - *## LN
-                        - *## LOG
-                        - *## LOG10
-                        - *## LOG2
-                        - *## MAX
-                        - *### TR
-                        - *## MIN
-                        - *### TR
-                        - *## MOD
-                        - *### TR
-                        - *## PI
-                        - *## POW
-                        - *### TR
-                        - *## POWER
-                        - *## RADIANS
-                        - *## RAND
-                        - *### TR
-                        - *## ROUND
-                        - *### TR
-                        - *## SIGN
-                        - *### TR
-                        - *## SIN
-                        - *## SQRT
-                        - *### TR
-                        - *## SUM
-                        - *### TR
-                        - *## TAN
-                        - *## TRUNCATE
-                        - *### TR
-                        - *# Дата 
-                        - *## ADDDATE
-                        - *## ADDTIME
-                        - *## CURDATE
-                        - *## CURRENT_DATE
-                        - *### TR
-                        - *## CURRENT_TIME
-                        - *### TR
-                        - *## CURRENT_TIMESTAMP
-                        - *## CURTIME
-                        - *## DATE
-                        - *### TR
-                        - *## DATEDIFF
-                        - *## DATE_ADD
-                        - *### TR
-                        - *## DATE_FORMAT
-                        - *### TR
-                        - *## DATE_SUB
-                        - *### TR
-                        - *## DAY
-                        - *### TR
-                        - *## DAYNAME
-                        - *### TR
-                        - *## DAYOFMONTH
-                        - *## DAYOFWEEK
-                        - *### TR
-                        - *## DAYOFYEAR
-                        - *### TR
-                        - *## EXTRACT
-                        - *### TR
-                        - *## FROM_DAYS
-                        - *## INTERVAL
-                        - *### TR
-                        - *#### 1
-                        - *#### 2
-                        - *## HOUR
-                        - *### TR
-                        - *#### hour, minute, second
-                        - *## LAST_DAY
-                        - *## LOCALTIME
-                        - *## LOCALTIMESTAMP
-                        - *## MAKEDATE
-                        - *## MAKETIME
-                        - *## MICROSECOND
-                        - *## MINUTE
-                        - *## MONTH
-                        - *### TR
-                        - *## MONTHNAME
-                        - *## NOW
-                        - *### TR
-                        - *## PERIOD_ADD
-                        - *## PERIOD_DIFF
-                        - *## QUARTER
-                        - *## SECOND
-                        - *## SEC_TO_TIME
-                        - *### TR
-                        - *## STR_TO_DATE
-                        - *## SUBDATE
-                        - *## SUBTIME
-                        - *## SYSDATE
-                        - *## TIME
-                        - *## TIME_FORMAT
-                        - *### TR
-                        - *## TIME_TO_SEC
-                        - *### TR
-                        - *## TIMEDIFF
-                        - *## TIMESTAMP
-                        - *## TO_DAYS
-                        - *### TR
-                        - *## WEEK
-                        - *### TR
-                        - *## WEEKDAY
-                        - *### TR
-                        - *## WEEKOFYEAR
-                        - *## YEAR
-                        - *## YEARWEEK
-                        - *### TR
-                        - *# Расширенные функции MySQL
-                        - *## BIN
-                        - *## BINARY
-                        - *## CASE
-                        - *## CAST	
-                        - *## COALESCE	
-                        - *## CONNECTION_ID
-                        - *## CONV
-                        - *## CONVERT
-                        - *## CURRENT_USER
-                        - *## DATABASE
-                        - *## SESSION_USER
-                        - *## SYSTEM_USER
-                        - *## USER
-                        - *## VERSION
-                    - <a href = "E:\Node_projects\Node_Way\Education\src\Knowledge\MySql\html5css.ru\sql_quickref v.2.md">sql_quickref v.2.md</a>
-                        - *# SQL Statement	Syntax
-                        - *## AND
-                        - *### TR
-                        - *## OR
-                        - *### TR
-                        - *## ALTER TABLE
-                        - *## AS (alias)
-                        - *### TR
-                        - *## BETWEEN
-                        - *### TR
-                        - *## COUNT
-                        - *### TR
-                        - *## CREATE INDEX
-                        - *## CREATE VIEW
-                        - *## DELETE	
-                        - *### TR
-                        - *## DISTINCT
-                        - *### TR
-                        - *## DROP DATABASE
-                        - *## DROP INDEX
-                        - *## DROP TABLE
-                        - *## ELT
-                        - *### TR
-                        - *## EXISTS
-                        - *## GROUP BY
-                        - *### TR
-                        - *## HAVING
-                        - *### TR
-                        - *## IF
-                        - *## IFNULL
-                        - *## IS
-                        - *## IS NOT NULL
-                        - *### TR
-                        - *## IS NULL
-                        - *### TR
-                        - *## LAST_INSERT_ID
-                        - *## NULLIF
-                        - *## IN
-                        - *### TR
-                        - *## INSERT INTO
-                        - *### TR
-                        - *## INNER JOIN
-                        - *### TR 
-                        - *### TR JOIN
-                        - *#### LEFT JOIN
-                        - *#### RIGHT JOIN
-                        - *#### INNER JOIN
-                        - *## LEFT JOIN
-                        - *### TR
-                        - *## RIGHT JOIN
-                        - *### TR
-                        - *## FULL JOIN
-                        - *## LIKE
-                        - *### TR
-                        - *#### reg Like %
-                        - *#### reg Like _
-                        - *## LIMIT
-                        - *### TR
-                        - *## NOT
-                        - *### TR
-                        - *## ORDER BY	
-                        - *### TR
-                        - *## SELECT *	
-                        - *### TR 
-                        - *## SELECT DISTINCT
-                        - *## SELECT INTO
-                        - *### TR
-                        - *## SELECT TOP
-                        - *## UNION
-                        - *### TR
-                        - *## UNION ALL
-                        - *## UPDATE
-                        - *### TR
-                        - *## WHERE
-                        - *### TR
-                    - <a href = "E:\Node_projects\Node_Way\Education\src\Knowledge\MySql\html5css.ru\sql_quickref.md">sql_quickref.md</a>
-                        - *# SQL Statement	Syntax
-                        - *## AND / OR
-                        - *## ALTER TABLE
-                        - *## AS (alias)
-                        - *## BETWEEN
-                        - *## CREATE INDEX
-                        - *## CREATE VIEW
-                        - *## DELETE	
-                        - *## DROP DATABASE
-                        - *## DROP INDEX
-                        - *## DROP TABLE
-                        - *## EXISTS
-                        - *## GROUP BY
-                        - *## HAVING
-                        - *## IN
-                        - *## INSERT INTO
-                        - *## INNER JOIN
-                        - *## LEFT JOIN
-                        - *## RIGHT JOIN
-                        - *## FULL JOIN
-                        - *## LIKE
-                        - *## ORDER BY	
-                        - *## SELECT *	
-                        - *## SELECT DISTINCT
-                        - *## SELECT INTO
-                        - *## SELECT TOP
-                        - *## UNION
-                        - *## UNION ALL
-                        - *## UPDATE
-                        - *## WHERE
-                
                 - <a href = "E:\Node_projects\Node_Way\Education\src\Knowledge\MySql\Pdfs\cat.Pdfs\dir.Pdfs.md">Pdfs</a>
                     - <a href = "E:\Node_projects\Node_Way\Education\src\Knowledge\MySql\Pdfs\md.md">md.md</a>
                         - *# SQL Statement	Syntax
@@ -904,239 +493,8 @@
                         - *## UPDATE
                         - *## WHERE
                 
-                - <a href = "E:\Node_projects\Node_Way\Education\src\Knowledge\MySql\sql-tutorial.ru\cat.sql-tutorial.ru\dir.sql-tutorial.ru.md">sql-tutorial.ru</a>
-                    - <a href = "E:\Node_projects\Node_Way\Education\src\Knowledge\MySql\sql-tutorial.ru\sql-tutorial_part_1.ru.md">sql-tutorial_part_1.ru.md</a>
-                        - *# Create Comp Base
-                        - *## Script create
-                        - *### drop table
-                        - *### create table
-                        - *### insert Primary Key
-                        - *###  insert Foreign Key
-                        - *### filling	
-                        - *# Упражнение 2
-                        - *# Упражнение 5
-                        - *# Упражнение 6
-                    - <a href = "E:\Node_projects\Node_Way\Education\src\Knowledge\MySql\sql-tutorial.ru\sql-tutorial_part_2.ru.md">sql-tutorial_part_2.ru.md</a>
-                        - *# Язык манипуляции данными в SQL
-                        - *## (Глава 5) Оператор SELECT
-                        - *### (5.1) Простой оператор SELECT
-                        - *#
-                        - *### Сортировка по дням рождения
-                        - *### (5.2.) Предикаты I
-                        - *### (5.3.) Переименование столбцов и вычисления в результирующем наборе
-                        - *### (5.4.) Предикаты II
-                        - *### (5.5.) Получение итоговых значений
-                        - *### (5.6.) Использование в запросе нескольких источников записей
-                        - *### (5.7) Традиционные операции над множествами и оператор SELECT
-                        - *### Реляционное деление
-                        - *### (5.8) Использование ключевых слов SOME (ANY) и ALL с предикатами сравнения 
-                        - *### (5.9.) Преобразование типов и оператор CAST
-                        - *### (5.10.) Оператор CASE
-                        - *## (Глава 6) Операторы модификации данных
-                        - *### (6.1.) Оператор INSERT
-                        - *### Конструктор значений таблицы
-                        - *### (6.2.) Оператор UPDATE
-                        - *### (6.3.) Оператор DELETE
-                    - <a href = "E:\Node_projects\Node_Way\Education\src\Knowledge\MySql\sql-tutorial.ru\Title_parts.md">Title_parts.md</a>
-                        - *# (Часть I) Характерные ошибки при решении задач на написание запросов на выборку (SELECT)
-                        - *# (Часть II) Язык манипуляции данными в SQL
-                        - *# (Часть III) Готовимся ко второму этапу тестирования
-                        - *# (Часть IV) Новое в стандарте и реализациях языка SQL
-                        - *# (Часть V) Заметки о типах данных
-                        - *# Язык определения данных (SQL DDL)
-                        - *# Вопросы оптимизации
-                        - *# Графовые базы данных
-                        - *# Приложения
-                
-                - <a href = "E:\Node_projects\Node_Way\Education\src\Knowledge\MySql\sql.ru\cat.sql.ru\dir.sql.ru.md">sql.ru</a>
-                    - <a href = "E:\Node_projects\Node_Way\Education\src\Knowledge\MySql\sql.ru\sql.ru.md">sql.ru.md</a>
-                        - *# ALTER TABLE
-                        - *# CREATE TABLE
-                        - *## ZEROFILL
-                        - *## Типы данных
-                        - *### BLOB
-                        - *### CHAR(NUM)
-                        - *### DATE 
-                        - *### DATETIME
-                        - *### DECIMAL (length,dec)
-                        - *### DOUBLE [(length,dec)]
-                        - *### FLOAT [(precision)]	
-                        - *### FLOAT [(length,decimals)]
-                        - *### INT [(length)] [UNSIGNED] [ZEROFILL]
-                        - *### INTEGER [(length)] [UNSIGNED] [ZEROFILL]
-                        - *### LONGBLOB
-                        - *### MEDIUMBLOB
-                        - *### MEDIUMINT [(length)] [UNSIGNED] [ZEROFILL]
-                        - *### REAL [(length,dec)]
-                        - *### SMALLINT[(length)] [UNSIGNED] [ZEROFILL]
-                        - *### TINYBLOB
-                        - *### TINYINT [(length)] [UNSIGNED] [ZEROFILL]
-                        - *### VARCHAR(NUM)
-                        - *### TIME	
-                        - *### TIMESTAMP(NUM)
-                        - *## Ключи
-                        - *## BLOB'ы
-                        - *### Двоичные данные в BLOBS
-                        - *# CREATE INDEX
-                        - *# DELETE
-                        - *# DESCRIBE
-                        - *# DROP
-                        - *# DROP INDEX
-                        - *# GRANT
-                        - *# SELECT
-                        - *## Функции
-                        - *### One
-                        - *#### + - * /	
-                        - *#### %	
-                        - *#### | &
-                        - *#### -
-                        - *#### ( )
-                        - *#### BETWEEN(A,B,C)
-                        - *#### BIT_COUNT()
-                        - *#### ELT(N,a,b,c,d)
-                        - *#### FIELD(Z,a,b,c)
-                        - *#### IF(A,B,C)
-                        - *#### IFNULL(A,B)
-                        - *#### ISNULL(A)
-                        - *#### NOT !
-                        - *#### OR, AND
-                        - *#### SIGN()
-                        - *#### SUM()
-                        - *#### = <> <= < >= >
-                        - *#### expr LIKE expr
-                        - *#### expr NOT LIKE expr
-                        - *#### expr REGEXP expr
-                        - *#### expr NOT REGEXP expr
-                        - *### Математика
-                        - *#### ABS()
-                        - *#### CEILING()
-                        - *####  EXP()
-                        - *#### FORMAT(nr,NUM)
-                        - *#### LOG()
-                        - *#### LOG10()
-                        - *#### MIN(),MAX()
-                        - *#### MOD()
-                        - *#### POW()
-                        - *#### ROUND()
-                        - *#### RAND([integer_expr])
-                        - *#### SQRT()
-                        - *### Строки
-                        - *#### CONCAT()
-                        - *#### INTERVAL(A,a,b,c,d)
-                        - *#### INSERT(org,strt,len,new)
-                        - *#### LCASE(A)
-                        - *#### LEFT()
-                        - *#### LENGTH()
-                        - *#### LOCATE(A,B)
-                        - *#### LOCATE(A,B,C)
-                        - *#### LTRIM(str)
-                        - *#### REPLACE(A,B,C)
-                        - *#### RIGHT()
-                        - *#### RTRIM(str)
-                        - *#### STRCMP()
-                        - *#### SUBSTRING(A,B,C)
-                        - *#### UCASE(A)	Переводит A в верхний регистр.
-                        - *### Other
-                        - *#### CURDATE()
-                        - *#### DATABASE()
-                        - *#### FROM_DAYS()
-                        - *#### NOW()
-                        - *#### PASSWORD()
-                        - *#### PERIOD_ADD(P:N)
-                        - *#### PERIOD_DIFF(A,B)
-                        - *#### TO_DAYS()
-                        - *#### UNIX_TIMESTAMP([date])
-                        - *#### USER()
-                        - *#### WEEKDAY()
-                        - *### With Group
-                        - *#### AVG()
-                        - *#### SUM()
-                        - *#### COUNT()
-                        - *#### MIN()
-                        - *#### MAX()
-                        - *## Присоединения
-                        - *## Псевдонимы
-                        - *# INSERT INTO
-                        - *# LOAD DATA INFILE
-                        - *# SET OPTION
-                        - *## SQL_SELECT_LIMIT=value
-                        - *# UPDATE
-                        - *# SHOW
-                        - *# AddOns 
-                        - *## \ 
-                        - *### \0
-                        - *### \n
-                        - *### \t
-                        - *### \r
-                        - *### \b
-                        - *### \'
-                        - *### \"
-                        - *### \\
-                        - *### \%
-                        - *### \_
-                        - *## Примеры правильных строк:
-                        - *## О числах
-                
-                - <a href = "E:\Node_projects\Node_Way\Education\src\Knowledge\MySql\sqlbolt.com\cat.sqlbolt.com\dir.sqlbolt.com.md">sqlbolt.com</a>
-                    - <a href = "E:\Node_projects\Node_Way\Education\src\Knowledge\MySql\sqlbolt.com\content_bolt.md">content_bolt.md</a>
-                        - *# SQL Lesson 2: Queries with constraints (Pt. 1)        
-                        - *# SQL Lesson 3: Queries with constraints (Pt. 2)
-                        - *# SQL Lesson 4: Filtering and sorting Query results
-                        - *#### ORDER BY
-                        - *#### DISTYNCT
-                        - *# SQL Review: Simple SELECT Queries
-                        - *### answers
-                        - *#### OFFSET
-                        - *# SQL Lesson 6: Multi-table queries with JOINs
-                        - *### answers
-                        - *#### INNER JOIN
-                        - *# SQL Lesson 7: OUTER JOINs
-                        - *### answers
-                        - *#### LEFT JOIN
-                        - *# SQL Lesson 8: A short note on NULLs
-                        - *### answers 
-                        - *# SQL Lesson 9: Queries with expressions
-                        - *#### Aliases for columns and tables
-                        - *### answers
-                        - *#### Expr In SELECT
-                        - *# SQL Lesson 10: Queries with aggregates (Pt. 1)
-                        - *### answers 
-                        - *#### MAX , SUM , AVG , Group BY
-                        - *# SQL Lesson 11: Queries with aggregates (Pt. 2)
-                        - *### ansver 
-                        - *# SQL Lesson 12: Order of execution of a Query
-                        - *### answers
-                        - *# SQL Lesson 13: Inserting rows
-                        - *### answers
-                        - *#### INSERT INTO
-                        - *# SQL Lesson 14: Updating rows
-                        - *### answer
-                        - *#### UPDATE
-                        - *# SQL Lesson 15: Deleting rows
-                        - *# answers 
-                        - *#### DELETE
-                        - *# SQL Lesson 16: Creating tables
-                        - *#### CREATE TABLE
-                        - *### example
-                        - *### answers
-                        - *# SQL Lesson 17: Altering tables
-                        - *#### ADD COLUMN
-                        - *#### DROP COLUMN
-                        - *#### RENAME TO
-                        - *### answers
-                        - *# SQL Lesson 18: Dropping tables
-                        - *#### answers 
-                
             
             - <a href = "E:\Node_projects\Node_Way\Education\src\Knowledge\OwnSyntax\cat.OwnSyntax\dir.OwnSyntax.md">OwnSyntax</a>
-                - <a href = "E:\Node_projects\Node_Way\Education\src\Knowledge\OwnSyntax\NameTag.md">NameTag.md</a>
-                    - *### inside within indoors inland
-                    - *### outside without out
-                    - *### definition finding specification  modifier
-                    - *### assumption admission allowance sumption
-                    - *### call cause induce summon produce evoke bring fetch generate create involve exert draw entail move spawn breed suggest work send
-                    - *### operator manipulator statement operation controller
-                    - *### problem task objective goal why
                 - <a href = "E:\Node_projects\Node_Way\Education\src\Knowledge\OwnSyntax\NameTagPrepositions.md">NameTagPrepositions.md</a>
                     - *#### Простые
                     - *#### Производные
@@ -1149,56 +507,676 @@
         
         - <a href = "E:\Node_projects\Node_Way\Education\src\Markdown_DOCS\cat.Markdown_DOCS\dir.Markdown_DOCS.md">Markdown_DOCS</a>
             - <a href = "E:\Node_projects\Node_Way\Education\src\Markdown_DOCS\Extense_Docs\cat.Extense_Docs\dir.Extense_Docs.md">Extense_Docs</a>
-                - <a href = "E:\Node_projects\Node_Way\Education\src\Markdown_DOCS\Extense_Docs\MdMonster_Samples.md">MdMonster_Samples.md</a>
-                    - *# Welcome to Markdown Monster
-                    - *### Problems? Please let us know
-                    - *# Markdown Features
-                    - *### Bold and Italic
-                    - *### Header Text
-                    - *# Header 1
-                    - *## Header 2
-                    - *### Header 3
-                    - *#### Header 4
-                    - *##### Header 5
-                    - *###### Header 6
-                    - *### Line Continuation
-                    - *### Links
-                    - *### Images
-                    - *### Block Quotes
-                    - *### Fontawesome Icons
-                    - *### Emojiis
-                    - *### HTML Markup
-                    - *### Unordered Lists
-                    - *### Ordered Lists
-                    - *### Inline Code
-                    - *### Indented Code Blocks 
-                    - *### Fenced Code Blocks with Syntax Highlighting
-                    - *### Footnotes
-                    - *### Pipe Tables
-                    - *### Grid Tables
-                    - *### Ссылки
-                    - *## Картинки
+                - <a href = "E:\Node_projects\Node_Way\Education\src\Markdown_DOCS\Extense_Docs\extraIcons.md">extraIcons.md</a>
+                    - *@icon-hand-o-right
+                    - *@icon-hand-o-left
+                    - *@icon-hand-o-up
+                    - *@icon-hand-o-down 
+                    - *@icon-arrow-circle-left
+                    - *@icon-arrow-circle-right
+                    - *@icon-arrow-circle-up
+                    - *@icon-arrow-circle-down
+                    - *@icon-user
+                    - *@icon-link
+                    - *@icon-cloud
+                    - *@icon-flask
+                    - *@icon-scissors
+                    - *@icon-files-o
+                    - *@icon-external-link
+                    - *@icon-camera
+                    - *@icon-book
+                    - *@icon-phone
+                    - *@icon-floppy-o
+                    - *@icon-magic
+                    - *@icon-angle-double-left
+                    - *@icon-angle-double-right
+                    - *@icon-angle-double-up
+                    - *@icon-angle-double-down
+                    - *@icon-angle-left
+                    - *@icon-angle-right
+                    - *@icon-angle-up
+                    - *@icon-angle-down
+                    - *@icon-code
+                    - *@icon-chevron-circle-left
+                    - *@icon-chevron-circle-right
+                    - *@icon-chevron-circle-up
+                    - *@icon-chevron-circle-down
+                    - *@icon-bullseye
+                    - *@icon-pagelines
+                    - *@icon-binoculars
+                    - *@icon-battery-full
+                    - *@icon-battery-three-quarters
+                    - *@icon-battery-half
+                    - *@icon-battery-quarter
+                    - *@icon-battery-empty
+                    - *@icon-gg
+                    - *@icon-television
+                    - *@icon-wikipedia-w
+                    - *@icon-balance-scale
+                    - *@icon-expeditedssl
+                    - *@icon-viacoin
+                    - *@icon-connectdevelop
+                    - *@icon-skyatlas
+                    - *@icon-plug
+                    - *@icon-yelp
+                    - *@icon-newspaper-o
+                    - *@icon-wifi
+                    - *@icon-bomb
+                    - *@icon-rebel
+                    - *@icon-empire
+                    - *@icon-trash-o
+                    - *@icon-home
+                    - *@icon-file-o
+                    - *@icon-clock-o
+                    - *@icon-road
+                    - *@icon-download
+                    - *@icon-search-plus
+                    - *@icon-search-minus
+                    - *@icon-power-off
+                    - *@icon-signal
+                    - *@icon-cog
+                    - *@icon-inbox
+                    - *@icon-play-circle-o
+                    - *@icon-repeat
+                    - *@icon-refresh
+                    - *@icon-tag
+                    - *@icon-calendar
+                    - *@icon-envelope
+                    - *@icon-bolt
+                    - *@icon-fighter-jet
+                - <a href = "E:\Node_projects\Node_Way\Education\src\Markdown_DOCS\Extense_Docs\icons_585.md">icons_585.md</a>
+                    - *@icon-glass
+                    - *@icon-music
+                    - *@icon-search
+                    - *@icon-envelope-o
+                    - *@icon-heart
+                    - *@icon-star
+                    - *@icon-star-o
+                    - *@icon-user
+                    - *@icon-film
+                    - *@icon-th-large
+                    - *@icon-th
+                    - *@icon-th-list
+                    - *@icon-check
+                    - *@icon-times
+                    - *@icon-search-plus
+                    - *@icon-search-minus
+                    - *@icon-power-off
+                    - *@icon-signal
+                    - *@icon-cog
+                    - *@icon-trash-o
+                    - *@icon-home
+                    - *@icon-file-o
+                    - *@icon-clock-o
+                    - *@icon-road
+                    - *@icon-download
+                    - *@icon-arrow-circle-o-down
+                    - *@icon-arrow-circle-o-up
+                    - *@icon-inbox
+                    - *@icon-play-circle-o
+                    - *@icon-repeat
+                    - *@icon-refresh
+                    - *@icon-list-alt
+                    - *@icon-lock
+                    - *@icon-flag
+                    - *@icon-headphones
+                    - *@icon-volume-off
+                    - *@icon-volume-down
+                    - *@icon-volume-up
+                    - *@icon-qrcode
+                    - *@icon-barcode
+                    - *@icon-tag
+                    - *@icon-tags
+                    - *@icon-book
+                    - *@icon-bookmark
+                    - *@icon-print
+                    - *@icon-camera
+                    - *@icon-font
+                    - *@icon-bold
+                    - *@icon-italic
+                    - *@icon-text-height
+                    - *@icon-text-width
+                    - *@icon-align-left
+                    - *@icon-align-center
+                    - *@icon-align-right
+                    - *@icon-align-justify
+                    - *@icon-list
+                    - *@icon-outdent
+                    - *@icon-indent
+                    - *@icon-video-camera
+                    - *@icon-picture-o
+                    - *@icon-pencil
+                    - *@icon-map-marker
+                    - *@icon-adjust
+                    - *@icon-tint
+                    - *@icon-pencil-square-o
+                    - *@icon-share-square-o
+                    - *@icon-check-square-o
+                    - *@icon-arrows
+                    - *@icon-step-backward
+                    - *@icon-fast-backward
+                    - *@icon-backward
+                    - *@icon-play
+                    - *@icon-pause
+                    - *@icon-stop
+                    - *@icon-forward
+                    - *@icon-fast-forward
+                    - *@icon-step-forward
+                    - *@icon-eject
+                    - *@icon-chevron-left
+                    - *@icon-chevron-right
+                    - *@icon-plus-circle
+                    - *@icon-minus-circle
+                    - *@icon-times-circle
+                    - *@icon-check-circle
+                    - *@icon-question-circle
+                    - *@icon-info-circle
+                    - *@icon-crosshairs
+                    - *@icon-times-circle-o
+                    - *@icon-check-circle-o
+                    - *@icon-ban
+                    - *@icon-arrow-left
+                    - *@icon-arrow-right
+                    - *@icon-arrow-up
+                    - *@icon-arrow-down
+                    - *@icon-share
+                    - *@icon-expand
+                    - *@icon-compress
+                    - *@icon-plus
+                    - *@icon-minus
+                    - *@icon-asterisk
+                    - *@icon-exclamation-circle
+                    - *@icon-gift
+                    - *@icon-leaf
+                    - *@icon-fire
+                    - *@icon-eye
+                    - *@icon-eye-slash
+                    - *@icon-exclamation-triangle
+                    - *@icon-plane
+                    - *@icon-calendar
+                    - *@icon-random
+                    - *@icon-comment
+                    - *@icon-magnet
+                    - *@icon-chevron-up
+                    - *@icon-chevron-down
+                    - *@icon-retweet
+                    - *@icon-shopping-cart
+                    - *@icon-folder
+                    - *@icon-folder-open
+                    - *@icon-arrows-v
+                    - *@icon-arrows-h
+                    - *@icon-bar-chart
+                    - *@icon-twitter-square
+                    - *@icon-facebook-square
+                    - *@icon-camera-retro
+                    - *@icon-key
+                    - *@icon-cogs
+                    - *@icon-comments
+                    - *@icon-thumbs-o-up
+                    - *@icon-thumbs-o-down
+                    - *@icon-star-half
+                    - *@icon-heart-o
+                    - *@icon-sign-out
+                    - *@icon-linkedin-square
+                    - *@icon-thumb-tack
+                    - *@icon-external-link
+                    - *@icon-sign-in
+                    - *@icon-trophy
+                    - *@icon-github-square
+                    - *@icon-upload
+                    - *@icon-lemon-o
+                    - *@icon-phone
+                    - *@icon-square-o
+                    - *@icon-bookmark-o
+                    - *@icon-phone-square
+                    - *@icon-twitter
+                    - *@icon-facebook
+                    - *@icon-github
+                    - *@icon-unlock
+                    - *@icon-credit-card
+                    - *@icon-rss
+                    - *@icon-hdd-o
+                    - *@icon-bullhorn
+                    - *@icon-bell
+                    - *@icon-certificate
+                    - *@icon-hand-o-right
+                    - *@icon-hand-o-left
+                    - *@icon-hand-o-up
+                    - *@icon-hand-o-down
+                    - *@icon-arrow-circle-left
+                    - *@icon-arrow-circle-right
+                    - *@icon-arrow-circle-up
+                    - *@icon-arrow-circle-down
+                    - *@icon-globe
+                    - *@icon-wrench
+                    - *@icon-tasks
+                    - *@icon-filter
+                    - *@icon-briefcase
+                    - *@icon-arrows-alt
+                    - *@icon-users
+                    - *@icon-link
+                    - *@icon-cloud
+                    - *@icon-flask
+                    - *@icon-scissors
+                    - *@icon-files-o
+                    - *@icon-paperclip
+                    - *@icon-floppy-o
+                    - *@icon-square
+                    - *@icon-bars
+                    - *@icon-list-ul
+                    - *@icon-list-ol
+                    - *@icon-strikethrough
+                    - *@icon-underline
+                    - *@icon-table
+                    - *@icon-magic
+                    - *@icon-truck
+                    - *@icon-pinterest
+                    - *@icon-pinterest-square
+                    - *@icon-google-plus-square
+                    - *@icon-google-plus
+                    - *@icon-money
+                    - *@icon-caret-down
+                    - *@icon-caret-up
+                    - *@icon-caret-left
+                    - *@icon-caret-right
+                    - *@icon-columns
+                    - *@icon-sort
+                    - *@icon-sort-desc
+                    - *@icon-sort-asc
+                    - *@icon-envelope
+                    - *@icon-linkedin
+                    - *@icon-undo
+                    - *@icon-gavel
+                    - *@icon-tachometer
+                    - *@icon-comment-o
+                    - *@icon-comments-o
+                    - *@icon-bolt
+                    - *@icon-sitemap
+                    - *@icon-umbrella
+                    - *@icon-clipboard
+                    - *@icon-lightbulb-o
+                    - *@icon-exchange
+                    - *@icon-cloud-download
+                    - *@icon-cloud-upload
+                    - *@icon-user-md
+                    - *@icon-stethoscope
+                    - *@icon-suitcase
+                    - *@icon-bell-o
+                    - *@icon-coffee
+                    - *@icon-cutlery
+                    - *@icon-file-text-o
+                    - *@icon-building-o
+                    - *@icon-hospital-o
+                    - *@icon-ambulance
+                    - *@icon-medkit
+                    - *@icon-fighter-jet
+                    - *@icon-beer
+                    - *@icon-h-square
+                    - *@icon-plus-square
+                    - *@icon-angle-double-left
+                    - *@icon-angle-double-right
+                    - *@icon-angle-double-up
+                    - *@icon-angle-double-down
+                    - *@icon-angle-left
+                    - *@icon-angle-right
+                    - *@icon-angle-up
+                    - *@icon-angle-down
+                    - *@icon-desktop
+                    - *@icon-laptop
+                    - *@icon-tablet
+                    - *@icon-mobile
+                    - *@icon-circle-o
+                    - *@icon-quote-left
+                    - *@icon-quote-right
+                    - *@icon-spinner
+                    - *@icon-circle
+                    - *@icon-reply
+                    - *@icon-github-alt
+                    - *@icon-folder-o
+                    - *@icon-folder-open-o
+                    - *@icon-smile-o
+                    - *@icon-frown-o
+                    - *@icon-meh-o
+                    - *@icon-gamepad
+                    - *@icon-keyboard-o
+                    - *@icon-flag-o
+                    - *@icon-flag-checkered
+                    - *@icon-terminal
+                    - *@icon-code
+                    - *@icon-reply-all
+                    - *@icon-star-half-o
+                    - *@icon-location-arrow
+                    - *@icon-crop
+                    - *@icon-code-fork
+                    - *@icon-chain-broken
+                    - *@icon-question
+                    - *@icon-info
+                    - *@icon-exclamation
+                    - *@icon-superscript
+                    - *@icon-subscript
+                    - *@icon-eraser
+                    - *@icon-puzzle-piece
+                    - *@icon-microphone
+                    - *@icon-microphone-slash
+                    - *@icon-shield
+                    - *@icon-calendar-o
+                    - *@icon-fire-extinguisher
+                    - *@icon-rocket
+                    - *@icon-maxcdn
+                    - *@icon-chevron-circle-left
+                    - *@icon-chevron-circle-right
+                    - *@icon-chevron-circle-up
+                    - *@icon-chevron-circle-down
+                    - *@icon-html5
+                    - *@icon-css3
+                    - *@icon-anchor
+                    - *@icon-unlock-alt
+                    - *@icon-bullseye
+                    - *@icon-ellipsis-h
+                    - *@icon-ellipsis-v
+                    - *@icon-rss-square
+                    - *@icon-play-circle
+                    - *@icon-ticket
+                    - *@icon-minus-square
+                    - *@icon-minus-square-o
+                    - *@icon-level-up
+                    - *@icon-level-down
+                    - *@icon-check-square
+                    - *@icon-pencil-square
+                    - *@icon-external-link-square
+                    - *@icon-share-square
+                    - *@icon-compass
+                    - *@icon-caret-square-o-down
+                    - *@icon-caret-square-o-up
+                    - *@icon-caret-square-o-right
+                    - *@icon-eur
+                    - *@icon-gbp
+                    - *@icon-usd
+                    - *@icon-inr
+                    - *@icon-jpy
+                    - *@icon-rub
+                    - *@icon-krw
+                    - *@icon-btc
+                    - *@icon-file
+                    - *@icon-file-text
+                    - *@icon-sort-alpha-asc
+                    - *@icon-sort-alpha-desc
+                    - *@icon-sort-amount-asc
+                    - *@icon-sort-amount-desc
+                    - *@icon-sort-numeric-asc
+                    - *@icon-sort-numeric-desc
+                    - *@icon-thumbs-up
+                    - *@icon-thumbs-down
+                    - *@icon-youtube-square
+                    - *@icon-youtube
+                    - *@icon-xing
+                    - *@icon-xing-square
+                    - *@icon-youtube-play
+                    - *@icon-dropbox
+                    - *@icon-stack-overflow
+                    - *@icon-instagram
+                    - *@icon-flickr
+                    - *@icon-adn
+                    - *@icon-bitbucket
+                    - *@icon-bitbucket-square
+                    - *@icon-tumblr
+                    - *@icon-tumblr-square
+                    - *@icon-long-arrow-down
+                    - *@icon-long-arrow-up
+                    - *@icon-long-arrow-left
+                    - *@icon-long-arrow-right
+                    - *@icon-apple
+                    - *@icon-windows
+                    - *@icon-android
+                    - *@icon-linux
+                    - *@icon-dribbble
+                    - *@icon-skype
+                    - *@icon-foursquare
+                    - *@icon-trello
+                    - *@icon-female
+                    - *@icon-male
+                    - *@icon-gratipay
+                    - *@icon-sun-o
+                    - *@icon-moon-o
+                    - *@icon-archive
+                    - *@icon-bug
+                    - *@icon-vk
+                    - *@icon-weibo
+                    - *@icon-renren
+                    - *@icon-pagelines
+                    - *@icon-stack-exchange
+                    - *@icon-arrow-circle-o-right
+                    - *@icon-arrow-circle-o-left
+                    - *@icon-caret-square-o-left
+                    - *@icon-dot-circle-o
+                    - *@icon-wheelchair
+                    - *@icon-vimeo-square
+                    - *@icon-try
+                    - *@icon-plus-square-o
+                    - *@icon-space-shuttle
+                    - *@icon-slack
+                    - *@icon-envelope-square
+                    - *@icon-wordpress
+                    - *@icon-openid
+                    - *@icon-university
+                    - *@icon-graduation-cap
+                    - *@icon-yahoo
+                    - *@icon-google
+                    - *@icon-reddit
+                    - *@icon-reddit-square
+                    - *@icon-stumbleupon-circle
+                    - *@icon-stumbleupon
+                    - *@icon-delicious
+                    - *@icon-digg
+                    - *@icon-pied-piper
+                    - *@icon-pied-piper-alt
+                    - *@icon-drupal
+                    - *@icon-joomla
+                    - *@icon-language
+                    - *@icon-fax
+                    - *@icon-building
+                    - *@icon-child
+                    - *@icon-paw
+                    - *@icon-spoon
+                    - *@icon-cube
+                    - *@icon-cubes
+                    - *@icon-behance
+                    - *@icon-behance-square
+                    - *@icon-steam
+                    - *@icon-steam-square
+                    - *@icon-recycle
+                    - *@icon-car
+                    - *@icon-taxi
+                    - *@icon-tree
+                    - *@icon-spotify
+                    - *@icon-deviantart
+                    - *@icon-soundcloud
+                    - *@icon-database
+                    - *@icon-file-pdf-o
+                    - *@icon-file-word-o
+                    - *@icon-file-excel-o
+                    - *@icon-file-powerpoint-o
+                    - *@icon-file-image-o
+                    - *@icon-file-archive-o
+                    - *@icon-file-audio-o
+                    - *@icon-file-video-o
+                    - *@icon-file-code-o
+                    - *@icon-vine
+                    - *@icon-codepen
+                    - *@icon-jsfiddle
+                    - *@icon-life-ring
+                    - *@icon-circle-o-notch
+                    - *@icon-rebel
+                    - *@icon-empire
+                    - *@icon-git-square
+                    - *@icon-git
+                    - *@icon-hacker-news
+                    - *@icon-tencent-weibo
+                    - *@icon-qq
+                    - *@icon-weixin
+                    - *@icon-paper-plane
+                    - *@icon-paper-plane-o
+                    - *@icon-history
+                    - *@icon-circle-thin
+                    - *@icon-header
+                    - *@icon-paragraph
+                    - *@icon-sliders
+                    - *@icon-share-alt
+                    - *@icon-share-alt-square
+                    - *@icon-bomb
+                    - *@icon-futbol-o
+                    - *@icon-tty
+                    - *@icon-binoculars
+                    - *@icon-plug
+                    - *@icon-slideshare
+                    - *@icon-twitch
+                    - *@icon-yelp
+                    - *@icon-newspaper-o
+                    - *@icon-wifi
+                    - *@icon-calculator
+                    - *@icon-paypal
+                    - *@icon-google-wallet
+                    - *@icon-cc-visa
+                    - *@icon-cc-mastercard
+                    - *@icon-cc-discover
+                    - *@icon-cc-amex
+                    - *@icon-cc-paypal
+                    - *@icon-cc-stripe
+                    - *@icon-bell-slash
+                    - *@icon-bell-slash-o
+                    - *@icon-trash
+                    - *@icon-copyright
+                    - *@icon-at
+                    - *@icon-eyedropper
+                    - *@icon-paint-brush
+                    - *@icon-birthday-cake
+                    - *@icon-area-chart
+                    - *@icon-pie-chart
+                    - *@icon-line-chart
+                    - *@icon-lastfm
+                    - *@icon-lastfm-square
+                    - *@icon-toggle-off
+                    - *@icon-toggle-on
+                    - *@icon-bicycle
+                    - *@icon-bus
+                    - *@icon-ioxhost
+                    - *@icon-angellist
+                    - *@icon-cc
+                    - *@icon-ils
+                    - *@icon-meanpath
+                    - *@icon-buysellads
+                    - *@icon-connectdevelop
+                    - *@icon-dashcube
+                    - *@icon-forumbee
+                    - *@icon-leanpub
+                    - *@icon-sellsy
+                    - *@icon-shirtsinbulk
+                    - *@icon-simplybuilt
+                    - *@icon-skyatlas
+                    - *@icon-cart-plus
+                    - *@icon-cart-arrow-down
+                    - *@icon-diamond
+                    - *@icon-ship
+                    - *@icon-user-secret
+                    - *@icon-motorcycle
+                    - *@icon-street-view
+                    - *@icon-heartbeat
+                    - *@icon-venus
+                    - *@icon-mars
+                    - *@icon-mercury
+                    - *@icon-transgender
+                    - *@icon-transgender-alt
+                    - *@icon-venus-double
+                    - *@icon-mars-double
+                    - *@icon-venus-mars
+                    - *@icon-mars-stroke
+                    - *@icon-mars-stroke-v
+                    - *@icon-mars-stroke-h
+                    - *@icon-neuter
+                    - *@icon-genderless
+                    - *@icon-facebook-official
+                    - *@icon-pinterest-p
+                    - *@icon-whatsapp
+                    - *@icon-server
+                    - *@icon-user-plus
+                    - *@icon-user-times
+                    - *@icon-bed
+                    - *@icon-viacoin
+                    - *@icon-train
+                    - *@icon-subway
+                    - *@icon-medium
+                    - *@icon-y-combinator
+                    - *@icon-optin-monster
+                    - *@icon-opencart
+                    - *@icon-expeditedssl
+                    - *@icon-battery-full
+                    - *@icon-battery-three-quarters
+                    - *@icon-battery-half
+                    - *@icon-battery-quarter
+                    - *@icon-battery-empty
+                    - *@icon-mouse-pointer
+                    - *@icon-i-cursor
+                    - *@icon-object-group
+                    - *@icon-object-ungroup
+                    - *@icon-sticky-note
+                    - *@icon-sticky-note-o
+                    - *@icon-cc-jcb
+                    - *@icon-cc-diners-club
+                    - *@icon-clone
+                    - *@icon-balance-scale
+                    - *@icon-hourglass-o
+                    - *@icon-hourglass-start
+                    - *@icon-hourglass-half
+                    - *@icon-hourglass-end
+                    - *@icon-hourglass
+                    - *@icon-hand-rock-o
+                    - *@icon-hand-paper-o
+                    - *@icon-hand-scissors-o
+                    - *@icon-hand-lizard-o
+                    - *@icon-hand-spock-o
+                    - *@icon-hand-pointer-o
+                    - *@icon-hand-peace-o
+                    - *@icon-trademark
+                    - *@icon-registered
+                    - *@icon-creative-commons
+                    - *@icon-gg
+                    - *@icon-gg-circle
+                    - *@icon-tripadvisor
+                    - *@icon-odnoklassniki
+                    - *@icon-odnoklassniki-square
+                    - *@icon-get-pocket
+                    - *@icon-wikipedia-w
+                    - *@icon-safari
+                    - *@icon-chrome
+                    - *@icon-firefox
+                    - *@icon-opera
+                    - *@icon-internet-explorer
+                    - *@icon-television
+                    - *@icon-contao
+                    - *@icon-500px
+                    - *@icon-amazon
+                    - *@icon-calendar-plus-o
+                    - *@icon-calendar-minus-o
+                    - *@icon-calendar-times-o
+                    - *@icon-calendar-check-o
+                    - *@icon-industry
+                    - *@icon-map-pin
+                    - *@icon-map-signs
+                    - *@icon-map-o
+                    - *@icon-map
+                    - *@icon-commenting
+                    - *@icon-commenting-o
+                    - *@icon-houzz
+                    - *@icon-vimeo
+                    - *@icon-black-tie
+                    - *@icon-fonticons
             
             - <a href = "E:\Node_projects\Node_Way\Education\src\Markdown_DOCS\VS_code_Trane\cat.VS_code_Trane\dir.VS_code_Trane.md">VS_code_Trane</a>
                 - <a href = "E:\Node_projects\Node_Way\Education\src\Markdown_DOCS\VS_code_Trane\In_Catalogs\cat.In_Catalogs\dir.In_Catalogs.md">In_Catalogs</a>
-                    - <a href = "E:\Node_projects\Node_Way\Education\src\Markdown_DOCS\VS_code_Trane\In_Catalogs\Link_to_this.md">Link_to_this.md</a>
-                        - *# dfa
-                        - *## fgbsf
-                        - *## iyhgfhujnf 3
                     - <a href = "E:\Node_projects\Node_Way\Education\src\Markdown_DOCS\VS_code_Trane\In_Catalogs\Tiltle_trane_VS.md">Tiltle_trane_VS.md</a>
                         - *# cefed
                         - *# x
                         - *# pragma Section name (case sensitive)
-                    - <a href = "E:\Node_projects\Node_Way\Education\src\Markdown_DOCS\VS_code_Trane\In_Catalogs\Title_parts.md">Title_parts.md</a>
-                        - *# (Часть I) Характерные ошибки при решении задач на написание запросов на выборку (SELECT)
-                        - *# (Часть II) Язык манипуляции данными в SQL
-                        - *# (Часть III) Готовимся ко второму этапу тестирования
-                        - *# (Часть IV) Новое в стандарте и реализациях языка SQL
-                        - *# (Часть V) Заметки о типах данных
-                        - *# Язык определения данных (SQL DDL)
-                        - *# Вопросы оптимизации
-                        - *# Графовые базы данных
-                        - *# Приложения
                 
             
         
@@ -1318,9 +1296,6 @@
         
         - <a href = "E:\Node_projects\Node_Way\Education\Timur_Video_JS\part_17\cat.part_17\dir.part_17.md">part_17</a>
             - <a href = "E:\Node_projects\Node_Way\Education\Timur_Video_JS\part_17\RegExp-master\cat.RegExp-master\dir.RegExp-master.md">RegExp-master</a>
-                - <a href = "E:\Node_projects\Node_Way\Education\Timur_Video_JS\part_17\RegExp-master\CSharp\cat.CSharp\dir.CSharp.md">CSharp</a>
-                    - <a href = "E:\Node_projects\Node_Way\Education\Timur_Video_JS\part_17\RegExp-master\CSharp\README.md">README.md</a>
-                
                 - <a href = "E:\Node_projects\Node_Way\Education\Timur_Video_JS\part_17\RegExp-master\README.md">README.md</a>
                     - *# RegExp
             

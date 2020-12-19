@@ -1,0 +1,3 @@
+- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\PrototypeChain-master\cat.PrototypeChain-master\dir.PrototypeChain-master.md">PrototypeChain-master</a>
+    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\PrototypeChain-master\README.md">README.md</a>
+        - *## Прототипное программирование и прототипное наследование

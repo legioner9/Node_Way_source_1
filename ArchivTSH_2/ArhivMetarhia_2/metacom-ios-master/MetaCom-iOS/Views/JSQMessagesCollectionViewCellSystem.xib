@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="12121" systemVersion="16G29" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="12089"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="" id="c2I-NU-hct" customClass="JSQMessagesCollectionViewCellSystem" customModule="MetaCom_iOS" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="154"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="154"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="cPR-im-gIF" userLabel="Bubble container">
+                        <rect key="frame" x="0.0" y="0.0" width="314" height="154"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="Hwa-r4-Umg" userLabel="Bubble Image View">
+                                <rect key="frame" x="0.0" y="0.0" width="314" height="154"/>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="System message" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" adjustsLetterSpacingToFitWidth="YES" translatesAutoresizingMaskIntoConstraints="NO" id="PDs-zM-aiT">
+                                <rect key="frame" x="0.0" y="0.0" width="314" height="154"/>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                                <fontDescription key="fontDescription" style="UICTFontTextStyleBody"/>
+                                <color key="textColor" red="0.31764705882352939" green="0.32549019607843138" blue="0.31372549019607843" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" editable="NO" textAlignment="center" selectable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="noU-9W-Cel" customClass="JSQMessagesCellTextView">
+                                <rect key="frame" x="0.0" y="0.0" width="314" height="154"/>
+                                <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
+                                <color key="textColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="15"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                        </subviews>
+                        <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstAttribute="trailing" secondItem="noU-9W-Cel" secondAttribute="trailing" id="6hH-ip-IZK"/>
+                            <constraint firstAttribute="trailing" secondItem="PDs-zM-aiT" secondAttribute="trailing" id="CLb-GN-TZv"/>
+                            <constraint firstItem="noU-9W-Cel" firstAttribute="top" secondItem="cPR-im-gIF" secondAttribute="top" id="Dpz-ez-huW"/>
+                            <constraint firstItem="Hwa-r4-Umg" firstAttribute="leading" secondItem="cPR-im-gIF" secondAttribute="leading" id="Svw-84-Sp0"/>
+                            <constraint firstItem="PDs-zM-aiT" firstAttribute="top" secondItem="cPR-im-gIF" secondAttribute="top" id="Ym2-Zn-mlQ"/>
+                            <constraint firstItem="PDs-zM-aiT" firstAttribute="leading" secondItem="cPR-im-gIF" secondAttribute="leading" id="aEE-hM-Usy"/>
+                            <constraint firstItem="Hwa-r4-Umg" firstAttribute="top" secondItem="cPR-im-gIF" secondAttribute="top" id="fHp-ls-wD5"/>
+                            <constraint firstItem="noU-9W-Cel" firstAttribute="leading" secondItem="cPR-im-gIF" secondAttribute="leading" id="hed-Th-RU5"/>
+                            <constraint firstAttribute="trailing" secondItem="Hwa-r4-Umg" secondAttribute="trailing" id="jH7-Hg-63n"/>
+                            <constraint firstAttribute="bottom" secondItem="PDs-zM-aiT" secondAttribute="bottom" id="vhZ-h3-VXB"/>
+                            <constraint firstAttribute="bottom" secondItem="Hwa-r4-Umg" secondAttribute="bottom" id="xU0-l0-PaF"/>
+                            <constraint firstAttribute="bottom" secondItem="noU-9W-Cel" secondAttribute="bottom" id="xXh-3f-oFb"/>
+                        </constraints>
+                        <variation key="default">
+                            <mask key="subviews">
+                                <exclude reference="noU-9W-Cel"/>
+                            </mask>
+                            <mask key="constraints">
+                                <exclude reference="6hH-ip-IZK"/>
+                                <exclude reference="Dpz-ez-huW"/>
+                                <exclude reference="hed-Th-RU5"/>
+                                <exclude reference="xXh-3f-oFb"/>
+                            </mask>
+                        </variation>
+                    </view>
+                </subviews>
+            </view>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstAttribute="bottom" secondItem="cPR-im-gIF" secondAttribute="bottom" id="0Ef-fp-HTM"/>
+                <constraint firstItem="cPR-im-gIF" firstAttribute="leading" secondItem="c2I-NU-hct" secondAttribute="leading" id="Xlv-O2-Z1I"/>
+                <constraint firstAttribute="trailing" secondItem="cPR-im-gIF" secondAttribute="trailing" constant="6" id="fZs-a0-pMA"/>
+                <constraint firstItem="cPR-im-gIF" firstAttribute="top" secondItem="c2I-NU-hct" secondAttribute="top" id="ncy-Ow-Za6"/>
+            </constraints>
+            <size key="customSize" width="317" height="245"/>
+            <connections>
+                <outlet property="messageBubbleContainerView" destination="cPR-im-gIF" id="qf4-Es-up0"/>
+                <outlet property="messageBubbleImageView" destination="Hwa-r4-Umg" id="vMu-tz-hXS"/>
+                <outlet property="textLabel" destination="PDs-zM-aiT" id="nv7-fD-3sd"/>
+                <outlet property="textView" destination="noU-9W-Cel" id="Osb-lV-IPn"/>
+                <outlet property="textViewAvatarHorizontalSpaceConstraint" destination="hed-Th-RU5" id="SPs-1d-Q1H"/>
+                <outlet property="textViewBottomVerticalSpaceConstraint" destination="xXh-3f-oFb" id="pQ3-1m-8rc"/>
+                <outlet property="textViewMarginHorizontalSpaceConstraint" destination="6hH-ip-IZK" id="JgR-wi-Fgt"/>
+                <outlet property="textViewTopVerticalSpaceConstraint" destination="Dpz-ez-huW" id="YEh-Bq-Han"/>
+            </connections>
+            <point key="canvasLocation" x="255" y="202"/>
+        </collectionViewCell>
+    </objects>
+</document>

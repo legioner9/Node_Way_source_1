@@ -1,0 +1,12 @@
+#right {
+    width: 100%;
+}
+
+.column {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  background-color: black;
+  color: white;
+}
+

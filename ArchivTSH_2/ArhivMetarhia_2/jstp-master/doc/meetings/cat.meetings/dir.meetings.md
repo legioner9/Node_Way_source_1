@@ -1,0 +1,16 @@
+- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\jstp-master\doc\meetings\cat.meetings\dir.meetings.md">meetings</a>
+    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\jstp-master\doc\meetings\2017-02-21-sessions.md">2017-02-21-sessions.md</a>
+        - *# Sessions WG meeting
+        - *### Invited
+        - *### Present
+        - *### Agenda
+        - *### Conclusions
+        - *### Post-discussion additions
+    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\jstp-master\doc\meetings\2017-04-11-core.md">2017-04-11-core.md</a>
+        - *# 2017-04-11 JSTP Core Maintainers Meeting
+        - *## Agenda
+        - *## Decisions
+        - *### 1. Contribution guidelines
+        - *### 2. Relationship with <https://github.com/jstp>
+        - *### 3. Compliance with JSON5 specs. The future of our custom data formats
+        - *### 4. The front page of the project

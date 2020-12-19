@@ -1,0 +1,46 @@
+{
+  "name": "@metarhia/filestorage",
+  "version": "0.1.0",
+  "author": "",
+  "description": "Metarhia File Storage",
+  "license": "MIT",
+  "keywords": [
+    "fs",
+    "filestorage"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/metarhia/filestorage.git"
+  },
+  "bugs": {
+    "url": "https://github.com/metarhia/filestorage/issues"
+  },
+  "homepage": "https://github.com/metarhia/filestorage#readme",
+  "main": "filestorage.js",
+  "files": [
+    "lib/"
+  ],
+  "scripts": {
+    "test": "npm run -s lint && metatests test",
+    "lint": "eslint . && prettier -c \"**/*.js\" \"**/*.json\" \"**/*.md\" \".*rc\" \"**/*.yml\"",
+    "fmt": "prettier --write \"**/*.js\" \"**/*.json\" \"**/*.md\" \".*rc\" \"**/*.yml\""
+  },
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "dependencies": {
+    "@metarhia/common": "^2.2.0",
+    "compressing": "^1.5.1",
+    "crc": "^3.8.0"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-metarhia": "^7.0.1",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-import": "^2.22.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "metasync": "^0.3.32",
+    "metatests": "^0.7.2",
+    "prettier": "^1.19.1"
+  }
+}

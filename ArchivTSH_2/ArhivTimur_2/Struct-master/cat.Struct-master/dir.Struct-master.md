@@ -1,0 +1,3 @@
+- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Struct-master\cat.Struct-master\dir.Struct-master.md">Struct-master</a>
+    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Struct-master\README.md">README.md</a>
+        - *# Struct (structure or record)

@@ -1,0 +1,53 @@
+{
+  "name": "concolor",
+  "version": "1.0.0",
+  "author": "Vladyslav Dukhin <vladyslav.dukhin@gmail.com>",
+  "description": "Console colors for strings templates in node.js",
+  "license": "MIT",
+  "keywords": [
+    "concolor",
+    "metarhia",
+    "color",
+    "colors",
+    "colour",
+    "console",
+    "terminal",
+    "ansi",
+    "esc",
+    "template",
+    "theme",
+    "style"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/metarhia/concolor"
+  },
+  "bugs": {
+    "url": "https://github.com/metarhia/concolor/issues",
+    "email": "vladyslav.dukhin@gmail.com"
+  },
+  "homepage": "https://github.com/metarhia",
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/tshemsedinov"
+  },
+  "main": "concolor.js",
+  "files": [],
+  "scripts": {
+    "test": "npm run lint && node ./test.js",
+    "lint": "eslint . && prettier -c \"**/*.js\" \"**/*.json\" \"**/*.md\" \".*rc\" \"**/*.yml\"",
+    "fmt": "prettier --write \"**/*.js\" \"**/*.json\" \"**/*.md\" \".*rc\" \"**/*.yml\""
+  },
+  "engines": {
+    "node": "^12.9 || 14 || 15"
+  },
+  "readmeFilename": "README.md",
+  "devDependencies": {
+    "eslint": "^7.15.0",
+    "eslint-config-metarhia": "^7.0.1",
+    "eslint-config-prettier": "^7.0.0",
+    "eslint-plugin-import": "^2.22.0",
+    "eslint-plugin-prettier": "^3.3.0",
+    "prettier": "^2.2.1"
+  }
+}

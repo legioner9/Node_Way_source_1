@@ -1,0 +1,10 @@
+{
+  "files": [
+    "test/assets",
+    "test/compare",
+    "test/declarative",
+    "test/imperative",
+    "test/runner"
+  ],
+  "exclude": []
+}

@@ -1,0 +1,19 @@
+- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\metasql-master\cat.metasql-master\dir.metasql-master.md">metasql-master</a>
+    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\metasql-master\CHANGELOG.md">CHANGELOG.md</a>
+        - *# Changelog
+        - *## [Unreleased][unreleased]
+        - *## [metarhia-sql][] - 2020-09-06
+    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\metasql-master\CONTRIBUTING.md">CONTRIBUTING.md</a>
+        - *# Contributing
+        - *## Issues
+        - *## Pull Requests
+    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\metasql-master\doc\cat.doc\dir.doc.md">doc</a>
+        - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\metasql-master\doc\sql.md">sql.md</a>
+            - *# API Documentation
+    
+    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\metasql-master\README.md">README.md</a>
+        - *# MetaSQL schema generator, migrations and query builder
+    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\metasql-master\SECURITY.md">SECURITY.md</a>
+        - *# Security Policy
+        - *## Supported Versions
+        - *## Reporting a Vulnerability

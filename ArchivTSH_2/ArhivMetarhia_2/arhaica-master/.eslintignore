@@ -1,0 +1,4 @@
+node_modules/
+config/
+applications/arhaica/static/
+server.js

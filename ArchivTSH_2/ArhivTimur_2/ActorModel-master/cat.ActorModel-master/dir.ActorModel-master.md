@@ -1,0 +1,3 @@
+- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\ActorModel-master\cat.ActorModel-master\dir.ActorModel-master.md">ActorModel-master</a>
+    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\ActorModel-master\README.md">README.md</a>
+        - *## Actor model (concurrent computation model)

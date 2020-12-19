@@ -1,0 +1,23 @@
+{
+  "contentsTable": true,
+  "files": ["test/example.js"],
+  "customLinks": {
+    "number": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "meta doc": "https://github.com/metarhia/metadoc",
+    "introspect()": "https://github.com/metarhia/metadoc#introspectnamespace-text",
+    "ExampleClass#method1()": "#prototypeclassprototypemethod1num",
+    "ExampleClass#getProp1": "#prototypeclassprototypegetprop1"
+  },
+  "prioritizedEntries": [
+    "Order2Class",
+    "Order1Class",
+    "Order1Class.prototype.order2Method",
+    "Order1Class.prototype.order1Method",
+    "methodName",
+    "noTitleFunction",
+    "typeFunction",
+    "ExampleClass"
+  ],
+  "separateTitleDescription": false,
+  "outputDir": "test/"
+}

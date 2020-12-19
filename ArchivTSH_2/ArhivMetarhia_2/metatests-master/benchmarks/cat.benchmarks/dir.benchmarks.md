@@ -1,0 +1,14 @@
+- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\metatests-master\benchmarks\cat.benchmarks\dir.benchmarks.md">benchmarks</a>
+    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\metatests-master\benchmarks\README.md">README.md</a>
+        - *# Benchmarking with metatests
+        - *## Benchmark Analysis Requirements
+        - *## Typical usage pattern
+        - *### Using `metatests` cli
+        - *### Manual creation of benchmark results
+        - *### Analysing results
+        - *## API
+        - *## CLI `metatests speed`
+        - *## CLI `metatests measure`
+        - *## `metatests.speed()`
+        - *## `metatests.measure()`
+        - *## `metatests.convertToCsv()`

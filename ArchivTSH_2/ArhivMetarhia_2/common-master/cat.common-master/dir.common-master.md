@@ -1,0 +1,296 @@
+- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\common-master\cat.common-master\dir.common-master.md">common-master</a>
+    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\common-master\CHANGELOG.md">CHANGELOG.md</a>
+        - *# Changelog
+        - *## [Unreleased][unreleased]
+        - *## [2.2.0][] - 2020-07-10
+        - *### Added
+        - *### Changed
+        - *### Fixed
+        - *## [2.1.0][] - 2019-06-18
+        - *### Added
+        - *### Fixed
+        - *## [2.0.0][] - 2019-04-26
+        - *### Added
+        - *### Changed
+        - *### Removed
+        - *### Fixed
+        - *## [1.5.0][] - 2019-04-12
+        - *### Added
+        - *## [1.4.2][] - 2019-03-28
+        - *### Fixed
+        - *## [1.4.1][] - 2019-03-27
+        - *### Fixed
+        - *## [1.4.0][] - 2019-03-27
+        - *### Added
+        - *### Fixed
+        - *## [1.3.1][] - 2019-03-26
+        - *### Fixed
+        - *## [1.3.0][] - 2019-03-22
+        - *### Added
+        - *### Fixed
+        - *## [1.2.1][] - 2018-12-11
+        - *### Fixed
+        - *## [1.2.0][] - 2018-12-07
+        - *### Added
+        - *### Deprecated
+        - *### Fixed
+        - *## [1.1.1][] - 2018-11-23
+        - *### Fixed
+        - *## [1.1.0][] - 2018-11-23
+        - *### Added
+        - *## [1.0.0][] - 2018-11-21
+        - *### Added
+    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\common-master\doc\cat.doc\dir.doc.md">doc</a>
+        - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\common-master\doc\footer.md">footer.md</a>
+            - *## Contributors
+        - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\common-master\doc\header.md">header.md</a>
+            - *# Metarhia Common Library
+            - *## Installation
+            - *## API
+    
+    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\common-master\README.md">README.md</a>
+        - *# Metarhia Common Library
+        - *## Installation
+        - *## API
+        - *### splitAt(index, array)
+        - *### shuffle(arr)
+        - *### sample(arr)
+        - *### range(from, to)
+        - *### sequence(seq\[, max\])
+        - *### last(arr)
+        - *### pushSame(arr, n, value)
+        - *### checkLogin(login, required\[, optional\])
+        - *### checkPassword(password, required\[, optional\])
+        - *### checkLoginPassword(login, password, required\[, optional\])
+        - *### class BTree
+        - *#### BTree.prototype.constructor(degree = DEFAULT\_DEGREE)
+        - *#### BTree.prototype.get(key)
+        - *#### BTree.prototype.iterator(start, finish)
+        - *#### BTree.prototype.remove(key)
+        - *#### BTree.prototype.set(key, data)
+        - *### cache()
+        - *### class Cache extends [Map][map]
+        - *#### Cache.prototype.constructor()
+        - *#### Cache.prototype.add(key, val)
+        - *#### Cache.prototype.clr(prefix\[, fn\])
+        - *#### Cache.prototype.del(key)
+        - *### falseness()
+        - *### trueness()
+        - *### emptiness()
+        - *### nop(callback)
+        - *### noop(empty, callback)
+        - *### once(\[fn\])
+        - *### unsafeCallback(args)
+        - *### safeCallback(args)
+        - *### requiredCallback(args)
+        - *### onceCallback(args)
+        - *### safeFunction(fn)
+        - *### unsafeFunction(fn)
+        - *### id(x)
+        - *### asyncId(x, callback)
+        - *### isScalar(value)
+        - *### copy(ds)
+        - *### clone(obj)
+        - *### duplicate(obj)
+        - *### getByPath(data, dataPath)
+        - *### setByPath(data, dataPath, value)
+        - *### deleteByPath(data, dataPath)
+        - *### merge(...args)
+        - *### mergeObjects(merger, ...objs)
+        - *### class Enum
+        - *#### Enum.NaE
+        - *#### Enum.from(...args)
+        - *#### Enum.prototype.constructor()
+        - *### forwardEvents(from, to\[, events\])
+        - *### emitter()
+        - *### class EnhancedEmitter extends [EventEmitter][eventemitter]
+        - *#### EnhancedEmitter.prototype.constructor()
+        - *#### EnhancedEmitter.prototype.emit(...args)
+        - *#### EnhancedEmitter.prototype.forward(to, events)
+        - *### class Flags
+        - *#### Flags.from(...args)
+        - *#### Flags.prototype.constructor(...args)
+        - *### partial(fn, ...args)
+        - *### omap(mapFn, obj)
+        - *### compose(...fns)
+        - *### maybe(fn, defVal\[, value\])
+        - *### zip(...arrays)
+        - *### replicate(count, elem)
+        - *### zipWith(fn, ...arrays)
+        - *### curryUntil(condition, fn, ...args)
+        - *### curryN(fn, count, ...args)
+        - *### curryTwice(fn)
+        - *### curry(fn, ...param)
+        - *### applyArgs(...args)
+        - *### either(fn)
+        - *### restLeft(fn)
+        - *### mkdirp(dir, mode, cb)
+        - *### mkdirpPromise(dir, mode = MKDIRP\_DEFAULT\_MODE)
+        - *### rmdirp(dir, cb)
+        - *### rmRecursive(path, callback)
+        - *### async rmRecursivePromise(path)
+        - *### generateKey(length, possible)
+        - *### generateGUID()
+        - *### generateToken(secret, characters, length)
+        - *### crcToken(secret, key)
+        - *### validateToken(secret, token)
+        - *### hash(password, salt)
+        - *### validateHash(hashValue, password, salt)
+        - *### generateStorageKey()
+        - *### idToChunks(id)
+        - *### idToPath(id)
+        - *### pathToId(path)
+        - *### class Int64
+        - *#### Int64.add(a, b)
+        - *#### Int64.and(a, b)
+        - *#### Int64.cmp(a, b)
+        - *#### Int64.div(a, b)
+        - *#### Int64.mod(a, b)
+        - *#### Int64.mult(a, b)
+        - *#### Int64.not(a)
+        - *#### Int64.one()
+        - *#### Int64.or(a, b)
+        - *#### Int64.shiftLeft(a, b)
+        - *#### Int64.shiftRight(a, b)
+        - *#### Int64.sub(a, b)
+        - *#### Int64.xor(a, b)
+        - *#### Int64.zero()
+        - *#### Int64.prototype.constructor(value)
+        - *#### Int64.prototype.add(b)
+        - *#### Int64.prototype.and(b)
+        - *#### Int64.prototype.dec()
+        - *#### Int64.prototype.inc()
+        - *#### Int64.prototype.not()
+        - *#### Int64.prototype.or(b)
+        - *#### Int64.prototype.shiftLeft(b)
+        - *#### Int64.prototype.shiftRight(b)
+        - *#### Int64.prototype.shiftRightArithmetic(b)
+        - *#### Int64.prototype.shiftRightLogical(b)
+        - *#### Int64.prototype.sub(b)
+        - *#### Int64.prototype.toInt32()
+        - *#### Int64.prototype.toJSON()
+        - *#### Int64.prototype.toPostgres()
+        - *#### Int64.prototype.toString(radix = 10)
+        - *#### Int64.prototype.toUint32()
+        - *#### Int64.prototype.xor(b)
+        - *### class Iterator
+        - *#### Iterator.range(start, stop\[, step\])
+        - *#### Iterator.zip(...iterators)
+        - *#### Iterator.prototype.constructor(base)
+        - *#### Iterator.prototype.apply(fn)
+        - *#### Iterator.prototype.chain(...iterators)
+        - *#### Iterator.prototype.chainApply(fn)
+        - *#### Iterator.prototype.collectTo(CollectionClass)
+        - *#### Iterator.prototype.collectWith(obj, collector)
+        - *#### Iterator.prototype.count()
+        - *#### Iterator.prototype.each(fn, thisArg)
+        - *#### Iterator.prototype.enumerate()
+        - *#### Iterator.prototype.every(predicate, thisArg)
+        - *#### Iterator.prototype.filter(predicate, thisArg)
+        - *#### Iterator.prototype.filterMap(mapper\[, thisArg\[, filterValue\]\])
+        - *#### Iterator.prototype.find(predicate, thisArg)
+        - *#### Iterator.prototype.findCompare(comparator\[, accessor\[, thisArg\]\])
+        - *#### Iterator.prototype.flat(depth = 1)
+        - *#### Iterator.prototype.flatMap(mapper, thisArg)
+        - *#### Iterator.prototype.forEach(fn, thisArg)
+        - *#### Iterator.prototype.groupBy(classifier\[, thisArg\])
+        - *#### Iterator.prototype.includes(element)
+        - *#### Iterator.prototype.join(sep = ', ', prefix = '', suffix = '')
+        - *#### Iterator.prototype.map(mapper, thisArg)
+        - *#### Iterator.prototype.max(\[accessor\[, thisArg\]\])
+        - *#### Iterator.prototype.min(\[accessor\[, thisArg\]\])
+        - *#### Iterator.prototype.next()
+        - *#### Iterator.prototype.partition(predicate\[, thisArg\])
+        - *#### Iterator.prototype.reduce(reducer, initialValue)
+        - *#### Iterator.prototype.skip(amount)
+        - *#### Iterator.prototype.skipWhile(predicate, thisArg)
+        - *#### Iterator.prototype.some(predicate, thisArg)
+        - *#### Iterator.prototype.someCount(predicate, count, thisArg)
+        - *#### Iterator.prototype.take(amount)
+        - *#### Iterator.prototype.takeWhile(predicate, thisArg)
+        - *#### Iterator.prototype.toArray()
+        - *#### Iterator.prototype.toObject()
+        - *#### Iterator.prototype.zip(...iterators)
+        - *### iter(base)
+        - *### iterEntries(obj)
+        - *### iterKeys(obj)
+        - *### iterValues(obj)
+        - *### cryptoPrefetcher(bufSize, valueSize)
+        - *### random(min, max)
+        - *### cryptoRandom()
+        - *### methods(iface)
+        - *### properties(iface)
+        - *### ipToInt(\[ip\])
+        - *### localIPs()
+        - *### parseHost(host)
+        - *### override(obj, fn)
+        - *### mixin(target, source)
+        - *### class Pool
+        - *#### Pool.prototype.constructor(factory = null)
+        - *#### Pool.prototype.get()
+        - *#### Pool.prototype.put(value)
+        - *### sortComparePriority(priority, s1, s2)
+        - *### sortCompareDirectories(a, b)
+        - *### sortCompareByName(a, b)
+        - *### class MemoryWritable extends [Writable][writable]
+        - *#### MemoryWritable.prototype.constructor(\[sizeLimit\])
+        - *#### async MemoryWritable.prototype.getData(\[encoding\])
+        - *### subst(tpl, data, dataPath, escapeHtml)
+        - *### htmlEscape(content)
+        - *### fileExt(fileName)
+        - *### removeExt(fileName)
+        - *### spinalToCamel(name)
+        - *### escapeRegExp(s)
+        - *### newEscapedRegExp(s)
+        - *### addTrailingSlash(s)
+        - *### stripTrailingSlash(s)
+        - *### dirname(filePath)
+        - *### capitalize(s)
+        - *### between(s, prefix, suffix)
+        - *### removeBOM(s)
+        - *### arrayRegExp(items)
+        - *### section(s, separator)
+        - *### rsection(s, separator)
+        - *### split(s\[, separator\[, limit\]\])
+        - *### rsplit(s\[, separator\[, limit\]\])
+        - *### normalizeEmail(email)
+        - *### isTimeEqual(time1, time2)
+        - *### nowDate(\[date\])
+        - *### nowDateTime(\[date\])
+        - *### class Uint64
+        - *#### Uint64.add(a, b)
+        - *#### Uint64.and(a, b)
+        - *#### Uint64.cmp(a, b)
+        - *#### Uint64.div(a, b)
+        - *#### Uint64.mod(a, b)
+        - *#### Uint64.mult(a, b)
+        - *#### Uint64.not(a)
+        - *#### Uint64.or(a, b)
+        - *#### Uint64.shiftLeft(a, b)
+        - *#### Uint64.shiftRight(a, b)
+        - *#### Uint64.sub(a, b)
+        - *#### Uint64.xor(a, b)
+        - *#### Uint64.prototype.constructor(value)
+        - *#### Uint64.prototype.add(b)
+        - *#### Uint64.prototype.and(b)
+        - *#### Uint64.prototype.dec()
+        - *#### Uint64.prototype.inc()
+        - *#### Uint64.prototype.not()
+        - *#### Uint64.prototype.or(b)
+        - *#### Uint64.prototype.shiftLeft(b)
+        - *#### Uint64.prototype.shiftRight(b)
+        - *#### Uint64.prototype.sub(b)
+        - *#### Uint64.prototype.toJSON()
+        - *#### Uint64.prototype.toPostgres()
+        - *#### Uint64.prototype.toString(radix = 10)
+        - *#### Uint64.prototype.toUint32()
+        - *#### Uint64.prototype.xor(b)
+        - *### duration(s)
+        - *### durationToString(n)
+        - *### bytesToSize(bytes)
+        - *### sizeToBytes(size)
+        - *### safe(fn)
+        - *### captureMaxStack()
+        - *### callerFilename(depth = 0, stack = null)
+        - *### callerFilepath(depth = 0, stack = null)
+        - *## Contributors

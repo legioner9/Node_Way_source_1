@@ -1,0 +1,6 @@
+- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\namespace-master\cat.namespace-master\dir.namespace-master.md">namespace-master</a>
+    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\namespace-master\README.md">README.md</a>
+        - *# High stable namespace registry
+        - *## Installation
+        - *## Objects to store in namespace
+        - *## Contributors

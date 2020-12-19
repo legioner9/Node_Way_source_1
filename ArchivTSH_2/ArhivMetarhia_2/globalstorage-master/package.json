@@ -1,0 +1,71 @@
+{
+  "name": "globalstorage",
+  "version": "0.9.1",
+  "author": "Timur Shemsedinov <timur.shemsedinov@gmail.com>",
+  "description": "Global Storage is a Global Distributed Data Warehouse",
+  "license": "MIT",
+  "keywords": [
+    "database",
+    "storage",
+    "global",
+    "warehouse",
+    "metarhia",
+    "impress",
+    "distributed",
+    "dbms"
+  ],
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/metarhia/globalstorage"
+  },
+  "main": "gs.js",
+  "browser": {
+    "./gs.js": "./dist/gs.js",
+    "./dist/lib/fs.cursor.js": false,
+    "./dist/lib/fs.provider.js": false,
+    "./dist/lib/pg.provider.js": false
+  },
+  "files": [
+    "lib/",
+    "dist/",
+    "schemas/",
+    "sql/"
+  ],
+  "scripts": {
+    "test": "npm run lint && metatests test/",
+    "lint": "eslint . --ignore-path .gitignore && prettier -c \"**/*.js\" \"**/*.json\" \"**/*.md\" \".*rc\" \"**/*.yml\"",
+    "fmt": "prettier --write \"**/*.js\" \"**/*.json\" \"**/*.md\" \".*rc\" \"**/*.yml\"",
+    "doc": "metadoc",
+    "build": "babel gs.js -d dist && babel lib -d dist/lib",
+    "prepublish": "npm run -s build"
+  },
+  "engines": {
+    "node": ">=8.3.0"
+  },
+  "dependencies": {
+    "@metarhia/common": "^2.1.0",
+    "@metarhia/jstp": "^2.3.0",
+    "@metarhia/sql": "^0.1.0",
+    "mdsf": "^1.1.1",
+    "metaschema": "^0.4.0",
+    "pg": "^7.11.0"
+  },
+  "optionalDependencies": {
+    "mkdirp": "^0.5.1"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.4.4",
+    "@babel/core": "^7.4.5",
+    "@babel/preset-env": "^7.4.5",
+    "@metarhia/doc": "^0.5.6",
+    "eslint": "^6.0.1",
+    "eslint-config-metarhia": "^7.0.0",
+    "eslint-config-prettier": "^6.0.0",
+    "eslint-plugin-import": "^2.18.0",
+    "eslint-plugin-prettier": "^3.1.0",
+    "metasync": "^0.3.31",
+    "metatests": "^0.7.0",
+    "prettier": "1.18.x"
+  }
+}
