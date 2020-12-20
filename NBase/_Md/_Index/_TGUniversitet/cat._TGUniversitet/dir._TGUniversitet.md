@@ -326,6 +326,20 @@
                         - *## Examples of loop structure
                         - *## Examples nested loop
                 
+                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\++Основы_программирования\3. Базовые алгоритмические структуры\_Контрольные мероприятия\cat._Контрольные мероприятия\dir._Контрольные мероприятия.md">_Контрольные мероприятия</a>
+                    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\++Основы_программирования\3. Базовые алгоритмические структуры\_Контрольные мероприятия\решения\cat.решения\dir.решения.md">решения</a>
+                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\++Основы_программирования\3. Базовые алгоритмические структуры\_Контрольные мероприятия\решения\Assignment.md">Assignment.md</a>
+                            - *# Практическое задание 1
+                            - *## Задание 1.1
+                            - *## Задание 1.2
+                            - *## Задание 1.3
+                            - *## My Assgnments
+                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\++Основы_программирования\3. Базовые алгоритмические структуры\_Контрольные мероприятия\решения\Solutions.md">Solutions.md</a>
+                            - *# My Assgnments
+                            - *## Задание 1.1
+                            - *@@ Практическое_задание/titul_prakt_zadanie.docx
+                    
+                
             
         
         - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\cat.__DONE\dir.__DONE.md">__DONE</a>
