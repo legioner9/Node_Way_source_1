@@ -141,7 +141,9 @@
                 - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\++Основы_программирования\3. Базовые алгоритмические структуры\_Контрольные мероприятия\решения\Solutions.md">Solutions.md</a>
                     - *# My Assgnments
                     - *## Задание 1.1
-                    - *@@ Практическое_задание/titul_prakt_zadanie.docx
+                    - *## Задание 1.2
+                    - *## Задание 1.3
+                    - *@@ <a href="NBase/_Md/_Index/_TGUniversitet/I_kurs/++Основы_программирования/3. Базовые алгоритмические структуры/_Контрольные мероприятия/решения/mail/Суворин_задание_1.docx">Суворин_задание_1.docx</a>
             
         
     

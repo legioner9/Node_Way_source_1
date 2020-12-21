@@ -27,6 +27,11 @@
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/Education_Store/S_0/learn_to_lesson.html" beforeDir="false" afterPath="$PROJECT_DIR$/Education/Education_Store/S_0/learn_to_lesson.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/++Основы_программирования/3. Базовые алгоритмические структуры/_Контрольные мероприятия/решения/Solutions.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/++Основы_программирования/3. Базовые алгоритмические структуры/_Контрольные мероприятия/решения/Solutions.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/++Основы_программирования/Issue_for_this/_code_3/1.1_solution/1.1_solution/.vs/1.1_solution/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/++Основы_программирования/Issue_for_this/_code_3/1.1_solution/1.1_solution/.vs/1.1_solution/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/++Основы_программирования/Issue_for_this/_code_3/1.1_solution/1.1_solution/.vs/1.1_solution/v16/Browse.VC.db" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/++Основы_программирования/Issue_for_this/_code_3/1.1_solution/1.1_solution/.vs/1.1_solution/v16/Browse.VC.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_WebJS/Containers/Point_learn/event_loop/youtube/Jake_Archibald.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_WebJS/Containers/Point_learn/event_loop/youtube/Jake_Archibald.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,22 +157,22 @@
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="kite.configurable" />
     <property name="settings.editor.splitter.proportion" value="0.23273855" />
-    <property name="ts.external.directory.path" value="D:\Program Files\JetBrains\IntelliJ IDEA 2020.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains_\IntelliJ IDEA 2020.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\Node_projects\Node_Way\Jobs\CataloguerFs\CreateCatalog\AFP5_0.1_ctlg_1_to_2.v.4\Examples\cleare\DIR_root\dir_1" />
-      <recent name="E:\Node_projects\Node_Way\Jobs\AnliticsFs\ObjectAnalitics\AFP5_0.1_object_mod_1\_Examples\cleare\DIR" />
-      <recent name="E:\Node_projects\Node_Way\Jobs\Base\Treat_gov\GB.v.1\AFP5_0.1_govBase_all_to_json" />
-      <recent name="E:\Node_projects\Node_Way\node_modules\st_fs\ConstructFs\FsCreate\writeFileSync\Examples\1" />
-      <recent name="E:\Node_projects\Node_Way\node_modules\st_doc1\nodejs.org_DOCS\__\_" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\Node_projects\Node_Way\NBase" />
       <recent name="E:\Node_projects\Node_Way" />
       <recent name="E:\Node_projects\Node_Way\Jobs\CataloguerFs\CreateCatalog" />
       <recent name="E:\Node_projects\Node_Way\Jobs\CataloguerFs\CreateCatalog\AFP5_0.1_ctlg_1_to_2.v.0.1.5\Examples\cleare\DIR_root\cat.DIR_root" />
       <recent name="E:\Node_projects\Node_Way\Jobs\CataloguerFs\CreateCatalog\AFP5_0.1_ctlg_1_to_2.v.0.1.5" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Node_projects\Node_Way\Jobs\CataloguerFs\CreateCatalog\AFP5_0.1_ctlg_1_to_2.v.4\Examples\cleare\DIR_root\dir_1" />
+      <recent name="E:\Node_projects\Node_Way\Jobs\AnliticsFs\ObjectAnalitics\AFP5_0.1_object_mod_1\_Examples\cleare\DIR" />
+      <recent name="E:\Node_projects\Node_Way\Jobs\Base\Treat_gov\GB.v.1\AFP5_0.1_govBase_all_to_json" />
+      <recent name="E:\Node_projects\Node_Way\node_modules\st_fs\ConstructFs\FsCreate\writeFileSync\Examples\1" />
+      <recent name="E:\Node_projects\Node_Way\node_modules\st_doc1\nodejs.org_DOCS\__\_" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.test_ini_module.js (3)">
@@ -453,6 +458,7 @@
       <workItem from="1608260614293" duration="5362000" />
       <workItem from="1608274672171" duration="3848000" />
       <workItem from="1608315384325" duration="21498000" />
+      <workItem from="1608568781242" duration="2757000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
@@ -1080,10 +1086,10 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="151" y="91" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1605848299820" />
-    <state x="1735" y="23" width="818" height="989" key="dock-window-1" timestamp="1608360436334">
+    <state x="1554" y="13" width="867" height="855" key="dock-window-1" timestamp="1608572336382">
       <screen x="1440" y="0" width="1280" height="1024" />
     </state>
-    <state x="1735" y="23" width="818" height="989" key="dock-window-1/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1608360436334" />
+    <state x="1554" y="13" width="867" height="855" key="dock-window-1/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1608572336382" />
     <state x="1497" y="157" width="819" height="752" key="dock-window-10" timestamp="1603162358034">
       <screen x="1440" y="0" width="1280" height="1024" />
     </state>

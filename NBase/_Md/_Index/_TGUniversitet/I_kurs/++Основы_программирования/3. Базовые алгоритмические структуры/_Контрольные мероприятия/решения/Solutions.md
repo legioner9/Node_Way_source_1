@@ -31,4 +31,28 @@
         return 0;
     }
 
-@@ _Контрольные мероприятия\решения\mail\Суворин_задание_1.docx
+## Задание 1.2
+
+not check
+
+    #include <iostream>
+    using namespace std;
+
+    int main()
+    {
+    double a,b,c;
+    cin>>a>>b>>c;
+
+    if(a>=0) a=a*a;
+    if(b>=0) b=b*b;
+    if(c>=0) c=c*c;
+
+    cout<< "\n a="<<a<<"\n b="<<b<<"\n c="<<c;
+
+    system("pause");
+    return 0;
+    }
+
+## Задание 1.3
+
+@@ <a href="NBase/_Md/_Index/_TGUniversitet/I_kurs/++Основы_программирования/3. Базовые алгоритмические структуры/_Контрольные мероприятия/решения/mail/Суворин_задание_1.docx">Суворин_задание_1.docx</a>
