@@ -391,7 +391,8 @@
 <p><strong><a href="https://ravesli.com/praktika-chast-14/" target="_blank" rel="noopener noreferrer">Часть №14: Практические задания по С++</a></strong></p>
 <p><strong><a href="https://ravesli.com/praktika-chast-15/" target="_blank" rel="noopener noreferrer">Часть №15: Практические задания по С++</a></strong></p>
 <p><strong><a href="https://ravesli.com/praktika-chast-16/" target="_blank" rel="noopener noreferrer">Часть №16: Практические задания по С++</a></strong></p>
-<p><strong><a href="https://ravesli.com/praktika-chast-17/" target="_blank" rel="noopener noreferrer">Часть №17: Практические задания по С++</a></strong></p>
+<p><strong><a href="https://ravesli.
+com/praktika-chast-17/" target="_blank" rel="noopener noreferrer">Часть №17: Практические задания по С++</a></strong></p>
 <p><strong><a href="https://ravesli.com/praktika-chast-18/" target="_blank" rel="noopener noreferrer">Часть №18: Практические задания по С++</a></strong></p>
 <p><strong><a href="https://ravesli.com/praktika-chast-19/" target="_blank" rel="noopener noreferrer">Часть №19: Практические задания по С++</a></strong></p>
 <p><strong><a href="https://ravesli.com/praktika-chast-20/" target="_blank" rel="noopener noreferrer">Часть №20: Практические задания по С++</a></strong></p>
