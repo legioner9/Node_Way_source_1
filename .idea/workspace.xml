@@ -27,11 +27,20 @@
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Education_Store/S_0/learn_to_lesson.html" beforeDir="false" afterPath="$PROJECT_DIR$/Education/Education_Store/S_0/learn_to_lesson.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/Part_1.md" beforeDir="false" afterPath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/Part_1.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/++Основы_программирования/3. Базовые алгоритмические структуры/_Контрольные мероприятия/решения/Solutions.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/++Основы_программирования/3. Базовые алгоритмические структуры/_Контрольные мероприятия/решения/Solutions.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/++Основы_программирования/Issue_for_this/_code_3/1.1_solution/1.1_solution/.vs/1.1_solution/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/++Основы_программирования/Issue_for_this/_code_3/1.1_solution/1.1_solution/.vs/1.1_solution/v16/.suo" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/++Основы_программирования/Issue_for_this/_code_3/1.1_solution/1.1_solution/.vs/1.1_solution/v16/Browse.VC.db" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/++Основы_программирования/Issue_for_this/_code_3/1.1_solution/1.1_solution/.vs/1.1_solution/v16/Browse.VC.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_WebJS/Containers/Point_learn/event_loop/youtube/Jake_Archibald.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_WebJS/Containers/Point_learn/event_loop/youtube/Jake_Archibald.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/++Основы_программирования/Issue_for_this/_code_3/1.1_solution/1.1_solution/.vs/1.1_solution/v16/ipch/AutoPCH/84132c2c7939c68a/1.1_SOLUTION.ipch" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/++Основы_программирования/Issue_for_this/_code_3/1.1_solution/1.1_solution/.vs/1.1_solution/v16/ipch/AutoPCH/84132c2c7939c68a/1.1_SOLUTION.ipch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/++Основы_программирования/Issue_for_this/_code_3/1.1_solution/1.1_solution/1.1_solution.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/++Основы_программирования/Issue_for_this/_code_3/1.1_solution/1.1_solution/1.1_solution.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/++Основы_программирования/Issue_for_this/_code_3/1.1_solution/1.1_solution/Debug/1.1_solution.exe" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/++Основы_программирования/Issue_for_this/_code_3/1.1_solution/1.1_solution/Debug/1.1_solution.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/++Основы_программирования/Issue_for_this/_code_3/1.1_solution/1.1_solution/Debug/1.1_solution.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/++Основы_программирования/Issue_for_this/_code_3/1.1_solution/1.1_solution/Debug/1.1_solution.ilk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/++Основы_программирования/Issue_for_this/_code_3/1.1_solution/1.1_solution/Debug/1.1_solution.obj" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/++Основы_программирования/Issue_for_this/_code_3/1.1_solution/1.1_solution/Debug/1.1_solution.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/++Основы_программирования/Issue_for_this/_code_3/1.1_solution/1.1_solution/Debug/1.1_solution.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/++Основы_программирования/Issue_for_this/_code_3/1.1_solution/1.1_solution/Debug/1.1_solution.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/++Основы_программирования/Issue_for_this/_code_3/1.1_solution/1.1_solution/Debug/vc142.idb" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/++Основы_программирования/Issue_for_this/_code_3/1.1_solution/1.1_solution/Debug/vc142.idb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/++Основы_программирования/Issue_for_this/_code_3/1.1_solution/1.1_solution/Debug/vc142.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/++Основы_программирования/Issue_for_this/_code_3/1.1_solution/1.1_solution/Debug/vc142.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_WebJS/Containers/Point_learn/event_loop/youtube/_src/1.html" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_WebJS/Containers/Point_learn/event_loop/youtube/_src/1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tmp/last_commit.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Tmp/last_commit.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -458,7 +467,8 @@
       <workItem from="1608260614293" duration="5362000" />
       <workItem from="1608274672171" duration="3848000" />
       <workItem from="1608315384325" duration="21498000" />
-      <workItem from="1608568781242" duration="2757000" />
+      <workItem from="1608568781242" duration="3624000" />
+      <workItem from="1608800030728" duration="30000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>

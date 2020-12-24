@@ -33,26 +33,42 @@
 
 ## Задание 1.2
 
-not check
+check will 
 
     #include <iostream>
+    #include <clocale>
     using namespace std;
 
     int main()
     {
-    double a,b,c;
-    cin>>a>>b>>c;
+        double a, b, c;
+        setlocale(LC_CTYPE, "rus");
 
-    if(a>=0) a=a*a;
-    if(b>=0) b=b*b;
-    if(c>=0) c=c*c;
+        cout << "\nЗадание 5 Даны три действительных числа a, b и c.\n Возвести в квадрат те из них, значения которых неотрицательны \n"; 
 
-    cout<< "\n a="<<a<<"\n b="<<b<<"\n c="<<c;
+        cout << "\nвведите a\n";
+        cin >> a;
+        cout << "\nвведите b\n";
+        cin >> b;
+        cout << "\nвведите c\n";
+        cin >> c;
+        // cin >> a >> b >> c;
 
-    system("pause");
-    return 0;
+        if (a >= 0) { a = a * a; }
+        else { cout << "\n a меньше 0 и не будет возведено в квадрат \n"; }
+        if (b >= 0) { b = b * b; }
+        else { cout << "\n b меньше 0 и не будет возведено в квадрат \n"; }
+        if (c >= 0) { c = c * c; }
+        else { cout << "\n c меньше 0 и не будет возведено в квадрат \n"; }
+
+        cout << "Решение \n a=" << a << "\n b=" << b << "\n c=" << c << "\n";
+
+        system("pause"); 
+        return 0;
     }
 
 ## Задание 1.3
+
+
 
 @@ <a href="NBase/_Md/_Index/_TGUniversitet/I_kurs/++Основы_программирования/3. Базовые алгоритмические структуры/_Контрольные мероприятия/решения/mail/Суворин_задание_1.docx">Суворин_задание_1.docx</a>
