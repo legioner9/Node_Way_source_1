@@ -27,7 +27,107 @@
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tmp/last_commit.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Tmp/last_commit.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_C++/Containers/Intro_to_this/ravesli.com/Head_set_3.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_C++/Containers/Intro_to_this/ravesli.com/Head_set_3.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_C++/Containers/Intro_to_this/ravesli.com/cloneFileToDir_in_num_2_3_level_src_1.js" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_C++/Containers/Intro_to_this/ravesli.com/cloneFileToDir_in_num_2_3_level_src_1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_C++/Containers/Intro_to_this/ravesli.com/treat_headers/1 copy 3.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_C++/Containers/Intro_to_this/ravesli.com/treat_headers/1 copy 3.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/1.level_2A_,_csc.dir/1.level_2A_,_csc.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/1.level_2A_,_csc.dir/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/1.level_2A_,_csc.dir/_src/1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/1.level_2A_,_csc.dir/_src/1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/1.level_2A_,_csc.dir/_src/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/1.level_2A_,_csc.dir/www/_src/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/1.level_2A_,_csc.dir/www/www.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/2.level_2B.dir/2.1.level_3A_,,vc.dir/2.1.level_3A_,,vc.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/2.level_2B.dir/2.1.level_3A_,,vc.dir/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/2.level_2B.dir/2.1.level_3A_,,vc.dir/_src/1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/2.level_2B.dir/2.1.level_3A_,,vc.dir/_src/1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/2.level_2B.dir/2.1.level_3A_,,vc.dir/_src/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/2.level_2B.dir/2.1.level_3A_,,vc.dir/www/_src/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/2.level_2B.dir/2.1.level_3A_,,vc.dir/www/www.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/2.level_2B.dir/2.2.level_3B.dir/2.2.level_3B.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/2.level_2B.dir/2.2.level_3B.dir/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/2.level_2B.dir/2.2.level_3B.dir/_src/1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/2.level_2B.dir/2.2.level_3B.dir/_src/1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/2.level_2B.dir/2.2.level_3B.dir/_src/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/2.level_2B.dir/2.2.level_3B.dir/www/_src/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/2.level_2B.dir/2.2.level_3B.dir/www/www.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/2.level_2B.dir/2.level_2B.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/2.level_2B.dir/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/2.level_2B.dir/_src/1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/2.level_2B.dir/_src/1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/2.level_2B.dir/_src/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/2.level_2B.dir/www/_src/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/2.level_2B.dir/www/www.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/3.level_2C.dir/3.1.level_3A.dir/3.1.level_3A.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/3.level_2C.dir/3.1.level_3A.dir/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/3.level_2C.dir/3.1.level_3A.dir/_src/1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/3.level_2C.dir/3.1.level_3A.dir/_src/1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/3.level_2C.dir/3.1.level_3A.dir/_src/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/3.level_2C.dir/3.1.level_3A.dir/www/_src/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/3.level_2C.dir/3.1.level_3A.dir/www/www.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/3.level_2C.dir/3.2.level_3B.dir/3.2.level_3B.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/3.level_2C.dir/3.2.level_3B.dir/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/3.level_2C.dir/3.2.level_3B.dir/_src/1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/3.level_2C.dir/3.2.level_3B.dir/_src/1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/3.level_2C.dir/3.2.level_3B.dir/_src/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/3.level_2C.dir/3.2.level_3B.dir/www/_src/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/3.level_2C.dir/3.2.level_3B.dir/www/www.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/3.level_2C.dir/3.level_2C.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/3.level_2C.dir/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/3.level_2C.dir/_src/1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/3.level_2C.dir/_src/1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/3.level_2C.dir/_src/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/3.level_2C.dir/www/_src/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/3.level_2C.dir/www/www.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Test/1.level_2A.dir/1.level_2A.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Test/1.level_2A.dir/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Test/1.level_2A.dir/_src/1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Test/1.level_2A.dir/_src/1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Test/1.level_2A.dir/_src/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Test/1.level_2A.dir/www/_src/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Test/1.level_2A.dir/www/www.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Test/2.level_2B.dir/2.1.level_3A.dir/2.1.level_3A.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Test/2.level_2B.dir/2.1.level_3A.dir/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Test/2.level_2B.dir/2.1.level_3A.dir/_src/1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Test/2.level_2B.dir/2.1.level_3A.dir/_src/1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Test/2.level_2B.dir/2.1.level_3A.dir/_src/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Test/2.level_2B.dir/2.1.level_3A.dir/www/_src/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Test/2.level_2B.dir/2.1.level_3A.dir/www/www.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Test/2.level_2B.dir/2.2.level_3B.dir/2.2.level_3B.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Test/2.level_2B.dir/2.2.level_3B.dir/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Test/2.level_2B.dir/2.2.level_3B.dir/_src/1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Test/2.level_2B.dir/2.2.level_3B.dir/_src/1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Test/2.level_2B.dir/2.2.level_3B.dir/_src/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Test/2.level_2B.dir/2.2.level_3B.dir/www/_src/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Test/2.level_2B.dir/2.2.level_3B.dir/www/www.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Test/2.level_2B.dir/2.level_2B.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Test/2.level_2B.dir/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Test/2.level_2B.dir/_src/1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Test/2.level_2B.dir/_src/1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Test/2.level_2B.dir/_src/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Test/2.level_2B.dir/www/_src/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Test/2.level_2B.dir/www/www.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Test/3.level_2C.dir/3.1.level_3A.dir/3.1.level_3A.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Test/3.level_2C.dir/3.1.level_3A.dir/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Test/3.level_2C.dir/3.1.level_3A.dir/_src/1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Test/3.level_2C.dir/3.1.level_3A.dir/_src/1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Test/3.level_2C.dir/3.1.level_3A.dir/_src/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Test/3.level_2C.dir/3.1.level_3A.dir/www/_src/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Test/3.level_2C.dir/3.1.level_3A.dir/www/www.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Test/3.level_2C.dir/3.2.level_3B.dir/3.2.level_3B.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Test/3.level_2C.dir/3.2.level_3B.dir/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Test/3.level_2C.dir/3.2.level_3B.dir/_src/1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Test/3.level_2C.dir/3.2.level_3B.dir/_src/1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Test/3.level_2C.dir/3.2.level_3B.dir/_src/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Test/3.level_2C.dir/3.2.level_3B.dir/www/_src/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Test/3.level_2C.dir/3.2.level_3B.dir/www/www.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Test/3.level_2C.dir/3.level_2C.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Test/3.level_2C.dir/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Test/3.level_2C.dir/_src/1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Test/3.level_2C.dir/_src/1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Test/3.level_2C.dir/_src/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Test/3.level_2C.dir/www/_src/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Test/3.level_2C.dir/www/www.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -456,7 +556,7 @@
       <workItem from="1608315384325" duration="21498000" />
       <workItem from="1608568781242" duration="3624000" />
       <workItem from="1608800030728" duration="30000" />
-      <workItem from="1608800366335" duration="1534000" />
+      <workItem from="1608800366335" duration="2869000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
