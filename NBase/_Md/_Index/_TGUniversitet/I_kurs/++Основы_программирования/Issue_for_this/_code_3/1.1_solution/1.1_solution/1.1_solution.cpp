@@ -1,36 +1,17 @@
 // 1.1_solution.cpp : Этот файл содержит функцию "main". Здесь начинается и заканчивается выполнение программы.
 //
 
-#include <iostream>
-#include <clocale>
+# include <iostream>
 using namespace std;
 
-int main()
-{
-    double a, b, c;
-    setlocale(LC_CTYPE, "rus");
+int main() {
+	int age;
+	// output message in console
+	cout << "how old are you?\n";
+	cin >> age;
+	cout << "you are " << age << " years old\n";
+	return 0;
 
-    cout << "\nПодсчитать сумму тех значений функции f(x) = 1 + sin(2πx),\nдробная часть которых < 0.5\n"; 
-
-    cout << "\nвведите начало интервала a\n";
-    cin >> a;
-    cout << "\nвведите конец интервала b\n";
-    cin >> b;
-    cout << "\nвведите количество точек вычисления\n";
-    cin >> c;
-    // cin >> a >> b >> c;
-
-    if (a >= 0) { a = a * a; }
-    else { cout << "\n a меньше 0 и не будет возведено в квадрат \n"; }
-    if (b >= 0) { b = b * b; }
-    else { cout << "\n b меньше 0 и не будет возведено в квадрат \n"; }
-    if (c >= 0) { c = c * c; }
-    else { cout << "\n c меньше 0 и не будет возведено в квадрат \n"; }
-
-    cout << "Решение \n a=" << a << "\n b=" << b << "\n c=" << c << "\n";
-
-    system("pause"); 
-    return 0;
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
