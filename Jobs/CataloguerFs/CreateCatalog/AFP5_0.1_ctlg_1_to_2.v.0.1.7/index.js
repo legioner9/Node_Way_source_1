@@ -14,8 +14,8 @@ const Func_examp = ( obj_ctlg_1, arr_tag ) => {
 
     };
 
-    const regexp = new RegExp(extract_regExp ( arr_tag ));
-    debugger
+    const regexp = new RegExp ( extract_regExp ( arr_tag ) );
+
     // BOUNDEN CALL define inner Env
     const Env = arht_fm.at ( Func_examp );
 
@@ -167,7 +167,6 @@ const Func_examp = ( obj_ctlg_1, arr_tag ) => {
     };
 
     const add_from_dir = ( data, add ) => {
-        debugger
         let _data = '';
         const arr_add = add.split ( '\n' );
         arr_add.map ( item => {
@@ -181,7 +180,7 @@ const Func_examp = ( obj_ctlg_1, arr_tag ) => {
         return data + `- <a href = "${ path_dir_file }">${ Path.basename ( add ) }</a>\n`;
     };
 
-    const PATH_ROOT_CATALOG = Path.join ( obj_ctlg_1[0], 'div.' + Path.basename ( obj_ctlg_1[0] + '.md' ) );
+    const PATH_ROOT_CATALOG = Path.join ( obj_ctlg_1[0], 'dir.' + Path.basename ( obj_ctlg_1[0] + '.md' ) );
     const PRE_TEXT = `<a href = "${ PATH_ROOT_CATALOG }">${ Path.basename ( obj_ctlg_1[0] ) }</a>\n\n`;
 
     const path_to_href = path => `<a href = "${ path }">${ Path.basename ( path ) }</a>`;
@@ -198,8 +197,7 @@ const Func_examp = ( obj_ctlg_1, arr_tag ) => {
         const data = s_Fs.s_readFileSync ( path );
         // return data.split ( '\n' ).filter ( item => item.match ( /^#/ ) );
         return data.split ( '\n' ).filter ( item => {
-            debugger
-           return   item.match ( regexp );
+            return item.match ( regexp );
         } );
     };
 
@@ -209,7 +207,6 @@ const Func_examp = ( obj_ctlg_1, arr_tag ) => {
         if ( !bool_dir && bool_md ) {
             // const bool_cat = s_Fs.s_readFileSync ( path ).match ( '#' );
             const bool_cat = s_Fs.s_readFileSync ( path ).match ( regexp );
-            debugger
             return !!bool_cat;
         }
         else {
@@ -239,12 +236,16 @@ const Func_examp = ( obj_ctlg_1, arr_tag ) => {
 
                 if ( if_cat ( arr_i[0] ) ) {
                     from_dir = make_catalog ( arr_i, arr_0 );
-
+                    debugger
                     if ( from_dir ) {
                         from_dir.split ( '\n' ).map ( item => {
                             data_init += '    ' + item + '\n';
                         } );
                         // data = add_from_dir ( data, from_dir );
+                    }
+                    else {
+                        debugger
+                        // delete inner cat.*
                     }
                 }
             }
