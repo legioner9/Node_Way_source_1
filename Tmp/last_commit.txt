@@ -1,1 +1,1 @@
-complete s_Fs.rmdirSync
+complete delete files accodind regexp AFP5_0.1_ctlg_1_to_2.v.0.1.7

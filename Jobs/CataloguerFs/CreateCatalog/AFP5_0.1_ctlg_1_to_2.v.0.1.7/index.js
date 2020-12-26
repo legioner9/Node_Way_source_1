@@ -5,7 +5,7 @@ const arht_fm = Arht.SetArchetype.FunctionARHT.AtOut_fm;
 // const ModuleFunc = Ex.ModuleFunc
 // ModuleFunc.mode = { deb: false, log: false, debLog: false, logFs: false, stack: false};
 
-const Func_examp = ( obj_ctlg_1, arr_tag, arr_exc ) => {
+const Func_examp = ( obj_ctlg_1, arr_tag, arr_exc, delete_file_arr_regexp ) => {
 
     const extract_regExp = arr_tags => {
         const res_arr = arr_tags.map ( item => `^${ item }` );
@@ -257,13 +257,21 @@ const Func_examp = ( obj_ctlg_1, arr_tag, arr_exc ) => {
                         const delet_path_dir = Path.join ( arr_i[0], delet_name_dir );
                         s_Fs.s_rmdirSync ( delet_path_dir );
 
-                        debugger
                     }
                 }
             }
             else {
-
-                if ( if_path ( arr_i ) ) {
+                const name_file = Path.basename ( arr_i );
+                let if_delete = true; // search match for delete
+                delete_file_arr_regexp.map ( item => {
+                    const regExp = new RegExp ( item );
+                    if_delete = if_delete && !!name_file.match ( regExp );
+                } );
+                debugger
+                if ( if_delete ) {
+                    s_Fs.s_unlinkSync(arr_i); // delete
+                }
+                else if ( if_path ( arr_i ) ) {
                     const arr_content_of_file = extr_file ( arr_i );
 
                     data_init += '    - ' + path_to_href ( arr_i ) + '\n';
