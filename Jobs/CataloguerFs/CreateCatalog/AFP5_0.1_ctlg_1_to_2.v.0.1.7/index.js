@@ -5,7 +5,7 @@ const arht_fm = Arht.SetArchetype.FunctionARHT.AtOut_fm;
 // const ModuleFunc = Ex.ModuleFunc
 // ModuleFunc.mode = { deb: false, log: false, debLog: false, logFs: false, stack: false};
 
-const Func_examp = ( obj_ctlg_1, arr_tag ) => {
+const Func_examp = ( obj_ctlg_1, arr_tag, arr_exc ) => {
 
     const extract_regExp = arr_tags => {
         const res_arr = arr_tags.map ( item => `^${ item }` );
@@ -202,7 +202,8 @@ const Func_examp = ( obj_ctlg_1, arr_tag ) => {
     };
 
     const if_path = path => {
-        const bool_dir = Path.basename ( path ).split ( '.' )[0] === 'dir';
+        const first_ext = Path.basename ( path ).split ( '.' )[0];
+        let bool_dir = first_ext === 'dir';
         const bool_md = Path.extname ( path ) === '.md';
         if ( !bool_dir && bool_md ) {
             // const bool_cat = s_Fs.s_readFileSync ( path ).match ( '#' );
@@ -215,7 +216,14 @@ const Func_examp = ( obj_ctlg_1, arr_tag ) => {
     };
 
     const if_cat = path => {
-        return Path.basename ( path ).split ( '.' )[0] !== 'cat';
+        const first_ext = Path.basename ( path ).split ( '.' )[0]
+        let if_exc_dir = first_ext !== 'cat';
+
+        arr_exc.map ( item => {
+            if_exc_dir = if_exc_dir && first_ext !== item;
+        } );
+
+        return if_exc_dir
     };
 
     // END   INNER STANDARD FUNCTION BLOCK &&&&&&&&&&&&&&&&&&
