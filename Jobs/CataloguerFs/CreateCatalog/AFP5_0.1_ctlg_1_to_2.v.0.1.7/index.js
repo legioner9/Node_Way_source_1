@@ -216,14 +216,14 @@ const Func_examp = ( obj_ctlg_1, arr_tag, arr_exc ) => {
     };
 
     const if_cat = path => {
-        const first_ext = Path.basename ( path ).split ( '.' )[0]
+        const first_ext = Path.basename ( path ).split ( '.' )[0];
         let if_exc_dir = first_ext !== 'cat';
 
         arr_exc.map ( item => {
             if_exc_dir = if_exc_dir && first_ext !== item;
         } );
 
-        return if_exc_dir
+        return if_exc_dir;
     };
 
     // END   INNER STANDARD FUNCTION BLOCK &&&&&&&&&&&&&&&&&&
@@ -244,7 +244,6 @@ const Func_examp = ( obj_ctlg_1, arr_tag, arr_exc ) => {
 
                 if ( if_cat ( arr_i[0] ) ) {
                     from_dir = make_catalog ( arr_i, arr_0 );
-                    debugger
                     if ( from_dir ) {
                         from_dir.split ( '\n' ).map ( item => {
                             data_init += '    ' + item + '\n';
@@ -253,7 +252,11 @@ const Func_examp = ( obj_ctlg_1, arr_tag, arr_exc ) => {
                     }
                     else {
                         debugger
-                        // delete inner cat.*
+                        // delete cat.* inner arr_i[0]
+                        const delet_name_dir = 'cat.' + Path.basename ( arr_i[0] );
+                        const delet_path_dir = Path.join ( arr_i[0], delet_name_dir );
+                        // s_Fs.s_mkdirSync
+                        debugger
                     }
                 }
             }
