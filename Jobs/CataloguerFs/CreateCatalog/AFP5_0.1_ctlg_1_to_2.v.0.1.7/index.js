@@ -255,7 +255,8 @@ const Func_examp = ( obj_ctlg_1, arr_tag, arr_exc ) => {
                         // delete cat.* inner arr_i[0]
                         const delet_name_dir = 'cat.' + Path.basename ( arr_i[0] );
                         const delet_path_dir = Path.join ( arr_i[0], delet_name_dir );
-                        // s_Fs.s_mkdirSync
+                        s_Fs.s_rmdirSync ( delet_path_dir );
+
                         debugger
                     }
                 }

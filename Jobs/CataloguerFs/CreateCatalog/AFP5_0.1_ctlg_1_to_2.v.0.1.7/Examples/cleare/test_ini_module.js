@@ -18,8 +18,8 @@ anls.preset = { if_basename: false };
 const res = anls ( 'DIR_root' );
 
 // anlsFs_1.mode.deb = true;
-// funcExamp ( anls ( 'DIR_root' ) , arr_tag , arr_exception )
-funcExamp ( res, [ '#', '@' ], [ 'exc' ] );
+// funcExamp ( anls ( 'DIR_root' ) , arr_tag , arr_exception , delete_file_arr_regexp)
+funcExamp ( res, [ '#', '@' ], [ 'exc' ] ,['deg.*']);
 
 console.log ( '\n\nThe END __________________________ process.exit ( 0 )\n\n' );
 process.exit ( 0 );
