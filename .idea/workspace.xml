@@ -27,25 +27,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7/Examples/cleare/DIR_root/any.ext" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7/Examples/cleare/DIR_root/cat.DIR_root/dir.DIR_root.md" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7/Examples/cleare/DIR_root/cat.DIR_root/dir.DIR_root.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7/Examples/cleare/DIR_root/dir_1/any.ext" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7/Examples/cleare/DIR_root/dir_1/cat.dir_1/dir.dir_1.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7/Examples/cleare/DIR_root/dir_1/dir_1_1/any.ext" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7/Examples/cleare/DIR_root/dir_1/dir_1_1/cat.dir_1_1/dir.dir_1_1.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7/Examples/cleare/DIR_root/dir_1/dir_1_1/degreez.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7/Examples/cleare/DIR_root/dir_1/dir_1_1/file_1_1_1.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7/Examples/cleare/DIR_root/dir_1/dir_1_1/file_empty.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7/Examples/cleare/DIR_root/dir_1/file_1_1.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7/Examples/cleare/DIR_root/dir_1/file_empty.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7/Examples/cleare/DIR_root/dir_2/any.ext" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7/Examples/cleare/DIR_root/dir_2/file_empty.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7/Examples/cleare/DIR_root/file_root.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7/Examples/cleare/DIR_root/file_root_empty.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7/Examples/cleare/test_ini_module.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7/Examples/cleare/test_ini_module.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tmp/last_commit.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Tmp/last_commit.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ini_fs/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ini_fs/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -148,7 +129,7 @@
     <property name="add_unversioned_files" value="$PROJECT_DIR$/Jobs/SetGlobLoggers/ModLogger_1/Core/Logs/eLogs.txt&#10;true" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="12.18.3" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7/Examples/cleare/DIR_root/dir_1/dir_1_1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.jscs" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -175,11 +156,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Node_projects\Node_Way\Jobs\CataloguerFs\CreateCatalog" />
       <recent name="E:\Node_projects\Node_Way\Jobs\CataloguerFs\CreateCatalog\AFP5_0.1_ctlg_1_to_2.v.0.1.7\Examples\cleare\DIR_root\dir_1\dir_1_1" />
       <recent name="E:\Node_projects\Node_Way\node_modules\st_fs\ConstructFs\FsCreate" />
       <recent name="E:\Node_projects\Node_Way\Jobs\CataloguerFs\CreateCatalog\AFP5_0.1_ctlg_1_to_2.v.0.1.7\Examples\cleare\DIR_root\dir_1" />
       <recent name="E:\Node_projects\Node_Way\NBase\_Md\_Index\_C++\Containers\Intro_to_this\ravesli.com" />
-      <recent name="E:\Node_projects\Node_Way\NBase\_Md\_Index\_C++\Containers\Intro_to_this\ravesli.com\treat_headers" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Node_projects\Node_Way\Jobs\CataloguerFs\CreateCatalog\AFP5_0.1_ctlg_1_to_2.v.4\Examples\cleare\DIR_root\dir_1" />
@@ -475,7 +456,7 @@
       <workItem from="1608568781242" duration="3624000" />
       <workItem from="1608800030728" duration="30000" />
       <workItem from="1608800366335" duration="4883000" />
-      <workItem from="1608887136172" duration="22096000" />
+      <workItem from="1608887136172" duration="26689000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
