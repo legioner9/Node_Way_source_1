@@ -27,6 +27,38 @@
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/IlKan/cat.IlKan/dir.IlKan.md" beforeDir="false" afterPath="$PROJECT_DIR$/Education/IlKan/cat.IlKan/dir.IlKan.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/cat.Part_1/dir.Part_1.md" beforeDir="false" afterPath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/cat.Part_1/dir.Part_1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/cat.js.ru/dir.js.ru.md" beforeDir="false" afterPath="$PROJECT_DIR$/Education/IlKan/js.ru/cat.js.ru/dir.js.ru.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/cat.Education/dir.Education.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/cat.Education/dir.Education.md" beforeDir="false" afterPath="$PROJECT_DIR$/Education/cat.Education/dir.Education.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_C++/Containers/Intro_to_this/Vasiliev/1.Основы_языка_C++_...12.dir/cat.1.Основы_языка_C++_...12.dir/dir.1.Основы_языка_C++_...12.dir.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_C++/Containers/Intro_to_this/Vasiliev/1.Основы_языка_C++_...12.dir/cat.1.Основы_языка_C++_...12.dir/dir.1.Основы_языка_C++_...12.dir.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_C++/Containers/Intro_to_this/Vasiliev/cat.Vasiliev/dir.Vasiliev.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_C++/Containers/Intro_to_this/Vasiliev/cat.Vasiliev/dir.Vasiliev.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_C++/Containers/Intro_to_this/cat.Intro_to_this/dir.Intro_to_this.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_C++/Containers/Intro_to_this/cat.Intro_to_this/dir.Intro_to_this.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_C++/Containers/cat.Containers/dir.Containers.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_C++/Containers/cat.Containers/dir.Containers.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_C++/cat._C++/dir._C++.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_C++/cat._C++/dir._C++.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/__DONE/++Архитектура_компьютеров_и_операционные_системы/1. Архитектура электронно-вычислительной машины/cat.1. Архитектура электронно-вычислительной машины/dir.1. Архитектура электронно-вычислительной машины.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/__DONE/++Архитектура_компьютеров_и_операционные_системы/1. Архитектура электронно-вычислительной машины/cat.1. Архитектура электронно-вычислительной машины/dir.1. Архитектура электронно-вычислительной машины.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/__DONE/++Архитектура_компьютеров_и_операционные_системы/2. Программное обеспечение персонального компьютера/cat.2. Программное обеспечение персонального компьютера/dir.2. Программное обеспечение персонального компьютера.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/__DONE/++Архитектура_компьютеров_и_операционные_системы/2. Программное обеспечение персонального компьютера/cat.2. Программное обеспечение персонального компьютера/dir.2. Программное обеспечение персонального компьютера.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/__DONE/++Архитектура_компьютеров_и_операционные_системы/3. Операционные системы, их виды и функциональные характеристики/cat.3. Операционные системы, их виды и функциональные характеристики/dir.3. Операционные системы, их виды и функциональные характеристики.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/__DONE/++Архитектура_компьютеров_и_операционные_системы/3. Операционные системы, их виды и функциональные характеристики/cat.3. Операционные системы, их виды и функциональные характеристики/dir.3. Операционные системы, их виды и функциональные характеристики.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/__DONE/++Архитектура_компьютеров_и_операционные_системы/3. Операционные системы, их виды и функциональные характеристики/partyka_conspect/cat.partyka_conspect/dir.partyka_conspect.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/__DONE/++Архитектура_компьютеров_и_операционные_системы/3. Операционные системы, их виды и функциональные характеристики/partyka_conspect/cat.partyka_conspect/dir.partyka_conspect.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/__DONE/++Архитектура_компьютеров_и_операционные_системы/4. Операционная система, среда и оболочка/cat.4. Операционная система, среда и оболочка/dir.4. Операционная система, среда и оболочка.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/__DONE/++Архитектура_компьютеров_и_операционные_системы/4. Операционная система, среда и оболочка/cat.4. Операционная система, среда и оболочка/dir.4. Операционная система, среда и оболочка.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/__DONE/++Архитектура_компьютеров_и_операционные_системы/4. Операционная система, среда и оболочка/iprbookshop.ru_52176/cat.iprbookshop.ru_52176/dir.iprbookshop.ru_52176.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/__DONE/++Архитектура_компьютеров_и_операционные_системы/4. Операционная система, среда и оболочка/iprbookshop.ru_52176/cat.iprbookshop.ru_52176/dir.iprbookshop.ru_52176.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/__DONE/++Архитектура_компьютеров_и_операционные_системы/5. Архитектура операционной системы/cat.5. Архитектура операционной системы/dir.5. Архитектура операционной системы.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/__DONE/++Архитектура_компьютеров_и_операционные_системы/5. Архитектура операционной системы/cat.5. Архитектура операционной системы/dir.5. Архитектура операционной системы.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/__DONE/++Архитектура_компьютеров_и_операционные_системы/6. Классификация операционных систем/cat.6. Классификация операционных систем/dir.6. Классификация операционных систем.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/__DONE/++Архитектура_компьютеров_и_операционные_системы/6. Классификация операционных систем/cat.6. Классификация операционных систем/dir.6. Классификация операционных систем.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/__DONE/++Архитектура_компьютеров_и_операционные_системы/7. Концепция процессов и потоков/cat.7. Концепция процессов и потоков/dir.7. Концепция процессов и потоков.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/__DONE/++Архитектура_компьютеров_и_операционные_системы/7. Концепция процессов и потоков/cat.7. Концепция процессов и потоков/dir.7. Концепция процессов и потоков.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/__DONE/++Архитектура_компьютеров_и_операционные_системы/8. Управление памятью/cat.8. Управление памятью/dir.8. Управление памятью.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/__DONE/++Архитектура_компьютеров_и_операционные_системы/8. Управление памятью/cat.8. Управление памятью/dir.8. Управление памятью.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/__DONE/++Архитектура_компьютеров_и_операционные_системы/9. Подсистема ввода-вывода. Файловые системы/cat.9. Подсистема ввода-вывода. Файловые системы/dir.9. Подсистема ввода-вывода. Файловые системы.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/__DONE/++Архитектура_компьютеров_и_операционные_системы/9. Подсистема ввода-вывода. Файловые системы/cat.9. Подсистема ввода-вывода. Файловые системы/dir.9. Подсистема ввода-вывода. Файловые системы.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/__DONE/++Архитектура_компьютеров_и_операционные_системы/With_courses/Lecture_OS_I/cat.Lecture_OS_I/dir.Lecture_OS_I.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/__DONE/++Архитектура_компьютеров_и_операционные_системы/With_courses/Lecture_OS_I/cat.Lecture_OS_I/dir.Lecture_OS_I.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/__DONE/++Архитектура_компьютеров_и_операционные_системы/With_courses/cat.With_courses/dir.With_courses.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/__DONE/++Архитектура_компьютеров_и_операционные_системы/With_courses/cat.With_courses/dir.With_courses.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/__DONE/++Архитектура_компьютеров_и_операционные_системы/_pdf/cat._pdf/dir._pdf.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/__DONE/++Архитектура_компьютеров_и_операционные_системы/_pdf/cat._pdf/dir._pdf.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/__DONE/++Архитектура_компьютеров_и_операционные_системы/_pdf/iprbookshop.ru_52176_nazar/cat.iprbookshop.ru_52176_nazar/dir.iprbookshop.ru_52176_nazar.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/__DONE/++Архитектура_компьютеров_и_операционные_системы/_pdf/iprbookshop.ru_52176_nazar/cat.iprbookshop.ru_52176_nazar/dir.iprbookshop.ru_52176_nazar.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/__DONE/++Архитектура_компьютеров_и_операционные_системы/cat.++Архитектура_компьютеров_и_операционные_системы/dir.++Архитектура_компьютеров_и_операционные_системы.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/__DONE/++Архитектура_компьютеров_и_операционные_системы/cat.++Архитектура_компьютеров_и_операционные_системы/dir.++Архитектура_компьютеров_и_операционные_системы.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/cat.I_kurs/dir.I_kurs.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/cat.I_kurs/dir.I_kurs.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Теория_и_практика_межкультурной_коммуникации_pdf/ТЕМА 1. ОПРЕДЕЛЕНИЕ МЕЖКУЛЬТУРНОЙ КОММУНИКАЦИИ/_consp/_author/cita.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Теория_и_практика_межкультурной_коммуникации_pdf/ТЕМА 1. ОПРЕДЕЛЕНИЕ МЕЖКУЛЬТУРНОЙ КОММУНИКАЦИИ/_consp/_author/consp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Теория_и_практика_межкультурной_коммуникации_pdf/ТЕМА 1. ОПРЕДЕЛЕНИЕ МЕЖКУЛЬТУРНОЙ КОММУНИКАЦИИ/_consp/_author/consp.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/cat._Index/dir._Index.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/cat._Index/dir._Index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/cat._Md/dir._Md.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/cat._Md/dir._Md.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -456,7 +488,8 @@
       <workItem from="1608568781242" duration="3624000" />
       <workItem from="1608800030728" duration="30000" />
       <workItem from="1608800366335" duration="4883000" />
-      <workItem from="1608887136172" duration="26689000" />
+      <workItem from="1608887136172" duration="26965000" />
+      <workItem from="1609211855447" duration="73000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
@@ -1000,22 +1033,22 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="519" y="178" width="699" height="606" key="FileChooserDialogImpl/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1604737356241" />
-    <state width="1216" height="199" key="GridCell.Tab.0.bottom" timestamp="1608992533036">
+    <state width="1216" height="199" key="GridCell.Tab.0.bottom" timestamp="1609056313339">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1216" height="199" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1608992533036" />
-    <state width="1216" height="199" key="GridCell.Tab.0.center" timestamp="1608992533036">
+    <state width="1216" height="199" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1609056313339" />
+    <state width="1216" height="199" key="GridCell.Tab.0.center" timestamp="1609056313339">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1216" height="199" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1608992533036" />
-    <state width="1216" height="199" key="GridCell.Tab.0.left" timestamp="1608992533036">
+    <state width="1216" height="199" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1609056313339" />
+    <state width="1216" height="199" key="GridCell.Tab.0.left" timestamp="1609056313339">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1216" height="199" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1608992533036" />
-    <state width="1216" height="199" key="GridCell.Tab.0.right" timestamp="1608992533036">
+    <state width="1216" height="199" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1609056313339" />
+    <state width="1216" height="199" key="GridCell.Tab.0.right" timestamp="1609056313339">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1216" height="199" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1608992533036" />
+    <state width="1216" height="199" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1609056313339" />
     <state width="1247" height="769" key="GridCell.Tab.1.bottom" timestamp="1605966686878">
       <screen x="0" y="0" width="1440" height="860" />
     </state>

@@ -1,5 +1,5 @@
-- <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\++Архитектура_компьютеров_и_операционные_системы\With_courses\Lecture_OS_I\cat.Lecture_OS_I\dir.Lecture_OS_I.md">Lecture_OS_I</a>
-    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\++Архитектура_компьютеров_и_операционные_системы\With_courses\Lecture_OS_I\ReadMe.md">ReadMe.md</a>
+- <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\With_courses\Lecture_OS_I\cat.Lecture_OS_I\dir.Lecture_OS_I.md">Lecture_OS_I</a>
+    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\With_courses\Lecture_OS_I\ReadMe.md">ReadMe.md</a>
         - *# Лекция № 1. ОСНОВНЫЕ ПОНЯТИЯ
         - *## 1.1. Системное и прикладное программное обеспечение
         - *## 1.2. Операционные системы

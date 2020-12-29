@@ -1,4 +1,9 @@
 - <a href = "E:\Node_projects\Node_Way\Education\cat.Education\dir.Education.md">Education</a>
+    - <a href = "E:\Node_projects\Node_Way\Education\Dictionary\cat.Dictionary\dir.Dictionary.md">Dictionary</a>
+        - <a href = "E:\Node_projects\Node_Way\Education\Dictionary\set_with_translate.md">set_with_translate.md</a>
+            - *# Word and phrase with translate
+            - *@@ Dictionrary end
+    
     - <a href = "E:\Node_projects\Node_Way\Education\Education_Store\cat.Education_Store\dir.Education_Store.md">Education_Store</a>
         - <a href = "E:\Node_projects\Node_Way\Education\Education_Store\ReadMe.md">ReadMe.md</a>
             - *## site for IlKan
