@@ -27,38 +27,33 @@
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/cat.IlKan/dir.IlKan.md" beforeDir="false" afterPath="$PROJECT_DIR$/Education/IlKan/cat.IlKan/dir.IlKan.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/cat.Part_1/dir.Part_1.md" beforeDir="false" afterPath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/cat.Part_1/dir.Part_1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/Education_Store/S_7/learn_to_lesson.html" beforeDir="false" afterPath="$PROJECT_DIR$/Education/Education_Store/S_7/learn_to_lesson.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/2.Введение_в_события.dir/2.1.Введение_в_браузерные_события.dir/2.1.Введение_в_браузерные_события.md" beforeDir="false" afterPath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/2.Введение_в_события.dir/2.1.Введение_в_браузерные_события.dir/2.1.Введение_в_браузерные_события.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/cat.js.ru/dir.js.ru.md" beforeDir="false" afterPath="$PROJECT_DIR$/Education/IlKan/js.ru/cat.js.ru/dir.js.ru.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/cat.Education/dir.Education.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/cat.Education/dir.Education.md" beforeDir="false" afterPath="$PROJECT_DIR$/Education/cat.Education/dir.Education.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_C++/Containers/Intro_to_this/Vasiliev/1.Основы_языка_C++_...12.dir/cat.1.Основы_языка_C++_...12.dir/dir.1.Основы_языка_C++_...12.dir.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_C++/Containers/Intro_to_this/Vasiliev/1.Основы_языка_C++_...12.dir/cat.1.Основы_языка_C++_...12.dir/dir.1.Основы_языка_C++_...12.dir.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_C++/Containers/Intro_to_this/Vasiliev/cat.Vasiliev/dir.Vasiliev.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_C++/Containers/Intro_to_this/Vasiliev/cat.Vasiliev/dir.Vasiliev.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_C++/Containers/Intro_to_this/cat.Intro_to_this/dir.Intro_to_this.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_C++/Containers/Intro_to_this/cat.Intro_to_this/dir.Intro_to_this.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_C++/Containers/cat.Containers/dir.Containers.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_C++/Containers/cat.Containers/dir.Containers.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_C++/cat._C++/dir._C++.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_C++/cat._C++/dir._C++.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/__DONE/++Архитектура_компьютеров_и_операционные_системы/1. Архитектура электронно-вычислительной машины/cat.1. Архитектура электронно-вычислительной машины/dir.1. Архитектура электронно-вычислительной машины.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/__DONE/++Архитектура_компьютеров_и_операционные_системы/1. Архитектура электронно-вычислительной машины/cat.1. Архитектура электронно-вычислительной машины/dir.1. Архитектура электронно-вычислительной машины.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/__DONE/++Архитектура_компьютеров_и_операционные_системы/2. Программное обеспечение персонального компьютера/cat.2. Программное обеспечение персонального компьютера/dir.2. Программное обеспечение персонального компьютера.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/__DONE/++Архитектура_компьютеров_и_операционные_системы/2. Программное обеспечение персонального компьютера/cat.2. Программное обеспечение персонального компьютера/dir.2. Программное обеспечение персонального компьютера.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/__DONE/++Архитектура_компьютеров_и_операционные_системы/3. Операционные системы, их виды и функциональные характеристики/cat.3. Операционные системы, их виды и функциональные характеристики/dir.3. Операционные системы, их виды и функциональные характеристики.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/__DONE/++Архитектура_компьютеров_и_операционные_системы/3. Операционные системы, их виды и функциональные характеристики/cat.3. Операционные системы, их виды и функциональные характеристики/dir.3. Операционные системы, их виды и функциональные характеристики.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/__DONE/++Архитектура_компьютеров_и_операционные_системы/3. Операционные системы, их виды и функциональные характеристики/partyka_conspect/cat.partyka_conspect/dir.partyka_conspect.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/__DONE/++Архитектура_компьютеров_и_операционные_системы/3. Операционные системы, их виды и функциональные характеристики/partyka_conspect/cat.partyka_conspect/dir.partyka_conspect.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/__DONE/++Архитектура_компьютеров_и_операционные_системы/4. Операционная система, среда и оболочка/cat.4. Операционная система, среда и оболочка/dir.4. Операционная система, среда и оболочка.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/__DONE/++Архитектура_компьютеров_и_операционные_системы/4. Операционная система, среда и оболочка/cat.4. Операционная система, среда и оболочка/dir.4. Операционная система, среда и оболочка.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/__DONE/++Архитектура_компьютеров_и_операционные_системы/4. Операционная система, среда и оболочка/iprbookshop.ru_52176/cat.iprbookshop.ru_52176/dir.iprbookshop.ru_52176.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/__DONE/++Архитектура_компьютеров_и_операционные_системы/4. Операционная система, среда и оболочка/iprbookshop.ru_52176/cat.iprbookshop.ru_52176/dir.iprbookshop.ru_52176.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/__DONE/++Архитектура_компьютеров_и_операционные_системы/5. Архитектура операционной системы/cat.5. Архитектура операционной системы/dir.5. Архитектура операционной системы.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/__DONE/++Архитектура_компьютеров_и_операционные_системы/5. Архитектура операционной системы/cat.5. Архитектура операционной системы/dir.5. Архитектура операционной системы.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/__DONE/++Архитектура_компьютеров_и_операционные_системы/6. Классификация операционных систем/cat.6. Классификация операционных систем/dir.6. Классификация операционных систем.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/__DONE/++Архитектура_компьютеров_и_операционные_системы/6. Классификация операционных систем/cat.6. Классификация операционных систем/dir.6. Классификация операционных систем.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/__DONE/++Архитектура_компьютеров_и_операционные_системы/7. Концепция процессов и потоков/cat.7. Концепция процессов и потоков/dir.7. Концепция процессов и потоков.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/__DONE/++Архитектура_компьютеров_и_операционные_системы/7. Концепция процессов и потоков/cat.7. Концепция процессов и потоков/dir.7. Концепция процессов и потоков.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/__DONE/++Архитектура_компьютеров_и_операционные_системы/8. Управление памятью/cat.8. Управление памятью/dir.8. Управление памятью.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/__DONE/++Архитектура_компьютеров_и_операционные_системы/8. Управление памятью/cat.8. Управление памятью/dir.8. Управление памятью.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/__DONE/++Архитектура_компьютеров_и_операционные_системы/9. Подсистема ввода-вывода. Файловые системы/cat.9. Подсистема ввода-вывода. Файловые системы/dir.9. Подсистема ввода-вывода. Файловые системы.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/__DONE/++Архитектура_компьютеров_и_операционные_системы/9. Подсистема ввода-вывода. Файловые системы/cat.9. Подсистема ввода-вывода. Файловые системы/dir.9. Подсистема ввода-вывода. Файловые системы.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/__DONE/++Архитектура_компьютеров_и_операционные_системы/With_courses/Lecture_OS_I/cat.Lecture_OS_I/dir.Lecture_OS_I.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/__DONE/++Архитектура_компьютеров_и_операционные_системы/With_courses/Lecture_OS_I/cat.Lecture_OS_I/dir.Lecture_OS_I.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/__DONE/++Архитектура_компьютеров_и_операционные_системы/With_courses/cat.With_courses/dir.With_courses.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/__DONE/++Архитектура_компьютеров_и_операционные_системы/With_courses/cat.With_courses/dir.With_courses.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/__DONE/++Архитектура_компьютеров_и_операционные_системы/_pdf/cat._pdf/dir._pdf.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/__DONE/++Архитектура_компьютеров_и_операционные_системы/_pdf/cat._pdf/dir._pdf.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/__DONE/++Архитектура_компьютеров_и_операционные_системы/_pdf/iprbookshop.ru_52176_nazar/cat.iprbookshop.ru_52176_nazar/dir.iprbookshop.ru_52176_nazar.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/__DONE/++Архитектура_компьютеров_и_операционные_системы/_pdf/iprbookshop.ru_52176_nazar/cat.iprbookshop.ru_52176_nazar/dir.iprbookshop.ru_52176_nazar.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/__DONE/++Архитектура_компьютеров_и_операционные_системы/cat.++Архитектура_компьютеров_и_операционные_системы/dir.++Архитектура_компьютеров_и_операционные_системы.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/__DONE/++Архитектура_компьютеров_и_операционные_системы/cat.++Архитектура_компьютеров_и_операционные_системы/dir.++Архитектура_компьютеров_и_операционные_системы.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/cat.I_kurs/dir.I_kurs.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/cat.I_kurs/dir.I_kurs.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Теория_и_практика_межкультурной_коммуникации_pdf/ТЕМА 1. ОПРЕДЕЛЕНИЕ МЕЖКУЛЬТУРНОЙ КОММУНИКАЦИИ/_consp/_author/cita.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Теория_и_практика_межкультурной_коммуникации_pdf/ТЕМА 1. ОПРЕДЕЛЕНИЕ МЕЖКУЛЬТУРНОЙ КОММУНИКАЦИИ/_consp/_author/consp.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Теория_и_практика_межкультурной_коммуникации_pdf/ТЕМА 1. ОПРЕДЕЛЕНИЕ МЕЖКУЛЬТУРНОЙ КОММУНИКАЦИИ/_consp/_author/consp.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/cat._Index/dir._Index.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/cat._Index/dir._Index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/cat._Md/dir._Md.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/cat._Md/dir._Md.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7/Examples/cleare/DIR_root/cat.DIR_root/dir.DIR_root.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7/Examples/cleare/DIR_root/dir_1/exc.dir_1_2/any.ext" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7/Examples/cleare/DIR_root/dir_1/exc.dir_1_2/file_1_1_1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7/Examples/cleare/DIR_root/dir_1/exc.dir_1_2/file_empty.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7/Examples/cleare/DIR_root_4/dir_1/dir_1_1/file_1_1.md" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7/Examples/cleare/arh.DIR_root_4/dir_1/dir_1_1/file_1_1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7/Examples/cleare/DIR_root_4/dir_1/dir_1_2/file_1_2.md" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7/Examples/cleare/arh.DIR_root_4/dir_1/dir_1_2/file_1_2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7/Examples/cleare/DIR_root_4/dir_1/file_1.md" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7/Examples/cleare/arh.DIR_root_4/dir_1/file_1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7/Examples/cleare/DIR_root_4/dir_2/dir_2_1/file_2_1.md" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7/Examples/cleare/arh.DIR_root_4/dir_2/dir_2_1/file_2_1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7/Examples/cleare/DIR_root_4/dir_2/dir_2_2/file_2_2.md" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7/Examples/cleare/arh.DIR_root_4/dir_2/dir_2_2/file_2_2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7/Examples/cleare/DIR_root_4/dir_2/file_2.md" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7/Examples/cleare/arh.DIR_root_4/dir_2/file_2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7/Examples/cleare/DIR_root_4/file_root.md" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7/Examples/cleare/arh.DIR_root_4/file_root.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.8/_techical_task.md" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.8/_techical_task.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tmp/last_commit.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Tmp/last_commit.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/isDirectory/Examples/_with_err/fsLog/logErr.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/isDirectory/Examples/_with_err/fsLog/logErr.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/isDirectory/Examples/cleare/fsLog/log.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/isDirectory/Examples/cleare/fsLog/log.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/isFile/Examples/_with_err/fsLog/logErr.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/isFile/Examples/_with_err/fsLog/logErr.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/mkdirSync/Examples/_with_err/fsLog/logErr.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/mkdirSync/Examples/_with_err/fsLog/logErr.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/readFileSync/Examples/cleare/fsLog/log.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/readFileSync/Examples/cleare/fsLog/log.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/readFileSync/Examples/cleare/fsLog/logErr.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/readFileSync/Examples/cleare/fsLog/logErr.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/readdirSync/Examples/cleare/fsLog/log.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/readdirSync/Examples/cleare/fsLog/log.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/rmdirSync/Examples/_with_err/fsLog/logErr.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/rmdirSync/Examples/_with_err/fsLog/logErr.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/stats/Examples/cleare/fsLog/log.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/stats/Examples/cleare/fsLog/log.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/stats/Examples/with_err/fsLog/logErr.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/stats/Examples/with_err/fsLog/logErr.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/unlinkSync/Examples/_with_err/fsLog/logErr.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/unlinkSync/Examples/_with_err/fsLog/logErr.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -161,7 +156,7 @@
     <property name="add_unversioned_files" value="$PROJECT_DIR$/Jobs/SetGlobLoggers/ModLogger_1/Core/Logs/eLogs.txt&#10;true" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="12.18.3" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.jscs" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -187,19 +182,19 @@
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains_\IntelliJ IDEA 2020.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\Node_projects\Node_Way\Jobs\CataloguerFs\CreateCatalog" />
-      <recent name="E:\Node_projects\Node_Way\Jobs\CataloguerFs\CreateCatalog\AFP5_0.1_ctlg_1_to_2.v.0.1.7\Examples\cleare\DIR_root\dir_1\dir_1_1" />
-      <recent name="E:\Node_projects\Node_Way\node_modules\st_fs\ConstructFs\FsCreate" />
-      <recent name="E:\Node_projects\Node_Way\Jobs\CataloguerFs\CreateCatalog\AFP5_0.1_ctlg_1_to_2.v.0.1.7\Examples\cleare\DIR_root\dir_1" />
-      <recent name="E:\Node_projects\Node_Way\NBase\_Md\_Index\_C++\Containers\Intro_to_this\ravesli.com" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Node_projects\Node_Way\Jobs\CataloguerFs\CreateCatalog\AFP5_0.1_ctlg_1_to_2.v.4\Examples\cleare\DIR_root\dir_1" />
       <recent name="E:\Node_projects\Node_Way\Jobs\AnliticsFs\ObjectAnalitics\AFP5_0.1_object_mod_1\_Examples\cleare\DIR" />
       <recent name="E:\Node_projects\Node_Way\Jobs\Base\Treat_gov\GB.v.1\AFP5_0.1_govBase_all_to_json" />
       <recent name="E:\Node_projects\Node_Way\node_modules\st_fs\ConstructFs\FsCreate\writeFileSync\Examples\1" />
       <recent name="E:\Node_projects\Node_Way\node_modules\st_doc1\nodejs.org_DOCS\__\_" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Node_projects\Node_Way" />
+      <recent name="E:\Node_projects\Node_Way\NBase" />
+      <recent name="E:\Node_projects\Node_Way\Jobs\CataloguerFs\CreateCatalog\AFP5_0.1_ctlg_1_to_2.v.0.1.7\Examples\cleare" />
+      <recent name="E:\Node_projects\Node_Way\Jobs\CataloguerFs\CreateCatalog\AFP5_0.1_ctlg_1_to_2.v.0.1.7\Examples\cleare\DIR_root_before_test" />
+      <recent name="E:\Node_projects\Node_Way\Jobs\CataloguerFs\CreateCatalog\AFP5_0.1_ctlg_1_to_2.v.0.1.8\Examples\cleare\DIR_root_before_test\dir_2" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.test_ini_module.js (1)">
@@ -490,6 +485,9 @@
       <workItem from="1608800366335" duration="4883000" />
       <workItem from="1608887136172" duration="26965000" />
       <workItem from="1609211855447" duration="73000" />
+      <workItem from="1609214102183" duration="492000" />
+      <workItem from="1609219709312" duration="606000" />
+      <workItem from="1609317156749" duration="3567000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
@@ -1033,22 +1031,22 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="519" y="178" width="699" height="606" key="FileChooserDialogImpl/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1604737356241" />
-    <state width="1216" height="199" key="GridCell.Tab.0.bottom" timestamp="1609056313339">
+    <state width="1216" height="199" key="GridCell.Tab.0.bottom" timestamp="1609320525546">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1216" height="199" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1609056313339" />
-    <state width="1216" height="199" key="GridCell.Tab.0.center" timestamp="1609056313339">
+    <state width="1216" height="199" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1609320525546" />
+    <state width="1216" height="199" key="GridCell.Tab.0.center" timestamp="1609320525546">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1216" height="199" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1609056313339" />
-    <state width="1216" height="199" key="GridCell.Tab.0.left" timestamp="1609056313339">
+    <state width="1216" height="199" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1609320525546" />
+    <state width="1216" height="199" key="GridCell.Tab.0.left" timestamp="1609320525545">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1216" height="199" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1609056313339" />
-    <state width="1216" height="199" key="GridCell.Tab.0.right" timestamp="1609056313339">
+    <state width="1216" height="199" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1609320525545" />
+    <state width="1216" height="199" key="GridCell.Tab.0.right" timestamp="1609320525546">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1216" height="199" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1609056313339" />
+    <state width="1216" height="199" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1609320525546" />
     <state width="1247" height="769" key="GridCell.Tab.1.bottom" timestamp="1605966686878">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
