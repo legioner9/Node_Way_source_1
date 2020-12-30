@@ -39,9 +39,7 @@ debugger
 createTechDir_4 ( __dirname, createArrLikeGit_2_v_2 );
 
 console.log( ' type::process.exit(0)');
-
 process.exit(0)
-
 // const _src = [ '_src' ];
 //
 // //const Common_this = [ 'Common_this', 'Common_this.md','ReadMe.md',

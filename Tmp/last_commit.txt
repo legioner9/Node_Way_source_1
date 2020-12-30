@@ -1,1 +1,1 @@
-after with delete test_ini_module.v.0.1.7_Education
+init _SqlBilders
