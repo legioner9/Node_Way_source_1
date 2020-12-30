@@ -53,6 +53,12 @@
                 - *## Ways to assign a handler
                 - *### in the attribute 
                 - *### in document field 
+                - *### access to 'this'
+                - *### Call or Link?
+                - *### add event but not assign 
+                - *#### addEventListener
+                - *#### removeEventListener
+                - *@@ continue from this: 
         
     
     - <a href = "E:\Node_projects\Node_Way\Education\IlKan\js.ru\Part_1\Part_1_md.md">Part_1_md.md</a>

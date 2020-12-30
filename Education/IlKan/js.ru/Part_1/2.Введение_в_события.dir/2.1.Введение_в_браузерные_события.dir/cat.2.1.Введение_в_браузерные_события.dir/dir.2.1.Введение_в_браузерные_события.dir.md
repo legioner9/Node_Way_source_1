@@ -9,3 +9,9 @@
         - *## Ways to assign a handler
         - *### in the attribute 
         - *### in document field 
+        - *### access to 'this'
+        - *### Call or Link?
+        - *### add event but not assign 
+        - *#### addEventListener
+        - *#### removeEventListener
+        - *@@ continue from this: 

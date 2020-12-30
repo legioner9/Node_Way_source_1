@@ -1,3 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Fedora\content\Docs\docs.fedoraproject.org\tutor_part_I\cat.tutor_part_I\dir.tutor_part_I.md">tutor_part_I</a>
-    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Fedora\content\Docs\docs.fedoraproject.org\tutor_part_I\_tutor_part_I.md">_tutor_part_I.md</a>
-        - *# [Fedora Quick Docs](https://docs.fedoraproject.org/en-US/quick-docs/)

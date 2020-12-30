@@ -1,8 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Uml\Main_I\contaners\contaner_2\courses\BuchUserGuide\Book\BuchUserGuide_black+.consp\cat.BuchUserGuide_black+.consp\dir.BuchUserGuide_black+.consp.md">BuchUserGuide_black+.consp</a>
-    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Uml\Main_I\contaners\contaner_2\courses\BuchUserGuide\Book\BuchUserGuide_black+.consp\1.md">1.md</a>
-        - *## Модель
-        - *## Model
-        - *## Проект 
-        - *## Project
-        - *## Design principles
-        - *## Object modelling

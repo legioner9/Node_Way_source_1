@@ -1,8 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\_in_stash\_stash_2\Bash\losst.ru\cat.losst.ru\dir.losst.ru.md">losst.ru</a>
-    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\_in_stash\_stash_2\Bash\losst.ru\_losst.ru.md">_losst.ru.md</a>
-        - *## ОСНОВЫ СКРИПТОВ
-        - *## ПЕРЕМЕННЫЕ В СКРИПТАХ
-        - *## ПЕРЕМЕННЫЕ И ВЫВОД КОМАНД
-        - *## ПАРАМЕТРЫ СКРИПТА
-        - *## УПРАВЛЯЮЩИЕ КОНСТРУКЦИИ В СКРИПТАХ
-        - *## ЦИКЛЫ В СКРИПТАХ

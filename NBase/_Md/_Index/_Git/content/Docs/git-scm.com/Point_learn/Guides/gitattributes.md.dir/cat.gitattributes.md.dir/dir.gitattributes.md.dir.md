@@ -1,2 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\git-scm.com\Point_learn\Guides\gitattributes.md.dir\cat.gitattributes.md.dir\dir.gitattributes.md.dir.md">gitattributes.md.dir</a>
-    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\git-scm.com\Point_learn\Guides\gitattributes.md.dir\ReadMe.md">ReadMe.md</a>

@@ -1,2 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__\Unicode\cat.Unicode\dir.Unicode.md">Unicode</a>
-    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__\Unicode\examp.1.md">examp.1.md</a>

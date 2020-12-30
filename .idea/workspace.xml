@@ -27,33 +27,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Education_Store/S_7/learn_to_lesson.html" beforeDir="false" afterPath="$PROJECT_DIR$/Education/Education_Store/S_7/learn_to_lesson.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/2.Введение_в_события.dir/2.1.Введение_в_браузерные_события.dir/2.1.Введение_в_браузерные_события.md" beforeDir="false" afterPath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/2.Введение_в_события.dir/2.1.Введение_в_браузерные_события.dir/2.1.Введение_в_браузерные_события.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/cat.js.ru/dir.js.ru.md" beforeDir="false" afterPath="$PROJECT_DIR$/Education/IlKan/js.ru/cat.js.ru/dir.js.ru.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7/Examples/cleare/DIR_root/cat.DIR_root/dir.DIR_root.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7/Examples/cleare/DIR_root/dir_1/exc.dir_1_2/any.ext" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7/Examples/cleare/DIR_root/dir_1/exc.dir_1_2/file_1_1_1.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7/Examples/cleare/DIR_root/dir_1/exc.dir_1_2/file_empty.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7/Examples/cleare/DIR_root_4/dir_1/dir_1_1/file_1_1.md" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7/Examples/cleare/arh.DIR_root_4/dir_1/dir_1_1/file_1_1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7/Examples/cleare/DIR_root_4/dir_1/dir_1_2/file_1_2.md" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7/Examples/cleare/arh.DIR_root_4/dir_1/dir_1_2/file_1_2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7/Examples/cleare/DIR_root_4/dir_1/file_1.md" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7/Examples/cleare/arh.DIR_root_4/dir_1/file_1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7/Examples/cleare/DIR_root_4/dir_2/dir_2_1/file_2_1.md" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7/Examples/cleare/arh.DIR_root_4/dir_2/dir_2_1/file_2_1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7/Examples/cleare/DIR_root_4/dir_2/dir_2_2/file_2_2.md" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7/Examples/cleare/arh.DIR_root_4/dir_2/dir_2_2/file_2_2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7/Examples/cleare/DIR_root_4/dir_2/file_2.md" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7/Examples/cleare/arh.DIR_root_4/dir_2/file_2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7/Examples/cleare/DIR_root_4/file_root.md" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7/Examples/cleare/arh.DIR_root_4/file_root.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.8/_techical_task.md" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.8/_techical_task.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Tmp/last_commit.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Tmp/last_commit.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/isDirectory/Examples/_with_err/fsLog/logErr.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/isDirectory/Examples/_with_err/fsLog/logErr.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/isDirectory/Examples/cleare/fsLog/log.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/isDirectory/Examples/cleare/fsLog/log.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/isFile/Examples/_with_err/fsLog/logErr.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/isFile/Examples/_with_err/fsLog/logErr.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/mkdirSync/Examples/_with_err/fsLog/logErr.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/mkdirSync/Examples/_with_err/fsLog/logErr.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/readFileSync/Examples/cleare/fsLog/log.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/readFileSync/Examples/cleare/fsLog/log.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/readFileSync/Examples/cleare/fsLog/logErr.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/readFileSync/Examples/cleare/fsLog/logErr.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/readdirSync/Examples/cleare/fsLog/log.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/readdirSync/Examples/cleare/fsLog/log.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/rmdirSync/Examples/_with_err/fsLog/logErr.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/rmdirSync/Examples/_with_err/fsLog/logErr.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/stats/Examples/cleare/fsLog/log.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/stats/Examples/cleare/fsLog/log.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/stats/Examples/with_err/fsLog/logErr.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/stats/Examples/with_err/fsLog/logErr.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/unlinkSync/Examples/_with_err/fsLog/logErr.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/unlinkSync/Examples/_with_err/fsLog/logErr.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -487,7 +461,7 @@
       <workItem from="1609211855447" duration="73000" />
       <workItem from="1609214102183" duration="492000" />
       <workItem from="1609219709312" duration="606000" />
-      <workItem from="1609317156749" duration="3567000" />
+      <workItem from="1609317156749" duration="4761000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>

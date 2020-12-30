@@ -1,8 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Uml\Main_I\contaners\contaner_2\courses\EA_tutorials\_over_head\cat._over_head\dir._over_head.md">_over_head</a>
-    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Uml\Main_I\contaners\contaner_2\courses\EA_tutorials\_over_head\init_page.md">init_page.md</a>
-        - *## Модели UML Enterprise Architect
-        - *## Диаграммы UML
-        - *### Структурные модели UML
-        - *### Поведенческие модели UML
-        - *### Диаграммы на основе доменов
-        - *### Бизнес-моделирование / Взаимодействие

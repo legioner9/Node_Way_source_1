@@ -1,7 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__\Md\InnerPath\extend_ancor\cat.extend_ancor\dir.extend_ancor.md">extend_ancor</a>
-    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__\Md\InnerPath\extend_ancor\in_anc.md">in_anc.md</a>
-        - *# Батыргазиев, Мамедов и Егоров выиграли чемпионат России по боксу
-        - *## Хабиб: Хороший чай может заменить кофе, хорошего друга не заменит никто
-        - *### Фигуристка Валиева победила на пятом этапе Кубка России с рекордными баллами
-        - *#### В тренде 
-    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__\Md\InnerPath\extend_ancor\out_anc.md">out_anc.md</a>

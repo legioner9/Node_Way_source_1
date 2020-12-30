@@ -1,6 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Arch\_EGE\Русский\contaners\contaner_1\13\cat.13\dir.13.md">13</a>
-    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Arch\_EGE\Русский\contaners\contaner_1\13\rus_ege.md">rus_ege.md</a>
-        - *# Задание 13. Слитное и раздельное написание НЕ и НИ с разными частями речи Подробнее
-        - *## 12.1 Слитное и раздельное написание частиц НЕ и НИ.
-        - *## 12.2 Слитное написание НЕ и НИ.
-        - *## 12.3. Частицы НЕ и НИ отличаются по значению:

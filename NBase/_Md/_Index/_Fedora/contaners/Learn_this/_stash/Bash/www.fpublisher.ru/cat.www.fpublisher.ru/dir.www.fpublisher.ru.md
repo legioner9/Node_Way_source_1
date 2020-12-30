@@ -1,3 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Fedora\contaners\Learn_this\_stash\Bash\www.fpublisher.ru\cat.www.fpublisher.ru\dir.www.fpublisher.ru.md">www.fpublisher.ru</a>
-    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Fedora\contaners\Learn_this\_stash\Bash\www.fpublisher.ru\_www.fpublisher.ru.md">_www.fpublisher.ru.md</a>
-        - *# [Документация bash](https://www.fpublisher.ru/documentation/bash_documentation)

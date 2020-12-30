@@ -1,9 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\Education\IlKan\js.ru\Part_1\1.Документ.dir\1.8.Стили_и_классы.dir\cat.1.8.Стили_и_классы.dir\dir.1.8.Стили_и_классы.dir.md">1.8.Стили_и_классы.dir</a>
-    - <a href = "E:\Node_projects\Node_Way\Education\IlKan\js.ru\Part_1\1.Документ.dir\1.8.Стили_и_классы.dir\1.8.Стили_и_классы.md">1.8.Стили_и_классы.md</a>
-        - *# [Стили и классы](https://learn.javascript.ru/styles-and-classes)
-        - *## className и classList
-        - *## Element style
-        - *### Сброс стилей
-        - *### Полная перезапись style.cssText
-        - *### Следите за единицами измерения
-        - *### getComputedStyle(element, [pseudo])

@@ -1,3 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\git-scm.com\Visual_Git_Cheat_Sheet\cat.Visual_Git_Cheat_Sheet\dir.Visual_Git_Cheat_Sheet.md">Visual_Git_Cheat_Sheet</a>
-    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\git-scm.com\Visual_Git_Cheat_Sheet\Visual_Git_Cheat_Sheet.md">Visual_Git_Cheat_Sheet.md</a>
-        - *# [Git Cheatsheet](https://ndpsoftware.com/git-cheatsheet.html)
