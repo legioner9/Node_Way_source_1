@@ -27,6 +27,23 @@
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Bootstrap/Containers/Live_learn/ITVDN_BS_4/1.Урок_1_Знакомство_с_Twitter_Bootstrap_4.dir/1.1.Знакомство_с_фреймворком..dir/_src/1.html" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Bootstrap/Containers/Live_learn/ITVDN_BS_4/1.Урок_1_Знакомство_с_Twitter_Bootstrap_4.dir/1.1.Знакомство_с_фреймворком..dir/_src/1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Bootstrap/Containers/Live_learn/ITVDN_BS_4/1.Урок_1_Знакомство_с_Twitter_Bootstrap_4.dir/1.2.Способы_подключения_фреймворка..dir/1.2.Способы_подключения_фреймворка..md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Bootstrap/Containers/Live_learn/ITVDN_BS_4/1.Урок_1_Знакомство_с_Twitter_Bootstrap_4.dir/1.2.Способы_подключения_фреймворка..dir/1.2.Способы_подключения_фреймворка..md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Bootstrap/Containers/Live_learn/ITVDN_BS_4/1.Урок_1_Знакомство_с_Twitter_Bootstrap_4.dir/1.Урок_1_Знакомство_с_Twitter_Bootstrap_4.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Bootstrap/Containers/Live_learn/ITVDN_BS_4/1.Урок_1_Знакомство_с_Twitter_Bootstrap_4.dir/1.Урок_1_Знакомство_с_Twitter_Bootstrap_4.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Bootstrap/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Bootstrap/ReadMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/CreateDirFile/CreateTechDirHot_1/Test/A" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/CreateDirFile/CreateTechDirHot_1/Test/B" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/CreateDirFile/CreateTechDirHot_1/Test/B.dir/BA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/CreateDirFile/CreateTechDirHot_1/Test/B.dir/BB" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/CreateDirFile/CreateTechDirHot_1/Test/B.dir/BB.dir/BBA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/CreateDirFile/CreateTechDirHot_1/Test/B.dir/BB.dir/BBB" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/CreateDirFile/CreateTechDir_1/Test/A" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/CreateDirFile/CreateTechDir_1/Test/B" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/CreateDirFile/CreateTechDir_1/Test/B.dir/BA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/CreateDirFile/CreateTechDir_1/Test/B.dir/BB" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/CreateDirFile/CreateTechDir_1/Test/B.dir/BB.dir/BBA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/CreateDirFile/CreateTechDir_1/Test/B.dir/BB.dir/BBB" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ini/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ini/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,7 +146,7 @@
     <property name="add_unversioned_files" value="$PROJECT_DIR$/Jobs/SetGlobLoggers/ModLogger_1/Core/Logs/eLogs.txt&#10;true" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="12.18.3" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/NBase/_Md/_Index/_Bootstrap/Containers/Live_learn/ITVDN_BS_4" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ToUse/CreateDir" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.jscs" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -155,6 +172,13 @@
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains_\IntelliJ IDEA 2020.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Node_projects\Node_Way\ToUse\CreateDir" />
+      <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1\SetDirFile\CreateDirFile\CreateTechDir_1_v_2" />
+      <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1\SetDirFile\CreateDirFile" />
+      <recent name="E:\Node_projects\Node_Way\NBase\_Md\_Index\_Bootstrap\Containers\Live_learn\ITVDN_BS_4" />
+      <recent name="E:\Node_projects\Node_Way\ToUse" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Node_projects\Node_Way\Jobs\CataloguerFs\CreateCatalog\AFP5_0.1_ctlg_1_to_2.v.4\Examples\cleare\DIR_root\dir_1" />
       <recent name="E:\Node_projects\Node_Way\Jobs\AnliticsFs\ObjectAnalitics\AFP5_0.1_object_mod_1\_Examples\cleare\DIR" />
@@ -162,19 +186,15 @@
       <recent name="E:\Node_projects\Node_Way\node_modules\st_fs\ConstructFs\FsCreate\writeFileSync\Examples\1" />
       <recent name="E:\Node_projects\Node_Way\node_modules\st_doc1\nodejs.org_DOCS\__\_" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\Node_projects\Node_Way\NBase\_Md\_Index\_Bootstrap\Containers\Live_learn\ITVDN_BS_4" />
-      <recent name="E:\Node_projects\Node_Way\ToUse" />
-      <recent name="E:\Node_projects\Node_Way" />
-      <recent name="E:\Node_projects\Node_Way\NBase" />
-      <recent name="E:\Node_projects\Node_Way\Jobs\CataloguerFs\CreateCatalog\AFP5_0.1_ctlg_1_to_2.v.0.1.7\Examples\cleare" />
-    </key>
   </component>
-  <component name="RunManager" selected="Node.js.cloneFileToDir_in_num_2_3_level_src_1.js">
+  <component name="RunManager" selected="Node.js.CreateDirFree_v_1.js">
     <configuration name="a.html" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/Node_Way/Node_Docs/Education/IlKan/learn.javascript.ru/Browser/1/1.1/a.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="6-parse_1.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="6-parse_1.js" working-dir="$PROJECT_DIR$/NBase/_Md/_Index/_HPW/Part_I/content/Courses/Fundamentals/basic_sintax/DataTypes-master/JavaScript">
+      <method v="2" />
+    </configuration>
+    <configuration name="CreateDirFree_v_1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/CreateDirFile/CreateTechDir_1_v_2/Production/CreateDirFree_v_1.js" working-dir="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/CreateDirFile/CreateTechDir_1_v_2/Production">
       <method v="2" />
     </configuration>
     <configuration name="Object.create.js" type="NodeJSConfigurationType" nameIsGenerated="true" node-parameters="ndb" path-to-js-file="$PROJECT_DIR$/node_modules/st_doc1/js_DOCS/Function/_@_FunctionEngendering/InheritsEgeneringModel/Object.create.js" working-dir="$PROJECT_DIR$/node_modules/st_doc1/js_DOCS/Function/_@_FunctionEngendering">
@@ -183,35 +203,32 @@
     <configuration name="cloneFileToDir_in_num_2_3_level_src_1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/NBase/_Md/_Index/_Bootstrap/Containers/Live_learn/ITVDN_BS_4/cloneFileToDir_in_num_2_3_level_src_1.js" working-dir="$PROJECT_DIR$/NBase/_Md/_Index/_Bootstrap/Containers/Live_learn/ITVDN_BS_4">
       <method v="2" />
     </configuration>
+    <configuration name="main_test.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/CreateDirFile/CreateTechDir_1_v_2/Test/main_test.js" working-dir="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/CreateDirFile/CreateTechDir_1_v_2/Test">
+      <method v="2" />
+    </configuration>
     <configuration name="test_ini_module.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7/Examples/cleare/test_ini_module.js" working-dir="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7/Examples/cleare">
       <method v="2" />
     </configuration>
     <configuration name="test_ini_module.js (2)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/rmdirSync/Examples/cleare/test_ini_module.js" working-dir="$PROJECT_DIR$/node_modules/st_fs/ConstructFs/FsCreate/rmdirSync/Examples/cleare">
       <method v="2" />
     </configuration>
-    <configuration name="test_ini_module.js (3)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.6/Examples/cleare/test_ini_module.js" working-dir="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.6/Examples/cleare">
-      <method v="2" />
-    </configuration>
-    <configuration name="test_ini_module.v.0.1.6__Md.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/NBase/test_ini_module.v.0.1.6__Md.js" working-dir="$PROJECT_DIR$/NBase">
-      <method v="2" />
-    </configuration>
     <list>
       <item itemvalue="JavaScript Debug.a.html" />
       <item itemvalue="Node.js.6-parse_1.js" />
       <item itemvalue="Node.js.Object.create.js" />
-      <item itemvalue="Node.js.test_ini_module.js (3)" />
       <item itemvalue="Node.js.test_ini_module.js (1)" />
-      <item itemvalue="Node.js.test_ini_module.v.0.1.6__Md.js" />
       <item itemvalue="Node.js.test_ini_module.js (2)" />
       <item itemvalue="Node.js.cloneFileToDir_in_num_2_3_level_src_1.js" />
+      <item itemvalue="Node.js.main_test.js" />
+      <item itemvalue="Node.js.CreateDirFree_v_1.js" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.CreateDirFree_v_1.js" />
+        <item itemvalue="Node.js.main_test.js" />
         <item itemvalue="Node.js.cloneFileToDir_in_num_2_3_level_src_1.js" />
         <item itemvalue="Node.js.test_ini_module.js (1)" />
         <item itemvalue="Node.js.test_ini_module.js (2)" />
-        <item itemvalue="Node.js.test_ini_module.js (3)" />
-        <item itemvalue="Node.js.test_ini_module.v.0.1.6__Md.js" />
       </list>
     </recent_temporary>
   </component>
@@ -461,6 +478,7 @@
       <workItem from="1609214102183" duration="492000" />
       <workItem from="1609219709312" duration="606000" />
       <workItem from="1609317156749" duration="6487000" />
+      <workItem from="1609401847941" duration="7216000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
@@ -1004,22 +1022,22 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="519" y="178" width="699" height="606" key="FileChooserDialogImpl/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1604737356241" />
-    <state width="1216" height="199" key="GridCell.Tab.0.bottom" timestamp="1609330724864">
+    <state width="1216" height="199" key="GridCell.Tab.0.bottom" timestamp="1609412805282">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1216" height="199" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1609330724864" />
-    <state width="1216" height="199" key="GridCell.Tab.0.center" timestamp="1609330724864">
+    <state width="1216" height="199" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1609412805282" />
+    <state width="1216" height="199" key="GridCell.Tab.0.center" timestamp="1609412805282">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1216" height="199" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1609330724864" />
-    <state width="1216" height="199" key="GridCell.Tab.0.left" timestamp="1609330724864">
+    <state width="1216" height="199" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1609412805282" />
+    <state width="1216" height="199" key="GridCell.Tab.0.left" timestamp="1609412805282">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1216" height="199" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1609330724864" />
-    <state width="1216" height="199" key="GridCell.Tab.0.right" timestamp="1609330724864">
+    <state width="1216" height="199" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1609412805282" />
+    <state width="1216" height="199" key="GridCell.Tab.0.right" timestamp="1609412805282">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1216" height="199" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1609330724864" />
+    <state width="1216" height="199" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1609412805282" />
     <state width="1247" height="769" key="GridCell.Tab.1.bottom" timestamp="1605966686878">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
