@@ -1,4 +1,12 @@
 - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__\cat.__\dir.__.md">__</a>
+    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__\Emmet\cat.Emmet\dir.Emmet.md">Emmet</a>
+        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__\Emmet\webdesign-master.ru.md">webdesign-master.ru.md</a>
+            - *# [webdesign-master.ru](https://webdesign-master.ru/blog/html-css/2.html)
+            - *## Дочерний: >
+            - *## Соединение: +
+            - *## Поместить выше (в дереве HTML): ^
+            - *@@ emmet continue far
+    
     - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__\Fan_fiches\cat.Fan_fiches\dir.Fan_fiches.md">Fan_fiches</a>
         - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__\Fan_fiches\14_Awesome_JavaScript_Array_Tips.md">14_Awesome_JavaScript_Array_Tips.md</a>
             - *# https://dev.to/kais_blog/14-awesome-javascript-array-tips-you-should-know-about-1d0m?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email

@@ -134,10 +134,73 @@
             - *@[src](src/_src.md)
     
     - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Bootstrap\cat._Bootstrap\dir._Bootstrap.md">_Bootstrap</a>
+        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Bootstrap\Containers\cat.Containers\dir.Containers.md">Containers</a>
+            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Bootstrap\Containers\Live_learn\cat.Live_learn\dir.Live_learn.md">Live_learn</a>
+                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Bootstrap\Containers\Live_learn\ITVDN_BS_4\cat.ITVDN_BS_4\dir.ITVDN_BS_4.md">ITVDN_BS_4</a>
+                    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Bootstrap\Containers\Live_learn\ITVDN_BS_4\1.Урок_1_Знакомство_с_Twitter_Bootstrap_4.dir\cat.1.Урок_1_Знакомство_с_Twitter_Bootstrap_4.dir\dir.1.Урок_1_Знакомство_с_Twitter_Bootstrap_4.dir.md">1.Урок_1_Знакомство_с_Twitter_Bootstrap_4.dir</a>
+                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Bootstrap\Containers\Live_learn\ITVDN_BS_4\1.Урок_1_Знакомство_с_Twitter_Bootstrap_4.dir\1.2.Способы_подключения_фреймворка..dir\cat.1.2.Способы_подключения_фреймворка..dir\dir.1.2.Способы_подключения_фреймворка..dir.md">1.2.Способы_подключения_фреймворка..dir</a>
+                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Bootstrap\Containers\Live_learn\ITVDN_BS_4\1.Урок_1_Знакомство_с_Twitter_Bootstrap_4.dir\1.2.Способы_подключения_фреймворка..dir\1.2.Способы_подключения_фреймворка..md">1.2.Способы_подключения_фреймворка..md</a>
+                                - *# 1.2.Способы_подключения_фреймворка.
+                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Bootstrap\Containers\Live_learn\ITVDN_BS_4\1.Урок_1_Знакомство_с_Twitter_Bootstrap_4.dir\1.2.Способы_подключения_фреймворка..dir\ReadMe.md">ReadMe.md</a>
+                                - *@@ bootstrap continue far
+                        
+                    
+                    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Bootstrap\Containers\Live_learn\ITVDN_BS_4\md.ancors.md.md">md.ancors.md.md</a>
+                        - *## Урок 1: Знакомство с Twitter Bootstrap 4
+                        - *### Знакомство с фреймворком.
+                        - *### Способы подключения фреймворка.
+                        - *### Важные глобальные атрибуты. 
+                        - *### Браузеры и устройства, поддерживающие Bootstrap 4. 
+                        - *### Создание шаблона для работы.
+                        - *### Знакомство с Grid-System.
+                        - *## Урок 2: Типографика Twitter Bootstrap 4.
+                        - *### Заголовки.
+                        - *### Блочные текстовые элементы.
+                        - *### Сокращения.
+                        - *### Цитаты.
+                        - *### Выравнивание.
+                        - *### Списки.
+                        - *### Таблицы.
+                        - *### Изображения и фигуры.
+                        - *## Урок 3: Компоненты Twitter Bootstrap 4.
+                        - *### Оповещения
+                        - *### Значки
+                        - *### Хлебные крошки
+                        - *### Карточки
+                        - *### Кнопки, группы кнопок
+                        - *### Выпадающие списки
+                        - *### Пагинация формы
+                        - *### Инпут группы
+                        - *### Навигация, навбары
+                        - *### Подсказки
+                        - *### Прогресс бар
+                        - *### Скроллинг
+                        - *### Адаптивное видео
+                        - *## Урок 4: JavaScript Twitter Bootstrap 4.
+                        - *### Проверка форм
+                        - *### Карусель.
+                        - *### Аккордеон.
+                        - *### Списки групп.
+                        - *### Модальные окна.
+                        - *## Урок 5: Утилиты Twitter Bootstrap 4. Служебные классы
+                        - *### Границы.
+                        - *### Очищение.
+                        - *### Цвета.
+                        - *### Отображение элементов.
+                        - *### Flexbox
+                        - *### Размеры, позиционирование
+                        - *### Растояния
+                        - *### Форматирование текста
+                        - *### Вертикальное выравнивание
+                
+            
+        
         - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Bootstrap\ReadMe.md">ReadMe.md</a>
             - *# [Bootstrap](https://bootstrap-4.ru/)
             - *## [Docs](https://bootstrap-4.ru/docs/4.5/getting-started/introduction/)
             - *## [Examples](https://bootstrap-4.ru/docs/4.5/examples/)
+            - *## [starter-template](https://bootstrap-4.ru/docs/4.5/getting-started/introduction/#starter-template)
+            - *## [testprovider.com](https://testprovider.com/ru)
     
     - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_C++\cat._C++\dir._C++.md">_C++</a>
         - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_C++\Containers\cat.Containers\dir.Containers.md">Containers</a>
@@ -5470,6 +5533,14 @@
         
     
     - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__\cat.__\dir.__.md">__</a>
+        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__\Emmet\cat.Emmet\dir.Emmet.md">Emmet</a>
+            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__\Emmet\webdesign-master.ru.md">webdesign-master.ru.md</a>
+                - *# [webdesign-master.ru](https://webdesign-master.ru/blog/html-css/2.html)
+                - *## Дочерний: >
+                - *## Соединение: +
+                - *## Поместить выше (в дереве HTML): ^
+                - *@@ emmet continue far
+        
         - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__\Fan_fiches\cat.Fan_fiches\dir.Fan_fiches.md">Fan_fiches</a>
             - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__\Fan_fiches\14_Awesome_JavaScript_Array_Tips.md">14_Awesome_JavaScript_Array_Tips.md</a>
                 - *# https://dev.to/kais_blog/14-awesome-javascript-array-tips-you-should-know-about-1d0m?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email

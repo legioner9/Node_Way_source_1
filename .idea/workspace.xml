@@ -27,7 +27,14 @@
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Bootstrap/Containers/Live_learn/ITVDN_BS_4/1.Урок_1_Знакомство_с_Twitter_Bootstrap_4.dir/1.1.Знакомство_с_фреймворком..dir/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Bootstrap/Containers/Live_learn/ITVDN_BS_4/1.Урок_1_Знакомство_с_Twitter_Bootstrap_4.dir/1.1.Знакомство_с_фреймворком..dir/_site/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Bootstrap/Containers/Live_learn/ITVDN_BS_4/1.Урок_1_Знакомство_с_Twitter_Bootstrap_4.dir/1.1.Знакомство_с_фреймворком..dir/_site/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Bootstrap/Containers/Live_learn/ITVDN_BS_4/1.Урок_1_Знакомство_с_Twitter_Bootstrap_4.dir/1.1.Знакомство_с_фреймворком..dir/_site/ReadMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Bootstrap/Containers/Live_learn/ITVDN_BS_4/1.Урок_1_Знакомство_с_Twitter_Bootstrap_4.dir/1.2.Способы_подключения_фреймворка..dir/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Bootstrap/Containers/Live_learn/ITVDN_BS_4/1.Урок_1_Знакомство_с_Twitter_Bootstrap_4.dir/1.2.Способы_подключения_фреймворка..dir/ReadMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Bootstrap/Containers/Live_learn/ITVDN_BS_4/md.ancors.md.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Bootstrap/cat._Bootstrap/dir._Bootstrap.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Bootstrap/cat._Bootstrap/dir._Bootstrap.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__/cat.__/dir.__.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/__/cat.__/dir.__.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/cat._Index/dir._Index.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/cat._Index/dir._Index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/cat._Md/dir._Md.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/cat._Md/dir._Md.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tmp/last_commit.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Tmp/last_commit.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,7 +137,7 @@
     <property name="add_unversioned_files" value="$PROJECT_DIR$/Jobs/SetGlobLoggers/ModLogger_1/Core/Logs/eLogs.txt&#10;true" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="12.18.3" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/ToUse/CreateDir" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7.1/Examples/cleare" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.jscs" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -156,19 +163,19 @@
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains_\IntelliJ IDEA 2020.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\Node_projects\Node_Way\ToUse\CreateDir" />
-      <recent name="E:\Node_projects\Node_Way\NBase\_Md\_Index\_Bootstrap\Containers\Live_learn\ITVDN_BS_4\1.Урок_1_Знакомство_с_Twitter_Bootstrap_4.dir\1.1.Знакомство_с_фреймворком..dir" />
-      <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1\SetDirFile\CreateDirFile\CreateTechDir_1_v_2" />
-      <recent name="E:\Node_projects\Node_Way\node_modules\st_ex1\SetDirFile\CreateDirFile" />
-      <recent name="E:\Node_projects\Node_Way\NBase\_Md\_Index\_Bootstrap\Containers\Live_learn\ITVDN_BS_4" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Node_projects\Node_Way\ToUse\CreateDir\site_1" />
       <recent name="E:\Node_projects\Node_Way\NBase\_Md\_Index\_Bootstrap\Containers\Live_learn\ITVDN_BS_4\1.Урок_1_Знакомство_с_Twitter_Bootstrap_4.dir\1.1.Знакомство_с_фреймворком..dir\_site" />
       <recent name="E:\Node_projects\Node_Way\Jobs\CataloguerFs\CreateCatalog\AFP5_0.1_ctlg_1_to_2.v.4\Examples\cleare\DIR_root\dir_1" />
       <recent name="E:\Node_projects\Node_Way\Jobs\AnliticsFs\ObjectAnalitics\AFP5_0.1_object_mod_1\_Examples\cleare\DIR" />
       <recent name="E:\Node_projects\Node_Way\Jobs\Base\Treat_gov\GB.v.1\AFP5_0.1_govBase_all_to_json" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Node_projects\Node_Way\Jobs\CataloguerFs\CreateCatalog\AFP5_0.1_ctlg_1_to_2.v.0.1.7.1\Examples\cleare" />
+      <recent name="E:\Node_projects\Node_Way\Jobs\CataloguerFs\CreateCatalog\AFP5_0.1_ctlg_1_to_2.v.0.1.7.1\Examples\cleare\DIR_root_before_test\dir_1\dir_1_1" />
+      <recent name="E:\Node_projects\Node_Way\Jobs\CataloguerFs\CreateCatalog" />
+      <recent name="E:\Node_projects\Node_Way\ToUse\CreateDir" />
+      <recent name="E:\Node_projects\Node_Way\NBase\_Md\_Index\_Bootstrap\Containers\Live_learn\ITVDN_BS_4\1.Урок_1_Знакомство_с_Twitter_Bootstrap_4.dir\1.1.Знакомство_с_фреймворком..dir" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.CreateDirFree_v_1_site_1.js (1)">
@@ -467,6 +474,7 @@
       <workItem from="1609317156749" duration="6487000" />
       <workItem from="1609401847941" duration="10740000" />
       <workItem from="1609423377392" duration="2115000" />
+      <workItem from="1609483504463" duration="2364000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
@@ -1094,10 +1102,10 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="151" y="91" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1605848299820" />
-    <state x="1554" y="17" width="972" height="960" key="dock-window-1" timestamp="1608992833107">
+    <state x="1630" y="0" width="914" height="989" key="dock-window-1" timestamp="1609489616192">
       <screen x="1440" y="0" width="1280" height="1024" />
     </state>
-    <state x="1554" y="17" width="972" height="960" key="dock-window-1/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1608992833107" />
+    <state x="1630" y="0" width="914" height="989" key="dock-window-1/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1609489616192" />
     <state x="1497" y="157" width="819" height="752" key="dock-window-10" timestamp="1603162358034">
       <screen x="1440" y="0" width="1280" height="1024" />
     </state>
@@ -1150,10 +1158,6 @@
       <screen x="1440" y="0" width="1280" height="1024" />
     </state>
     <state x="1943" y="50" width="793" height="917" key="dock-window-9/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1604658565758" />
-    <state x="1639" y="10" width="1064" height="969" key="find.popup" timestamp="1600806547904">
-      <screen x="1440" y="0" width="1280" height="1024" />
-    </state>
-    <state x="1639" y="10" width="1064" height="969" key="find.popup/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1600806547904" />
     <state width="750" height="535" key="javadoc.popup" timestamp="1601437951950">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
