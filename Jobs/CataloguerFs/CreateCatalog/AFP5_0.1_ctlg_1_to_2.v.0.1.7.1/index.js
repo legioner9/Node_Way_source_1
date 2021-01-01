@@ -268,22 +268,27 @@ const Func_examp = ( obj_ctlg_1, arr_tag, arr_excd, arr_excf, delete_file_arr_re
                     const regExp = new RegExp ( item );
                     if_delete = if_delete && !!name_file.match ( regExp );
                 } );
+                arr_excf.map ( item => {
+                    if_ignore = if_ignore && ( item === name_file.split ( '.' )[0] );
+                } );
 
                 debugger
-                if ( if_delete ) {
-                    s_Fs.s_unlinkSync ( arr_i ); // delete
+                if ( !if_ignore ) {
+
+                    if ( if_delete ) {
+                        s_Fs.s_unlinkSync ( arr_i ); // delete
+                    }
+                    else if ( if_path ( arr_i ) ) {
+                        const arr_content_of_file = extr_file ( arr_i );
+
+                        data_init += '    - ' + path_to_href ( arr_i ) + '\n';
+                        arr_content_of_file.map ( item => {
+                            data_init += '        - *' + item + '\n';
+                        } );
+                        // data = add_from_file ( data, arr_init[i] );
+
+                    }
                 }
-                else if ( if_path ( arr_i ) ) {
-                    const arr_content_of_file = extr_file ( arr_i );
-
-                    data_init += '    - ' + path_to_href ( arr_i ) + '\n';
-                    arr_content_of_file.map ( item => {
-                        data_init += '        - *' + item + '\n';
-                    } );
-                    // data = add_from_file ( data, arr_init[i] );
-
-                }
-
             }
         }
         if ( data_init ) data_write = '- ' + path_to_root_href ( arr_0 ) + '\n' + data_init;

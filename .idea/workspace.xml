@@ -27,14 +27,25 @@
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Bootstrap/Containers/Live_learn/ITVDN_BS_4/1.Урок_1_Знакомство_с_Twitter_Bootstrap_4.dir/1.1.Знакомство_с_фреймворком..dir/_site/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Bootstrap/Containers/Live_learn/ITVDN_BS_4/1.Урок_1_Знакомство_с_Twitter_Bootstrap_4.dir/1.1.Знакомство_с_фреймворком..dir/_site/ReadMe.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Bootstrap/Containers/Live_learn/ITVDN_BS_4/1.Урок_1_Знакомство_с_Twitter_Bootstrap_4.dir/1.2.Способы_подключения_фреймворка..dir/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Bootstrap/Containers/Live_learn/ITVDN_BS_4/1.Урок_1_Знакомство_с_Twitter_Bootstrap_4.dir/1.2.Способы_подключения_фреймворка..dir/ReadMe.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Bootstrap/Containers/Live_learn/ITVDN_BS_4/md.ancors.md.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Bootstrap/cat._Bootstrap/dir._Bootstrap.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Bootstrap/cat._Bootstrap/dir._Bootstrap.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__/cat.__/dir.__.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/__/cat.__/dir.__.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/cat._Index/dir._Index.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/cat._Index/dir._Index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/cat._Md/dir._Md.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/cat._Md/dir._Md.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tmp/last_commit.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Tmp/last_commit.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7.1/Examples/cleare/DIR_root/cat.DIR_root/dir.DIR_root.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7.1/Examples/cleare/DIR_root/cat.DIR_root/garbage.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7.1/Examples/cleare/DIR_root/dir_1/cat.dir_1/dir.dir_1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7.1/Examples/cleare/DIR_root/dir_1/dir_1_1/cat.dir_1_1/dir.dir_1_1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7.1/Examples/cleare/DIR_root/dir_1/dir_1_1/excf.file_1_1_0.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7.1/Examples/cleare/DIR_root/dir_1/dir_1_1/file_1_1_0.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7.1/Examples/cleare/DIR_root/dir_1/dir_1_1/file_empty.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7.1/Examples/cleare/DIR_root/dir_1/excd.dir_1_2/any.ext" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7.1/Examples/cleare/DIR_root/dir_1/excd.dir_1_2/file_1_1_1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7.1/Examples/cleare/DIR_root/dir_1/excd.dir_1_2/file_empty.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7.1/Examples/cleare/DIR_root/dir_1/excd.dir_1_2/garbage.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7.1/Examples/cleare/DIR_root/dir_1/excd.dir_1_2/ik_deg_rr.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7.1/Examples/cleare/DIR_root/dir_2/any.ext" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7.1/Examples/cleare/DIR_root/dir_2/cat.dir_2/dir.dir_2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7.1/Examples/cleare/DIR_root/dir_2/cat.dir_2/garbage.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7.1/Examples/cleare/DIR_root/dir_2/cat.dir_2/ik_deg_rr.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7.1/Examples/cleare/DIR_root/dir_2/file_2_1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7.1/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7.1/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_C++/Containers/Intro_to_this/Vasiliev/Headers/headers.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -172,10 +183,10 @@
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\Node_projects\Node_Way\Jobs\CataloguerFs\CreateCatalog\AFP5_0.1_ctlg_1_to_2.v.0.1.7.1\Examples\cleare" />
+      <recent name="E:\Node_projects\Node_Way\Jobs\CataloguerFs\CreateCatalog\AFP5_0.1_ctlg_1_to_2.v.0.1.7.1\Examples\cleare\DIR_root_before_test" />
+      <recent name="E:\Node_projects\Node_Way\Jobs\CataloguerFs\CreateCatalog\AFP5_0.1_ctlg_1_to_2.v.0.1.7.1\Examples\cleare\DIR_root" />
       <recent name="E:\Node_projects\Node_Way\Jobs\CataloguerFs\CreateCatalog\AFP5_0.1_ctlg_1_to_2.v.0.1.7.1\Examples\cleare\DIR_root_before_test\dir_1\dir_1_1" />
       <recent name="E:\Node_projects\Node_Way\Jobs\CataloguerFs\CreateCatalog" />
-      <recent name="E:\Node_projects\Node_Way\ToUse\CreateDir" />
-      <recent name="E:\Node_projects\Node_Way\NBase\_Md\_Index\_Bootstrap\Containers\Live_learn\ITVDN_BS_4\1.Урок_1_Знакомство_с_Twitter_Bootstrap_4.dir\1.1.Знакомство_с_фреймворком..dir" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.CreateDirFree_v_1_site_1.js (1)">
@@ -474,7 +485,7 @@
       <workItem from="1609317156749" duration="6487000" />
       <workItem from="1609401847941" duration="10740000" />
       <workItem from="1609423377392" duration="2115000" />
-      <workItem from="1609483504463" duration="2364000" />
+      <workItem from="1609483504463" duration="5157000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
