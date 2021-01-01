@@ -159,10 +159,6 @@
                         - *# type cast
                         - *# ternary assignment
                         - *# predicate IN
-                    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_HPW\Part_I\content\Courses\Fundamentals\__internal_development\__structureUnits.md">__structureUnits.md</a>
-                        - *@__f_aml_structure_units_code(AML)
-                    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_HPW\Part_I\content\Courses\Fundamentals\__internal_development\__tag_table.md">__tag_table.md</a>
-                        - *@__f_fund_tag_table_fundamentals
                 
             
             - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_HPW\Part_I\content\Courses\Fundamentals.md">Fundamentals.md</a>
@@ -237,12 +233,3 @@
                 - *# Веб-технологии
         
     
-    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_HPW\Part_I\src\cat.src\dir.src.md">src</a>
-        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_HPW\Part_I\src\_src.md">_src.md</a>
-            - *@[file_src.md](file_src.md)
-            - *@[_NameDir](NameDir/_NameDir.md)
-    
-    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_HPW\Part_I\_Part_I.md">_Part_I.md</a>
-        - *@[content](content/_content.md)
-        - *@[contaners](contaners/_contaners.md)
-        - *@[src](src/_src.md)

@@ -1,26 +1,4 @@
 - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Arch\_EGE\cat._EGE\dir._EGE.md">_EGE</a>
-    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Arch\_EGE\Информатика\cat.Информатика\dir.Информатика.md">Информатика</a>
-        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Arch\_EGE\Информатика\src\cat.src\dir.src.md">src</a>
-            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Arch\_EGE\Информатика\src\_src.md">_src.md</a>
-                - *@[file_src.md](file_src.md)
-                - *@[_NameDir](NameDir/_NameDir.md)
-        
-        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Arch\_EGE\Информатика\_Part_I.md">_Part_I.md</a>
-            - *@[content](content/_content.md)
-            - *@[contaners](contaners/_contaners.md)
-            - *@[src](src/_src.md)
-    
-    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Arch\_EGE\Математика\cat.Математика\dir.Математика.md">Математика</a>
-        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Arch\_EGE\Математика\src\cat.src\dir.src.md">src</a>
-            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Arch\_EGE\Математика\src\_src.md">_src.md</a>
-                - *@[file_src.md](file_src.md)
-                - *@[_NameDir](NameDir/_NameDir.md)
-        
-        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Arch\_EGE\Математика\_Part_I.md">_Part_I.md</a>
-            - *@[content](content/_content.md)
-            - *@[contaners](contaners/_contaners.md)
-            - *@[src](src/_src.md)
-    
     - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Arch\_EGE\Русский\cat.Русский\dir.Русский.md">Русский</a>
         - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Arch\_EGE\Русский\contaners\cat.contaners\dir.contaners.md">contaners</a>
             - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Arch\_EGE\Русский\contaners\contaner_1\cat.contaner_1\dir.contaner_1.md">contaner_1</a>
@@ -108,17 +86,6 @@
                     - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Arch\_EGE\Русский\contaners\contaner_1\9\exept.md">exept.md</a>
                         - *# Чередование гласных
                 
-                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Arch\_EGE\Русский\contaners\contaner_1\Билеты_по_номерам.md">Билеты_по_номерам.md</a>
-                    - *@__s_EGE
             
         
-        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Arch\_EGE\Русский\src\cat.src\dir.src.md">src</a>
-            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Arch\_EGE\Русский\src\_src.md">_src.md</a>
-                - *@[file_src.md](file_src.md)
-                - *@[_NameDir](NameDir/_NameDir.md)
-        
-        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Arch\_EGE\Русский\_Part_I.md">_Part_I.md</a>
-            - *@[content](content/_content.md)
-            - *@[contaners](contaners/_contaners.md)
-            - *@[src](src/_src.md)
     

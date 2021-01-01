@@ -84,6 +84,4 @@
             - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Arch\_EGE\Русский\contaners\contaner_1\9\exept.md">exept.md</a>
                 - *# Чередование гласных
         
-        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Arch\_EGE\Русский\contaners\contaner_1\Билеты_по_номерам.md">Билеты_по_номерам.md</a>
-            - *@__s_EGE
     

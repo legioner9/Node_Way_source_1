@@ -27,25 +27,325 @@
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7.1/Examples/cleare/DIR_root/cat.DIR_root/dir.DIR_root.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7.1/Examples/cleare/DIR_root/cat.DIR_root/garbage.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7.1/Examples/cleare/DIR_root/dir_1/cat.dir_1/dir.dir_1.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7.1/Examples/cleare/DIR_root/dir_1/dir_1_1/cat.dir_1_1/dir.dir_1_1.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7.1/Examples/cleare/DIR_root/dir_1/dir_1_1/excf.file_1_1_0.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7.1/Examples/cleare/DIR_root/dir_1/dir_1_1/file_1_1_0.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7.1/Examples/cleare/DIR_root/dir_1/dir_1_1/file_empty.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7.1/Examples/cleare/DIR_root/dir_1/excd.dir_1_2/any.ext" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7.1/Examples/cleare/DIR_root/dir_1/excd.dir_1_2/file_1_1_1.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7.1/Examples/cleare/DIR_root/dir_1/excd.dir_1_2/file_empty.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7.1/Examples/cleare/DIR_root/dir_1/excd.dir_1_2/garbage.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7.1/Examples/cleare/DIR_root/dir_1/excd.dir_1_2/ik_deg_rr.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7.1/Examples/cleare/DIR_root/dir_2/any.ext" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7.1/Examples/cleare/DIR_root/dir_2/cat.dir_2/dir.dir_2.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7.1/Examples/cleare/DIR_root/dir_2/cat.dir_2/garbage.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7.1/Examples/cleare/DIR_root/dir_2/cat.dir_2/ik_deg_rr.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7.1/Examples/cleare/DIR_root/dir_2/file_2_1.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7.1/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7.1/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_C++/Containers/Intro_to_this/Vasiliev/Headers/headers.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/IlKan/cat.IlKan/dir.IlKan.md" beforeDir="false" afterPath="$PROJECT_DIR$/Education/IlKan/cat.IlKan/dir.IlKan.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/Part_1_md.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/cat.Part_1/dir.Part_1.md" beforeDir="false" afterPath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/cat.Part_1/dir.Part_1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/Part_2_md.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_2/cat.Part_2/dir.Part_2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/_src/cat._src/dir._src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/_src/prepear/Part_1_md.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/_src/prepear/Part_2_md.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/_src/prepear/cat.prepear/dir.prepear.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/cat.js.ru/dir.js.ru.md" beforeDir="false" afterPath="$PROJECT_DIR$/Education/IlKan/js.ru/cat.js.ru/dir.js.ru.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/cat.Education/dir.Education.md" beforeDir="false" afterPath="$PROJECT_DIR$/Education/cat.Education/dir.Education.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/src/Markdown_DOCS/Extense_Docs/cat.Extense_Docs/dir.Extense_Docs.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/src/Markdown_DOCS/cat.Markdown_DOCS/dir.Markdown_DOCS.md" beforeDir="false" afterPath="$PROJECT_DIR$/Education/src/Markdown_DOCS/cat.Markdown_DOCS/dir.Markdown_DOCS.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/src/cat.src/dir.src.md" beforeDir="false" afterPath="$PROJECT_DIR$/Education/src/cat.src/dir.src.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7.1/Examples/cleare/test_ini_module.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7.1/Examples/cleare/test_ini_module.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7.1/Examples/cleare/test_ini_module.v.0.1.7.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7.1/Examples/cleare/test_ini_module.v.0.1.7.1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Bash/cat._Bash/dir._Bash.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Bash/cat._Bash/dir._Bash.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Bash/contaners/cat.contaners/dir.contaners.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Bash/contaners/cat.contaners/dir.contaners.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Bash_Scripts/cat._Bash_Scripts/dir._Bash_Scripts.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Bash_Scripts/cat._Bash_Scripts/dir._Bash_Scripts.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Bash_Scripts/src/cat.src/dir.src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Bootstrap/Containers/Live_learn/ITVDN_BS_4/cat.ITVDN_BS_4/dir.ITVDN_BS_4.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Bootstrap/Containers/Live_learn/ITVDN_BS_4/cat.ITVDN_BS_4/dir.ITVDN_BS_4.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Bootstrap/Containers/Live_learn/cat.Live_learn/dir.Live_learn.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Bootstrap/Containers/Live_learn/cat.Live_learn/dir.Live_learn.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Bootstrap/Containers/cat.Containers/dir.Containers.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Bootstrap/Containers/cat.Containers/dir.Containers.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Bootstrap/cat._Bootstrap/dir._Bootstrap.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Bootstrap/cat._Bootstrap/dir._Bootstrap.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_C++/Containers/Intro_to_this/Vasiliev/Headers/cat.Headers/dir.Headers.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_C++/Containers/Intro_to_this/Vasiliev/cat.Vasiliev/dir.Vasiliev.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_C++/Containers/Intro_to_this/Vasiliev/cat.Vasiliev/dir.Vasiliev.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_C++/Containers/Intro_to_this/Vasiliev/headers.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_C++/Containers/Intro_to_this/cat.Intro_to_this/dir.Intro_to_this.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_C++/Containers/Intro_to_this/cat.Intro_to_this/dir.Intro_to_this.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_C++/Containers/cat.Containers/dir.Containers.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_C++/Containers/cat.Containers/dir.Containers.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_C++/cat._C++/dir._C++.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_C++/cat._C++/dir._C++.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Fedora/cat._Fedora/dir._Fedora.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Fedora/cat._Fedora/dir._Fedora.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Fedora/src/cat.src/dir.src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/cat._Git/dir._Git.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/cat._Git/dir._Git.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/src/cat.src/dir.src.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/src/cat.src/dir.src.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_II_level/cat._II_level/dir._II_level.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_II_level/src/cat.src/dir.src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_I_level/Part_I/cat.Part_I/dir.Part_I.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_I_level/Part_I/src/cat.src/dir.src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_I_level/cat._I_level/dir._I_level.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Linux/cat._Linux/dir._Linux.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Linux/src/cat.src/dir.src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_WebJS/Content/Docs/MDN_docs_Web_API/Point_learn/cat.Point_learn/dir.Point_learn.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_WebJS/Content/Docs/MDN_docs_Web_API/Point_learn/cat.Point_learn/dir.Point_learn.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_WebJS/Content/Docs/MDN_docs_Web_API/Point_learn/mozilla.org_docs_Web_CSS/cat.mozilla.org_docs_Web_CSS/dir.mozilla.org_docs_Web_CSS.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_WebJS/Content/Docs/MDN_docs_Web_API/Point_learn/mozilla.org_docs_Web_CSS/cat.mozilla.org_docs_Web_CSS/dir.mozilla.org_docs_Web_CSS.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_WebJS/Content/Docs/MDN_docs_Web_API/Point_learn/mozilla.org_docs_Web_CSS/list_learn/ancor_list_for_scripts.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_WebJS/Content/Docs/MDN_docs_Web_API/Point_learn/mozilla.org_docs_Web_CSS/list_learn/cat.list_learn/dir.list_learn.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_WebJS/Content/Docs/MDN_docs_Web_API/Point_learn/mozilla.org_docs_Web_CSS/list_learn/cat.list_learn/dir.list_learn.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_WebJS/Content/Docs/MDN_docs_Web_API/Point_learn/mozilla.org_docs_Web_CSS/prepear_ancor_list/ancor_list_4.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_WebJS/Content/Docs/MDN_docs_Web_API/Point_learn/mozilla.org_docs_Web_CSS/prepear_ancor_list/ancor_list_5.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_WebJS/Content/Docs/MDN_docs_Web_API/Point_learn/mozilla.org_docs_Web_CSS/prepear_ancor_list/ancor_list_for_scripts.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_WebJS/Content/Docs/MDN_docs_Web_API/Point_learn/mozilla.org_docs_Web_CSS/prepear_ancor_list/cat.prepear_ancor_list/dir.prepear_ancor_list.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_WebJS/Content/Docs/MDN_docs_Web_API/Point_learn/mozilla.org_docs_Web_CSS/prepear_ancor_list/cat.prepear_ancor_list/dir.prepear_ancor_list.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_WebJS/Content/Docs/MDN_docs_Web_API/cat.MDN_docs_Web_API/dir.MDN_docs_Web_API.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_WebJS/Content/Docs/MDN_docs_Web_API/cat.MDN_docs_Web_API/dir.MDN_docs_Web_API.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_WebJS/Content/Docs/cat.Docs/dir.Docs.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_WebJS/Content/Docs/cat.Docs/dir.Docs.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_WebJS/Content/cat.Content/dir.Content.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_WebJS/Content/cat.Content/dir.Content.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_WebJS/cat._WebJS/dir._WebJS.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_WebJS/cat._WebJS/dir._WebJS.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Arch/_EGE/cat._EGE/dir._EGE.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/__Arch/_EGE/cat._EGE/dir._EGE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Arch/_EGE/Информатика/cat.Информатика/dir.Информатика.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Arch/_EGE/Информатика/src/cat.src/dir.src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Arch/_EGE/Математика/cat.Математика/dir.Математика.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Arch/_EGE/Математика/src/cat.src/dir.src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Arch/_EGE/Русский/cat.Русский/dir.Русский.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/__Arch/_EGE/Русский/cat.Русский/dir.Русский.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Arch/_EGE/Русский/contaners/cat.contaners/dir.contaners.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/__Arch/_EGE/Русский/contaners/cat.contaners/dir.contaners.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Arch/_EGE/Русский/contaners/contaner_1/cat.contaner_1/dir.contaner_1.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/__Arch/_EGE/Русский/contaners/contaner_1/cat.contaner_1/dir.contaner_1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Arch/_EGE/Русский/src/cat.src/dir.src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Arch/_Md/Part_I/cat.Part_I/dir.Part_I.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/__Arch/_Md/Part_I/cat.Part_I/dir.Part_I.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Arch/_Md/Part_I/content/Docs/Markdown_DOCS/Extense_Docs/cat.Extense_Docs/dir.Extense_Docs.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Arch/_Md/Part_I/content/Docs/Markdown_DOCS/cat.Markdown_DOCS/dir.Markdown_DOCS.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/__Arch/_Md/Part_I/content/Docs/Markdown_DOCS/cat.Markdown_DOCS/dir.Markdown_DOCS.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Arch/_Md/Part_I/content/Docs/cat.Docs/dir.Docs.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/__Arch/_Md/Part_I/content/Docs/cat.Docs/dir.Docs.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Arch/_Md/Part_I/content/cat.content/dir.content.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/__Arch/_Md/Part_I/content/cat.content/dir.content.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Arch/_Md/Part_I/src/cat.src/dir.src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Arch/_Md/cat._Md/dir._Md.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/__Arch/_Md/cat._Md/dir._Md.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Arch/cat.__Arch/dir.__Arch.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/__Arch/cat.__Arch/dir.__Arch.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_Asterisk/Part_I/cat.Part_I/dir.Part_I.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_Asterisk/Part_I/src/cat.src/dir.src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_Asterisk/cat._Asterisk/dir._Asterisk.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_CSS_EGMT/Part_I/cat.Part_I/dir.Part_I.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_CSS_EGMT/Part_I/src/cat.src/dir.src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_CSS_EGMT/cat._CSS_EGMT/dir._CSS_EGMT.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_DOTNET/_ASM/Part_I/cat.Part_I/dir.Part_I.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_DOTNET/_ASM/Part_I/src/cat.src/dir.src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_DOTNET/_ASM/cat._ASM/dir._ASM.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_DOTNET/_C#/Part_I/cat.Part_I/dir.Part_I.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_DOTNET/_C#/Part_I/src/cat.src/dir.src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_DOTNET/_C#/cat._C#/dir._C#.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_DOTNET/_C/Part_I/cat.Part_I/dir.Part_I.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_DOTNET/_C/Part_I/src/cat.src/dir.src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_DOTNET/_C/cat._C/dir._C.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_DOTNET/cat._DOTNET/dir._DOTNET.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_Docker/Part_I/cat.Part_I/dir.Part_I.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_Docker/Part_I/src/cat.src/dir.src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_Docker/cat._Docker/dir._Docker.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_FunctionalProgramming/Part_I/cat.Part_I/dir.Part_I.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_FunctionalProgramming/Part_I/src/cat.src/dir.src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_FunctionalProgramming/cat._FunctionalProgramming/dir._FunctionalProgramming.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_HPW/Part_I/cat.Part_I/dir.Part_I.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_HPW/Part_I/cat.Part_I/dir.Part_I.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_HPW/Part_I/content/Courses/Fundamentals/__internal_development/cat.__internal_development/dir.__internal_development.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_HPW/Part_I/content/Courses/Fundamentals/__internal_development/cat.__internal_development/dir.__internal_development.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_HPW/Part_I/content/Courses/Fundamentals/cat.Fundamentals/dir.Fundamentals.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_HPW/Part_I/content/Courses/Fundamentals/cat.Fundamentals/dir.Fundamentals.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_HPW/Part_I/content/Courses/cat.Courses/dir.Courses.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_HPW/Part_I/content/Courses/cat.Courses/dir.Courses.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_HPW/Part_I/content/cat.content/dir.content.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_HPW/Part_I/content/cat.content/dir.content.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_HPW/Part_I/src/cat.src/dir.src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_HPW/cat._HPW/dir._HPW.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_HPW/cat._HPW/dir._HPW.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_HTML/Part_I/cat.Part_I/dir.Part_I.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_HTML/Part_I/src/cat.src/dir.src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_HTML/cat._HTML/dir._HTML.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_JS/Jsdoc/cat.Jsdoc/dir.Jsdoc.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_JS/Jsdoc/src/cat.src/dir.src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_JS/NodeJs/Part_I/cat.Part_I/dir.Part_I.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_JS/NodeJs/Part_I/src/cat.src/dir.src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_JS/NodeJs/cat.NodeJs/dir.NodeJs.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_JS/VJs/Part_I/cat.Part_I/dir.Part_I.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_JS/VJs/Part_I/src/cat.src/dir.src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_JS/VJs/cat.VJs/dir.VJs.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_JS/Yuidocjs/cat.Yuidocjs/dir.Yuidocjs.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_JS/Yuidocjs/src/cat.src/dir.src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_JS/cat._JS/dir._JS.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_Library/Part_I/cat.Part_I/dir.Part_I.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_Library/Part_I/src/cat.src/dir.src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_Library/Sources/cat.Sources/dir.Sources.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_Library/Sources/src/cat.src/dir.src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_Library/cat._Library/dir._Library.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_LifeProcesses/Part_I/cat.Part_I/dir.Part_I.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_LifeProcesses/Part_I/contaners/cat.contaners/dir.contaners.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_LifeProcesses/Part_I/contaners/contaner_1/_LJson/cat._LJson/dir._LJson.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_LifeProcesses/Part_I/contaners/contaner_1/cat.contaner_1/dir.contaner_1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_LifeProcesses/Part_I/contaners/contaner_2/cat.contaner_2/dir.contaner_2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_LifeProcesses/Part_I/src/cat.src/dir.src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_LifeProcesses/cat._LifeProcesses/dir._LifeProcesses.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_Lint/_Eslint/Part_I/cat.Part_I/dir.Part_I.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_Lint/_Eslint/Part_I/src/cat.src/dir.src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_Lint/_Eslint/cat._Eslint/dir._Eslint.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_Lint/_I_level copy 2/Part_I/cat.Part_I/dir.Part_I.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_Lint/_I_level copy 2/Part_I/src/cat.src/dir.src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_Lint/_I_level copy 2/cat._I_level copy 2/dir._I_level copy 2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_Lint/_I_level copy/Part_I/cat.Part_I/dir.Part_I.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_Lint/_I_level copy/Part_I/src/cat.src/dir.src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_Lint/_I_level copy/cat._I_level copy/dir._I_level copy.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_Lint/cat._Lint/dir._Lint.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_Metarhia/Part_I/cat.Part_I/dir.Part_I.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_Metarhia/Part_I/src/cat.src/dir.src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_Metarhia/cat._Metarhia/dir._Metarhia.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_MyProjects/_I_level copy/Organizer/cat.Organizer/dir.Organizer.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_MyProjects/_I_level copy/Organizer/cat.Organizer/dir.Organizer.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_MyProjects/_I_level copy/Organizer/src/cat.src/dir.src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_MyProjects/_I_level copy/cat._I_level copy/dir._I_level copy.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_MyProjects/_I_level copy/cat._I_level copy/dir._I_level copy.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_MyProjects/cat._MyProjects/dir._MyProjects.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_MyProjects/cat._MyProjects/dir._MyProjects.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_Postgres/GUI/cat.GUI/dir.GUI.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_Postgres/GUI/src/cat.src/dir.src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_Postgres/cat._Postgres/dir._Postgres.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_TS/Part_I/cat.Part_I/dir.Part_I.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_TS/Part_I/src/cat.src/dir.src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_TS/cat._TS/dir._TS.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_TSH/Part_I/cat.Part_I/dir.Part_I.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_TSH/Part_I/src/cat.src/dir.src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_TSH/cat._TSH/dir._TSH.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_Theory/Arhitecture/cat.Arhitecture/dir.Arhitecture.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_Theory/Arhitecture/src/cat.src/dir.src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_Theory/Part_I/cat.Part_I/dir.Part_I.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_Theory/Part_I/src/cat.src/dir.src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_Theory/cat._Theory/dir._Theory.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_Uml/GUI/EnterpriseArchitect/cat.EnterpriseArchitect/dir.EnterpriseArchitect.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_Uml/GUI/EnterpriseArchitect/src/cat.src/dir.src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_Uml/GUI/PlantUml/cat.PlantUml/dir.PlantUml.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_Uml/GUI/PlantUml/src/cat.src/dir.src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_Uml/GUI/Powerdesigner/cat.Powerdesigner/dir.Powerdesigner.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_Uml/GUI/Powerdesigner/src/cat.src/dir.src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_Uml/GUI/StarUml/cat.StarUml/dir.StarUml.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_Uml/GUI/StarUml/src/cat.src/dir.src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_Uml/GUI/VisualParadigm/cat.VisualParadigm/dir.VisualParadigm.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_Uml/GUI/VisualParadigm/cat.VisualParadigm/dir.VisualParadigm.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_Uml/GUI/VisualParadigm/src/cat.src/dir.src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_Uml/GUI/cat.GUI/dir.GUI.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_Uml/GUI/cat.GUI/dir.GUI.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_Uml/Main_I/cat.Main_I/dir.Main_I.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_Uml/Main_I/cat.Main_I/dir.Main_I.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_Uml/Main_I/contaners/cat.contaners/dir.contaners.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_Uml/Main_I/contaners/cat.contaners/dir.contaners.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_Uml/Main_I/contaners/contaner_2/cat.contaner_2/dir.contaner_2.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_Uml/Main_I/contaners/contaner_2/cat.contaner_2/dir.contaner_2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_Uml/Main_I/contaners/contaner_2/courses/cat.courses/dir.courses.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_Uml/Main_I/contaners/contaner_2/courses/cat.courses/dir.courses.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_Uml/Main_I/contaners/contaner_2/courses/landwatersun.youtube/cat.landwatersun.youtube/dir.landwatersun.youtube.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_Uml/Main_I/contaners/contaner_2/courses/landwatersun.youtube/cat.landwatersun.youtube/dir.landwatersun.youtube.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_Uml/Main_I/src/cat.src/dir.src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_Uml/cat._Uml/dir._Uml.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_Uml/cat._Uml/dir._Uml.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_WEB_API/MDN/_I_level copy 10/Part_I/cat.Part_I/dir.Part_I.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_WEB_API/MDN/_I_level copy 10/Part_I/src/cat.src/dir.src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_WEB_API/MDN/_I_level copy 10/cat._I_level copy 10/dir._I_level copy 10.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_WEB_API/MDN/_I_level copy 2/Part_I/cat.Part_I/dir.Part_I.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_WEB_API/MDN/_I_level copy 2/Part_I/src/cat.src/dir.src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_WEB_API/MDN/_I_level copy 2/cat._I_level copy 2/dir._I_level copy 2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_WEB_API/MDN/_I_level copy 3/Part_I/cat.Part_I/dir.Part_I.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_WEB_API/MDN/_I_level copy 3/Part_I/src/cat.src/dir.src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_WEB_API/MDN/_I_level copy 3/cat._I_level copy 3/dir._I_level copy 3.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_WEB_API/MDN/_I_level copy 4/Part_I/cat.Part_I/dir.Part_I.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_WEB_API/MDN/_I_level copy 4/Part_I/src/cat.src/dir.src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_WEB_API/MDN/_I_level copy 4/cat._I_level copy 4/dir._I_level copy 4.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_WEB_API/MDN/_I_level copy 5/Part_I/cat.Part_I/dir.Part_I.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_WEB_API/MDN/_I_level copy 5/Part_I/src/cat.src/dir.src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_WEB_API/MDN/_I_level copy 5/cat._I_level copy 5/dir._I_level copy 5.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_WEB_API/MDN/_I_level copy 6/Part_I/cat.Part_I/dir.Part_I.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_WEB_API/MDN/_I_level copy 6/Part_I/src/cat.src/dir.src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_WEB_API/MDN/_I_level copy 6/cat._I_level copy 6/dir._I_level copy 6.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_WEB_API/MDN/_I_level copy 7/Part_I/cat.Part_I/dir.Part_I.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_WEB_API/MDN/_I_level copy 7/Part_I/src/cat.src/dir.src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_WEB_API/MDN/_I_level copy 7/cat._I_level copy 7/dir._I_level copy 7.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_WEB_API/MDN/_I_level copy 8/Part_I/cat.Part_I/dir.Part_I.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_WEB_API/MDN/_I_level copy 8/Part_I/src/cat.src/dir.src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_WEB_API/MDN/_I_level copy 8/cat._I_level copy 8/dir._I_level copy 8.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_WEB_API/MDN/_I_level copy 9/Part_I/cat.Part_I/dir.Part_I.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_WEB_API/MDN/_I_level copy 9/Part_I/src/cat.src/dir.src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_WEB_API/MDN/_I_level copy 9/cat._I_level copy 9/dir._I_level copy 9.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_WEB_API/MDN/_I_level copy/Part_I/cat.Part_I/dir.Part_I.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_WEB_API/MDN/_I_level copy/Part_I/src/cat.src/dir.src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_WEB_API/MDN/_I_level copy/cat._I_level copy/dir._I_level copy.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_WEB_API/MDN/_I_level/Part_I/cat.Part_I/dir.Part_I.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_WEB_API/MDN/_I_level/Part_I/src/cat.src/dir.src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_WEB_API/MDN/_I_level/cat._I_level/dir._I_level.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_WEB_API/MDN/cat.MDN/dir.MDN.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_WEB_API/WHATWG/_Compatibility/Part_I/cat.Part_I/dir.Part_I.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_WEB_API/WHATWG/_Compatibility/Part_I/src/cat.src/dir.src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_WEB_API/WHATWG/_Compatibility/cat._Compatibility/dir._Compatibility.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_WEB_API/WHATWG/_Console/Part_I/cat.Part_I/dir.Part_I.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_WEB_API/WHATWG/_Console/Part_I/src/cat.src/dir.src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_WEB_API/WHATWG/_Console/cat._Console/dir._Console.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_WEB_API/WHATWG/_DOM/Part_I/cat.Part_I/dir.Part_I.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_WEB_API/WHATWG/_DOM/Part_I/src/cat.src/dir.src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_WEB_API/WHATWG/_DOM/cat._DOM/dir._DOM.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_WEB_API/WHATWG/_Encoding/Part_I/cat.Part_I/dir.Part_I.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_WEB_API/WHATWG/_Encoding/Part_I/src/cat.src/dir.src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_WEB_API/WHATWG/_Encoding/cat._Encoding/dir._Encoding.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_WEB_API/WHATWG/_Fetch/Part_I/cat.Part_I/dir.Part_I.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_WEB_API/WHATWG/_Fetch/Part_I/src/cat.src/dir.src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_WEB_API/WHATWG/_Fetch/cat._Fetch/dir._Fetch.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_WEB_API/WHATWG/_Fullscreen_API/Part_I/cat.Part_I/dir.Part_I.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_WEB_API/WHATWG/_Fullscreen_API/Part_I/src/cat.src/dir.src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_WEB_API/WHATWG/_Fullscreen_API/cat._Fullscreen_API/dir._Fullscreen_API.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_WEB_API/WHATWG/_HTML/Part_I/cat.Part_I/dir.Part_I.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_WEB_API/WHATWG/_HTML/Part_I/src/cat.src/dir.src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_WEB_API/WHATWG/_HTML/cat._HTML/dir._HTML.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_WEB_API/WHATWG/_Infra/Part_I/cat.Part_I/dir.Part_I.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_WEB_API/WHATWG/_Infra/Part_I/src/cat.src/dir.src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_WEB_API/WHATWG/_Infra/cat._Infra/dir._Infra.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_WEB_API/WHATWG/_MIME_Sniffing/Part_I/cat.Part_I/dir.Part_I.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_WEB_API/WHATWG/_MIME_Sniffing/Part_I/src/cat.src/dir.src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_WEB_API/WHATWG/_MIME_Sniffing/cat._MIME_Sniffing/dir._MIME_Sniffing.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_WEB_API/WHATWG/_Notifications_API/Part_I/cat.Part_I/dir.Part_I.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_WEB_API/WHATWG/_Notifications_API/Part_I/src/cat.src/dir.src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_WEB_API/WHATWG/_Notifications_API/cat._Notifications_API/dir._Notifications_API.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_WEB_API/WHATWG/_Quirks_Mode/Part_I/cat.Part_I/dir.Part_I.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_WEB_API/WHATWG/_Quirks_Mode/Part_I/src/cat.src/dir.src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_WEB_API/WHATWG/_Quirks_Mode/cat._Quirks_Mode/dir._Quirks_Mode.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_WEB_API/WHATWG/_Storage/Part_I/cat.Part_I/dir.Part_I.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_WEB_API/WHATWG/_Storage/Part_I/src/cat.src/dir.src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_WEB_API/WHATWG/_Storage/cat._Storage/dir._Storage.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_WEB_API/WHATWG/_Streams/Part_I/cat.Part_I/dir.Part_I.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_WEB_API/WHATWG/_Streams/Part_I/src/cat.src/dir.src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_WEB_API/WHATWG/_Streams/cat._Streams/dir._Streams.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_WEB_API/WHATWG/_URL/Part_I/cat.Part_I/dir.Part_I.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_WEB_API/WHATWG/_URL/Part_I/src/cat.src/dir.src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_WEB_API/WHATWG/_URL/cat._URL/dir._URL.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_WEB_API/WHATWG/_XMLHttpRequest/Part_I/cat.Part_I/dir.Part_I.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_WEB_API/WHATWG/_XMLHttpRequest/Part_I/src/cat.src/dir.src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_WEB_API/WHATWG/_XMLHttpRequest/cat._XMLHttpRequest/dir._XMLHttpRequest.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_WEB_API/WHATWG/cat.WHATWG/dir.WHATWG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_WEB_API/cat._WEB_API/dir._WEB_API.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_Web/GUI/Overview/cat.Overview/dir.Overview.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_Web/GUI/Overview/src/cat.src/dir.src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_Web/GUI/Part_I/cat.Part_I/dir.Part_I.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_Web/GUI/Part_I/src/cat.src/dir.src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_Web/GUI/cat.GUI/dir.GUI.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_Web/_Automato/Curl/cat.Curl/dir.Curl.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_Web/_Automato/Curl/src/cat.src/dir.src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_Web/_Automato/Part_I/cat.Part_I/dir.Part_I.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_Web/_Automato/Part_I/src/cat.src/dir.src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_Web/_Automato/Puppeteer/cat.Puppeteer/dir.Puppeteer.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_Web/_Automato/Puppeteer/src/cat.src/dir.src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_Web/_Automato/cat._Automato/dir._Automato.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_Web/_I_level/Part_I/cat.Part_I/dir.Part_I.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_Web/_I_level/Part_I/src/cat.src/dir.src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_Web/_I_level/cat._I_level/dir._I_level.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_Web/cat._Web/dir._Web.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_Zavet/_I_level/Part_I/cat.Part_I/dir.Part_I.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_Zavet/_I_level/Part_I/src/cat.src/dir.src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_Zavet/_I_level/cat._I_level/dir._I_level.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/_Zavet/cat._Zavet/dir._Zavet.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/cat.__Closer/dir.__Closer.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/__Closer/cat.__Closer/dir.__Closer.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Far/_AsciiDoc/_I_level/Part_I/cat.Part_I/dir.Part_I.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Far/_AsciiDoc/_I_level/Part_I/src/cat.src/dir.src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Far/_AsciiDoc/_I_level/cat._I_level/dir._I_level.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Far/_AsciiDoc/cat._AsciiDoc/dir._AsciiDoc.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Far/_GraphQl/Part_I/cat.Part_I/dir.Part_I.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Far/_GraphQl/Part_I/src/cat.src/dir.src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Far/_GraphQl/cat._GraphQl/dir._GraphQl.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Far/_Java/Part_I/cat.Part_I/dir.Part_I.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Far/_Java/Part_I/src/cat.src/dir.src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Far/_Java/cat._Java/dir._Java.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Far/_LaTeX/Part_I/cat.Part_I/dir.Part_I.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Far/_LaTeX/Part_I/src/cat.src/dir.src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Far/_LaTeX/cat._LaTeX/dir._LaTeX.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Far/_MindMap/MindManager/Part_I/cat.Part_I/dir.Part_I.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Far/_MindMap/MindManager/Part_I/src/cat.src/dir.src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Far/_MindMap/MindManager/cat.MindManager/dir.MindManager.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Far/_MindMap/_I_level copy/Part_I/cat.Part_I/dir.Part_I.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Far/_MindMap/_I_level copy/Part_I/src/cat.src/dir.src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Far/_MindMap/_I_level copy/cat._I_level copy/dir._I_level copy.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Far/_MindMap/cat._MindMap/dir._MindMap.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Far/_Pithon/Part_I/cat.Part_I/dir.Part_I.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/__Far/_Pithon/Part_I/cat.Part_I/dir.Part_I.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Far/_Pithon/Part_I/src/cat.src/dir.src.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/__Far/_Pithon/Part_I/src/cat.src/dir.src.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Far/_Pithon/cat._Pithon/dir._Pithon.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/__Far/_Pithon/cat._Pithon/dir._Pithon.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Far/_Print/Part_I/cat.Part_I/dir.Part_I.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Far/_Print/Part_I/src/cat.src/dir.src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Far/_Print/cat._Print/dir._Print.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Far/_Voip/Ozeki/cat.Ozeki/dir.Ozeki.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Far/_Voip/Ozeki/src/cat.src/dir.src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Far/_Voip/Part_I/cat.Part_I/dir.Part_I.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Far/_Voip/Part_I/src/cat.src/dir.src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Far/_Voip/cat._Voip/dir._Voip.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Far/_ZP/Part_I/cat.Part_I/dir.Part_I.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Far/_ZP/Part_I/src/cat.src/dir.src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Far/_ZP/cat._ZP/dir._ZP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__Far/cat.__Far/dir.__Far.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/__Far/cat.__Far/dir.__Far.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__SKILLS/_Flowchart/cat._Flowchart/dir._Flowchart.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/__SKILLS/_Flowchart/cat._Flowchart/dir._Flowchart.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__SKILLS/_Flowchart/src/cat.src/dir.src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__SKILLS/cat.__SKILLS/dir.__SKILLS.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/__SKILLS/cat.__SKILLS/dir.__SKILLS.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/cat._Index/dir._Index.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/cat._Index/dir._Index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/cat._Md/dir._Md.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/cat._Md/dir._Md.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/test_ini_module.v.0.1.7.1__Md.js" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/test_ini_module.v.0.1.7.1__Md.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tmp/last_commit.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Tmp/last_commit.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_ini_module_Education.v.0.1.7.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/test_ini_module_Education.v.0.1.7.1.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -485,7 +785,7 @@
       <workItem from="1609317156749" duration="6487000" />
       <workItem from="1609401847941" duration="10740000" />
       <workItem from="1609423377392" duration="2115000" />
-      <workItem from="1609483504463" duration="5157000" />
+      <workItem from="1609483504463" duration="6951000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>

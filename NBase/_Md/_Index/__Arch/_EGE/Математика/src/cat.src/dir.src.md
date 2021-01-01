@@ -1,4 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Arch\_EGE\Математика\src\cat.src\dir.src.md">src</a>
-    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Arch\_EGE\Математика\src\_src.md">_src.md</a>
-        - *@[file_src.md](file_src.md)
-        - *@[_NameDir](NameDir/_NameDir.md)

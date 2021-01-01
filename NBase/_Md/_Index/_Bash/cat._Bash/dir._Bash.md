@@ -53,12 +53,6 @@
                 
             
         
-        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Bash\contaners\_contaners.md">_contaners.md</a>
-            - *@[contaner_1](contaner_1/_contaner_1.md) :
-            - *@[contaner_2](contaner_2/_contaner_2.md) :
-            - *@[contaner_3](contaner_3/_contaner_3.md) :
-            - *@[contaner_4](contaner_4/_contaner_4.md) :
-            - *@[contaner_5](contaner_5/_contaner_5.md) :
     
     - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Bash\content\cat.content\dir.content.md">content</a>
         - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Bash\content\Usage\cat.Usage\dir.Usage.md">Usage</a>
@@ -78,7 +72,3 @@
             
         
     
-    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Bash\_Bash.md">_Bash.md</a>
-        - *@[content](content/_content.md):
-        - *@[contaners](contaners/_contaners.md):
-        - *@[src](src/_src.md):

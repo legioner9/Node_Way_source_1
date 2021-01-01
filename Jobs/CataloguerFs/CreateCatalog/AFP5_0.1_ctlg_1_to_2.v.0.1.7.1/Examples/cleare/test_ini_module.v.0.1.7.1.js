@@ -19,7 +19,7 @@ const res = anls ( 'DIR_root' );
 
 // anlsFs_1.mode.deb = true;
 // funcExamp ( anls ( 'DIR_root' ) , arr_tag , arr_exception_dir , arr_exception_file , delete_file_arr_regexp)
-funcExamp ( res, [ '#', '@' ], [ 'excd' ], [ 'excf' ]
+funcExamp ( res, [ '#', '@@' ], [ 'excd' ], [ 'excf' ]
     ,['deg']);
 
 console.log ( '\n\nThe END __________________________ process.exit ( 0 )\n\n' );

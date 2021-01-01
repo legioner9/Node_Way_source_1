@@ -589,7 +589,6 @@
                 - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Uml\Main_I\contaners\contaner_2\courses\landwatersun.youtube\cat.landwatersun.youtube\dir.landwatersun.youtube.md">landwatersun.youtube</a>
                     - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Uml\Main_I\contaners\contaner_2\courses\landwatersun.youtube\common_file.md">common_file.md</a>
                         - *# step by step
-                        - *@__s_UML
                     - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Uml\Main_I\contaners\contaner_2\courses\landwatersun.youtube\useCase.md">useCase.md</a>
                         - *# I
                 
@@ -610,16 +609,3 @@
             
         
     
-    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Uml\Main_I\Main_I.md">Main_I.md</a>
-        - *@[content](content/_content.md)
-        - *@[contaners](contaners/_contaners.md)
-        - *@[src](src/_src.md)
-    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Uml\Main_I\src\cat.src\dir.src.md">src</a>
-        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Uml\Main_I\src\_src.md">_src.md</a>
-            - *@[file_src.md](file_src.md)
-            - *@[_NameDir](NameDir/_NameDir.md)
-    
-    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_Uml\Main_I\_Main_I.md">_Main_I.md</a>
-        - *@[content](content/_content.md)
-        - *@[contaners](contaners/_contaners.md)
-        - *@[src](src/_src.md)

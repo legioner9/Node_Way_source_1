@@ -158,10 +158,6 @@
                     - *# type cast
                     - *# ternary assignment
                     - *# predicate IN
-                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_HPW\Part_I\content\Courses\Fundamentals\__internal_development\__structureUnits.md">__structureUnits.md</a>
-                    - *@__f_aml_structure_units_code(AML)
-                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_HPW\Part_I\content\Courses\Fundamentals\__internal_development\__tag_table.md">__tag_table.md</a>
-                    - *@__f_fund_tag_table_fundamentals
             
         
         - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_HPW\Part_I\content\Courses\Fundamentals.md">Fundamentals.md</a>
