@@ -120,7 +120,7 @@ $console.WindowSize = $size
 
 # Выводим приветствие
 echo '$profile';
-echo 'C:\Users\%user%\Documents\PowerShell\Microsoft.PowerShell_profile.ps1';
+echo 'C:\Users\%username%\Documents\PowerShell\Microsoft.PowerShell_profile.ps1';
 echo " ";
 echo "Hi, Legioner9";
 echo " ";

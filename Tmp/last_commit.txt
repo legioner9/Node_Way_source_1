@@ -1,1 +1,1 @@
-step_2 to ssh 
+step_1 gulp
