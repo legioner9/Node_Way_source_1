@@ -26,6 +26,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
+      <change afterPath="$PROJECT_DIR$/Education/Gulp_project_1/CreateDirFree_v_1_gulp_1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Education/Gulp_project_1/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Education/Gulp_project_1/gulpfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Education/Gulp_project_1/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Education/Gulp_project_1/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NBase/@Pages/Knowledge/PowerShell/Microsoft.PowerShell_profile_04.01.2021.ps1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToUse/CreateDir/gulp_1/CreateDirFree_v_1_gulp_1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToUse/CreateDir/gulp_1/gulpfile.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Tmp/last_commit.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Tmp/last_commit.txt" afterDir="false" />
@@ -474,7 +482,7 @@
       <workItem from="1609603873710" duration="830000" />
       <workItem from="1609604973048" duration="199000" />
       <workItem from="1609670557784" duration="570000" />
-      <workItem from="1609758760648" duration="2244000" />
+      <workItem from="1609758760648" duration="3101000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
@@ -1026,26 +1034,26 @@
     <state x="519" y="178" key="FileChooserDialogImpl/0.0.1440.860/1440.0.1024.728@0.0.1440.860" timestamp="1609601504304" />
     <state x="519" y="178" width="699" height="606" key="FileChooserDialogImpl/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1604737356241" />
     <state x="519" y="178" key="FileChooserDialogImpl/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1609604949545" />
-    <state width="1339" height="199" key="GridCell.Tab.0.bottom" timestamp="1609760790638">
+    <state width="1339" height="199" key="GridCell.Tab.0.bottom" timestamp="1609761332954">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1216" height="199" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1609422715716" />
-    <state width="1339" height="199" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1609760790638" />
-    <state width="1339" height="199" key="GridCell.Tab.0.center" timestamp="1609760790638">
+    <state width="1339" height="199" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1609761332954" />
+    <state width="1339" height="199" key="GridCell.Tab.0.center" timestamp="1609761332954">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1216" height="199" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1609422715715" />
-    <state width="1339" height="199" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1609760790638" />
-    <state width="1339" height="199" key="GridCell.Tab.0.left" timestamp="1609760790637">
+    <state width="1339" height="199" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1609761332954" />
+    <state width="1339" height="199" key="GridCell.Tab.0.left" timestamp="1609761332954">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1216" height="199" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1609422715715" />
-    <state width="1339" height="199" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1609760790637" />
-    <state width="1339" height="199" key="GridCell.Tab.0.right" timestamp="1609760790638">
+    <state width="1339" height="199" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1609761332954" />
+    <state width="1339" height="199" key="GridCell.Tab.0.right" timestamp="1609761332954">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1216" height="199" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1609422715715" />
-    <state width="1339" height="199" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1609760790638" />
+    <state width="1339" height="199" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1609761332954" />
     <state width="1247" height="769" key="GridCell.Tab.1.bottom" timestamp="1605966686878">
       <screen x="0" y="0" width="1440" height="860" />
     </state>

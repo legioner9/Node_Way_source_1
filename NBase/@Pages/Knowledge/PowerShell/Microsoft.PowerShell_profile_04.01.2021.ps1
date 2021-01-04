@@ -120,7 +120,7 @@ $console.WindowSize = $size
 
 # Выводим приветствие
 echo '$profile';
-echo 'C:\Users\%username%\Documents\PowerShell\Microsoft.PowerShell_profile.ps1';
+echo 'C:\Users\%username%\Documents\WindowsPowerShell\Microsoft.PowerShell_profile.ps1';
 echo " ";
 echo "Hi, Legioner9";
 echo " ";
@@ -461,7 +461,18 @@ Set-Alias -Name q5 -Value Composite-pushFss
 function Composite-pushFssUsb  { & git push -u fss_usb master }
 Set-Alias -Name q6 -Value Composite-pushFssUsb
 
+# git 
+function Composite-qq6  { & q1|q2|q5|q6 }
+Set-Alias -Name qq6 -Value Composite-qq6
 
+# git 
+function Composite-qq5  { & q1|q2|q5 }
+Set-Alias -Name qq5 -Value Composite-qq5
+
+# git 
+function Composite-qq2  { & q1|q2 }
+Set-Alias -Name qq2 -Value Composite-qq2
+ 
 
 <# 
 # >> pushToAll ---------
