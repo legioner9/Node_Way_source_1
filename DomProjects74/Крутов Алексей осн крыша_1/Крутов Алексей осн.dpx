@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Project Description-->
+<Project><CommonInfo>
+ <PrjName PrjName="Крутов Алексей осн крыша">
+  </PrjName><ModDate ModDate="03.01.2021 17:46:11">
+  </ModDate><K3Ver K3Ver="12">
+  </K3Ver><D6MainPath D6MainPath="C:\ProgramData\GeoS\K3-Cottage Professional\7.4\D7Main.mdb">
+  </D6MainPath></CommonInfo>
+ <PrjInfo>
+ <PrjPath PrjPath="F:\Node_projects\Node_Way\DomProjects74\Крутов Алексей осн крыша_1\Крутов Алексей осн.k3">
+  </PrjPath><TimberID TimberID="3">
+  </TimberID><DefIdWood DefIdWood="1">
+  </DefIdWood><DefIdLogCut DefIdLogCut="148">
+  </DefIdLogCut><PrjAuthor PrjAuthor="">
+  </PrjAuthor><PrjAddr PrjAddr="">
+  </PrjAddr><PrjCustomer PrjCustomer="">
+  </PrjCustomer><Date Date="13.12.2014">
+  </Date><DateFin Date="3.1.2021">
+  </DateFin><Price Price="       0.000">
+  </Price><Comment Comment="">
+  </Comment><PRJNum PRJNum="">
+  </PRJNum><OrgHost OrgHost="">
+  </OrgHost><OrgDevelop OrgDevelop="">
+  </OrgDevelop><Err Err="0">
+  </Err><OwnTimber OwnTimber="1">
+  </OwnTimber><Mask Mask="7">
+  </Mask></PrjInfo>
+ <UserAttribute>
+ </UserAttribute><TimbInfo>
+ <TimbName TimbName="Мой 1">
+  </TimbName><TimbPath TimbPath="F:\Node_projects\Node_Way\DomProjects74\Крутов Алексей осн крыша_1\Мой 1_4.mdb">
+  </TimbPath><TimbComment TimbComment="">
+  </TimbComment></TimbInfo>
+</Project>
