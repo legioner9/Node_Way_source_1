@@ -120,3 +120,4 @@ typings/
 **/*.ign/*
 
 # **/.git/*
+/Education/Gulp_project_1/node_modules/
