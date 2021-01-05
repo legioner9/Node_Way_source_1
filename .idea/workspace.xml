@@ -27,6 +27,12 @@
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/AutoTests/AFP5_0.1_funname_AutoTests_1_v.0.0.1/_Examples/_cleare/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/AutoTests/AFP5_0.1_funname_AutoTests_1_v.0.0.1/Examples/cleare/ReadMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/AutoTests/AFP5_0.1_funname_AutoTests_1_v.0.0.1/_Examples/_cleare/function_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/AutoTests/AFP5_0.1_funname_AutoTests_1_v.0.0.1/Examples/cleare/function_test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/AutoTests/AFP5_0.1_funname_AutoTests_1_v.0.0.1/_Examples/_cleare/test_ini_module.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/AutoTests/AFP5_0.1_funname_AutoTests_1_v.0.0.1/Examples/_with_err/test_ini_module.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/AutoTests/AFP5_0.1_funname_AutoTests_1_v.0.0.1/_Examples/_with_err/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/AutoTests/AFP5_0.1_funname_AutoTests_1_v.0.0.1/Examples/_with_err/ReadMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/AutoTests/AFP5_0.1_funname_AutoTests_1_v.0.0.1/_Examples/_with_err/test_ini_module.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/AutoTests/AFP5_0.1_funname_AutoTests_1_v.0.0.1/Examples/cleare/test_ini_module.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/AutoTests/AFP5_0.1_funname_AutoTests_1_v.0.0.1/_techical_task.md" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/AutoTests/AFP5_0.1_funname_AutoTests_1_v.0.0.1/techical_task.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -1183,10 +1189,10 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="296" y="180" key="run.anything.popup/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1601435065117" />
-    <state x="1533" y="0" width="840" height="1034" key="search.everywhere.popup" timestamp="1607940076660">
+    <state x="1533" y="0" width="840" height="1034" key="search.everywhere.popup" timestamp="1609826072958">
       <screen x="1440" y="0" width="1280" height="1024" />
     </state>
-    <state x="1533" y="0" width="840" height="1034" key="search.everywhere.popup/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1607940076660" />
+    <state x="1533" y="0" width="840" height="1034" key="search.everywhere.popup/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1609826072958" />
     <state x="464" y="330" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1602406626119">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
