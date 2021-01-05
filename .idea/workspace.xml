@@ -26,17 +26,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
-      <change afterPath="$PROJECT_DIR$/Education/Gulp_project_1/CreateDirFree_v_1_gulp_1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Education/Gulp_project_1/ReadMe.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Education/Gulp_project_1/gulpfile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Education/Gulp_project_1/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Education/Gulp_project_1/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NBase/@Pages/Knowledge/PowerShell/Microsoft.PowerShell_profile_04.01.2021.ps1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ToUse/CreateDir/gulp_1/CreateDirFree_v_1_gulp_1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ToUse/CreateDir/gulp_1/gulpfile.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tmp/last_commit.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Tmp/last_commit.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,7 +129,7 @@
     <property name="add_unversioned_files" value="$PROJECT_DIR$/Jobs/SetGlobLoggers/ModLogger_1/Core/Logs/eLogs.txt&#10;true" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="14.15.3" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/ToUse/CreateDir" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Jobs/AutoTests" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.jscs" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -165,19 +155,19 @@
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains_\IntelliJ IDEA 2020.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\Node_projects\Node_Way\ToUse\CreateDir" />
-      <recent name="F:\Node_projects\Node_Way\Education\Gulp_project_1" />
-      <recent name="E:\Node_projects\Node_Way\Jobs\CataloguerFs\CreateCatalog\AFP5_0.1_ctlg_1_to_2.v.0.1.7.1\Examples\cleare" />
-      <recent name="E:\Node_projects\Node_Way\Jobs\CataloguerFs\CreateCatalog\AFP5_0.1_ctlg_1_to_2.v.0.1.7.1\Examples\cleare\DIR_root_before_test" />
-      <recent name="E:\Node_projects\Node_Way\Jobs\CataloguerFs\CreateCatalog\AFP5_0.1_ctlg_1_to_2.v.0.1.7.1\Examples\cleare\DIR_root" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\Node_projects\Node_Way\ToUse\CreateDir\CreateDirFree_v_1_gulp_1" />
       <recent name="E:\Node_projects\Node_Way\ToUse\CreateDir\site_1" />
       <recent name="E:\Node_projects\Node_Way\NBase\_Md\_Index\_Bootstrap\Containers\Live_learn\ITVDN_BS_4\1.Урок_1_Знакомство_с_Twitter_Bootstrap_4.dir\1.1.Знакомство_с_фреймворком..dir\_site" />
       <recent name="E:\Node_projects\Node_Way\Jobs\CataloguerFs\CreateCatalog\AFP5_0.1_ctlg_1_to_2.v.4\Examples\cleare\DIR_root\dir_1" />
       <recent name="E:\Node_projects\Node_Way\Jobs\AnliticsFs\ObjectAnalitics\AFP5_0.1_object_mod_1\_Examples\cleare\DIR" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Node_projects\Node_Way\Jobs\AutoTests" />
+      <recent name="F:\Node_projects\Node_Way\ToUse\CreateDir" />
+      <recent name="F:\Node_projects\Node_Way\Education\Gulp_project_1" />
+      <recent name="E:\Node_projects\Node_Way\Jobs\CataloguerFs\CreateCatalog\AFP5_0.1_ctlg_1_to_2.v.0.1.7.1\Examples\cleare" />
+      <recent name="E:\Node_projects\Node_Way\Jobs\CataloguerFs\CreateCatalog\AFP5_0.1_ctlg_1_to_2.v.0.1.7.1\Examples\cleare\DIR_root_before_test" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.CreateDirFree_v_1_gulp_1.js (1)">
@@ -212,6 +202,7 @@
       <item itemvalue="JavaScript Debug.a.html" />
       <item itemvalue="Node.js.6-parse_1.js" />
       <item itemvalue="Node.js.Object.create.js" />
+      <item itemvalue="Node.js.CreateDirFree_v_1.js" />
       <item itemvalue="Node.js.CreateDirFree_v_1.js (1)" />
       <item itemvalue="Node.js.CreateDirFree_v_1_site_1.js" />
       <item itemvalue="Node.js.CreateDirFree_v_1_site_1.js (1)" />
