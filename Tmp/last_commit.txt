@@ -1,1 +1,1 @@
-init AFP5_0.1_funname_AutoTests_1_v.0.0.1
+step_1 AFP5_0.1_funname_AutoTests_1_v.0.0.1
