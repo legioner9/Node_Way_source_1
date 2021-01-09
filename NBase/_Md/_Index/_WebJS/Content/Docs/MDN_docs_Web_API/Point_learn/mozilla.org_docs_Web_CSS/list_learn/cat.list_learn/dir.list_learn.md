@@ -1,5 +1,5 @@
-- <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_WebJS\Content\Docs\MDN_docs_Web_API\Point_learn\mozilla.org_docs_Web_CSS\list_learn\cat.list_learn\dir.list_learn.md">list_learn</a>
-    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_WebJS\Content\Docs\MDN_docs_Web_API\Point_learn\mozilla.org_docs_Web_CSS\list_learn\ancor_list_common.md">ancor_list_common.md</a>
+- <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_WebJS\Content\Docs\MDN_docs_Web_API\Point_learn\mozilla.org_docs_Web_CSS\list_learn\cat.list_learn\dir.list_learn.md">list_learn</a>
+    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_WebJS\Content\Docs\MDN_docs_Web_API\Point_learn\mozilla.org_docs_Web_CSS\list_learn\ancor_list_common.md">ancor_list_common.md</a>
         - *## Справочный указатель
         - *##  Базовые селекторы
         - *##  Комбиционные

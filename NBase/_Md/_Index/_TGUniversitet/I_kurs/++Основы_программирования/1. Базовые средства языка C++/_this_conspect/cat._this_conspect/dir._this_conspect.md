@@ -1,5 +1,5 @@
-- <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\++Основы_программирования\1. Базовые средства языка C++\_this_conspect\cat._this_conspect\dir._this_conspect.md">_this_conspect</a>
-    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\++Основы_программирования\1. Базовые средства языка C++\_this_conspect\consp.md">consp.md</a>
+- <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\++Основы_программирования\1. Базовые средства языка C++\_this_conspect\cat._this_conspect\dir._this_conspect.md">_this_conspect</a>
+    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\++Основы_программирования\1. Базовые средства языка C++\_this_conspect\consp.md">consp.md</a>
         - *# Базовые средства языка C++
         - *## technologies in programming
         - *### последовательность выполнения операций, 

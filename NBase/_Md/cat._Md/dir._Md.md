@@ -1,87 +1,87 @@
-- <a href = "E:\Node_projects\Node_Way\NBase\_Md\cat._Md\dir._Md.md">_Md</a>
-    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\cat._Index\dir._Index.md">_Index</a>
-        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Bootstrap\cat._Bootstrap\dir._Bootstrap.md">_Bootstrap</a>
-            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Bootstrap\Containers\cat.Containers\dir.Containers.md">Containers</a>
-                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Bootstrap\Containers\Live_learn\cat.Live_learn\dir.Live_learn.md">Live_learn</a>
-                    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Bootstrap\Containers\Live_learn\ITVDN_BS_4\cat.ITVDN_BS_4\dir.ITVDN_BS_4.md">ITVDN_BS_4</a>
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Bootstrap\Containers\Live_learn\ITVDN_BS_4\1.Урок_1_Знакомство_с_Twitter_Bootstrap_4.dir\cat.1.Урок_1_Знакомство_с_Twitter_Bootstrap_4.dir\dir.1.Урок_1_Знакомство_с_Twitter_Bootstrap_4.dir.md">1.Урок_1_Знакомство_с_Twitter_Bootstrap_4.dir</a>
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Bootstrap\Containers\Live_learn\ITVDN_BS_4\1.Урок_1_Знакомство_с_Twitter_Bootstrap_4.dir\1.1.Знакомство_с_фреймворком..dir\cat.1.1.Знакомство_с_фреймворком..dir\dir.1.1.Знакомство_с_фреймворком..dir.md">1.1.Знакомство_с_фреймворком..dir</a>
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Bootstrap\Containers\Live_learn\ITVDN_BS_4\1.Урок_1_Знакомство_с_Twitter_Bootstrap_4.dir\1.1.Знакомство_с_фреймворком..dir\ReadMe.md">ReadMe.md</a>
+- <a href = "F:\Node_projects\Node_Way\NBase\_Md\cat._Md\dir._Md.md">_Md</a>
+    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\cat._Index\dir._Index.md">_Index</a>
+        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Bootstrap\cat._Bootstrap\dir._Bootstrap.md">_Bootstrap</a>
+            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Bootstrap\Containers\cat.Containers\dir.Containers.md">Containers</a>
+                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Bootstrap\Containers\Live_learn\cat.Live_learn\dir.Live_learn.md">Live_learn</a>
+                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Bootstrap\Containers\Live_learn\ITVDN_BS_4\cat.ITVDN_BS_4\dir.ITVDN_BS_4.md">ITVDN_BS_4</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Bootstrap\Containers\Live_learn\ITVDN_BS_4\1.Урок_1_Знакомство_с_Twitter_Bootstrap_4.dir\cat.1.Урок_1_Знакомство_с_Twitter_Bootstrap_4.dir\dir.1.Урок_1_Знакомство_с_Twitter_Bootstrap_4.dir.md">1.Урок_1_Знакомство_с_Twitter_Bootstrap_4.dir</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Bootstrap\Containers\Live_learn\ITVDN_BS_4\1.Урок_1_Знакомство_с_Twitter_Bootstrap_4.dir\1.1.Знакомство_с_фреймворком..dir\cat.1.1.Знакомство_с_фреймворком..dir\dir.1.1.Знакомство_с_фреймворком..dir.md">1.1.Знакомство_с_фреймворком..dir</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Bootstrap\Containers\Live_learn\ITVDN_BS_4\1.Урок_1_Знакомство_с_Twitter_Bootstrap_4.dir\1.1.Знакомство_с_фреймворком..dir\ReadMe.md">ReadMe.md</a>
                                     - *@@ bootstrap continue far
                             
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Bootstrap\Containers\Live_learn\ITVDN_BS_4\1.Урок_1_Знакомство_с_Twitter_Bootstrap_4.dir\1.2.Способы_подключения_фреймворка..dir\cat.1.2.Способы_подключения_фреймворка..dir\dir.1.2.Способы_подключения_фреймворка..dir.md">1.2.Способы_подключения_фреймворка..dir</a>
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Bootstrap\Containers\Live_learn\ITVDN_BS_4\1.Урок_1_Знакомство_с_Twitter_Bootstrap_4.dir\1.2.Способы_подключения_фреймворка..dir\1.2.Способы_подключения_фреймворка..md">1.2.Способы_подключения_фреймворка..md</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Bootstrap\Containers\Live_learn\ITVDN_BS_4\1.Урок_1_Знакомство_с_Twitter_Bootstrap_4.dir\1.2.Способы_подключения_фреймворка..dir\cat.1.2.Способы_подключения_фреймворка..dir\dir.1.2.Способы_подключения_фреймворка..dir.md">1.2.Способы_подключения_фреймворка..dir</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Bootstrap\Containers\Live_learn\ITVDN_BS_4\1.Урок_1_Знакомство_с_Twitter_Bootstrap_4.dir\1.2.Способы_подключения_фреймворка..dir\1.2.Способы_подключения_фреймворка..md">1.2.Способы_подключения_фреймворка..md</a>
                                     - *# 1.2.Способы_подключения_фреймворка.
                             
                         
                     
                 
             
-            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Bootstrap\ReadMe.md">ReadMe.md</a>
+            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Bootstrap\ReadMe.md">ReadMe.md</a>
                 - *# [Bootstrap](https://bootstrap-4.ru/)
                 - *## [Docs](https://bootstrap-4.ru/docs/4.5/getting-started/introduction/)
                 - *## [Examples](https://bootstrap-4.ru/docs/4.5/examples/)
                 - *## [starter-template](https://bootstrap-4.ru/docs/4.5/getting-started/introduction/#starter-template)
                 - *## [testprovider.com](https://testprovider.com/ru)
         
-        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_C++\cat._C++\dir._C++.md">_C++</a>
-            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_C++\Containers\cat.Containers\dir.Containers.md">Containers</a>
-                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_C++\Containers\Intro_to_this\cat.Intro_to_this\dir.Intro_to_this.md">Intro_to_this</a>
-                    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_C++\Containers\Intro_to_this\ravesli.com\cat.ravesli.com\dir.ravesli.com.md">ravesli.com</a>
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_C++\Containers\Intro_to_this\ravesli.com\ravesli.com.md">ravesli.com.md</a>
+        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_C++\cat._C++\dir._C++.md">_C++</a>
+            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_C++\Containers\cat.Containers\dir.Containers.md">Containers</a>
+                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_C++\Containers\Intro_to_this\cat.Intro_to_this\dir.Intro_to_this.md">Intro_to_this</a>
+                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_C++\Containers\Intro_to_this\ravesli.com\cat.ravesli.com\dir.ravesli.com.md">ravesli.com</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_C++\Containers\Intro_to_this\ravesli.com\ravesli.com.md">ravesli.com.md</a>
                             - *# Intro C++
                             - *## [ravesli.com](https://ravesli.com/uroki-cpp/)
                     
-                    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_C++\Containers\Intro_to_this\Vasiliev\cat.Vasiliev\dir.Vasiliev.md">Vasiliev</a>
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_C++\Containers\Intro_to_this\Vasiliev\1.Основы_языка_C++_...12.dir\cat.1.Основы_языка_C++_...12.dir\dir.1.Основы_языка_C++_...12.dir.md">1.Основы_языка_C++_...12.dir</a>
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_C++\Containers\Intro_to_this\Vasiliev\1.Основы_языка_C++_...12.dir\1.1.ПРОЦЕДУРНОЕ_И_ОБЪЕКТНО-ОРИЕНТИРОВАННОЕ_ПРОГРАММИРОВАНИЕ...12.dir\cat.1.1.ПРОЦЕДУРНОЕ_И_ОБЪЕКТНО-ОРИЕНТИРОВАННОЕ_ПРОГРАММИРОВАНИЕ...12.dir\dir.1.1.ПРОЦЕДУРНОЕ_И_ОБЪЕКТНО-ОРИЕНТИРОВАННОЕ_ПРОГРАММИРОВАНИЕ...12.dir.md">1.1.ПРОЦЕДУРНОЕ_И_ОБЪЕКТНО-ОРИЕНТИРОВАННОЕ_ПРОГРАММИРОВАНИЕ...12.dir</a>
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_C++\Containers\Intro_to_this\Vasiliev\1.Основы_языка_C++_...12.dir\1.1.ПРОЦЕДУРНОЕ_И_ОБЪЕКТНО-ОРИЕНТИРОВАННОЕ_ПРОГРАММИРОВАНИЕ...12.dir\1.1.ПРОЦЕДУРНОЕ_И_ОБЪЕКТНО-ОРИЕНТИРОВАННОЕ_ПРОГРАММИРОВАНИЕ...12.md">1.1.ПРОЦЕДУРНОЕ_И_ОБЪЕКТНО-ОРИЕНТИРОВАННОЕ_ПРОГРАММИРОВАНИЕ...12.md</a>
+                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_C++\Containers\Intro_to_this\Vasiliev\cat.Vasiliev\dir.Vasiliev.md">Vasiliev</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_C++\Containers\Intro_to_this\Vasiliev\1.Основы_языка_C++_...12.dir\cat.1.Основы_языка_C++_...12.dir\dir.1.Основы_языка_C++_...12.dir.md">1.Основы_языка_C++_...12.dir</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_C++\Containers\Intro_to_this\Vasiliev\1.Основы_языка_C++_...12.dir\1.1.ПРОЦЕДУРНОЕ_И_ОБЪЕКТНО-ОРИЕНТИРОВАННОЕ_ПРОГРАММИРОВАНИЕ...12.dir\cat.1.1.ПРОЦЕДУРНОЕ_И_ОБЪЕКТНО-ОРИЕНТИРОВАННОЕ_ПРОГРАММИРОВАНИЕ...12.dir\dir.1.1.ПРОЦЕДУРНОЕ_И_ОБЪЕКТНО-ОРИЕНТИРОВАННОЕ_ПРОГРАММИРОВАНИЕ...12.dir.md">1.1.ПРОЦЕДУРНОЕ_И_ОБЪЕКТНО-ОРИЕНТИРОВАННОЕ_ПРОГРАММИРОВАНИЕ...12.dir</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_C++\Containers\Intro_to_this\Vasiliev\1.Основы_языка_C++_...12.dir\1.1.ПРОЦЕДУРНОЕ_И_ОБЪЕКТНО-ОРИЕНТИРОВАННОЕ_ПРОГРАММИРОВАНИЕ...12.dir\1.1.ПРОЦЕДУРНОЕ_И_ОБЪЕКТНО-ОРИЕНТИРОВАННОЕ_ПРОГРАММИРОВАНИЕ...12.md">1.1.ПРОЦЕДУРНОЕ_И_ОБЪЕКТНО-ОРИЕНТИРОВАННОЕ_ПРОГРАММИРОВАНИЕ...12.md</a>
                                     - *@@ Continuation Vasiliev
                             
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_C++\Containers\Intro_to_this\Vasiliev\1.Основы_языка_C++_...12.dir\1.2.СТРУКТУРА_ПРОГРАММЫ_В_C++...14.dir\cat.1.2.СТРУКТУРА_ПРОГРАММЫ_В_C++...14.dir\dir.1.2.СТРУКТУРА_ПРОГРАММЫ_В_C++...14.dir.md">1.2.СТРУКТУРА_ПРОГРАММЫ_В_C++...14.dir</a>
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_C++\Containers\Intro_to_this\Vasiliev\1.Основы_языка_C++_...12.dir\1.2.СТРУКТУРА_ПРОГРАММЫ_В_C++...14.dir\1.2.СТРУКТУРА_ПРОГРАММЫ_В_C++...14.md">1.2.СТРУКТУРА_ПРОГРАММЫ_В_C++...14.md</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_C++\Containers\Intro_to_this\Vasiliev\1.Основы_языка_C++_...12.dir\1.2.СТРУКТУРА_ПРОГРАММЫ_В_C++...14.dir\cat.1.2.СТРУКТУРА_ПРОГРАММЫ_В_C++...14.dir\dir.1.2.СТРУКТУРА_ПРОГРАММЫ_В_C++...14.dir.md">1.2.СТРУКТУРА_ПРОГРАММЫ_В_C++...14.dir</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_C++\Containers\Intro_to_this\Vasiliev\1.Основы_языка_C++_...12.dir\1.2.СТРУКТУРА_ПРОГРАММЫ_В_C++...14.dir\1.2.СТРУКТУРА_ПРОГРАММЫ_В_C++...14.md">1.2.СТРУКТУРА_ПРОГРАММЫ_В_C++...14.md</a>
                                     - *# Структура программы в C++
                                     - *## 1. Блок заголовков программы.
                                     - *## 2. Блок с объявлением классов
                                     - *## 3. Главный метод программы
                                     - *## 4. Блок с описанием функций
                             
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_C++\Containers\Intro_to_this\Vasiliev\1.Основы_языка_C++_...12.dir\1.4.ИСПОЛЬЗОВАНИЕ_ПЕРЕМЕННЫХ...16.dir\cat.1.4.ИСПОЛЬЗОВАНИЕ_ПЕРЕМЕННЫХ...16.dir\dir.1.4.ИСПОЛЬЗОВАНИЕ_ПЕРЕМЕННЫХ...16.dir.md">1.4.ИСПОЛЬЗОВАНИЕ_ПЕРЕМЕННЫХ...16.dir</a>
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_C++\Containers\Intro_to_this\Vasiliev\1.Основы_языка_C++_...12.dir\1.4.ИСПОЛЬЗОВАНИЕ_ПЕРЕМЕННЫХ...16.dir\1.4.ИСПОЛЬЗОВАНИЕ_ПЕРЕМЕННЫХ...16.md">1.4.ИСПОЛЬЗОВАНИЕ_ПЕРЕМЕННЫХ...16.md</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_C++\Containers\Intro_to_this\Vasiliev\1.Основы_языка_C++_...12.dir\1.4.ИСПОЛЬЗОВАНИЕ_ПЕРЕМЕННЫХ...16.dir\cat.1.4.ИСПОЛЬЗОВАНИЕ_ПЕРЕМЕННЫХ...16.dir\dir.1.4.ИСПОЛЬЗОВАНИЕ_ПЕРЕМЕННЫХ...16.dir.md">1.4.ИСПОЛЬЗОВАНИЕ_ПЕРЕМЕННЫХ...16.dir</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_C++\Containers\Intro_to_this\Vasiliev\1.Основы_языка_C++_...12.dir\1.4.ИСПОЛЬЗОВАНИЕ_ПЕРЕМЕННЫХ...16.dir\1.4.ИСПОЛЬЗОВАНИЕ_ПЕРЕМЕННЫХ...16.md">1.4.ИСПОЛЬЗОВАНИЕ_ПЕРЕМЕННЫХ...16.md</a>
                                     - *# int age
                             
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_C++\Containers\Intro_to_this\Vasiliev\1.Основы_языка_C++_...12.dir\1.5.ОБЪЯВЛЕНИЕ_И_ИНИЦИАЛИЗАЦИЯ_ПЕРЕМЕННОЙ...18.dir\cat.1.5.ОБЪЯВЛЕНИЕ_И_ИНИЦИАЛИЗАЦИЯ_ПЕРЕМЕННОЙ...18.dir\dir.1.5.ОБЪЯВЛЕНИЕ_И_ИНИЦИАЛИЗАЦИЯ_ПЕРЕМЕННОЙ...18.dir.md">1.5.ОБЪЯВЛЕНИЕ_И_ИНИЦИАЛИЗАЦИЯ_ПЕРЕМЕННОЙ...18.dir</a>
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_C++\Containers\Intro_to_this\Vasiliev\1.Основы_языка_C++_...12.dir\1.5.ОБЪЯВЛЕНИЕ_И_ИНИЦИАЛИЗАЦИЯ_ПЕРЕМЕННОЙ...18.dir\1.5.ОБЪЯВЛЕНИЕ_И_ИНИЦИАЛИЗАЦИЯ_ПЕРЕМЕННОЙ...18.md">1.5.ОБЪЯВЛЕНИЕ_И_ИНИЦИАЛИЗАЦИЯ_ПЕРЕМЕННОЙ...18.md</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_C++\Containers\Intro_to_this\Vasiliev\1.Основы_языка_C++_...12.dir\1.5.ОБЪЯВЛЕНИЕ_И_ИНИЦИАЛИЗАЦИЯ_ПЕРЕМЕННОЙ...18.dir\cat.1.5.ОБЪЯВЛЕНИЕ_И_ИНИЦИАЛИЗАЦИЯ_ПЕРЕМЕННОЙ...18.dir\dir.1.5.ОБЪЯВЛЕНИЕ_И_ИНИЦИАЛИЗАЦИЯ_ПЕРЕМЕННОЙ...18.dir.md">1.5.ОБЪЯВЛЕНИЕ_И_ИНИЦИАЛИЗАЦИЯ_ПЕРЕМЕННОЙ...18.dir</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_C++\Containers\Intro_to_this\Vasiliev\1.Основы_языка_C++_...12.dir\1.5.ОБЪЯВЛЕНИЕ_И_ИНИЦИАЛИЗАЦИЯ_ПЕРЕМЕННОЙ...18.dir\1.5.ОБЪЯВЛЕНИЕ_И_ИНИЦИАЛИЗАЦИЯ_ПЕРЕМЕННОЙ...18.md">1.5.ОБЪЯВЛЕНИЕ_И_ИНИЦИАЛИЗАЦИЯ_ПЕРЕМЕННОЙ...18.md</a>
                                     - *# declaration - type, initialisation - value
                             
                         
                     
                 
-                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_C++\Containers\Point_learn\cat.Point_learn\dir.Point_learn.md">Point_learn</a>
-                    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_C++\Containers\Point_learn\clocale\cat.clocale\dir.clocale.md">clocale</a>
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_C++\Containers\Point_learn\clocale\ReadMe.md">ReadMe.md</a>
+                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_C++\Containers\Point_learn\cat.Point_learn\dir.Point_learn.md">Point_learn</a>
+                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_C++\Containers\Point_learn\clocale\cat.clocale\dir.clocale.md">clocale</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_C++\Containers\Point_learn\clocale\ReadMe.md">ReadMe.md</a>
                             - *# [\<clocale>](https://docs.microsoft.com/ru-ru/cpp/standard-library/clocale?view=msvc-160&viewFallbackFrom=vs-2017)
                     
-                    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_C++\Containers\Point_learn\math.h\cat.math.h\dir.math.h.md">math.h</a>
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_C++\Containers\Point_learn\math.h\ReadMe.md">ReadMe.md</a>
+                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_C++\Containers\Point_learn\math.h\cat.math.h\dir.math.h.md">math.h</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_C++\Containers\Point_learn\math.h\ReadMe.md">ReadMe.md</a>
                             - *# [math.h](https://ru.wikipedia.org/wiki/Math.h)
                             - *## Базовые функции
                             - *## Функции стандарта C++
                     
-                    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_C++\Containers\Point_learn\pointers\cat.pointers\dir.pointers.md">pointers</a>
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_C++\Containers\Point_learn\pointers\cppstudio.com_post_423\cat.cppstudio.com_post_423\dir.cppstudio.com_post_423.md">cppstudio.com_post_423</a>
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_C++\Containers\Point_learn\pointers\cppstudio.com_post_423\www_this.md">www_this.md</a>
+                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_C++\Containers\Point_learn\pointers\cat.pointers\dir.pointers.md">pointers</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_C++\Containers\Point_learn\pointers\cppstudio.com_post_423\cat.cppstudio.com_post_423\dir.cppstudio.com_post_423.md">cppstudio.com_post_423</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_C++\Containers\Point_learn\pointers\cppstudio.com_post_423\www_this.md">www_this.md</a>
                                 - *# http://cppstudio.com/post/423/
                         
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_C++\Containers\Point_learn\pointers\SFML_lib\cat.SFML_lib\dir.SFML_lib.md">SFML_lib</a>
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_C++\Containers\Point_learn\pointers\SFML_lib\Common_this.md">Common_this.md</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_C++\Containers\Point_learn\pointers\SFML_lib\cat.SFML_lib\dir.SFML_lib.md">SFML_lib</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_C++\Containers\Point_learn\pointers\SFML_lib\Common_this.md">Common_this.md</a>
                                 - *# Clion и SFML
                                 - *## https://habr.com/ru/sandbox/130510/
                                 - *## youtube.com/watch?v=I774yQRaINc&ab_channel=УчимСиплюсплюс%2Cсоздаваяигры
                         
                     
-                    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_C++\Containers\Point_learn\types_computing_processes\cat.types_computing_processes\dir.types_computing_processes.md">types_computing_processes</a>
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_C++\Containers\Point_learn\types_computing_processes\ReadMe.md">ReadMe.md</a>
+                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_C++\Containers\Point_learn\types_computing_processes\cat.types_computing_processes\dir.types_computing_processes.md">types_computing_processes</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_C++\Containers\Point_learn\types_computing_processes\ReadMe.md">ReadMe.md</a>
                             - *# [types_computing_processes](https://studfile.net/preview/1865497/page:9/)
                             - *## линейные (линейной композиции)
                             - *## ветвящиеся (выбора решения)
@@ -90,65 +90,28 @@
                 
             
         
-        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Fedora\cat._Fedora\dir._Fedora.md">_Fedora</a>
-            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Fedora\contaners\cat.contaners\dir.contaners.md">contaners</a>
-                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Fedora\contaners\Learn_this\cat.Learn_this\dir.Learn_this.md">Learn_this</a>
-                    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Fedora\contaners\Learn_this\_stash\cat._stash\dir._stash.md">_stash</a>
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Fedora\contaners\Learn_this\_stash\Bash\cat.Bash\dir.Bash.md">Bash</a>
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Fedora\contaners\Learn_this\_stash\Bash\bash-script-easy-guide\cat.bash-script-easy-guide\dir.bash-script-easy-guide.md">bash-script-easy-guide</a>
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Fedora\contaners\Learn_this\_stash\Bash\bash-script-easy-guide\_bash-script-easy-guide.md">_bash-script-easy-guide.md</a>
-                                    - *# [Bash-скрипты: начало](https://habr.com/ru/company/ruvds/blog/325522/)
-                            
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Fedora\contaners\Learn_this\_stash\Bash\devdocs.io\cat.devdocs.io\dir.devdocs.io.md">devdocs.io</a>
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Fedora\contaners\Learn_this\_stash\Bash\devdocs.io\_devdocs.io.md">_devdocs.io.md</a>
-                                    - *# [Bash](https://devdocs.io/bash/)
-                            
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Fedora\contaners\Learn_this\_stash\Bash\Docs\cat.Docs\dir.Docs.md">Docs</a>
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Fedora\contaners\Learn_this\_stash\Bash\Docs\_Docs.md">_Docs.md</a>
-                                    - *# [DNF](https://docs.fedoraproject.org/ru/fedora/rawhide/system-administrators-guide/package-management/DNF/)
-                            
-                        
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Fedora\contaners\Learn_this\_stash\Dnf\cat.Dnf\dir.Dnf.md">Dnf</a>
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Fedora\contaners\Learn_this\_stash\Dnf\Docs\cat.Docs\dir.Docs.md">Docs</a>
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Fedora\contaners\Learn_this\_stash\Dnf\Docs\_Docs.md">_Docs.md</a>
-                                    - *# [DNF](https://docs.fedoraproject.org/ru/fedora/rawhide/system-administrators-guide/package-management/DNF/)
-                            
-                        
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Fedora\contaners\Learn_this\_stash\Screen_Resolution\cat.Screen_Resolution\dir.Screen_Resolution.md">Screen_Resolution</a>
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Fedora\contaners\Learn_this\_stash\Screen_Resolution\Common\cat.Common\dir.Common.md">Common</a>
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Fedora\contaners\Learn_this\_stash\Screen_Resolution\Common\_Common.md">_Common.md</a>
-                                    - *#[1](https://www.linuxmint.com.ru/viewtopic.php?t=4183)
-                            
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Fedora\contaners\Learn_this\_stash\Screen_Resolution\Nevidia\cat.Nevidia\dir.Nevidia.md">Nevidia</a>
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Fedora\contaners\Learn_this\_stash\Screen_Resolution\Nevidia\www.easycoding.org\cat.www.easycoding.org\dir.www.easycoding.org.md">www.easycoding.org</a>
-                                    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Fedora\contaners\Learn_this\_stash\Screen_Resolution\Nevidia\www.easycoding.org\_www.easycoding.org.md">_www.easycoding.org.md</a>
-                                        - *# [Правильная установка драйверов NVIDIA в Fedora](https://www.easycoding.org/2017/01/11/pravilnaya-ustanovka-drajverov-nvidia-v-fedora.html)
-                                
-                            
-                        
-                    
-                
-                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Fedora\contaners\Use_this\cat.Use_this\dir.Use_this.md">Use_this</a>
-                    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Fedora\contaners\Use_this\util_\cat.util_\dir.util_.md">util_</a>
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Fedora\contaners\Use_this\util_\_my_hotkeys.md">_my_hotkeys.md</a>
-                            - *# hot keys
-                    
+        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Electron\cat._Electron\dir._Electron.md">_Electron</a>
+            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Electron\Containers\cat.Containers\dir.Containers.md">Containers</a>
+                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Electron\Containers\Intro_to_this\cat.Intro_to_this\dir.Intro_to_this.md">Intro_to_this</a>
+                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Electron\Containers\Intro_to_this\Intro_to_this.md">Intro_to_this.md</a>
+                        - *# [Electron: Разработка Desktop-приложений, используя HTML, CSS и JavaScript / Дмитрий Васин](https://www.youtube.com/watch?v=AfAPjvp948I&ab_channel=MinskJS)
+                        - *@@ start electron
                 
             
         
-        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\cat._Git\dir._Git.md">_Git</a>
-            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\cat.contaners\dir.contaners.md">contaners</a>
-                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Intro_to_this\cat.Intro_to_this\dir.Intro_to_this.md">Intro_to_this</a>
-                    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Intro_to_this\Common\cat.Common\dir.Common.md">Common</a>
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Intro_to_this\Common\ancors.md">ancors.md</a>
+        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\cat._Git\dir._Git.md">_Git</a>
+            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\cat.contaners\dir.contaners.md">contaners</a>
+                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Intro_to_this\cat.Intro_to_this\dir.Intro_to_this.md">Intro_to_this</a>
+                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Intro_to_this\Common\cat.Common\dir.Common.md">Common</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Intro_to_this\Common\ancors.md">ancors.md</a>
                             - *# Main list
                     
                 
-                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\cat.Learn_this\dir.Learn_this.md">Learn_this</a>
-                    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\Live_learn\cat.Live_learn\dir.Live_learn.md">Live_learn</a>
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\Live_learn\_Common_this\cat._Common_this\dir._Common_this.md">_Common_this</a>
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\Live_learn\_Common_this\Intro\cat.Intro\dir.Intro.md">Intro</a>
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\Live_learn\_Common_this\Intro\intro.md">intro.md</a>
+                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\cat.Learn_this\dir.Learn_this.md">Learn_this</a>
+                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\Live_learn\cat.Live_learn\dir.Live_learn.md">Live_learn</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\Live_learn\_Common_this\cat._Common_this\dir._Common_this.md">_Common_this</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\Live_learn\_Common_this\Intro\cat.Intro\dir.Intro.md">Intro</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\Live_learn\_Common_this\Intro\intro.md">intro.md</a>
                                     - *## Bash Commands
                                     - *## file git config
                                     - *### Настройка ветки по умолчанию
@@ -164,68 +127,68 @@
                                     - *## ~ 
                                     - *## remote
                                     - *### -v
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\Live_learn\_Common_this\Intro\password.md">password.md</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\Live_learn\_Common_this\Intro\password.md">password.md</a>
                                     - *# <a href="https://ru.stackoverflow.com/questions/420040/%D0%9E%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F-git-%D0%B1%D0%B5%D0%B7-%D0%B2%D0%B2%D0%BE%D0%B4%D0%B0-%D0%BF%D0%B0%D1%80%D0%BE%D0%BB%D0%B5%D0%B9" target="_blank">Password</a>
                                     - *## https
                                     - *# <a href="https://stackoverflow.com/questions/35942754/how-to-save-username-and-password-in-git-gitextension" target="_blank">Как сохранить имя пользователя и пароль в GIT [GitExtension]?</a>
                             
                         
                     
-                    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\Point_learn\cat.Point_learn\dir.Point_learn.md">Point_learn</a>
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\Point_learn\gitconfig\cat.gitconfig\dir.gitconfig.md">gitconfig</a>
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\Point_learn\gitconfig\git-scm.com\cat.git-scm.com\dir.git-scm.com.md">git-scm.com</a>
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\Point_learn\gitconfig\git-scm.com\_git-scm.com.md">_git-scm.com.md</a>
+                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\Point_learn\cat.Point_learn\dir.Point_learn.md">Point_learn</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\Point_learn\gitconfig\cat.gitconfig\dir.gitconfig.md">gitconfig</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\Point_learn\gitconfig\git-scm.com\cat.git-scm.com\dir.git-scm.com.md">git-scm.com</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\Point_learn\gitconfig\git-scm.com\_git-scm.com.md">_git-scm.com.md</a>
                                     - *# [1.6 Введение - Первоначальная настройка Git](https://git-scm.com/book/ru/v2/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%9F%D0%B5%D1%80%D0%B2%D0%BE%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F-%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0-Git)
                                     - *## Первоначальная настройка Git
                                     - *### утилита git config
                                     - *### Выбор редактора
                             
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\Point_learn\gitconfig\git.wiki.kernel.org\cat.git.wiki.kernel.org\dir.git.wiki.kernel.org.md">git.wiki.kernel.org</a>
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\Point_learn\gitconfig\git.wiki.kernel.org\_git.wiki.kernel.org.md">_git.wiki.kernel.org.md</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\Point_learn\gitconfig\git.wiki.kernel.org\cat.git.wiki.kernel.org\dir.git.wiki.kernel.org.md">git.wiki.kernel.org</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\Point_learn\gitconfig\git.wiki.kernel.org\_git.wiki.kernel.org.md">_git.wiki.kernel.org.md</a>
                                     - *# [Git FAQ](https://git.wiki.kernel.org/index.php/Git_FAQ)
                             
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\Point_learn\gitconfig\www.atlassian.com\cat.www.atlassian.com\dir.www.atlassian.com.md">www.atlassian.com</a>
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\Point_learn\gitconfig\www.atlassian.com\_www.atlassian.com.md">_www.atlassian.com.md</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\Point_learn\gitconfig\www.atlassian.com\cat.www.atlassian.com\dir.www.atlassian.com.md">www.atlassian.com</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\Point_learn\gitconfig\www.atlassian.com\_www.atlassian.com.md">_www.atlassian.com.md</a>
                                     - *# [git config](https://www.atlassian.com/ru/git/tutorials/setting-up-a-repository/git-config)
                             
                         
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\Point_learn\merge\cat.merge\dir.merge.md">merge</a>
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\Point_learn\merge\www.atlassian.com\cat.www.atlassian.com\dir.www.atlassian.com.md">www.atlassian.com</a>
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\Point_learn\merge\www.atlassian.com\merge_conflicts.md">merge_conflicts.md</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\Point_learn\merge\cat.merge\dir.merge.md">merge</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\Point_learn\merge\www.atlassian.com\cat.www.atlassian.com\dir.www.atlassian.com.md">www.atlassian.com</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\Point_learn\merge\www.atlassian.com\merge_conflicts.md">merge_conflicts.md</a>
                                     - *# [Конфликты слияния Git](https://www.atlassian.com/git/tutorials/using-branches/merge-conflicts)
                             
                         
                     
-                    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\_in_stash\cat._in_stash\dir._in_stash.md">_in_stash</a>
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\_in_stash\_stash_2\cat._stash_2\dir._stash_2.md">_stash_2</a>
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\_in_stash\_stash_2\Bash\cat.Bash\dir.Bash.md">Bash</a>
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\_in_stash\_stash_2\Bash\bash-script-easy-guide\cat.bash-script-easy-guide\dir.bash-script-easy-guide.md">bash-script-easy-guide</a>
-                                    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\_in_stash\_stash_2\Bash\bash-script-easy-guide\_bash-script-easy-guide.md">_bash-script-easy-guide.md</a>
+                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\_in_stash\cat._in_stash\dir._in_stash.md">_in_stash</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\_in_stash\_stash_2\cat._stash_2\dir._stash_2.md">_stash_2</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\_in_stash\_stash_2\Bash\cat.Bash\dir.Bash.md">Bash</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\_in_stash\_stash_2\Bash\bash-script-easy-guide\cat.bash-script-easy-guide\dir.bash-script-easy-guide.md">bash-script-easy-guide</a>
+                                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\_in_stash\_stash_2\Bash\bash-script-easy-guide\_bash-script-easy-guide.md">_bash-script-easy-guide.md</a>
                                         - *# [Bash-скрипты: начало](https://habr.com/ru/company/ruvds/blog/325522/)
                                 
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\_in_stash\_stash_2\Bash\devdocs.io\cat.devdocs.io\dir.devdocs.io.md">devdocs.io</a>
-                                    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\_in_stash\_stash_2\Bash\devdocs.io\_devdocs.io.md">_devdocs.io.md</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\_in_stash\_stash_2\Bash\devdocs.io\cat.devdocs.io\dir.devdocs.io.md">devdocs.io</a>
+                                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\_in_stash\_stash_2\Bash\devdocs.io\_devdocs.io.md">_devdocs.io.md</a>
                                         - *# [Bash](https://devdocs.io/bash/)
                                 
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\_in_stash\_stash_2\Bash\Docs\cat.Docs\dir.Docs.md">Docs</a>
-                                    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\_in_stash\_stash_2\Bash\Docs\_Docs.md">_Docs.md</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\_in_stash\_stash_2\Bash\Docs\cat.Docs\dir.Docs.md">Docs</a>
+                                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\_in_stash\_stash_2\Bash\Docs\_Docs.md">_Docs.md</a>
                                         - *# [DNF](https://docs.fedoraproject.org/ru/fedora/rawhide/system-administrators-guide/package-management/DNF/)
                                 
                             
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\_in_stash\_stash_2\Dnf\cat.Dnf\dir.Dnf.md">Dnf</a>
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\_in_stash\_stash_2\Dnf\Docs\cat.Docs\dir.Docs.md">Docs</a>
-                                    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\_in_stash\_stash_2\Dnf\Docs\_Docs.md">_Docs.md</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\_in_stash\_stash_2\Dnf\cat.Dnf\dir.Dnf.md">Dnf</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\_in_stash\_stash_2\Dnf\Docs\cat.Docs\dir.Docs.md">Docs</a>
+                                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\_in_stash\_stash_2\Dnf\Docs\_Docs.md">_Docs.md</a>
                                         - *# [DNF](https://docs.fedoraproject.org/ru/fedora/rawhide/system-administrators-guide/package-management/DNF/)
                                 
                             
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\_in_stash\_stash_2\Screen_Resolution\cat.Screen_Resolution\dir.Screen_Resolution.md">Screen_Resolution</a>
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\_in_stash\_stash_2\Screen_Resolution\Common\cat.Common\dir.Common.md">Common</a>
-                                    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\_in_stash\_stash_2\Screen_Resolution\Common\_Common.md">_Common.md</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\_in_stash\_stash_2\Screen_Resolution\cat.Screen_Resolution\dir.Screen_Resolution.md">Screen_Resolution</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\_in_stash\_stash_2\Screen_Resolution\Common\cat.Common\dir.Common.md">Common</a>
+                                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\_in_stash\_stash_2\Screen_Resolution\Common\_Common.md">_Common.md</a>
                                         - *#[1](https://www.linuxmint.com.ru/viewtopic.php?t=4183)
                                 
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\_in_stash\_stash_2\Screen_Resolution\Nevidia\cat.Nevidia\dir.Nevidia.md">Nevidia</a>
-                                    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\_in_stash\_stash_2\Screen_Resolution\Nevidia\www.easycoding.org\cat.www.easycoding.org\dir.www.easycoding.org.md">www.easycoding.org</a>
-                                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\_in_stash\_stash_2\Screen_Resolution\Nevidia\www.easycoding.org\_www.easycoding.org.md">_www.easycoding.org.md</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\_in_stash\_stash_2\Screen_Resolution\Nevidia\cat.Nevidia\dir.Nevidia.md">Nevidia</a>
+                                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\_in_stash\_stash_2\Screen_Resolution\Nevidia\www.easycoding.org\cat.www.easycoding.org\dir.www.easycoding.org.md">www.easycoding.org</a>
+                                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Learn_this\_in_stash\_stash_2\Screen_Resolution\Nevidia\www.easycoding.org\_www.easycoding.org.md">_www.easycoding.org.md</a>
                                             - *# [Правильная установка драйверов NVIDIA в Fedora](https://www.easycoding.org/2017/01/11/pravilnaya-ustanovka-drajverov-nvidia-v-fedora.html)
                                     
                                 
@@ -233,9 +196,9 @@
                         
                     
                 
-                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Use_this\cat.Use_this\dir.Use_this.md">Use_this</a>
-                    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Use_this\First_steps\cat.First_steps\dir.First_steps.md">First_steps</a>
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Use_this\First_steps\7_советов_по.md">7_советов_по.md</a>
+                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Use_this\cat.Use_this\dir.Use_this.md">Use_this</a>
+                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Use_this\First_steps\cat.First_steps\dir.First_steps.md">First_steps</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Use_this\First_steps\7_советов_по.md">7_советов_по.md</a>
                             - *# [Как стать Git-мастером: 7 советов по повышению производительности](https://nuancesprog.ru/p/5142/)
                             - *## Автозаполнение команд Git в терминале
                             - *## Локальное удаление ветки в удаленном репозитории
@@ -245,7 +208,7 @@
                             - *## Выборочная фиксация изменений из файла
                             - *## Обработка больших файлов с помощью Git LFS
                             - *## Бонусный совет: отладка с помощью Git
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Use_this\First_steps\backcommit.md">backcommit.md</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Use_this\First_steps\backcommit.md">backcommit.md</a>
                             - *# [Как вернуться (откатиться) к более раннему коммиту?](https://ru.stackoverflow.com/questions/431520/%D0%9A%D0%B0%D0%BA-%D0%B2%D0%B5%D1%80%D0%BD%D1%83%D1%82%D1%8C%D1%81%D1%8F-%D0%BE%D1%82%D0%BA%D0%B0%D1%82%D0%B8%D1%82%D1%8C%D1%81%D1%8F-%D0%BA-%D0%B1%D0%BE%D0%BB%D0%B5%D0%B5-%D1%80%D0%B0%D0%BD%D0%BD%D0%B5%D0%BC%D1%83-%D0%BA%D0%BE%D0%BC%D0%BC%D0%B8%D1%82%D1%83)
                             - *## 1. Временно переключиться на другой коммит
                             - *## 2. Переключиться на коммит и продолжить работу с него
@@ -259,15 +222,15 @@
                             - *### 4.2 Сохранить изменения в рабочей области, но не в индексе.
                             - *### 4.3 Просто выбросить изменения.
                             - *## 5. Отменить уже опубликованные коммиты с помощью новых коммитов
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Use_this\First_steps\custom.md">custom.md</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Use_this\First_steps\custom.md">custom.md</a>
                             - *## Установка из исходников
                             - *## Первоначальная настройка Git
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Use_this\First_steps\Индексирование_коммитов_с_Git_Add_Patch.md">Индексирование_коммитов_с_Git_Add_Patch.md</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Use_this\First_steps\Индексирование_коммитов_с_Git_Add_Patch.md">Индексирование_коммитов_с_Git_Add_Patch.md</a>
                             - *# [Индексирование коммитов с Git Add Patch](https://nuancesprog.ru/p/7502/)
                             - *## Что такое git add -patch?
                             - *## Для чего это нужно?
                             - *## Заключение
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Use_this\First_steps\Отмена_действий_в_Git.md">Отмена_действий_в_Git.md</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Use_this\First_steps\Отмена_действий_в_Git.md">Отмена_действий_в_Git.md</a>
                             - *# [Отмена действий в Git](https://nuancesprog.ru/p/7659/)
                             - *## Отмена Git Add
                             - *## Как откатить Git Merge
@@ -276,8 +239,8 @@
                             - *## Отмена Git Rebase
                             - *## Заключение
                     
-                    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Use_this\Hints\cat.Hints\dir.Hints.md">Hints</a>
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Use_this\Hints\Как_стать_продуктивнее _на_GitHub.md">Как_стать_продуктивнее _на_GitHub.md</a>
+                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Use_this\Hints\cat.Hints\dir.Hints.md">Hints</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Use_this\Hints\Как_стать_продуктивнее _на_GitHub.md">Как_стать_продуктивнее _на_GitHub.md</a>
                             - *# [Как стать продуктивнее на GitHub](https://nuancesprog.ru/p/3111/)
                             - *## Быстрый поиск файлов в репозиториях по неточному соответствию
                             - *## Предложение правок на включение
@@ -288,7 +251,7 @@
                             - *## Расширенный поиск по коду
                             - *## Сохраненные ответы 
                             - *## Заключение 
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Use_this\Hints\Репозитории_GitHub_в_помощь.md">Репозитории_GitHub_в_помощь.md</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Use_this\Hints\Репозитории_GitHub_в_помощь.md">Репозитории_GitHub_в_помощь.md</a>
                             - *# [Репозитории GitHub в помощь каждому веб-разработчику](https://nuancesprog.ru/p/7074/)
                             - *## [1.Список полезных ресурсов для фронтенд разработчиков.](https://github.com/RitikPatni/Front-End-Web-Development-Resources)
                             - *## [2. WTFJS](https://github.com/denysdovhan/wtfjs)
@@ -299,7 +262,7 @@
                             - *## [8. Список бесплатных обучающих ресурсов](https://github.com/EbookFoundation/free-programming-books)
                             - *## [9. Отличные возможности для старта](https://github.com/MunGell/awesome-for-beginners)
                             - *## [10. Ежедневный вопрос для собеседования](https://github.com/Advanced-Frontend/Daily-Interview-Question)
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Use_this\Hints\создать_сайт_на_GitHub_Pages.md">создать_сайт_на_GitHub_Pages.md</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Use_this\Hints\создать_сайт_на_GitHub_Pages.md">создать_сайт_на_GitHub_Pages.md</a>
                             - *# [Как создать бесплатный сайт на GitHub Pages](https://nuancesprog.ru/p/4318/)
                             - *## А зачем мне сайт?
                             - *## Начинаем!
@@ -309,9 +272,9 @@
                             - *## Уже хорошо, но может быть еще лучше
                     
                 
-                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\cat.Workout_this\dir.Workout_this.md">Workout_this</a>
-                    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\9git\cat.9git\dir.9git.md">9git</a>
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\9git\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
+                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\cat.Workout_this\dir.Workout_this.md">Workout_this</a>
+                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\9git\cat.9git\dir.9git.md">9git</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\9git\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
                             - *## {st} - (blob|ident) area :ident{stash}::blob: + :blob:
                             - *## {fs} - (file) area :file:
                             - *## {ws} - (ident) area :wd::file: - label on unstage file 
@@ -330,10 +293,10 @@
                             - *## bring clear_indexed (cl_in)
                             - *## bring modifi_indexed (mo_in)
                     
-                    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\cat.blobs_for_taining\dir.blobs_for_taining.md">blobs_for_taining</a>
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\add.1\cat.add.1\dir.add.1.md">add.1</a>
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\add.1\Git_what_trane{add-i}@1_arch\cat.Git_what_trane{add-i}@1_arch\dir.Git_what_trane{add-i}@1_arch.md">Git_what_trane{add-i}@1_arch</a>
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\add.1\Git_what_trane{add-i}@1_arch\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
+                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\cat.blobs_for_taining\dir.blobs_for_taining.md">blobs_for_taining</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\add.1\cat.add.1\dir.add.1.md">add.1</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\add.1\Git_what_trane{add-i}@1_arch\cat.Git_what_trane{add-i}@1_arch\dir.Git_what_trane{add-i}@1_arch.md">Git_what_trane{add-i}@1_arch</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\add.1\Git_what_trane{add-i}@1_arch\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
                                     - *## {st} - (blob|ident) area :ident{stash}::blob: + :blob:
                                     - *## {fs} - (file) area :file:
                                     - *## {ws} - (ident) area :wd::file: - label on unstage file 
@@ -352,11 +315,11 @@
                                     - *## bring clear_indexed (cl_in)
                                     - *## bring modifi_indexed (mo_in)
                             
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\add.1\Git_what_trane{add-u}@1_{repo}_arch\cat.Git_what_trane{add-u}@1_{repo}_arch\dir.Git_what_trane{add-u}@1_{repo}_arch.md">Git_what_trane{add-u}@1_{repo}_arch</a>
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\add.1\Git_what_trane{add-u}@1_{repo}_arch\create_bind_repo.md">create_bind_repo.md</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\add.1\Git_what_trane{add-u}@1_{repo}_arch\cat.Git_what_trane{add-u}@1_{repo}_arch\dir.Git_what_trane{add-u}@1_{repo}_arch.md">Git_what_trane{add-u}@1_{repo}_arch</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\add.1\Git_what_trane{add-u}@1_{repo}_arch\create_bind_repo.md">create_bind_repo.md</a>
                                     - *# create repo
                                     - *# bind repo
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\add.1\Git_what_trane{add-u}@1_{repo}_arch\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\add.1\Git_what_trane{add-u}@1_{repo}_arch\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
                                     - *## {st} - (blob|ident) area :ident{stash}::blob: + :blob:
                                     - *## {fs} - (file) area :file:
                                     - *## {ws} - (ident) area :wd::file: - label on unstage file 
@@ -375,11 +338,11 @@
                                     - *## bring clear_indexed (cl_in)
                                     - *## bring modifi_indexed (mo_in)
                             
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\add.1\Git_what_trane{add}@1_{repo}\cat.Git_what_trane{add}@1_{repo}\dir.Git_what_trane{add}@1_{repo}.md">Git_what_trane{add}@1_{repo}</a>
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\add.1\Git_what_trane{add}@1_{repo}\create_bind_repo.md">create_bind_repo.md</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\add.1\Git_what_trane{add}@1_{repo}\cat.Git_what_trane{add}@1_{repo}\dir.Git_what_trane{add}@1_{repo}.md">Git_what_trane{add}@1_{repo}</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\add.1\Git_what_trane{add}@1_{repo}\create_bind_repo.md">create_bind_repo.md</a>
                                     - *# create repo
                                     - *# bind repo
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\add.1\Git_what_trane{add}@1_{repo}\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\add.1\Git_what_trane{add}@1_{repo}\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
                                     - *## {st} - (blob|ident) area :ident{stash}::blob: + :blob:
                                     - *## {fs} - (file) area :file:
                                     - *## {ws} - (ident) area :wd::file: - label on unstage file 
@@ -399,12 +362,12 @@
                                     - *## bring modifi_indexed (mo_in)
                             
                         
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\bash\cat.bash\dir.bash.md">bash</a>
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\bash\Git_what_trane{bash}@1_{repo}\cat.Git_what_trane{bash}@1_{repo}\dir.Git_what_trane{bash}@1_{repo}.md">Git_what_trane{bash}@1_{repo}</a>
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\bash\Git_what_trane{bash}@1_{repo}\create_bind_repo.md">create_bind_repo.md</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\bash\cat.bash\dir.bash.md">bash</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\bash\Git_what_trane{bash}@1_{repo}\cat.Git_what_trane{bash}@1_{repo}\dir.Git_what_trane{bash}@1_{repo}.md">Git_what_trane{bash}@1_{repo}</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\bash\Git_what_trane{bash}@1_{repo}\create_bind_repo.md">create_bind_repo.md</a>
                                     - *# create repo
                                     - *# bind repo
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\bash\Git_what_trane{bash}@1_{repo}\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\bash\Git_what_trane{bash}@1_{repo}\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
                                     - *## {st} - (blob|ident) area :ident{stash}::blob: + :blob:
                                     - *## {fs} - (file) area :file:
                                     - *## {ws} - (ident) area :wd::file: - label on unstage file 
@@ -424,12 +387,12 @@
                                     - *## bring modifi_indexed (mo_in)
                             
                         
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\commit.1\cat.commit.1\dir.commit.1.md">commit.1</a>
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\commit.1\Git_what_trane{commit}@1_{repo}\cat.Git_what_trane{commit}@1_{repo}\dir.Git_what_trane{commit}@1_{repo}.md">Git_what_trane{commit}@1_{repo}</a>
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\commit.1\Git_what_trane{commit}@1_{repo}\create_bind_repo.md">create_bind_repo.md</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\commit.1\cat.commit.1\dir.commit.1.md">commit.1</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\commit.1\Git_what_trane{commit}@1_{repo}\cat.Git_what_trane{commit}@1_{repo}\dir.Git_what_trane{commit}@1_{repo}.md">Git_what_trane{commit}@1_{repo}</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\commit.1\Git_what_trane{commit}@1_{repo}\create_bind_repo.md">create_bind_repo.md</a>
                                     - *# create repo
                                     - *# bind repo
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\commit.1\Git_what_trane{commit}@1_{repo}\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\commit.1\Git_what_trane{commit}@1_{repo}\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
                                     - *## {st} - (blob|ident) area :ident{stash}::blob: + :blob:
                                     - *## {fs} - (file) area :file:
                                     - *## {ws} - (ident) area :wd::file: - label on unstage file 
@@ -449,12 +412,12 @@
                                     - *## bring modifi_indexed (mo_in)
                             
                         
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\config\cat.config\dir.config.md">config</a>
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\config\Git_what_trane{config}@1_{repo}\cat.Git_what_trane{config}@1_{repo}\dir.Git_what_trane{config}@1_{repo}.md">Git_what_trane{config}@1_{repo}</a>
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\config\Git_what_trane{config}@1_{repo}\create_bind_repo.md">create_bind_repo.md</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\config\cat.config\dir.config.md">config</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\config\Git_what_trane{config}@1_{repo}\cat.Git_what_trane{config}@1_{repo}\dir.Git_what_trane{config}@1_{repo}.md">Git_what_trane{config}@1_{repo}</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\config\Git_what_trane{config}@1_{repo}\create_bind_repo.md">create_bind_repo.md</a>
                                     - *# create repo
                                     - *# bind repo
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\config\Git_what_trane{config}@1_{repo}\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\config\Git_what_trane{config}@1_{repo}\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
                                     - *## {st} - (blob|ident) area :ident{stash}::blob: + :blob:
                                     - *## {fs} - (file) area :file:
                                     - *## {ws} - (ident) area :wd::file: - label on unstage file 
@@ -474,12 +437,12 @@
                                     - *## bring modifi_indexed (mo_in)
                             
                         
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\diff.1\cat.diff.1\dir.diff.1.md">diff.1</a>
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\diff.1\Git_what_trane{diff}@1_{repo}\cat.Git_what_trane{diff}@1_{repo}\dir.Git_what_trane{diff}@1_{repo}.md">Git_what_trane{diff}@1_{repo}</a>
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\diff.1\Git_what_trane{diff}@1_{repo}\create_bind_repo.md">create_bind_repo.md</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\diff.1\cat.diff.1\dir.diff.1.md">diff.1</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\diff.1\Git_what_trane{diff}@1_{repo}\cat.Git_what_trane{diff}@1_{repo}\dir.Git_what_trane{diff}@1_{repo}.md">Git_what_trane{diff}@1_{repo}</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\diff.1\Git_what_trane{diff}@1_{repo}\create_bind_repo.md">create_bind_repo.md</a>
                                     - *# create repo
                                     - *# bind repo
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\diff.1\Git_what_trane{diff}@1_{repo}\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\diff.1\Git_what_trane{diff}@1_{repo}\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
                                     - *## {st} - (blob|ident) area :ident{stash}::blob: + :blob:
                                     - *## {fs} - (file) area :file:
                                     - *## {ws} - (ident) area :wd::file: - label on unstage file 
@@ -499,12 +462,12 @@
                                     - *## bring modifi_indexed (mo_in)
                             
                         
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\fsck.1\cat.fsck.1\dir.fsck.1.md">fsck.1</a>
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\fsck.1\Git_what_trane{fsck}@1_{repo}\cat.Git_what_trane{fsck}@1_{repo}\dir.Git_what_trane{fsck}@1_{repo}.md">Git_what_trane{fsck}@1_{repo}</a>
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\fsck.1\Git_what_trane{fsck}@1_{repo}\create_bind_repo.md">create_bind_repo.md</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\fsck.1\cat.fsck.1\dir.fsck.1.md">fsck.1</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\fsck.1\Git_what_trane{fsck}@1_{repo}\cat.Git_what_trane{fsck}@1_{repo}\dir.Git_what_trane{fsck}@1_{repo}.md">Git_what_trane{fsck}@1_{repo}</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\fsck.1\Git_what_trane{fsck}@1_{repo}\create_bind_repo.md">create_bind_repo.md</a>
                                     - *# create repo
                                     - *# bind repo
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\fsck.1\Git_what_trane{fsck}@1_{repo}\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\fsck.1\Git_what_trane{fsck}@1_{repo}\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
                                     - *## {st} - (blob|ident) area :ident{stash}::blob: + :blob:
                                     - *## {fs} - (file) area :file:
                                     - *## {ws} - (ident) area :wd::file: - label on unstage file 
@@ -524,12 +487,12 @@
                                     - *## bring modifi_indexed (mo_in)
                             
                         
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\git\cat.git\dir.git.md">git</a>
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\git\Git_what_trane{git}@1_{repo}\cat.Git_what_trane{git}@1_{repo}\dir.Git_what_trane{git}@1_{repo}.md">Git_what_trane{git}@1_{repo}</a>
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\git\Git_what_trane{git}@1_{repo}\create_bind_repo.md">create_bind_repo.md</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\git\cat.git\dir.git.md">git</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\git\Git_what_trane{git}@1_{repo}\cat.Git_what_trane{git}@1_{repo}\dir.Git_what_trane{git}@1_{repo}.md">Git_what_trane{git}@1_{repo}</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\git\Git_what_trane{git}@1_{repo}\create_bind_repo.md">create_bind_repo.md</a>
                                     - *# create repo
                                     - *# bind repo
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\git\Git_what_trane{git}@1_{repo}\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\git\Git_what_trane{git}@1_{repo}\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
                                     - *## {st} - (blob|ident) area :ident{stash}::blob: + :blob:
                                     - *## {fs} - (file) area :file:
                                     - *## {ws} - (ident) area :wd::file: - label on unstage file 
@@ -549,12 +512,12 @@
                                     - *## bring modifi_indexed (mo_in)
                             
                         
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\giteveryday\cat.giteveryday\dir.giteveryday.md">giteveryday</a>
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\giteveryday\Git_what_trane{giteveryday}@1_{repo}\cat.Git_what_trane{giteveryday}@1_{repo}\dir.Git_what_trane{giteveryday}@1_{repo}.md">Git_what_trane{giteveryday}@1_{repo}</a>
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\giteveryday\Git_what_trane{giteveryday}@1_{repo}\create_bind_repo.md">create_bind_repo.md</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\giteveryday\cat.giteveryday\dir.giteveryday.md">giteveryday</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\giteveryday\Git_what_trane{giteveryday}@1_{repo}\cat.Git_what_trane{giteveryday}@1_{repo}\dir.Git_what_trane{giteveryday}@1_{repo}.md">Git_what_trane{giteveryday}@1_{repo}</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\giteveryday\Git_what_trane{giteveryday}@1_{repo}\create_bind_repo.md">create_bind_repo.md</a>
                                     - *# create repo
                                     - *# bind repo
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\giteveryday\Git_what_trane{giteveryday}@1_{repo}\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\giteveryday\Git_what_trane{giteveryday}@1_{repo}\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
                                     - *## {st} - (blob|ident) area :ident{stash}::blob: + :blob:
                                     - *## {fs} - (file) area :file:
                                     - *## {ws} - (ident) area :wd::file: - label on unstage file 
@@ -574,12 +537,12 @@
                                     - *## bring modifi_indexed (mo_in)
                             
                         
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\gittutorial\cat.gittutorial\dir.gittutorial.md">gittutorial</a>
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\gittutorial\Git_what_trane{gittutorial}@1_{repo}\cat.Git_what_trane{gittutorial}@1_{repo}\dir.Git_what_trane{gittutorial}@1_{repo}.md">Git_what_trane{gittutorial}@1_{repo}</a>
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\gittutorial\Git_what_trane{gittutorial}@1_{repo}\create_bind_repo.md">create_bind_repo.md</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\gittutorial\cat.gittutorial\dir.gittutorial.md">gittutorial</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\gittutorial\Git_what_trane{gittutorial}@1_{repo}\cat.Git_what_trane{gittutorial}@1_{repo}\dir.Git_what_trane{gittutorial}@1_{repo}.md">Git_what_trane{gittutorial}@1_{repo}</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\gittutorial\Git_what_trane{gittutorial}@1_{repo}\create_bind_repo.md">create_bind_repo.md</a>
                                     - *# create repo
                                     - *# bind repo
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\gittutorial\Git_what_trane{gittutorial}@1_{repo}\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\gittutorial\Git_what_trane{gittutorial}@1_{repo}\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
                                     - *## {st} - (blob|ident) area :ident{stash}::blob: + :blob:
                                     - *## {fs} - (file) area :file:
                                     - *## {ws} - (ident) area :wd::file: - label on unstage file 
@@ -599,12 +562,12 @@
                                     - *## bring modifi_indexed (mo_in)
                             
                         
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\gittutorial-2\cat.gittutorial-2\dir.gittutorial-2.md">gittutorial-2</a>
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\gittutorial-2\Git_what_trane{gittutorial-2}@1_{repo}\cat.Git_what_trane{gittutorial-2}@1_{repo}\dir.Git_what_trane{gittutorial-2}@1_{repo}.md">Git_what_trane{gittutorial-2}@1_{repo}</a>
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\gittutorial-2\Git_what_trane{gittutorial-2}@1_{repo}\create_bind_repo.md">create_bind_repo.md</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\gittutorial-2\cat.gittutorial-2\dir.gittutorial-2.md">gittutorial-2</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\gittutorial-2\Git_what_trane{gittutorial-2}@1_{repo}\cat.Git_what_trane{gittutorial-2}@1_{repo}\dir.Git_what_trane{gittutorial-2}@1_{repo}.md">Git_what_trane{gittutorial-2}@1_{repo}</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\gittutorial-2\Git_what_trane{gittutorial-2}@1_{repo}\create_bind_repo.md">create_bind_repo.md</a>
                                     - *# create repo
                                     - *# bind repo
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\gittutorial-2\Git_what_trane{gittutorial-2}@1_{repo}\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\gittutorial-2\Git_what_trane{gittutorial-2}@1_{repo}\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
                                     - *## {st} - (blob|ident) area :ident{stash}::blob: + :blob:
                                     - *## {fs} - (file) area :file:
                                     - *## {ws} - (ident) area :wd::file: - label on unstage file 
@@ -624,11 +587,11 @@
                                     - *## bring modifi_indexed (mo_in)
                             
                         
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\Git_what_trane{}@1_{repo}\cat.Git_what_trane{}@1_{repo}\dir.Git_what_trane{}@1_{repo}.md">Git_what_trane{}@1_{repo}</a>
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\Git_what_trane{}@1_{repo}\create_bind_repo.md">create_bind_repo.md</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\Git_what_trane{}@1_{repo}\cat.Git_what_trane{}@1_{repo}\dir.Git_what_trane{}@1_{repo}.md">Git_what_trane{}@1_{repo}</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\Git_what_trane{}@1_{repo}\create_bind_repo.md">create_bind_repo.md</a>
                                 - *# create repo
                                 - *# bind repo
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\Git_what_trane{}@1_{repo}\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\Git_what_trane{}@1_{repo}\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
                                 - *## {st} - (blob|ident) area :ident{stash}::blob: + :blob:
                                 - *## {fs} - (file) area :file:
                                 - *## {ws} - (ident) area :wd::file: - label on unstage file 
@@ -647,11 +610,11 @@
                                 - *## bring clear_indexed (cl_in)
                                 - *## bring modifi_indexed (mo_in)
                         
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\Git_what_trane{}@1_{repo} - копия (2)\cat.Git_what_trane{}@1_{repo} - копия (2)\dir.Git_what_trane{}@1_{repo} - копия (2).md">Git_what_trane{}@1_{repo} - копия (2)</a>
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\Git_what_trane{}@1_{repo} - копия (2)\create_bind_repo.md">create_bind_repo.md</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\Git_what_trane{}@1_{repo} - копия (2)\cat.Git_what_trane{}@1_{repo} - копия (2)\dir.Git_what_trane{}@1_{repo} - копия (2).md">Git_what_trane{}@1_{repo} - копия (2)</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\Git_what_trane{}@1_{repo} - копия (2)\create_bind_repo.md">create_bind_repo.md</a>
                                 - *# create repo
                                 - *# bind repo
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\Git_what_trane{}@1_{repo} - копия (2)\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\Git_what_trane{}@1_{repo} - копия (2)\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
                                 - *## {st} - (blob|ident) area :ident{stash}::blob: + :blob:
                                 - *## {fs} - (file) area :file:
                                 - *## {ws} - (ident) area :wd::file: - label on unstage file 
@@ -670,11 +633,11 @@
                                 - *## bring clear_indexed (cl_in)
                                 - *## bring modifi_indexed (mo_in)
                         
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\Git_what_trane{}@1_{repo} - копия (3)\cat.Git_what_trane{}@1_{repo} - копия (3)\dir.Git_what_trane{}@1_{repo} - копия (3).md">Git_what_trane{}@1_{repo} - копия (3)</a>
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\Git_what_trane{}@1_{repo} - копия (3)\create_bind_repo.md">create_bind_repo.md</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\Git_what_trane{}@1_{repo} - копия (3)\cat.Git_what_trane{}@1_{repo} - копия (3)\dir.Git_what_trane{}@1_{repo} - копия (3).md">Git_what_trane{}@1_{repo} - копия (3)</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\Git_what_trane{}@1_{repo} - копия (3)\create_bind_repo.md">create_bind_repo.md</a>
                                 - *# create repo
                                 - *# bind repo
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\Git_what_trane{}@1_{repo} - копия (3)\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\Git_what_trane{}@1_{repo} - копия (3)\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
                                 - *## {st} - (blob|ident) area :ident{stash}::blob: + :blob:
                                 - *## {fs} - (file) area :file:
                                 - *## {ws} - (ident) area :wd::file: - label on unstage file 
@@ -693,11 +656,11 @@
                                 - *## bring clear_indexed (cl_in)
                                 - *## bring modifi_indexed (mo_in)
                         
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\Git_what_trane{}@1_{repo} - копия (4)\cat.Git_what_trane{}@1_{repo} - копия (4)\dir.Git_what_trane{}@1_{repo} - копия (4).md">Git_what_trane{}@1_{repo} - копия (4)</a>
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\Git_what_trane{}@1_{repo} - копия (4)\create_bind_repo.md">create_bind_repo.md</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\Git_what_trane{}@1_{repo} - копия (4)\cat.Git_what_trane{}@1_{repo} - копия (4)\dir.Git_what_trane{}@1_{repo} - копия (4).md">Git_what_trane{}@1_{repo} - копия (4)</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\Git_what_trane{}@1_{repo} - копия (4)\create_bind_repo.md">create_bind_repo.md</a>
                                 - *# create repo
                                 - *# bind repo
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\Git_what_trane{}@1_{repo} - копия (4)\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\Git_what_trane{}@1_{repo} - копия (4)\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
                                 - *## {st} - (blob|ident) area :ident{stash}::blob: + :blob:
                                 - *## {fs} - (file) area :file:
                                 - *## {ws} - (ident) area :wd::file: - label on unstage file 
@@ -716,11 +679,11 @@
                                 - *## bring clear_indexed (cl_in)
                                 - *## bring modifi_indexed (mo_in)
                         
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\Git_what_trane{}@1_{repo} - копия (5)\cat.Git_what_trane{}@1_{repo} - копия (5)\dir.Git_what_trane{}@1_{repo} - копия (5).md">Git_what_trane{}@1_{repo} - копия (5)</a>
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\Git_what_trane{}@1_{repo} - копия (5)\create_bind_repo.md">create_bind_repo.md</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\Git_what_trane{}@1_{repo} - копия (5)\cat.Git_what_trane{}@1_{repo} - копия (5)\dir.Git_what_trane{}@1_{repo} - копия (5).md">Git_what_trane{}@1_{repo} - копия (5)</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\Git_what_trane{}@1_{repo} - копия (5)\create_bind_repo.md">create_bind_repo.md</a>
                                 - *# create repo
                                 - *# bind repo
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\Git_what_trane{}@1_{repo} - копия (5)\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\Git_what_trane{}@1_{repo} - копия (5)\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
                                 - *## {st} - (blob|ident) area :ident{stash}::blob: + :blob:
                                 - *## {fs} - (file) area :file:
                                 - *## {ws} - (ident) area :wd::file: - label on unstage file 
@@ -739,12 +702,12 @@
                                 - *## bring clear_indexed (cl_in)
                                 - *## bring modifi_indexed (mo_in)
                         
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\help.1\cat.help.1\dir.help.1.md">help.1</a>
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\help.1\Git_what_trane{help}@1_{repo}\cat.Git_what_trane{help}@1_{repo}\dir.Git_what_trane{help}@1_{repo}.md">Git_what_trane{help}@1_{repo}</a>
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\help.1\Git_what_trane{help}@1_{repo}\create_bind_repo.md">create_bind_repo.md</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\help.1\cat.help.1\dir.help.1.md">help.1</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\help.1\Git_what_trane{help}@1_{repo}\cat.Git_what_trane{help}@1_{repo}\dir.Git_what_trane{help}@1_{repo}.md">Git_what_trane{help}@1_{repo}</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\help.1\Git_what_trane{help}@1_{repo}\create_bind_repo.md">create_bind_repo.md</a>
                                     - *# create repo
                                     - *# bind repo
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\help.1\Git_what_trane{help}@1_{repo}\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\help.1\Git_what_trane{help}@1_{repo}\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
                                     - *## {st} - (blob|ident) area :ident{stash}::blob: + :blob:
                                     - *## {fs} - (file) area :file:
                                     - *## {ws} - (ident) area :wd::file: - label on unstage file 
@@ -764,12 +727,12 @@
                                     - *## bring modifi_indexed (mo_in)
                             
                         
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\merge\cat.merge\dir.merge.md">merge</a>
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\merge\Git_what_trane{marge}@1_{repo}\cat.Git_what_trane{marge}@1_{repo}\dir.Git_what_trane{marge}@1_{repo}.md">Git_what_trane{marge}@1_{repo}</a>
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\merge\Git_what_trane{marge}@1_{repo}\create_bind_repo.md">create_bind_repo.md</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\merge\cat.merge\dir.merge.md">merge</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\merge\Git_what_trane{marge}@1_{repo}\cat.Git_what_trane{marge}@1_{repo}\dir.Git_what_trane{marge}@1_{repo}.md">Git_what_trane{marge}@1_{repo}</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\merge\Git_what_trane{marge}@1_{repo}\create_bind_repo.md">create_bind_repo.md</a>
                                     - *# create repo
                                     - *# bind repo
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\merge\Git_what_trane{marge}@1_{repo}\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\merge\Git_what_trane{marge}@1_{repo}\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
                                     - *## {st} - (blob|ident) area :ident{stash}::blob: + :blob:
                                     - *## {fs} - (file) area :file:
                                     - *## {ws} - (ident) area :wd::file: - label on unstage file 
@@ -789,12 +752,12 @@
                                     - *## bring modifi_indexed (mo_in)
                             
                         
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\mv.1\cat.mv.1\dir.mv.1.md">mv.1</a>
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\mv.1\Git_what_trane{mv}@1_{repo}\cat.Git_what_trane{mv}@1_{repo}\dir.Git_what_trane{mv}@1_{repo}.md">Git_what_trane{mv}@1_{repo}</a>
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\mv.1\Git_what_trane{mv}@1_{repo}\create_bind_repo.md">create_bind_repo.md</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\mv.1\cat.mv.1\dir.mv.1.md">mv.1</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\mv.1\Git_what_trane{mv}@1_{repo}\cat.Git_what_trane{mv}@1_{repo}\dir.Git_what_trane{mv}@1_{repo}.md">Git_what_trane{mv}@1_{repo}</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\mv.1\Git_what_trane{mv}@1_{repo}\create_bind_repo.md">create_bind_repo.md</a>
                                     - *# create repo
                                     - *# bind repo
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\mv.1\Git_what_trane{mv}@1_{repo}\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\mv.1\Git_what_trane{mv}@1_{repo}\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
                                     - *## {st} - (blob|ident) area :ident{stash}::blob: + :blob:
                                     - *## {fs} - (file) area :file:
                                     - *## {ws} - (ident) area :wd::file: - label on unstage file 
@@ -814,12 +777,12 @@
                                     - *## bring modifi_indexed (mo_in)
                             
                         
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\MyFirstContribution\cat.MyFirstContribution\dir.MyFirstContribution.md">MyFirstContribution</a>
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\MyFirstContribution\Git_what_trane{MyFirstContribution}@1_{repo}\cat.Git_what_trane{MyFirstContribution}@1_{repo}\dir.Git_what_trane{MyFirstContribution}@1_{repo}.md">Git_what_trane{MyFirstContribution}@1_{repo}</a>
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\MyFirstContribution\Git_what_trane{MyFirstContribution}@1_{repo}\create_bind_repo.md">create_bind_repo.md</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\MyFirstContribution\cat.MyFirstContribution\dir.MyFirstContribution.md">MyFirstContribution</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\MyFirstContribution\Git_what_trane{MyFirstContribution}@1_{repo}\cat.Git_what_trane{MyFirstContribution}@1_{repo}\dir.Git_what_trane{MyFirstContribution}@1_{repo}.md">Git_what_trane{MyFirstContribution}@1_{repo}</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\MyFirstContribution\Git_what_trane{MyFirstContribution}@1_{repo}\create_bind_repo.md">create_bind_repo.md</a>
                                     - *# create repo
                                     - *# bind repo
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\MyFirstContribution\Git_what_trane{MyFirstContribution}@1_{repo}\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\MyFirstContribution\Git_what_trane{MyFirstContribution}@1_{repo}\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
                                     - *## {st} - (blob|ident) area :ident{stash}::blob: + :blob:
                                     - *## {fs} - (file) area :file:
                                     - *## {ws} - (ident) area :wd::file: - label on unstage file 
@@ -839,12 +802,12 @@
                                     - *## bring modifi_indexed (mo_in)
                             
                         
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\MyFirstObjectWalk\cat.MyFirstObjectWalk\dir.MyFirstObjectWalk.md">MyFirstObjectWalk</a>
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\MyFirstObjectWalk\Git_what_trane{MyFirstObjectWalk}@1_{repo}\cat.Git_what_trane{MyFirstObjectWalk}@1_{repo}\dir.Git_what_trane{MyFirstObjectWalk}@1_{repo}.md">Git_what_trane{MyFirstObjectWalk}@1_{repo}</a>
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\MyFirstObjectWalk\Git_what_trane{MyFirstObjectWalk}@1_{repo}\create_bind_repo.md">create_bind_repo.md</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\MyFirstObjectWalk\cat.MyFirstObjectWalk\dir.MyFirstObjectWalk.md">MyFirstObjectWalk</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\MyFirstObjectWalk\Git_what_trane{MyFirstObjectWalk}@1_{repo}\cat.Git_what_trane{MyFirstObjectWalk}@1_{repo}\dir.Git_what_trane{MyFirstObjectWalk}@1_{repo}.md">Git_what_trane{MyFirstObjectWalk}@1_{repo}</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\MyFirstObjectWalk\Git_what_trane{MyFirstObjectWalk}@1_{repo}\create_bind_repo.md">create_bind_repo.md</a>
                                     - *# create repo
                                     - *# bind repo
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\MyFirstObjectWalk\Git_what_trane{MyFirstObjectWalk}@1_{repo}\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\MyFirstObjectWalk\Git_what_trane{MyFirstObjectWalk}@1_{repo}\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
                                     - *## {st} - (blob|ident) area :ident{stash}::blob: + :blob:
                                     - *## {fs} - (file) area :file:
                                     - *## {ws} - (ident) area :wd::file: - label on unstage file 
@@ -864,12 +827,12 @@
                                     - *## bring modifi_indexed (mo_in)
                             
                         
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\reset\cat.reset\dir.reset.md">reset</a>
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\reset\Git_what_trane{reset}@1_{repo}\cat.Git_what_trane{reset}@1_{repo}\dir.Git_what_trane{reset}@1_{repo}.md">Git_what_trane{reset}@1_{repo}</a>
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\reset\Git_what_trane{reset}@1_{repo}\create_bind_repo.md">create_bind_repo.md</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\reset\cat.reset\dir.reset.md">reset</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\reset\Git_what_trane{reset}@1_{repo}\cat.Git_what_trane{reset}@1_{repo}\dir.Git_what_trane{reset}@1_{repo}.md">Git_what_trane{reset}@1_{repo}</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\reset\Git_what_trane{reset}@1_{repo}\create_bind_repo.md">create_bind_repo.md</a>
                                     - *# create repo
                                     - *# bind repo
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\reset\Git_what_trane{reset}@1_{repo}\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\reset\Git_what_trane{reset}@1_{repo}\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
                                     - *## {st} - (blob|ident) area :ident{stash}::blob: + :blob:
                                     - *## {fs} - (file) area :file:
                                     - *## {ws} - (ident) area :wd::file: - label on unstage file 
@@ -889,12 +852,12 @@
                                     - *## bring modifi_indexed (mo_in)
                             
                         
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\restore.1\cat.restore.1\dir.restore.1.md">restore.1</a>
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\restore.1\Git_what_trane{restore--staged--source}@1_{repo}\cat.Git_what_trane{restore--staged--source}@1_{repo}\dir.Git_what_trane{restore--staged--source}@1_{repo}.md">Git_what_trane{restore--staged--source}@1_{repo}</a>
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\restore.1\Git_what_trane{restore--staged--source}@1_{repo}\create_bind_repo.md">create_bind_repo.md</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\restore.1\cat.restore.1\dir.restore.1.md">restore.1</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\restore.1\Git_what_trane{restore--staged--source}@1_{repo}\cat.Git_what_trane{restore--staged--source}@1_{repo}\dir.Git_what_trane{restore--staged--source}@1_{repo}.md">Git_what_trane{restore--staged--source}@1_{repo}</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\restore.1\Git_what_trane{restore--staged--source}@1_{repo}\create_bind_repo.md">create_bind_repo.md</a>
                                     - *# create repo
                                     - *# bind repo
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\restore.1\Git_what_trane{restore--staged--source}@1_{repo}\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\restore.1\Git_what_trane{restore--staged--source}@1_{repo}\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
                                     - *## {st} - (blob|ident) area :ident{stash}::blob: + :blob:
                                     - *## {fs} - (file) area :file:
                                     - *## {ws} - (ident) area :wd::file: - label on unstage file 
@@ -913,11 +876,11 @@
                                     - *## bring clear_indexed (cl_in)
                                     - *## bring modifi_indexed (mo_in)
                             
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\restore.1\Git_what_trane{restore--staged}@1_{repo}\cat.Git_what_trane{restore--staged}@1_{repo}\dir.Git_what_trane{restore--staged}@1_{repo}.md">Git_what_trane{restore--staged}@1_{repo}</a>
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\restore.1\Git_what_trane{restore--staged}@1_{repo}\create_bind_repo.md">create_bind_repo.md</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\restore.1\Git_what_trane{restore--staged}@1_{repo}\cat.Git_what_trane{restore--staged}@1_{repo}\dir.Git_what_trane{restore--staged}@1_{repo}.md">Git_what_trane{restore--staged}@1_{repo}</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\restore.1\Git_what_trane{restore--staged}@1_{repo}\create_bind_repo.md">create_bind_repo.md</a>
                                     - *# create repo
                                     - *# bind repo
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\restore.1\Git_what_trane{restore--staged}@1_{repo}\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\restore.1\Git_what_trane{restore--staged}@1_{repo}\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
                                     - *## {st} - (blob|ident) area :ident{stash}::blob: + :blob:
                                     - *## {fs} - (file) area :file:
                                     - *## {ws} - (ident) area :wd::file: - label on unstage file 
@@ -936,36 +899,11 @@
                                     - *## bring clear_indexed (cl_in)
                                     - *## bring modifi_indexed (mo_in)
                             
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\restore.1\Git_what_trane{restore}@1_{repo}\cat.Git_what_trane{restore}@1_{repo}\dir.Git_what_trane{restore}@1_{repo}.md">Git_what_trane{restore}@1_{repo}</a>
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\restore.1\Git_what_trane{restore}@1_{repo}\create_bind_repo.md">create_bind_repo.md</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\restore.1\Git_what_trane{restore}@1_{repo}\cat.Git_what_trane{restore}@1_{repo}\dir.Git_what_trane{restore}@1_{repo}.md">Git_what_trane{restore}@1_{repo}</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\restore.1\Git_what_trane{restore}@1_{repo}\create_bind_repo.md">create_bind_repo.md</a>
                                     - *# create repo
                                     - *# bind repo
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\restore.1\Git_what_trane{restore}@1_{repo}\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
-                                    - *## {st} - (blob|ident) area :ident{stash}::blob: + :blob:
-                                    - *## {fs} - (file) area :file:
-                                    - *## {ws} - (ident) area :wd::file: - label on unstage file 
-                                    - *## {in} - (ident) area :in::file: - label on stage file
-                                    - *## {lr} - (blob|ident) area :ident{local repo}::blob: + :blob:
-                                    - *## {ur} - (blob|ident) area :ident{upstr repo}::blob: + :blob:
-                                    - *## git init
-                                    - *## create mas1
-                                    - *##  add mas1
-                                    - *## commit mas1
-                                    - *## touch mas2
-                                    - *## sta1 go to {stash}
-                                    - *### atten! {stash} add modif {ws}
-                                    - *## bring inside mas3   
-                                    - *## bring clear_workspaced (cl_ws)
-                                    - *## bring clear_indexed (cl_in)
-                                    - *## bring modifi_indexed (mo_in)
-                            
-                        
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\revert\cat.revert\dir.revert.md">revert</a>
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\revert\Git_what_trane{revert}@1_{repo}\cat.Git_what_trane{revert}@1_{repo}\dir.Git_what_trane{revert}@1_{repo}.md">Git_what_trane{revert}@1_{repo}</a>
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\revert\Git_what_trane{revert}@1_{repo}\create_bind_repo.md">create_bind_repo.md</a>
-                                    - *# create repo
-                                    - *# bind repo
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\revert\Git_what_trane{revert}@1_{repo}\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\restore.1\Git_what_trane{restore}@1_{repo}\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
                                     - *## {st} - (blob|ident) area :ident{stash}::blob: + :blob:
                                     - *## {fs} - (file) area :file:
                                     - *## {ws} - (ident) area :wd::file: - label on unstage file 
@@ -985,12 +923,12 @@
                                     - *## bring modifi_indexed (mo_in)
                             
                         
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\rm.1\cat.rm.1\dir.rm.1.md">rm.1</a>
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\rm.1\Git_what_trane{rm}@1_{repo}\cat.Git_what_trane{rm}@1_{repo}\dir.Git_what_trane{rm}@1_{repo}.md">Git_what_trane{rm}@1_{repo}</a>
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\rm.1\Git_what_trane{rm}@1_{repo}\create_bind_repo.md">create_bind_repo.md</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\revert\cat.revert\dir.revert.md">revert</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\revert\Git_what_trane{revert}@1_{repo}\cat.Git_what_trane{revert}@1_{repo}\dir.Git_what_trane{revert}@1_{repo}.md">Git_what_trane{revert}@1_{repo}</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\revert\Git_what_trane{revert}@1_{repo}\create_bind_repo.md">create_bind_repo.md</a>
                                     - *# create repo
                                     - *# bind repo
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\rm.1\Git_what_trane{rm}@1_{repo}\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\revert\Git_what_trane{revert}@1_{repo}\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
                                     - *## {st} - (blob|ident) area :ident{stash}::blob: + :blob:
                                     - *## {fs} - (file) area :file:
                                     - *## {ws} - (ident) area :wd::file: - label on unstage file 
@@ -1010,12 +948,12 @@
                                     - *## bring modifi_indexed (mo_in)
                             
                         
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\stash\cat.stash\dir.stash.md">stash</a>
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\stash\Git_what_trane{stash}@1_{repo}\cat.Git_what_trane{stash}@1_{repo}\dir.Git_what_trane{stash}@1_{repo}.md">Git_what_trane{stash}@1_{repo}</a>
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\stash\Git_what_trane{stash}@1_{repo}\create_bind_repo.md">create_bind_repo.md</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\rm.1\cat.rm.1\dir.rm.1.md">rm.1</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\rm.1\Git_what_trane{rm}@1_{repo}\cat.Git_what_trane{rm}@1_{repo}\dir.Git_what_trane{rm}@1_{repo}.md">Git_what_trane{rm}@1_{repo}</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\rm.1\Git_what_trane{rm}@1_{repo}\create_bind_repo.md">create_bind_repo.md</a>
                                     - *# create repo
                                     - *# bind repo
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\stash\Git_what_trane{stash}@1_{repo}\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\rm.1\Git_what_trane{rm}@1_{repo}\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
                                     - *## {st} - (blob|ident) area :ident{stash}::blob: + :blob:
                                     - *## {fs} - (file) area :file:
                                     - *## {ws} - (ident) area :wd::file: - label on unstage file 
@@ -1035,12 +973,12 @@
                                     - *## bring modifi_indexed (mo_in)
                             
                         
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\switch\cat.switch\dir.switch.md">switch</a>
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\switch\Git_what_trane{switch}@1_{repo}\cat.Git_what_trane{switch}@1_{repo}\dir.Git_what_trane{switch}@1_{repo}.md">Git_what_trane{switch}@1_{repo}</a>
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\switch\Git_what_trane{switch}@1_{repo}\create_bind_repo.md">create_bind_repo.md</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\stash\cat.stash\dir.stash.md">stash</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\stash\Git_what_trane{stash}@1_{repo}\cat.Git_what_trane{stash}@1_{repo}\dir.Git_what_trane{stash}@1_{repo}.md">Git_what_trane{stash}@1_{repo}</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\stash\Git_what_trane{stash}@1_{repo}\create_bind_repo.md">create_bind_repo.md</a>
                                     - *# create repo
                                     - *# bind repo
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\switch\Git_what_trane{switch}@1_{repo}\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\stash\Git_what_trane{stash}@1_{repo}\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
                                     - *## {st} - (blob|ident) area :ident{stash}::blob: + :blob:
                                     - *## {fs} - (file) area :file:
                                     - *## {ws} - (ident) area :wd::file: - label on unstage file 
@@ -1060,12 +998,12 @@
                                     - *## bring modifi_indexed (mo_in)
                             
                         
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\tag.1\cat.tag.1\dir.tag.1.md">tag.1</a>
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\tag.1\Git_what_trane{tag}@1_{repo}\cat.Git_what_trane{tag}@1_{repo}\dir.Git_what_trane{tag}@1_{repo}.md">Git_what_trane{tag}@1_{repo}</a>
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\tag.1\Git_what_trane{tag}@1_{repo}\create_bind_repo.md">create_bind_repo.md</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\switch\cat.switch\dir.switch.md">switch</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\switch\Git_what_trane{switch}@1_{repo}\cat.Git_what_trane{switch}@1_{repo}\dir.Git_what_trane{switch}@1_{repo}.md">Git_what_trane{switch}@1_{repo}</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\switch\Git_what_trane{switch}@1_{repo}\create_bind_repo.md">create_bind_repo.md</a>
                                     - *# create repo
                                     - *# bind repo
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\tag.1\Git_what_trane{tag}@1_{repo}\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\switch\Git_what_trane{switch}@1_{repo}\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
                                     - *## {st} - (blob|ident) area :ident{stash}::blob: + :blob:
                                     - *## {fs} - (file) area :file:
                                     - *## {ws} - (ident) area :wd::file: - label on unstage file 
@@ -1085,12 +1023,37 @@
                                     - *## bring modifi_indexed (mo_in)
                             
                         
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\user-manual\cat.user-manual\dir.user-manual.md">user-manual</a>
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\user-manual\Git_what_trane{user-manual}@1_{repo}\cat.Git_what_trane{user-manual}@1_{repo}\dir.Git_what_trane{user-manual}@1_{repo}.md">Git_what_trane{user-manual}@1_{repo}</a>
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\user-manual\Git_what_trane{user-manual}@1_{repo}\create_bind_repo.md">create_bind_repo.md</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\tag.1\cat.tag.1\dir.tag.1.md">tag.1</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\tag.1\Git_what_trane{tag}@1_{repo}\cat.Git_what_trane{tag}@1_{repo}\dir.Git_what_trane{tag}@1_{repo}.md">Git_what_trane{tag}@1_{repo}</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\tag.1\Git_what_trane{tag}@1_{repo}\create_bind_repo.md">create_bind_repo.md</a>
                                     - *# create repo
                                     - *# bind repo
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\user-manual\Git_what_trane{user-manual}@1_{repo}\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\tag.1\Git_what_trane{tag}@1_{repo}\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
+                                    - *## {st} - (blob|ident) area :ident{stash}::blob: + :blob:
+                                    - *## {fs} - (file) area :file:
+                                    - *## {ws} - (ident) area :wd::file: - label on unstage file 
+                                    - *## {in} - (ident) area :in::file: - label on stage file
+                                    - *## {lr} - (blob|ident) area :ident{local repo}::blob: + :blob:
+                                    - *## {ur} - (blob|ident) area :ident{upstr repo}::blob: + :blob:
+                                    - *## git init
+                                    - *## create mas1
+                                    - *##  add mas1
+                                    - *## commit mas1
+                                    - *## touch mas2
+                                    - *## sta1 go to {stash}
+                                    - *### atten! {stash} add modif {ws}
+                                    - *## bring inside mas3   
+                                    - *## bring clear_workspaced (cl_ws)
+                                    - *## bring clear_indexed (cl_in)
+                                    - *## bring modifi_indexed (mo_in)
+                            
+                        
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\user-manual\cat.user-manual\dir.user-manual.md">user-manual</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\user-manual\Git_what_trane{user-manual}@1_{repo}\cat.Git_what_trane{user-manual}@1_{repo}\dir.Git_what_trane{user-manual}@1_{repo}.md">Git_what_trane{user-manual}@1_{repo}</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\user-manual\Git_what_trane{user-manual}@1_{repo}\create_bind_repo.md">create_bind_repo.md</a>
+                                    - *# create repo
+                                    - *# bind repo
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\user-manual\Git_what_trane{user-manual}@1_{repo}\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
                                     - *## {st} - (blob|ident) area :ident{stash}::blob: + :blob:
                                     - *## {fs} - (file) area :file:
                                     - *## {ws} - (ident) area :wd::file: - label on unstage file 
@@ -1111,8 +1074,8 @@
                             
                         
                     
-                    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\lists_hints\cat.lists_hints\dir.lists_hints.md">lists_hints</a>
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\lists_hints\contentim.ru_bash.md">contentim.ru_bash.md</a>
+                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\lists_hints\cat.lists_hints\dir.lists_hints.md">lists_hints</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\lists_hints\contentim.ru_bash.md">contentim.ru_bash.md</a>
                             - *# [Шпаргалка по bash](https://github.com/cyberspacedk/BASH-Commands)
                             - *## Файловая система
                             - *### Просмотр содержимого папки
@@ -1121,7 +1084,7 @@
                             - *### Копирование файлов
                             - *### Удаление папок и файлов
                             - *## Алиасы
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\lists_hints\contentim.ru_git.md">contentim.ru_git.md</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\lists_hints\contentim.ru_git.md">contentim.ru_git.md</a>
                             - *# [Шпаргалка по консольным командам Git](https://contentim.ru/git)
                             - *## Создать новый репозиторий
                             - *## Клонирование репозитория
@@ -1158,13 +1121,13 @@
                             - *### Ошибка в работе: закоммитили в мастер, но поняли, что нужно было коммитить в новую ветку
                             - *### Нужно вернуть содержимое файла к состоянию, бывшему в каком-либо коммите (известен хеш коммита)
                             - *### При любом действии с github (или другим удалённым сервисом) запрашивается логин и пароль
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\lists_hints\habr.com.201922.md">habr.com.201922.md</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\lists_hints\habr.com.201922.md">habr.com.201922.md</a>
                             - *# [Изменение коммитов в Git](https://habr.com/ru/post/201922/)
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\lists_hints\nikolaj-sarry.info.md">nikolaj-sarry.info.md</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\lists_hints\nikolaj-sarry.info.md">nikolaj-sarry.info.md</a>
                             - *# [GIT-ШПАРГАЛКА: ОСНОВНЫЕ КОМАНДЫ](https://nikolaj-sarry.info/razrabotka/git/git-shpargalka-osnovnye-komandy/)
                     
-                    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\Start_blob_1\cat.Start_blob_1\dir.Start_blob_1.md">Start_blob_1</a>
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\Start_blob_1\create_start_blob_1.bak.md">create_start_blob_1.bak.md</a>
+                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\Start_blob_1\cat.Start_blob_1\dir.Start_blob_1.md">Start_blob_1</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\Start_blob_1\create_start_blob_1.bak.md">create_start_blob_1.bak.md</a>
                             - *## create {shape_}
                             - *## create (change of) {wd} 
                             - *## create (change of) {in}
@@ -1174,7 +1137,7 @@
                             - *## {wd} dn {sh}
                             - *### {{in} dn {wd}}
                             - *## second commit comm2
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\Start_blob_1\create_start_blob_1.md">create_start_blob_1.md</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\Start_blob_1\create_start_blob_1.md">create_start_blob_1.md</a>
                             - *## {st} - (blob|ident) area :ident{stash}::blob: + :blob:
                             - *## {fs} - (file) area :file:
                             - *## {ws} - (ident) area :wd::file: - label on unstage file 
@@ -1189,7 +1152,7 @@
                             - *## sta1 go to {stash}
                             - *### atten! {stash} add modif {ws}
                             - *## bring inside mas3   
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\Start_blob_1\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\Start_blob_1\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
                             - *## {st} - (blob|ident) area :ident{stash}::blob: + :blob:
                             - *## {fs} - (file) area :file:
                             - *## {ws} - (ident) area :wd::file: - label on unstage file 
@@ -1208,35 +1171,35 @@
                             - *## bring clear_indexed (cl_in)
                             - *## bring modifi_indexed (mo_in)
                     
-                    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\workchain\cat.workchain\dir.workchain.md">workchain</a>
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\workchain\first_level\cat.first_level\dir.first_level.md">first_level</a>
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\workchain\first_level\fixup_git.md">fixup_git.md</a>
+                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\workchain\cat.workchain\dir.workchain.md">workchain</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\workchain\first_level\cat.first_level\dir.first_level.md">first_level</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\workchain\first_level\fixup_git.md">fixup_git.md</a>
                                 - *# First level
                                 - *## init project
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\workchain\first_level\gitconfig.md">gitconfig.md</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\workchain\first_level\gitconfig.md">gitconfig.md</a>
                                 - *# [Git clone не загружает все файлы из-за ограничения длины пути к файлу windows](https://coderoad.ru/55343976/Git-clone-%D0%BD%D0%B5-%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B6%D0%B0%D0%B5%D1%82-%D0%B2%D1%81%D0%B5-%D1%84%D0%B0%D0%B9%D0%BB%D1%8B-%D0%B8%D0%B7-%D0%B7%D0%B0-%D0%BE%D0%B3%D1%80%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B4%D0%BB%D0%B8%D0%BD%D1%8B-%D0%BF%D1%83%D1%82%D0%B8-%D0%BA-%D1%84%D0%B0%D0%B9%D0%BB%D1%83-windows)
                                 - *## result .gitconfig
                                 - *# [merge tools config](https://www.atlassian.com/ru/git/tutorials/setting-up-a-repository/git-config)
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\workchain\first_level\start_projects.md">start_projects.md</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\workchain\first_level\start_projects.md">start_projects.md</a>
                                 - *# First level
                                 - *## init project
                         
                     
                 
             
-            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\cat.content\dir.content.md">content</a>
-                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\cat.Docs\dir.Docs.md">Docs</a>
-                    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\cat.C_Program_Files_Git_mingw64_share_doc_git-doc\dir.C_Program_Files_Git_mingw64_share_doc_git-doc.md">C_Program_Files_Git_mingw64_share_doc_git-doc</a>
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\Cheat_Sheets\cat.Cheat_Sheets\dir.Cheat_Sheets.md">Cheat_Sheets</a>
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\Cheat_Sheets\_src\cat._src\dir._src.md">_src</a>
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\Cheat_Sheets\_src\issue_from_sait_git-cheatsheet.md">issue_from_sait_git-cheatsheet.md</a>
+            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\cat.content\dir.content.md">content</a>
+                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\cat.Docs\dir.Docs.md">Docs</a>
+                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\cat.C_Program_Files_Git_mingw64_share_doc_git-doc\dir.C_Program_Files_Git_mingw64_share_doc_git-doc.md">C_Program_Files_Git_mingw64_share_doc_git-doc</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\Cheat_Sheets\cat.Cheat_Sheets\dir.Cheat_Sheets.md">Cheat_Sheets</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\Cheat_Sheets\_src\cat._src\dir._src.md">_src</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\Cheat_Sheets\_src\issue_from_sait_git-cheatsheet.md">issue_from_sait_git-cheatsheet.md</a>
                                     - *# [Git Cheatsheet](https://ndpsoftware.com/git-cheatsheet.html#loc=index;) 
                             
                         
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\Point_learn\cat.Point_learn\dir.Point_learn.md">Point_learn</a>
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\Point_learn\git-doc_converted\cat.git-doc_converted\dir.git-doc_converted.md">git-doc_converted</a>
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\Point_learn\git-doc_converted\.git-add.html.dir\cat..git-add.html.dir\dir..git-add.html.dir.md">.git-add.html.dir</a>
-                                    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\Point_learn\git-doc_converted\.git-add.html.dir\git-add.html.consp.md">git-add.html.consp.md</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\Point_learn\cat.Point_learn\dir.Point_learn.md">Point_learn</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\Point_learn\git-doc_converted\cat.git-doc_converted\dir.git-doc_converted.md">git-doc_converted</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\Point_learn\git-doc_converted\.git-add.html.dir\cat..git-add.html.dir\dir..git-add.html.dir.md">.git-add.html.dir</a>
+                                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\Point_learn\git-doc_converted\.git-add.html.dir\git-add.html.consp.md">git-add.html.consp.md</a>
                                         - *# [git-add(1) Manual Page](file:///E:/Node_projects/Node_Way/NBase/_Md/_Index/_Git/content/Docs/C_Program_Files_Git_mingw64_share_doc_git-doc/Point_learn/git-doc_converted/git-add.html)
                                         - *##  NAME
                                         - *## SYNOPSIS
@@ -1252,9 +1215,9 @@
                                         - *### -u
                                         - *### -A
                                         - *### -N
-                                    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\Point_learn\git-doc_converted\.git-add.html.dir\_blobs_to_traine\cat._blobs_to_traine\dir._blobs_to_traine.md">_blobs_to_traine</a>
-                                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\Point_learn\git-doc_converted\.git-add.html.dir\_blobs_to_traine\Git_what_trane{add-i}@1\cat.Git_what_trane{add-i}@1\dir.Git_what_trane{add-i}@1.md">Git_what_trane{add-i}@1</a>
-                                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\Point_learn\git-doc_converted\.git-add.html.dir\_blobs_to_traine\Git_what_trane{add-i}@1\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
+                                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\Point_learn\git-doc_converted\.git-add.html.dir\_blobs_to_traine\cat._blobs_to_traine\dir._blobs_to_traine.md">_blobs_to_traine</a>
+                                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\Point_learn\git-doc_converted\.git-add.html.dir\_blobs_to_traine\Git_what_trane{add-i}@1\cat.Git_what_trane{add-i}@1\dir.Git_what_trane{add-i}@1.md">Git_what_trane{add-i}@1</a>
+                                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\Point_learn\git-doc_converted\.git-add.html.dir\_blobs_to_traine\Git_what_trane{add-i}@1\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
                                                 - *## {st} - (blob|ident) area :ident{stash}::blob: + :blob:
                                                 - *## {fs} - (file) area :file:
                                                 - *## {ws} - (ident) area :wd::file: - label on unstage file 
@@ -1273,8 +1236,8 @@
                                                 - *## bring clear_indexed (cl_in)
                                                 - *## bring modifi_indexed (mo_in)
                                         
-                                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\Point_learn\git-doc_converted\.git-add.html.dir\_blobs_to_traine\Git_what_trane{add}@1\cat.Git_what_trane{add}@1\dir.Git_what_trane{add}@1.md">Git_what_trane{add}@1</a>
-                                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\Point_learn\git-doc_converted\.git-add.html.dir\_blobs_to_traine\Git_what_trane{add}@1\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
+                                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\Point_learn\git-doc_converted\.git-add.html.dir\_blobs_to_traine\Git_what_trane{add}@1\cat.Git_what_trane{add}@1\dir.Git_what_trane{add}@1.md">Git_what_trane{add}@1</a>
+                                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\Point_learn\git-doc_converted\.git-add.html.dir\_blobs_to_traine\Git_what_trane{add}@1\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
                                                 - *## {st} - (blob|ident) area :ident{stash}::blob: + :blob:
                                                 - *## {fs} - (file) area :file:
                                                 - *## {ws} - (ident) area :wd::file: - label on unstage file 
@@ -1294,10 +1257,10 @@
                                                 - *## bring modifi_indexed (mo_in)
                                         
                                     
-                                    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\Point_learn\git-doc_converted\.git-add.html.dir\_src\cat._src\dir._src.md">_src</a>
-                                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\Point_learn\git-doc_converted\.git-add.html.dir\_src\Git_store{}@1_1\cat.Git_store{}@1_1\dir.Git_store{}@1_1.md">Git_store{}@1_1</a>
-                                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\Point_learn\git-doc_converted\.git-add.html.dir\_src\Git_store{}@1_1\Git_what_trane{}@1\cat.Git_what_trane{}@1\dir.Git_what_trane{}@1.md">Git_what_trane{}@1</a>
-                                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\Point_learn\git-doc_converted\.git-add.html.dir\_src\Git_store{}@1_1\Git_what_trane{}@1\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
+                                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\Point_learn\git-doc_converted\.git-add.html.dir\_src\cat._src\dir._src.md">_src</a>
+                                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\Point_learn\git-doc_converted\.git-add.html.dir\_src\Git_store{}@1_1\cat.Git_store{}@1_1\dir.Git_store{}@1_1.md">Git_store{}@1_1</a>
+                                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\Point_learn\git-doc_converted\.git-add.html.dir\_src\Git_store{}@1_1\Git_what_trane{}@1\cat.Git_what_trane{}@1\dir.Git_what_trane{}@1.md">Git_what_trane{}@1</a>
+                                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\Point_learn\git-doc_converted\.git-add.html.dir\_src\Git_store{}@1_1\Git_what_trane{}@1\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
                                                     - *## {st} - (blob|ident) area :ident{stash}::blob: + :blob:
                                                     - *## {fs} - (file) area :file:
                                                     - *## {ws} - (ident) area :wd::file: - label on unstage file 
@@ -1319,17 +1282,17 @@
                                         
                                     
                                 
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\Point_learn\git-doc_converted\.git-diff.html.dir\cat..git-diff.html.dir\dir..git-diff.html.dir.md">.git-diff.html.dir</a>
-                                    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\Point_learn\git-doc_converted\.git-diff.html.dir\git-diff.html.consp.md">git-diff.html.consp.md</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\Point_learn\git-doc_converted\.git-diff.html.dir\cat..git-diff.html.dir\dir..git-diff.html.dir.md">.git-diff.html.dir</a>
+                                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\Point_learn\git-doc_converted\.git-diff.html.dir\git-diff.html.consp.md">git-diff.html.consp.md</a>
                                         - *# git-diff(1) Manual Page
                                 
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\Point_learn\git-doc_converted\ReadMe.md">ReadMe.md</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\Point_learn\git-doc_converted\ReadMe.md">ReadMe.md</a>
                                     - *# in current learn:
                                     - *## git add
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\Point_learn\git-doc_converted\_src\cat._src\dir._src.md">_src</a>
-                                    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\Point_learn\git-doc_converted\_src\Git_store{}@1\cat.Git_store{}@1\dir.Git_store{}@1.md">Git_store{}@1</a>
-                                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\Point_learn\git-doc_converted\_src\Git_store{}@1\Git_what_trane{}@1\cat.Git_what_trane{}@1\dir.Git_what_trane{}@1.md">Git_what_trane{}@1</a>
-                                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\Point_learn\git-doc_converted\_src\Git_store{}@1\Git_what_trane{}@1\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\Point_learn\git-doc_converted\_src\cat._src\dir._src.md">_src</a>
+                                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\Point_learn\git-doc_converted\_src\Git_store{}@1\cat.Git_store{}@1\dir.Git_store{}@1.md">Git_store{}@1</a>
+                                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\Point_learn\git-doc_converted\_src\Git_store{}@1\Git_what_trane{}@1\cat.Git_what_trane{}@1\dir.Git_what_trane{}@1.md">Git_what_trane{}@1</a>
+                                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\Point_learn\git-doc_converted\_src\Git_store{}@1\Git_what_trane{}@1\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
                                                 - *## {st} - (blob|ident) area :ident{stash}::blob: + :blob:
                                                 - *## {fs} - (file) area :file:
                                                 - *## {ws} - (ident) area :wd::file: - label on unstage file 
@@ -1351,10 +1314,10 @@
                                     
                                 
                             
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\Point_learn\_src\cat._src\dir._src.md">_src</a>
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\Point_learn\_src\Git_store{}@1\cat.Git_store{}@1\dir.Git_store{}@1.md">Git_store{}@1</a>
-                                    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\Point_learn\_src\Git_store{}@1\Git_what_trane{}@1\cat.Git_what_trane{}@1\dir.Git_what_trane{}@1.md">Git_what_trane{}@1</a>
-                                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\Point_learn\_src\Git_store{}@1\Git_what_trane{}@1\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\Point_learn\_src\cat._src\dir._src.md">_src</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\Point_learn\_src\Git_store{}@1\cat.Git_store{}@1\dir.Git_store{}@1.md">Git_store{}@1</a>
+                                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\Point_learn\_src\Git_store{}@1\Git_what_trane{}@1\cat.Git_what_trane{}@1\dir.Git_what_trane{}@1.md">Git_what_trane{}@1</a>
+                                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\Point_learn\_src\Git_store{}@1\Git_what_trane{}@1\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
                                             - *## {st} - (blob|ident) area :ident{stash}::blob: + :blob:
                                             - *## {fs} - (file) area :file:
                                             - *## {ws} - (ident) area :wd::file: - label on unstage file 
@@ -1376,10 +1339,10 @@
                                 
                             
                         
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\_src\cat._src\dir._src.md">_src</a>
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\_src\doc\cat.doc\dir.doc.md">doc</a>
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\_src\doc\git-lfs\cat.git-lfs\dir.git-lfs.md">git-lfs</a>
-                                    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\_src\doc\git-lfs\README.md">README.md</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\_src\cat._src\dir._src.md">_src</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\_src\doc\cat.doc\dir.doc.md">doc</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\_src\doc\git-lfs\cat.git-lfs\dir.git-lfs.md">git-lfs</a>
+                                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\_src\doc\git-lfs\README.md">README.md</a>
                                         - *# Git Large File Storage
                                         - *## Getting Started
                                         - *### Downloading
@@ -1396,9 +1359,9 @@
                                         - *### Alumni
                                 
                             
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\_src\Git_store{}@1_1\cat.Git_store{}@1_1\dir.Git_store{}@1_1.md">Git_store{}@1_1</a>
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\_src\Git_store{}@1_1\Git_what_trane{}@1\cat.Git_what_trane{}@1\dir.Git_what_trane{}@1.md">Git_what_trane{}@1</a>
-                                    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\_src\Git_store{}@1_1\Git_what_trane{}@1\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\_src\Git_store{}@1_1\cat.Git_store{}@1_1\dir.Git_store{}@1_1.md">Git_store{}@1_1</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\_src\Git_store{}@1_1\Git_what_trane{}@1\cat.Git_what_trane{}@1\dir.Git_what_trane{}@1.md">Git_what_trane{}@1</a>
+                                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\_src\Git_store{}@1_1\Git_what_trane{}@1\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
                                         - *## {st} - (blob|ident) area :ident{stash}::blob: + :blob:
                                         - *## {fs} - (file) area :file:
                                         - *## {ws} - (ident) area :wd::file: - label on unstage file 
@@ -1420,35 +1383,35 @@
                             
                         
                     
-                    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\git-scm.com\cat.git-scm.com\dir.git-scm.com.md">git-scm.com</a>
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\git-scm.com\Cheat_Sheets\cat.Cheat_Sheets\dir.Cheat_Sheets.md">Cheat_Sheets</a>
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\git-scm.com\Cheat_Sheets\_src\cat._src\dir._src.md">_src</a>
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\git-scm.com\Cheat_Sheets\_src\issue_from_sait_git-cheatsheet.md">issue_from_sait_git-cheatsheet.md</a>
+                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\git-scm.com\cat.git-scm.com\dir.git-scm.com.md">git-scm.com</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\git-scm.com\Cheat_Sheets\cat.Cheat_Sheets\dir.Cheat_Sheets.md">Cheat_Sheets</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\git-scm.com\Cheat_Sheets\_src\cat._src\dir._src.md">_src</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\git-scm.com\Cheat_Sheets\_src\issue_from_sait_git-cheatsheet.md">issue_from_sait_git-cheatsheet.md</a>
                                     - *# [Git Cheatsheet](https://ndpsoftware.com/git-cheatsheet.html#loc=index;) 
                             
                         
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\git-scm.com\Live_learn\cat.Live_learn\dir.Live_learn.md">Live_learn</a>
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\git-scm.com\Live_learn\2.Основы_Git\cat.2.Основы_Git\dir.2.Основы_Git.md">2.Основы_Git</a>
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\git-scm.com\Live_learn\2.Основы_Git\2.4_Операции_отмены.dir\cat.2.4_Операции_отмены.dir\dir.2.4_Операции_отмены.dir.md">2.4_Операции_отмены.dir</a>
-                                    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\git-scm.com\Live_learn\2.Основы_Git\2.4_Операции_отмены.dir\ReadMe.md">ReadMe.md</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\git-scm.com\Live_learn\cat.Live_learn\dir.Live_learn.md">Live_learn</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\git-scm.com\Live_learn\2.Основы_Git\cat.2.Основы_Git\dir.2.Основы_Git.md">2.Основы_Git</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\git-scm.com\Live_learn\2.Основы_Git\2.4_Операции_отмены.dir\cat.2.4_Операции_отмены.dir\dir.2.4_Операции_отмены.dir.md">2.4_Операции_отмены.dir</a>
+                                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\git-scm.com\Live_learn\2.Основы_Git\2.4_Операции_отмены.dir\ReadMe.md">ReadMe.md</a>
                                         - *# 2.4 Основы Git - Операции отмены
                                         - *## Операции отмены
                                         - *## Отмена индексации файла
                                         - *## Отмена изменений в файле
                                 
                             
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\git-scm.com\Live_learn\_.Reference.md">_.Reference.md</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\git-scm.com\Live_learn\_.Reference.md">_.Reference.md</a>
                                 - *# [Book](https://git-scm.com/book/ru/v2)
                         
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\git-scm.com\Point_learn\cat.Point_learn\dir.Point_learn.md">Point_learn</a>
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\git-scm.com\Point_learn\Guides\cat.Guides\dir.Guides.md">Guides</a>
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\git-scm.com\Point_learn\Guides\gitattributes.md">gitattributes.md</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\git-scm.com\Point_learn\cat.Point_learn\dir.Point_learn.md">Point_learn</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\git-scm.com\Point_learn\Guides\cat.Guides\dir.Guides.md">Guides</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\git-scm.com\Point_learn\Guides\gitattributes.md">gitattributes.md</a>
                                     - *# [gitattributes](https://git-scm.com/docs/gitattributes)
                                     - *## NAME
                                     - *## SYNOPSIS
                                     - *## DESCRIPTION
                             
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\git-scm.com\Point_learn\_.Reference.md">_.Reference.md</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\git-scm.com\Point_learn\_.Reference.md">_.Reference.md</a>
                                 - *# [Reference](https://git-scm.com/docs)
                                 - *## Установка и конфигурация
                                 - *## Получение и создание проектов
@@ -1468,12 +1431,12 @@
                     
                 
             
-            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\src\cat.src\dir.src.md">src</a>
-                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\src\Git_what_trane{}@1_{repo}\cat.Git_what_trane{}@1_{repo}\dir.Git_what_trane{}@1_{repo}.md">Git_what_trane{}@1_{repo}</a>
-                    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\src\Git_what_trane{}@1_{repo}\create_bind_repo.md">create_bind_repo.md</a>
+            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\src\cat.src\dir.src.md">src</a>
+                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\src\Git_what_trane{}@1_{repo}\cat.Git_what_trane{}@1_{repo}\dir.Git_what_trane{}@1_{repo}.md">Git_what_trane{}@1_{repo}</a>
+                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\src\Git_what_trane{}@1_{repo}\create_bind_repo.md">create_bind_repo.md</a>
                         - *# create repo
                         - *# bind repo
-                    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\src\Git_what_trane{}@1_{repo}\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
+                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\src\Git_what_trane{}@1_{repo}\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
                         - *## {st} - (blob|ident) area :ident{stash}::blob: + :blob:
                         - *## {fs} - (file) area :file:
                         - *## {ws} - (ident) area :wd::file: - label on unstage file 
@@ -1494,12 +1457,21 @@
                 
             
         
-        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\cat._TGUniversitet\dir._TGUniversitet.md">_TGUniversitet</a>
-            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\cat.I_kurs\dir.I_kurs.md">I_kurs</a>
-                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\++Основы_программирования\cat.++Основы_программирования\dir.++Основы_программирования.md">++Основы_программирования</a>
-                    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\++Основы_программирования\1. Базовые средства языка C++\cat.1. Базовые средства языка C++\dir.1. Базовые средства языка C++.md">1. Базовые средства языка C++</a>
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\++Основы_программирования\1. Базовые средства языка C++\_this_conspect\cat._this_conspect\dir._this_conspect.md">_this_conspect</a>
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\++Основы_программирования\1. Базовые средства языка C++\_this_conspect\consp.md">consp.md</a>
+        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_ReactJs\cat._ReactJs\dir._ReactJs.md">_ReactJs</a>
+            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_ReactJs\Containers\cat.Containers\dir.Containers.md">Containers</a>
+                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_ReactJs\Containers\Intro_to_this\cat.Intro_to_this\dir.Intro_to_this.md">Intro_to_this</a>
+                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_ReactJs\Containers\Intro_to_this\Intro_to_this.md">Intro_to_this.md</a>
+                        - *# [React JS. Быстрый Курс 2020 (Вся Теория Включена!)](https://www.youtube.com/watch?v=xJZa2_aldDs&t=1397s&ab_channel=%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BB%D0%B5%D0%BD%D0%9C%D0%B8%D0%BD%D0%B8%D0%BD)
+                        - *@@ start _reactJs with VLDN
+                
+            
+        
+        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\cat._TGUniversitet\dir._TGUniversitet.md">_TGUniversitet</a>
+            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\cat.I_kurs\dir.I_kurs.md">I_kurs</a>
+                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\++Основы_программирования\cat.++Основы_программирования\dir.++Основы_программирования.md">++Основы_программирования</a>
+                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\++Основы_программирования\1. Базовые средства языка C++\cat.1. Базовые средства языка C++\dir.1. Базовые средства языка C++.md">1. Базовые средства языка C++</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\++Основы_программирования\1. Базовые средства языка C++\_this_conspect\cat._this_conspect\dir._this_conspect.md">_this_conspect</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\++Основы_программирования\1. Базовые средства языка C++\_this_conspect\consp.md">consp.md</a>
                                 - *# Базовые средства языка C++
                                 - *## technologies in programming
                                 - *### последовательность выполнения операций, 
@@ -1591,9 +1563,9 @@
                                 - *### Data types
                         
                     
-                    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\++Основы_программирования\2. Операции и стандартные библиотечные функции языка\cat.2. Операции и стандартные библиотечные функции языка\dir.2. Операции и стандартные библиотечные функции языка.md">2. Операции и стандартные библиотечные функции языка</a>
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\++Основы_программирования\2. Операции и стандартные библиотечные функции языка\_this_conspect\cat._this_conspect\dir._this_conspect.md">_this_conspect</a>
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\++Основы_программирования\2. Операции и стандартные библиотечные функции языка\_this_conspect\consp.md">consp.md</a>
+                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\++Основы_программирования\2. Операции и стандартные библиотечные функции языка\cat.2. Операции и стандартные библиотечные функции языка\dir.2. Операции и стандартные библиотечные функции языка.md">2. Операции и стандартные библиотечные функции языка</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\++Основы_программирования\2. Операции и стандартные библиотечные функции языка\_this_conspect\cat._this_conspect\dir._this_conspect.md">_this_conspect</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\++Основы_программирования\2. Операции и стандартные библиотечные функции языка\_this_conspect\consp.md">consp.md</a>
                                 - *# Операции и стандартные библиотечные функции языка
                                 - *## Unary operation 
                                 - *### sizeof 
@@ -1611,9 +1583,9 @@
                                 - *## example of use operation
                         
                     
-                    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\++Основы_программирования\3. Базовые алгоритмические структуры\cat.3. Базовые алгоритмические структуры\dir.3. Базовые алгоритмические структуры.md">3. Базовые алгоритмические структуры</a>
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\++Основы_программирования\3. Базовые алгоритмические структуры\_this_conspect\cat._this_conspect\dir._this_conspect.md">_this_conspect</a>
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\++Основы_программирования\3. Базовые алгоритмические структуры\_this_conspect\consp.md">consp.md</a>
+                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\++Основы_программирования\3. Базовые алгоритмические структуры\cat.3. Базовые алгоритмические структуры\dir.3. Базовые алгоритмические структуры.md">3. Базовые алгоритмические структуры</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\++Основы_программирования\3. Базовые алгоритмические структуры\_this_conspect\cat._this_conspect\dir._this_conspect.md">_this_conspect</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\++Основы_программирования\3. Базовые алгоритмические структуры\_this_conspect\consp.md">consp.md</a>
                                 - *# Базовые алгоритмические структуры
                                 - *## Stages of solving applied problems 
                                 - *## Propeties of the algorithm
@@ -1628,15 +1600,15 @@
                                 - *## Examples of loop structure
                                 - *## Examples nested loop
                         
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\++Основы_программирования\3. Базовые алгоритмические структуры\_Контрольные мероприятия\cat._Контрольные мероприятия\dir._Контрольные мероприятия.md">_Контрольные мероприятия</a>
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\++Основы_программирования\3. Базовые алгоритмические структуры\_Контрольные мероприятия\решения\cat.решения\dir.решения.md">решения</a>
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\++Основы_программирования\3. Базовые алгоритмические структуры\_Контрольные мероприятия\решения\Assignment.md">Assignment.md</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\++Основы_программирования\3. Базовые алгоритмические структуры\_Контрольные мероприятия\cat._Контрольные мероприятия\dir._Контрольные мероприятия.md">_Контрольные мероприятия</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\++Основы_программирования\3. Базовые алгоритмические структуры\_Контрольные мероприятия\решения\cat.решения\dir.решения.md">решения</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\++Основы_программирования\3. Базовые алгоритмические структуры\_Контрольные мероприятия\решения\Assignment.md">Assignment.md</a>
                                     - *# Практическое задание 1
                                     - *## Задание 1.1
                                     - *## Задание 1.2
                                     - *## Задание 1.3
                                     - *## My Assgnments
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\++Основы_программирования\3. Базовые алгоритмические структуры\_Контрольные мероприятия\решения\Solutions.md">Solutions.md</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\++Основы_программирования\3. Базовые алгоритмические структуры\_Контрольные мероприятия\решения\Solutions.md">Solutions.md</a>
                                     - *# My Assgnments
                                     - *## Задание 1.1
                                     - *## Задание 1.2
@@ -1646,10 +1618,10 @@
                         
                     
                 
-                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\cat.__DONE\dir.__DONE.md">__DONE</a>
-                    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\cat.++Архитектура_компьютеров_и_операционные_системы\dir.++Архитектура_компьютеров_и_операционные_системы.md">++Архитектура_компьютеров_и_операционные_системы</a>
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\1. Архитектура электронно-вычислительной машины\cat.1. Архитектура электронно-вычислительной машины\dir.1. Архитектура электронно-вычислительной машины.md">1. Архитектура электронно-вычислительной машины</a>
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\1. Архитектура электронно-вычислительной машины\ReadMe.md">ReadMe.md</a>
+                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\cat.__DONE\dir.__DONE.md">__DONE</a>
+                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\cat.++Архитектура_компьютеров_и_операционные_системы\dir.++Архитектура_компьютеров_и_операционные_системы.md">++Архитектура_компьютеров_и_операционные_системы</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\1. Архитектура электронно-вычислительной машины\cat.1. Архитектура электронно-вычислительной машины\dir.1. Архитектура электронно-вычислительной машины.md">1. Архитектура электронно-вычислительной машины</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\1. Архитектура электронно-вычислительной машины\ReadMe.md">ReadMe.md</a>
                                 - *# 1. Архитектура электронно-вычислительной машины
                                 - *## 1
                                 - *### 1.Аппаратное обеспечениеперсонального компьютера
@@ -1667,52 +1639,52 @@
                                 - *## Add 3 11.3. Комплексирование в вычислительных системах
                                 - *## Add 4 11.4. Типовые структуры вычислительных систем
                         
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\2. Программное обеспечение персонального компьютера\cat.2. Программное обеспечение персонального компьютера\dir.2. Программное обеспечение персонального компьютера.md">2. Программное обеспечение персонального компьютера</a>
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\2. Программное обеспечение персонального компьютера\ReadMe.md">ReadMe.md</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\2. Программное обеспечение персонального компьютера\cat.2. Программное обеспечение персонального компьютера\dir.2. Программное обеспечение персонального компьютера.md">2. Программное обеспечение персонального компьютера</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\2. Программное обеспечение персонального компьютера\ReadMe.md">ReadMe.md</a>
                                 - *# 2. Программное обеспечение персонального компьютера
                                 - *### 2.2.Файловая система
                         
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\3. Операционные системы, их виды и функциональные характеристики\cat.3. Операционные системы, их виды и функциональные характеристики\dir.3. Операционные системы, их виды и функциональные характеристики.md">3. Операционные системы, их виды и функциональные характеристики</a>
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\3. Операционные системы, их виды и функциональные характеристики\partyka_conspect\cat.partyka_conspect\dir.partyka_conspect.md">partyka_conspect</a>
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\3. Операционные системы, их виды и функциональные характеристики\partyka_conspect\glossary.md">glossary.md</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\3. Операционные системы, их виды и функциональные характеристики\cat.3. Операционные системы, их виды и функциональные характеристики\dir.3. Операционные системы, их виды и функциональные характеристики.md">3. Операционные системы, их виды и функциональные характеристики</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\3. Операционные системы, их виды и функциональные характеристики\partyka_conspect\cat.partyka_conspect\dir.partyka_conspect.md">partyka_conspect</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\3. Операционные системы, их виды и функциональные характеристики\partyka_conspect\glossary.md">glossary.md</a>
                                     - *# Глоссарий (список используемых терминов)
                             
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\3. Операционные системы, их виды и функциональные характеристики\ReadMe.md">ReadMe.md</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\3. Операционные системы, их виды и функциональные характеристики\ReadMe.md">ReadMe.md</a>
                                 - *# 3. Операционные системы, их виды и функциональные характеристики
                         
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\4. Операционная система, среда и оболочка\cat.4. Операционная система, среда и оболочка\dir.4. Операционная система, среда и оболочка.md">4. Операционная система, среда и оболочка</a>
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\4. Операционная система, среда и оболочка\iprbookshop.ru_52176\cat.iprbookshop.ru_52176\dir.iprbookshop.ru_52176.md">iprbookshop.ru_52176</a>
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\4. Операционная система, среда и оболочка\iprbookshop.ru_52176\iprbookshop.ru_52176.md">iprbookshop.ru_52176.md</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\4. Операционная система, среда и оболочка\cat.4. Операционная система, среда и оболочка\dir.4. Операционная система, среда и оболочка.md">4. Операционная система, среда и оболочка</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\4. Операционная система, среда и оболочка\iprbookshop.ru_52176\cat.iprbookshop.ru_52176\dir.iprbookshop.ru_52176.md">iprbookshop.ru_52176</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\4. Операционная система, среда и оболочка\iprbookshop.ru_52176\iprbookshop.ru_52176.md">iprbookshop.ru_52176.md</a>
                                     - *# Современные операционные системы
                                     - *## Архитектура, назначение и функции операционных систем
                                     - *### 1.1. Понятие операционной системы. Виртуальные машины
                             
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\4. Операционная система, среда и оболочка\ReadMe.md">ReadMe.md</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\4. Операционная система, среда и оболочка\ReadMe.md">ReadMe.md</a>
                                 - *# 4. Операционная система, среда и оболочка. Назначение, состав и функции операционных систем
                         
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\5. Архитектура операционной системы\cat.5. Архитектура операционной системы\dir.5. Архитектура операционной системы.md">5. Архитектура операционной системы</a>
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\5. Архитектура операционной системы\ReadMe.md">ReadMe.md</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\5. Архитектура операционной системы\cat.5. Архитектура операционной системы\dir.5. Архитектура операционной системы.md">5. Архитектура операционной системы</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\5. Архитектура операционной системы\ReadMe.md">ReadMe.md</a>
                                 - *# 5. Архитектура операционной системы
                         
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\6. Классификация операционных систем\cat.6. Классификация операционных систем\dir.6. Классификация операционных систем.md">6. Классификация операционных систем</a>
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\6. Классификация операционных систем\ReadMe.md">ReadMe.md</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\6. Классификация операционных систем\cat.6. Классификация операционных систем\dir.6. Классификация операционных систем.md">6. Классификация операционных систем</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\6. Классификация операционных систем\ReadMe.md">ReadMe.md</a>
                                 - *# 6. Классификация операционных систем
                         
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\7. Концепция процессов и потоков\cat.7. Концепция процессов и потоков\dir.7. Концепция процессов и потоков.md">7. Концепция процессов и потоков</a>
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\7. Концепция процессов и потоков\ReadMe.md">ReadMe.md</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\7. Концепция процессов и потоков\cat.7. Концепция процессов и потоков\dir.7. Концепция процессов и потоков.md">7. Концепция процессов и потоков</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\7. Концепция процессов и потоков\ReadMe.md">ReadMe.md</a>
                                 - *# 7. Концепция процессов и потоков
                         
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\8. Управление памятью\cat.8. Управление памятью\dir.8. Управление памятью.md">8. Управление памятью</a>
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\8. Управление памятью\ReadMe.md">ReadMe.md</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\8. Управление памятью\cat.8. Управление памятью\dir.8. Управление памятью.md">8. Управление памятью</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\8. Управление памятью\ReadMe.md">ReadMe.md</a>
                                 - *# 8. Управление памятью. Методы, алгоритмы и средства
                         
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\9. Подсистема ввода-вывода. Файловые системы\cat.9. Подсистема ввода-вывода. Файловые системы\dir.9. Подсистема ввода-вывода. Файловые системы.md">9. Подсистема ввода-вывода. Файловые системы</a>
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\9. Подсистема ввода-вывода. Файловые системы\ReadMe.md">ReadMe.md</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\9. Подсистема ввода-вывода. Файловые системы\cat.9. Подсистема ввода-вывода. Файловые системы\dir.9. Подсистема ввода-вывода. Файловые системы.md">9. Подсистема ввода-вывода. Файловые системы</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\9. Подсистема ввода-вывода. Файловые системы\ReadMe.md">ReadMe.md</a>
                                 - *# 9. Подсистема ввода-вывода. Файловые системы
                         
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\With_courses\cat.With_courses\dir.With_courses.md">With_courses</a>
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\With_courses\Lecture_OS_I\cat.Lecture_OS_I\dir.Lecture_OS_I.md">Lecture_OS_I</a>
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\With_courses\Lecture_OS_I\ReadMe.md">ReadMe.md</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\With_courses\cat.With_courses\dir.With_courses.md">With_courses</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\With_courses\Lecture_OS_I\cat.Lecture_OS_I\dir.Lecture_OS_I.md">Lecture_OS_I</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\With_courses\Lecture_OS_I\ReadMe.md">ReadMe.md</a>
                                     - *# Лекция № 1. ОСНОВНЫЕ ПОНЯТИЯ
                                     - *## 1.1. Системное и прикладное программное обеспечение
                                     - *## 1.2. Операционные системы
@@ -1832,59 +1804,59 @@
                                     - *# Лекция № 14. ОРГАНИЗАЦИЯ ПРОГРАММНЫХ ПОТОКОВ
                             
                         
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\_pdf\cat._pdf\dir._pdf.md">_pdf</a>
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\_pdf\iprbookshop.ru_52176_nazar\cat.iprbookshop.ru_52176_nazar\dir.iprbookshop.ru_52176_nazar.md">iprbookshop.ru_52176_nazar</a>
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\_pdf\iprbookshop.ru_52176_nazar\iprbookshop.ru_52176.md">iprbookshop.ru_52176.md</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\_pdf\cat._pdf\dir._pdf.md">_pdf</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\_pdf\iprbookshop.ru_52176_nazar\cat.iprbookshop.ru_52176_nazar\dir.iprbookshop.ru_52176_nazar.md">iprbookshop.ru_52176_nazar</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\_pdf\iprbookshop.ru_52176_nazar\iprbookshop.ru_52176.md">iprbookshop.ru_52176.md</a>
                                     - *# Современные операционные системы
                                     - *## Архитектура, назначение и функции операционных систем
                                     - *### 1.1. Понятие операционной системы. Виртуальные машины
                             
                         
                     
-                    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\General_English_б1\cat.General_English_б1\dir.General_English_б1.md">General_English_б1</a>
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\General_English_б1\ReadMe.md">ReadMe.md</a>
+                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\General_English_б1\cat.General_English_б1\dir.General_English_б1.md">General_English_б1</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\General_English_б1\ReadMe.md">ReadMe.md</a>
                             - *## https://www.macmillanpracticeonline.com/MPO/StudentClassDashboard
                     
-                    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Информационные_системы_и_технологии\cat.Информационные_системы_и_технологии\dir.Информационные_системы_и_технологии.md">Информационные_системы_и_технологии</a>
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Информационные_системы_и_технологии\1. Информация и ее свойства\cat.1. Информация и ее свойства\dir.1. Информация и ее свойства.md">1. Информация и ее свойства</a>
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Информационные_системы_и_технологии\1. Информация и ее свойства\ReadMe.md">ReadMe.md</a>
+                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Информационные_системы_и_технологии\cat.Информационные_системы_и_технологии\dir.Информационные_системы_и_технологии.md">Информационные_системы_и_технологии</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Информационные_системы_и_технологии\1. Информация и ее свойства\cat.1. Информация и ее свойства\dir.1. Информация и ее свойства.md">1. Информация и ее свойства</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Информационные_системы_и_технологии\1. Информация и ее свойства\ReadMe.md">ReadMe.md</a>
                                 - *# 1. Информация и ее свойства
                         
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Информационные_системы_и_технологии\2. Основные понятия информационных технологий\cat.2. Основные понятия информационных технологий\dir.2. Основные понятия информационных технологий.md">2. Основные понятия информационных технологий</a>
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Информационные_системы_и_технологии\2. Основные понятия информационных технологий\ReadMe.md">ReadMe.md</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Информационные_системы_и_технологии\2. Основные понятия информационных технологий\cat.2. Основные понятия информационных технологий\dir.2. Основные понятия информационных технологий.md">2. Основные понятия информационных технологий</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Информационные_системы_и_технологии\2. Основные понятия информационных технологий\ReadMe.md">ReadMe.md</a>
                                 - *# 2. Основные понятия информационных технологий. Классификация информационных технологий
                         
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Информационные_системы_и_технологии\3. Информационные технологии конечного пользователя\cat.3. Информационные технологии конечного пользователя\dir.3. Информационные технологии конечного пользователя.md">3. Информационные технологии конечного пользователя</a>
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Информационные_системы_и_технологии\3. Информационные технологии конечного пользователя\ReadMe.md">ReadMe.md</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Информационные_системы_и_технологии\3. Информационные технологии конечного пользователя\cat.3. Информационные технологии конечного пользователя\dir.3. Информационные технологии конечного пользователя.md">3. Информационные технологии конечного пользователя</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Информационные_системы_и_технологии\3. Информационные технологии конечного пользователя\ReadMe.md">ReadMe.md</a>
                                 - *# 3. Информационные технологии конечного пользователя
                         
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Информационные_системы_и_технологии\4. Интеграция информационных технологий\cat.4. Интеграция информационных технологий\dir.4. Интеграция информационных технологий.md">4. Интеграция информационных технологий</a>
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Информационные_системы_и_технологии\4. Интеграция информационных технологий\ReadMe.md">ReadMe.md</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Информационные_системы_и_технологии\4. Интеграция информационных технологий\cat.4. Интеграция информационных технологий\dir.4. Интеграция информационных технологий.md">4. Интеграция информационных технологий</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Информационные_системы_и_технологии\4. Интеграция информационных технологий\ReadMe.md">ReadMe.md</a>
                                 - *# 4. Интеграция информационных технологий
                         
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Информационные_системы_и_технологии\6. Классификация информационных систем и этапы их развития\cat.6. Классификация информационных систем и этапы их развития\dir.6. Классификация информационных систем и этапы их развития.md">6. Классификация информационных систем и этапы их развития</a>
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Информационные_системы_и_технологии\6. Классификация информационных систем и этапы их развития\ReadMe.md">ReadMe.md</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Информационные_системы_и_технологии\6. Классификация информационных систем и этапы их развития\cat.6. Классификация информационных систем и этапы их развития\dir.6. Классификация информационных систем и этапы их развития.md">6. Классификация информационных систем и этапы их развития</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Информационные_системы_и_технологии\6. Классификация информационных систем и этапы их развития\ReadMe.md">ReadMe.md</a>
                                 - *# 6. Классификация информационных систем и этапы их развития
                         
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Информационные_системы_и_технологии\7. Жизненный цикл информационных систем\cat.7. Жизненный цикл информационных систем\dir.7. Жизненный цикл информационных систем.md">7. Жизненный цикл информационных систем</a>
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Информационные_системы_и_технологии\7. Жизненный цикл информационных систем\ReadMe.md">ReadMe.md</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Информационные_системы_и_технологии\7. Жизненный цикл информационных систем\cat.7. Жизненный цикл информационных систем\dir.7. Жизненный цикл информационных систем.md">7. Жизненный цикл информационных систем</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Информационные_системы_и_технологии\7. Жизненный цикл информационных систем\ReadMe.md">ReadMe.md</a>
                                 - *# 7. Жизненный цикл информационных систем
                         
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Информационные_системы_и_технологии\8. Архитектура информационных систем\cat.8. Архитектура информационных систем\dir.8. Архитектура информационных систем.md">8. Архитектура информационных систем</a>
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Информационные_системы_и_технологии\8. Архитектура информационных систем\ReadMe.md">ReadMe.md</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Информационные_системы_и_технологии\8. Архитектура информационных систем\cat.8. Архитектура информационных систем\dir.8. Архитектура информационных систем.md">8. Архитектура информационных систем</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Информационные_системы_и_технологии\8. Архитектура информационных систем\ReadMe.md">ReadMe.md</a>
                                 - *# 8. Архитектура информационных систем
                         
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Информационные_системы_и_технологии\9. Технологии моделирования информационных систем\cat.9. Технологии моделирования информационных систем\dir.9. Технологии моделирования информационных систем.md">9. Технологии моделирования информационных систем</a>
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Информационные_системы_и_технологии\9. Технологии моделирования информационных систем\ReadMe.md">ReadMe.md</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Информационные_системы_и_технологии\9. Технологии моделирования информационных систем\cat.9. Технологии моделирования информационных систем\dir.9. Технологии моделирования информационных систем.md">9. Технологии моделирования информационных систем</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Информационные_системы_и_технологии\9. Технологии моделирования информационных систем\ReadMe.md">ReadMe.md</a>
                                 - *# 9. Технологии моделирования информационных систем
                         
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Информационные_системы_и_технологии\ReadMe.md">ReadMe.md</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Информационные_системы_и_технологии\ReadMe.md">ReadMe.md</a>
                             - *# Контрольное мероприятие
                     
-                    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Методы_решения_проблем_в_информатике_pdf\cat.Методы_решения_проблем_в_информатике_pdf\dir.Методы_решения_проблем_в_информатике_pdf.md">Методы_решения_проблем_в_информатике_pdf</a>
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Методы_решения_проблем_в_информатике_pdf\5. Концепции_и_классификации_языков_программирования\cat.5. Концепции_и_классификации_языков_программирования\dir.5. Концепции_и_классификации_языков_программирования.md">5. Концепции_и_классификации_языков_программирования</a>
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Методы_решения_проблем_в_информатике_pdf\5. Концепции_и_классификации_языков_программирования\_consp\cat._consp\dir._consp.md">_consp</a>
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Методы_решения_проблем_в_информатике_pdf\5. Концепции_и_классификации_языков_программирования\_consp\from_pdf.md">from_pdf.md</a>
+                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Методы_решения_проблем_в_информатике_pdf\cat.Методы_решения_проблем_в_информатике_pdf\dir.Методы_решения_проблем_в_информатике_pdf.md">Методы_решения_проблем_в_информатике_pdf</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Методы_решения_проблем_в_информатике_pdf\5. Концепции_и_классификации_языков_программирования\cat.5. Концепции_и_классификации_языков_программирования\dir.5. Концепции_и_классификации_языков_программирования.md">5. Концепции_и_классификации_языков_программирования</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Методы_решения_проблем_в_информатике_pdf\5. Концепции_и_классификации_языков_программирования\_consp\cat._consp\dir._consp.md">_consp</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Методы_решения_проблем_в_информатике_pdf\5. Концепции_и_классификации_языков_программирования\_consp\from_pdf.md">from_pdf.md</a>
                                     - *# Тема 5. Концепции и классификация языков программирования
                                     - *## Машинный язык
                                     - *## Общая схема создания программ для компьютера
@@ -1915,9 +1887,9 @@
                                     - *### Сравнение языков программирования
                             
                         
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Методы_решения_проблем_в_информатике_pdf\6. Программы_для_ЭВМ\cat.6. Программы_для_ЭВМ\dir.6. Программы_для_ЭВМ.md">6. Программы_для_ЭВМ</a>
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Методы_решения_проблем_в_информатике_pdf\6. Программы_для_ЭВМ\_consp\cat._consp\dir._consp.md">_consp</a>
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Методы_решения_проблем_в_информатике_pdf\6. Программы_для_ЭВМ\_consp\from_pdf.md">from_pdf.md</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Методы_решения_проблем_в_информатике_pdf\6. Программы_для_ЭВМ\cat.6. Программы_для_ЭВМ\dir.6. Программы_для_ЭВМ.md">6. Программы_для_ЭВМ</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Методы_решения_проблем_в_информатике_pdf\6. Программы_для_ЭВМ\_consp\cat._consp\dir._consp.md">_consp</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Методы_решения_проблем_в_информатике_pdf\6. Программы_для_ЭВМ\_consp\from_pdf.md">from_pdf.md</a>
                                     - *# Тема 6. Программа для ЭВМ
                                     - *## что такое указатели;
                                     - *## зачем нужны типы данных;
@@ -1948,21 +1920,21 @@
                                     - *###### Особенности передачи параметров по имени и значению
                             
                         
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Методы_решения_проблем_в_информатике_pdf\8._Основы_системного_анализа\cat.8._Основы_системного_анализа\dir.8._Основы_системного_анализа.md">8._Основы_системного_анализа</a>
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Методы_решения_проблем_в_информатике_pdf\8._Основы_системного_анализа\_consp\cat._consp\dir._consp.md">_consp</a>
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Методы_решения_проблем_в_информатике_pdf\8._Основы_системного_анализа\_consp\from_pdf.md">from_pdf.md</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Методы_решения_проблем_в_информатике_pdf\8._Основы_системного_анализа\cat.8._Основы_системного_анализа\dir.8._Основы_системного_анализа.md">8._Основы_системного_анализа</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Методы_решения_проблем_в_информатике_pdf\8._Основы_системного_анализа\_consp\cat._consp\dir._consp.md">_consp</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Методы_решения_проблем_в_информатике_pdf\8._Основы_системного_анализа\_consp\from_pdf.md">from_pdf.md</a>
                                     - *# Основы системного анализа 
                                     - *## системный аналитик должен
                             
                         
                     
                 
-                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\Теория_и_практика_межкультурной_коммуникации_pdf\cat.Теория_и_практика_межкультурной_коммуникации_pdf\dir.Теория_и_практика_межкультурной_коммуникации_pdf.md">Теория_и_практика_межкультурной_коммуникации_pdf</a>
-                    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\Теория_и_практика_межкультурной_коммуникации_pdf\ТЕМА 2. ОСНОВНЫЕ НАПРАВЛЕНИЯ ТЕОРИИ МЕЖКУЛЬТУРНОЙ КОММУНИКАЦИИ\cat.ТЕМА 2. ОСНОВНЫЕ НАПРАВЛЕНИЯ ТЕОРИИ МЕЖКУЛЬТУРНОЙ КОММУНИКАЦИИ\dir.ТЕМА 2. ОСНОВНЫЕ НАПРАВЛЕНИЯ ТЕОРИИ МЕЖКУЛЬТУРНОЙ КОММУНИКАЦИИ.md">ТЕМА 2. ОСНОВНЫЕ НАПРАВЛЕНИЯ ТЕОРИИ МЕЖКУЛЬТУРНОЙ КОММУНИКАЦИИ</a>
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\Теория_и_практика_межкультурной_коммуникации_pdf\ТЕМА 2. ОСНОВНЫЕ НАПРАВЛЕНИЯ ТЕОРИИ МЕЖКУЛЬТУРНОЙ КОММУНИКАЦИИ\_Контрольные мероприятия\cat._Контрольные мероприятия\dir._Контрольные мероприятия.md">_Контрольные мероприятия</a>
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\Теория_и_практика_межкультурной_коммуникации_pdf\ТЕМА 2. ОСНОВНЫЕ НАПРАВЛЕНИЯ ТЕОРИИ МЕЖКУЛЬТУРНОЙ КОММУНИКАЦИИ\_Контрольные мероприятия\Практические_задания\cat.Практические_задания\dir.Практические_задания.md">Практические_задания</a>
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\Теория_и_практика_межкультурной_коммуникации_pdf\ТЕМА 2. ОСНОВНЫЕ НАПРАВЛЕНИЯ ТЕОРИИ МЕЖКУЛЬТУРНОЙ КОММУНИКАЦИИ\_Контрольные мероприятия\Практические_задания\задание_1\cat.задание_1\dir.задание_1.md">задание_1</a>
-                                    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\Теория_и_практика_межкультурной_коммуникации_pdf\ТЕМА 2. ОСНОВНЫЕ НАПРАВЛЕНИЯ ТЕОРИИ МЕЖКУЛЬТУРНОЙ КОММУНИКАЦИИ\_Контрольные мероприятия\Практические_задания\задание_1\задание_2_готовое.md">задание_2_готовое.md</a>
+                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\Теория_и_практика_межкультурной_коммуникации_pdf\cat.Теория_и_практика_межкультурной_коммуникации_pdf\dir.Теория_и_практика_межкультурной_коммуникации_pdf.md">Теория_и_практика_межкультурной_коммуникации_pdf</a>
+                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\Теория_и_практика_межкультурной_коммуникации_pdf\ТЕМА 2. ОСНОВНЫЕ НАПРАВЛЕНИЯ ТЕОРИИ МЕЖКУЛЬТУРНОЙ КОММУНИКАЦИИ\cat.ТЕМА 2. ОСНОВНЫЕ НАПРАВЛЕНИЯ ТЕОРИИ МЕЖКУЛЬТУРНОЙ КОММУНИКАЦИИ\dir.ТЕМА 2. ОСНОВНЫЕ НАПРАВЛЕНИЯ ТЕОРИИ МЕЖКУЛЬТУРНОЙ КОММУНИКАЦИИ.md">ТЕМА 2. ОСНОВНЫЕ НАПРАВЛЕНИЯ ТЕОРИИ МЕЖКУЛЬТУРНОЙ КОММУНИКАЦИИ</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\Теория_и_практика_межкультурной_коммуникации_pdf\ТЕМА 2. ОСНОВНЫЕ НАПРАВЛЕНИЯ ТЕОРИИ МЕЖКУЛЬТУРНОЙ КОММУНИКАЦИИ\_Контрольные мероприятия\cat._Контрольные мероприятия\dir._Контрольные мероприятия.md">_Контрольные мероприятия</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\Теория_и_практика_межкультурной_коммуникации_pdf\ТЕМА 2. ОСНОВНЫЕ НАПРАВЛЕНИЯ ТЕОРИИ МЕЖКУЛЬТУРНОЙ КОММУНИКАЦИИ\_Контрольные мероприятия\Практические_задания\cat.Практические_задания\dir.Практические_задания.md">Практические_задания</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\Теория_и_практика_межкультурной_коммуникации_pdf\ТЕМА 2. ОСНОВНЫЕ НАПРАВЛЕНИЯ ТЕОРИИ МЕЖКУЛЬТУРНОЙ КОММУНИКАЦИИ\_Контрольные мероприятия\Практические_задания\задание_1\cat.задание_1\dir.задание_1.md">задание_1</a>
+                                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\Теория_и_практика_межкультурной_коммуникации_pdf\ТЕМА 2. ОСНОВНЫЕ НАПРАВЛЕНИЯ ТЕОРИИ МЕЖКУЛЬТУРНОЙ КОММУНИКАЦИИ\_Контрольные мероприятия\Практические_задания\задание_1\задание_2_готовое.md">задание_2_готовое.md</a>
                                         - *# Quetions with answers
                                         - *# ТЕМА 2. ОСНОВНЫЕ НАПРАВЛЕНИЯ ТЕОРИИ МЕЖКУЛЬТУРНОЙ КОММУНИКАЦИИ
                                         - *## Основные параметры в сопоставлении культур
@@ -1989,12 +1961,12 @@
                 
             
         
-        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_WebJS\cat._WebJS\dir._WebJS.md">_WebJS</a>
-            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_WebJS\Containers\cat.Containers\dir.Containers.md">Containers</a>
-                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_WebJS\Containers\Point_learn\cat.Point_learn\dir.Point_learn.md">Point_learn</a>
-                    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_WebJS\Containers\Point_learn\event_loop\cat.event_loop\dir.event_loop.md">event_loop</a>
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_WebJS\Containers\Point_learn\event_loop\youtube\cat.youtube\dir.youtube.md">youtube</a>
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_WebJS\Containers\Point_learn\event_loop\youtube\Jake_Archibald.md">Jake_Archibald.md</a>
+        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_WebJS\cat._WebJS\dir._WebJS.md">_WebJS</a>
+            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_WebJS\Containers\cat.Containers\dir.Containers.md">Containers</a>
+                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_WebJS\Containers\Point_learn\cat.Point_learn\dir.Point_learn.md">Point_learn</a>
+                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_WebJS\Containers\Point_learn\event_loop\cat.event_loop\dir.event_loop.md">event_loop</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_WebJS\Containers\Point_learn\event_loop\youtube\cat.youtube\dir.youtube.md">youtube</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_WebJS\Containers\Point_learn\event_loop\youtube\Jake_Archibald.md">Jake_Archibald.md</a>
                                 - *# [j4_9BZezSUA](https://www.youtube.com/watch?v=j4_9BZezSUA&t=1347s&ab_channel=MakeWeb.me)
                                 - *#### <a href="E:\Node_projects\Node_Way\NBase\_Md\_Index\_WebJS\Containers\Point_learn\event_loop\youtube\_src\1.html">1.html</a>
                                 - *## requestAnimationFrame
@@ -2011,13 +1983,13 @@
                     
                 
             
-            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_WebJS\Content\cat.Content\dir.Content.md">Content</a>
-                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_WebJS\Content\Docs\cat.Docs\dir.Docs.md">Docs</a>
-                    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_WebJS\Content\Docs\MDN_docs_Web_API\cat.MDN_docs_Web_API\dir.MDN_docs_Web_API.md">MDN_docs_Web_API</a>
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_WebJS\Content\Docs\MDN_docs_Web_API\Live_learn\cat.Live_learn\dir.Live_learn.md">Live_learn</a>
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_WebJS\Content\Docs\MDN_docs_Web_API\Live_learn\mozilla.org_docs_learn_HTML_Введение_в_HTML\cat.mozilla.org_docs_learn_HTML_Введение_в_HTML\dir.mozilla.org_docs_learn_HTML_Введение_в_HTML.md">mozilla.org_docs_learn_HTML_Введение_в_HTML</a>
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_WebJS\Content\Docs\MDN_docs_Web_API\Live_learn\mozilla.org_docs_learn_HTML_Введение_в_HTML\prepear_ancor_lists\cat.prepear_ancor_lists\dir.prepear_ancor_lists.md">prepear_ancor_lists</a>
-                                    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_WebJS\Content\Docs\MDN_docs_Web_API\Live_learn\mozilla.org_docs_learn_HTML_Введение_в_HTML\prepear_ancor_lists\ancor_list_ru_1.md">ancor_list_ru_1.md</a>
+            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_WebJS\Content\cat.Content\dir.Content.md">Content</a>
+                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_WebJS\Content\Docs\cat.Docs\dir.Docs.md">Docs</a>
+                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_WebJS\Content\Docs\MDN_docs_Web_API\cat.MDN_docs_Web_API\dir.MDN_docs_Web_API.md">MDN_docs_Web_API</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_WebJS\Content\Docs\MDN_docs_Web_API\Live_learn\cat.Live_learn\dir.Live_learn.md">Live_learn</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_WebJS\Content\Docs\MDN_docs_Web_API\Live_learn\mozilla.org_docs_learn_HTML_Введение_в_HTML\cat.mozilla.org_docs_learn_HTML_Введение_в_HTML\dir.mozilla.org_docs_learn_HTML_Введение_в_HTML.md">mozilla.org_docs_learn_HTML_Введение_в_HTML</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_WebJS\Content\Docs\MDN_docs_Web_API\Live_learn\mozilla.org_docs_learn_HTML_Введение_в_HTML\prepear_ancor_lists\cat.prepear_ancor_lists\dir.prepear_ancor_lists.md">prepear_ancor_lists</a>
+                                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_WebJS\Content\Docs\MDN_docs_Web_API\Live_learn\mozilla.org_docs_learn_HTML_Введение_в_HTML\prepear_ancor_lists\ancor_list_ru_1.md">ancor_list_ru_1.md</a>
                                         - *## Начало работы с Вебом
                                         - *## Вступление в HTML
                                         - *## Мультимедиа и встраивание
@@ -2036,9 +2008,9 @@
                                 
                             
                         
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_WebJS\Content\Docs\MDN_docs_Web_API\Point_learn\cat.Point_learn\dir.Point_learn.md">Point_learn</a>
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_WebJS\Content\Docs\MDN_docs_Web_API\Point_learn\mozilla.org_docs_Web_CSS\cat.mozilla.org_docs_Web_CSS\dir.mozilla.org_docs_Web_CSS.md">mozilla.org_docs_Web_CSS</a>
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_WebJS\Content\Docs\MDN_docs_Web_API\Point_learn\mozilla.org_docs_Web_CSS\ancor_list_common.md">ancor_list_common.md</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_WebJS\Content\Docs\MDN_docs_Web_API\Point_learn\cat.Point_learn\dir.Point_learn.md">Point_learn</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_WebJS\Content\Docs\MDN_docs_Web_API\Point_learn\mozilla.org_docs_Web_CSS\cat.mozilla.org_docs_Web_CSS\dir.mozilla.org_docs_Web_CSS.md">mozilla.org_docs_Web_CSS</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_WebJS\Content\Docs\MDN_docs_Web_API\Point_learn\mozilla.org_docs_Web_CSS\ancor_list_common.md">ancor_list_common.md</a>
                                     - *## Справочный указатель
                                     - *##  Базовые селекторы
                                     - *##  Комбиционные
@@ -2048,8 +2020,8 @@
                                     - *## Концепции
                                     - *## Важнейшие типы объектов:
                                     - *## важные методы:
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_WebJS\Content\Docs\MDN_docs_Web_API\Point_learn\mozilla.org_docs_Web_CSS\list_learn\cat.list_learn\dir.list_learn.md">list_learn</a>
-                                    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_WebJS\Content\Docs\MDN_docs_Web_API\Point_learn\mozilla.org_docs_Web_CSS\list_learn\ancor_list_common.md">ancor_list_common.md</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_WebJS\Content\Docs\MDN_docs_Web_API\Point_learn\mozilla.org_docs_Web_CSS\list_learn\cat.list_learn\dir.list_learn.md">list_learn</a>
+                                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_WebJS\Content\Docs\MDN_docs_Web_API\Point_learn\mozilla.org_docs_Web_CSS\list_learn\ancor_list_common.md">ancor_list_common.md</a>
                                         - *## Справочный указатель
                                         - *##  Базовые селекторы
                                         - *##  Комбиционные
@@ -2060,22 +2032,12 @@
                                         - *## Важнейшие типы объектов:
                                         - *## важные методы:
                                 
-                                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_WebJS\Content\Docs\MDN_docs_Web_API\Point_learn\mozilla.org_docs_Web_CSS\prepear_ancor_list\cat.prepear_ancor_list\dir.prepear_ancor_list.md">prepear_ancor_list</a>
-                                    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_WebJS\Content\Docs\MDN_docs_Web_API\Point_learn\mozilla.org_docs_Web_CSS\prepear_ancor_list\ancor_list_1.md">ancor_list_1.md</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_WebJS\Content\Docs\MDN_docs_Web_API\Point_learn\mozilla.org_docs_Web_CSS\prepear_ancor_list\cat.prepear_ancor_list\dir.prepear_ancor_list.md">prepear_ancor_list</a>
+                                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_WebJS\Content\Docs\MDN_docs_Web_API\Point_learn\mozilla.org_docs_Web_CSS\prepear_ancor_list\ancor_list_1.md">ancor_list_1.md</a>
                                         - *## Справочный указатель
                                         - *## Обучение CSS3
                                         - *## Концепции
-                                    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_WebJS\Content\Docs\MDN_docs_Web_API\Point_learn\mozilla.org_docs_Web_CSS\prepear_ancor_list\ancor_list_2.md">ancor_list_2.md</a>
-                                        - *## Справочный указатель
-                                        - *##  Базовые селекторы
-                                        - *##  Комбиционные
-                                        - *##  Псевдоэлементы    [(больше информации)](https://developer.mozilla.org/ru/docs/Web/CSS/Pseudo-elements)
-                                        - *##  Псевдоклассы    [(больше информации)](https://developer.mozilla.org/ru/docs/Web/CSS/%D0%9F%D1%81%D0%B5%D0%B2%D0%B4%D0%BE-%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D1%8B)
-                                        - *## Обучение CSS3
-                                        - *## Концепции
-                                        - *## Важнейшие типы объектов:
-                                        - *## важные методы:
-                                    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_WebJS\Content\Docs\MDN_docs_Web_API\Point_learn\mozilla.org_docs_Web_CSS\prepear_ancor_list\ancor_list_3.md">ancor_list_3.md</a>
+                                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_WebJS\Content\Docs\MDN_docs_Web_API\Point_learn\mozilla.org_docs_Web_CSS\prepear_ancor_list\ancor_list_2.md">ancor_list_2.md</a>
                                         - *## Справочный указатель
                                         - *##  Базовые селекторы
                                         - *##  Комбиционные
@@ -2085,7 +2047,17 @@
                                         - *## Концепции
                                         - *## Важнейшие типы объектов:
                                         - *## важные методы:
-                                    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_WebJS\Content\Docs\MDN_docs_Web_API\Point_learn\mozilla.org_docs_Web_CSS\prepear_ancor_list\ancor_list_common.md">ancor_list_common.md</a>
+                                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_WebJS\Content\Docs\MDN_docs_Web_API\Point_learn\mozilla.org_docs_Web_CSS\prepear_ancor_list\ancor_list_3.md">ancor_list_3.md</a>
+                                        - *## Справочный указатель
+                                        - *##  Базовые селекторы
+                                        - *##  Комбиционные
+                                        - *##  Псевдоэлементы    [(больше информации)](https://developer.mozilla.org/ru/docs/Web/CSS/Pseudo-elements)
+                                        - *##  Псевдоклассы    [(больше информации)](https://developer.mozilla.org/ru/docs/Web/CSS/%D0%9F%D1%81%D0%B5%D0%B2%D0%B4%D0%BE-%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D1%8B)
+                                        - *## Обучение CSS3
+                                        - *## Концепции
+                                        - *## Важнейшие типы объектов:
+                                        - *## важные методы:
+                                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_WebJS\Content\Docs\MDN_docs_Web_API\Point_learn\mozilla.org_docs_Web_CSS\prepear_ancor_list\ancor_list_common.md">ancor_list_common.md</a>
                                         - *## Справочный указатель
                                         - *##  Базовые селекторы
                                         - *##  Комбиционные
@@ -2102,20 +2074,20 @@
                 
             
         
-        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__\cat.__\dir.__.md">__</a>
-            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__\Emmet\cat.Emmet\dir.Emmet.md">Emmet</a>
-                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__\Emmet\webdesign-master.ru.md">webdesign-master.ru.md</a>
+        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\__\cat.__\dir.__.md">__</a>
+            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\__\Emmet\cat.Emmet\dir.Emmet.md">Emmet</a>
+                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\__\Emmet\webdesign-master.ru.md">webdesign-master.ru.md</a>
                     - *# [webdesign-master.ru](https://webdesign-master.ru/blog/html-css/2.html)
                     - *## Дочерний: >
                     - *## Соединение: +
                     - *## Поместить выше (в дереве HTML): ^
                     - *@@ emmet continue far
             
-            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__\Fan_fiches\cat.Fan_fiches\dir.Fan_fiches.md">Fan_fiches</a>
-                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__\Fan_fiches\14_Awesome_JavaScript_Array_Tips.md">14_Awesome_JavaScript_Array_Tips.md</a>
+            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\__\Fan_fiches\cat.Fan_fiches\dir.Fan_fiches.md">Fan_fiches</a>
+                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\__\Fan_fiches\14_Awesome_JavaScript_Array_Tips.md">14_Awesome_JavaScript_Array_Tips.md</a>
                     - *# https://dev.to/kais_blog/14-awesome-javascript-array-tips-you-should-know-about-1d0m?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email
             
-            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__\fich_bach_cli.md">fich_bach_cli.md</a>
+            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\__\fich_bach_cli.md">fich_bach_cli.md</a>
                 - *# Секреты и трюки Командной строки Linux. Стань гуру. Впервые конкурс
                 - *## history
                 - *# ! , :p , * 
@@ -2130,12 +2102,12 @@
                 - *## grep 
                 - *## apropos - finder in all commands
                 - *## du  - in centos 7
-            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__\Habr_hack\cat.Habr_hack\dir.Habr_hack.md">Habr_hack</a>
-                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__\Habr_hack\FileList_to_input.md">FileList_to_input.md</a>
+            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\__\Habr_hack\cat.Habr_hack\dir.Habr_hack.md">Habr_hack</a>
+                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\__\Habr_hack\FileList_to_input.md">FileList_to_input.md</a>
                     - *# https://qna.habr.com/q/895163
                     - *## Как создать коллекцию файлов FileList?
             
-            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__\latina_expr.md">latina_expr.md</a>
+            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\__\latina_expr.md">latina_expr.md</a>
                 - *# [Разбираемся с латинскими сокращениями и фразами в английском языке](https://habr.com/ru/company/skyeng/blog/462175/)
                 - *## etc.– et cetera, «и т.д.»
                 - *## i.e. – id est, «в смысле»,
@@ -2152,9 +2124,9 @@
                 - *## sc. – scilicet – «то есть», аналог viz.
                 - *## q.v. – quod vide – «см.», «смотри».
                 - *# И еще немного
-            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__\Linux_fiches\cat.Linux_fiches\dir.Linux_fiches.md">Linux_fiches</a>
-                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__\Linux_fiches\cli\cat.cli\dir.cli.md">cli</a>
-                    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__\Linux_fiches\cli\Pingvinus.md">Pingvinus.md</a>
+            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\__\Linux_fiches\cat.Linux_fiches\dir.Linux_fiches.md">Linux_fiches</a>
+                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\__\Linux_fiches\cli\cat.cli\dir.cli.md">cli</a>
+                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\__\Linux_fiches\cli\Pingvinus.md">Pingvinus.md</a>
                         - *# Секреты и трюки Командной строки Linux. Стань гуру. Впервые конкурс
                         - *## history
                         - *# ! , :p , * 
@@ -2170,32 +2142,32 @@
                         - *## apropos - finder in all commands
                 
             
-            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__\Md\cat.Md\dir.Md.md">Md</a>
-                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__\Md\InnerPath\cat.InnerPath\dir.InnerPath.md">InnerPath</a>
-                    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__\Md\InnerPath\test_to_ancor\cat.test_to_ancor\dir.test_to_ancor.md">test_to_ancor</a>
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__\Md\InnerPath\test_to_ancor\in_file.md">in_file.md</a>
+            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\__\Md\cat.Md\dir.Md.md">Md</a>
+                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\__\Md\InnerPath\cat.InnerPath\dir.InnerPath.md">InnerPath</a>
+                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\__\Md\InnerPath\test_to_ancor\cat.test_to_ancor\dir.test_to_ancor.md">test_to_ancor</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\__\Md\InnerPath\test_to_ancor\in_file.md">in_file.md</a>
                             - *# to face
                             - *# to tail
                     
                 
             
-            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__\Vs settings\cat.Vs settings\dir.Vs settings.md">Vs settings</a>
-                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__\Vs settings\_ancors.md">_ancors.md</a>
+            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\__\Vs settings\cat.Vs settings\dir.Vs settings.md">Vs settings</a>
+                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\__\Vs settings\_ancors.md">_ancors.md</a>
                     - *## [Как создать резервную копию настроек VS Code и списка установленных расширений?](https://kompsekret.ru/q/how-do-i-back-up-my-vs-code-settings-and-list-of-installed-extensions-2126/)
                     - *## [Visual Studio Code: мощное руководство пользователя](https://dev-gang.ru/article/visual-studio-code-moscznoe-rukovodstvo-polzovatelja-dwedy9wjzg/)
                     - *## [VSCode Полный Курс для JavaScript разработчиков](https://www.youtube.com/watch?v=QeUp3CahkQw&t=1311s&ab_channel=%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BB%D0%B5%D0%BD%D0%9C%D0%B8%D0%BD%D0%B8%D0%BD)
             
         
-        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__SKILLS\cat.__SKILLS\dir.__SKILLS.md">__SKILLS</a>
-            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__SKILLS\_Flowchart\cat._Flowchart\dir._Flowchart.md">_Flowchart</a>
-                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__SKILLS\_Flowchart\content\cat.content\dir.content.md">content</a>
-                    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__SKILLS\_Flowchart\content\Docs\cat.Docs\dir.Docs.md">Docs</a>
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__SKILLS\_Flowchart\content\Docs\pro-prof.com_archives_1462\cat.pro-prof.com_archives_1462\dir.pro-prof.com_archives_1462.md">pro-prof.com_archives_1462</a>
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__SKILLS\_Flowchart\content\Docs\pro-prof.com_archives_1462\pro-prof.com_archives_1462.md">pro-prof.com_archives_1462.md</a>
+        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\__SKILLS\cat.__SKILLS\dir.__SKILLS.md">__SKILLS</a>
+            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\__SKILLS\_Flowchart\cat._Flowchart\dir._Flowchart.md">_Flowchart</a>
+                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\__SKILLS\_Flowchart\content\cat.content\dir.content.md">content</a>
+                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\__SKILLS\_Flowchart\content\Docs\cat.Docs\dir.Docs.md">Docs</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\__SKILLS\_Flowchart\content\Docs\pro-prof.com_archives_1462\cat.pro-prof.com_archives_1462\dir.pro-prof.com_archives_1462.md">pro-prof.com_archives_1462</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\__SKILLS\_Flowchart\content\Docs\pro-prof.com_archives_1462\pro-prof.com_archives_1462.md">pro-prof.com_archives_1462.md</a>
                                 - *# https://pro-prof.com/archives/1462
                         
-                        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__SKILLS\_Flowchart\content\Docs\vk.com_topic-60433661_29009863\cat.vk.com_topic-60433661_29009863\dir.vk.com_topic-60433661_29009863.md">vk.com_topic-60433661_29009863</a>
-                            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__SKILLS\_Flowchart\content\Docs\vk.com_topic-60433661_29009863\vk.com_topic-60433661_29009863.md">vk.com_topic-60433661_29009863.md</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\__SKILLS\_Flowchart\content\Docs\vk.com_topic-60433661_29009863\cat.vk.com_topic-60433661_29009863\dir.vk.com_topic-60433661_29009863.md">vk.com_topic-60433661_29009863</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\__SKILLS\_Flowchart\content\Docs\vk.com_topic-60433661_29009863\vk.com_topic-60433661_29009863.md">vk.com_topic-60433661_29009863.md</a>
                                 - *# https://pro-prof.com/archives/1462
                                 - *## Схема данных 
                                 - *## Схема программы 

@@ -1,6 +1,6 @@
-- <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__\Linux_fiches\cat.Linux_fiches\dir.Linux_fiches.md">Linux_fiches</a>
-    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__\Linux_fiches\cli\cat.cli\dir.cli.md">cli</a>
-        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__\Linux_fiches\cli\Pingvinus.md">Pingvinus.md</a>
+- <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\__\Linux_fiches\cat.Linux_fiches\dir.Linux_fiches.md">Linux_fiches</a>
+    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\__\Linux_fiches\cli\cat.cli\dir.cli.md">cli</a>
+        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\__\Linux_fiches\cli\Pingvinus.md">Pingvinus.md</a>
             - *# Секреты и трюки Командной строки Linux. Стань гуру. Впервые конкурс
             - *## history
             - *# ! , :p , * 

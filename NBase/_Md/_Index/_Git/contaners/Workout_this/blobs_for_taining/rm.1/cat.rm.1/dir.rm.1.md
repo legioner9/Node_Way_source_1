@@ -1,9 +1,9 @@
-- <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\rm.1\cat.rm.1\dir.rm.1.md">rm.1</a>
-    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\rm.1\Git_what_trane{rm}@1_{repo}\cat.Git_what_trane{rm}@1_{repo}\dir.Git_what_trane{rm}@1_{repo}.md">Git_what_trane{rm}@1_{repo}</a>
-        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\rm.1\Git_what_trane{rm}@1_{repo}\create_bind_repo.md">create_bind_repo.md</a>
+- <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\rm.1\cat.rm.1\dir.rm.1.md">rm.1</a>
+    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\rm.1\Git_what_trane{rm}@1_{repo}\cat.Git_what_trane{rm}@1_{repo}\dir.Git_what_trane{rm}@1_{repo}.md">Git_what_trane{rm}@1_{repo}</a>
+        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\rm.1\Git_what_trane{rm}@1_{repo}\create_bind_repo.md">create_bind_repo.md</a>
             - *# create repo
             - *# bind repo
-        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\rm.1\Git_what_trane{rm}@1_{repo}\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
+        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\rm.1\Git_what_trane{rm}@1_{repo}\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
             - *## {st} - (blob|ident) area :ident{stash}::blob: + :blob:
             - *## {fs} - (file) area :file:
             - *## {ws} - (ident) area :wd::file: - label on unstage file 

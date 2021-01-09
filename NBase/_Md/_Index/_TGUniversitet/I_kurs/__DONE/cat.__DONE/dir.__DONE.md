@@ -1,7 +1,7 @@
-- <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\cat.__DONE\dir.__DONE.md">__DONE</a>
-    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\cat.++Архитектура_компьютеров_и_операционные_системы\dir.++Архитектура_компьютеров_и_операционные_системы.md">++Архитектура_компьютеров_и_операционные_системы</a>
-        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\1. Архитектура электронно-вычислительной машины\cat.1. Архитектура электронно-вычислительной машины\dir.1. Архитектура электронно-вычислительной машины.md">1. Архитектура электронно-вычислительной машины</a>
-            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\1. Архитектура электронно-вычислительной машины\ReadMe.md">ReadMe.md</a>
+- <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\cat.__DONE\dir.__DONE.md">__DONE</a>
+    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\cat.++Архитектура_компьютеров_и_операционные_системы\dir.++Архитектура_компьютеров_и_операционные_системы.md">++Архитектура_компьютеров_и_операционные_системы</a>
+        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\1. Архитектура электронно-вычислительной машины\cat.1. Архитектура электронно-вычислительной машины\dir.1. Архитектура электронно-вычислительной машины.md">1. Архитектура электронно-вычислительной машины</a>
+            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\1. Архитектура электронно-вычислительной машины\ReadMe.md">ReadMe.md</a>
                 - *# 1. Архитектура электронно-вычислительной машины
                 - *## 1
                 - *### 1.Аппаратное обеспечениеперсонального компьютера
@@ -19,52 +19,52 @@
                 - *## Add 3 11.3. Комплексирование в вычислительных системах
                 - *## Add 4 11.4. Типовые структуры вычислительных систем
         
-        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\2. Программное обеспечение персонального компьютера\cat.2. Программное обеспечение персонального компьютера\dir.2. Программное обеспечение персонального компьютера.md">2. Программное обеспечение персонального компьютера</a>
-            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\2. Программное обеспечение персонального компьютера\ReadMe.md">ReadMe.md</a>
+        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\2. Программное обеспечение персонального компьютера\cat.2. Программное обеспечение персонального компьютера\dir.2. Программное обеспечение персонального компьютера.md">2. Программное обеспечение персонального компьютера</a>
+            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\2. Программное обеспечение персонального компьютера\ReadMe.md">ReadMe.md</a>
                 - *# 2. Программное обеспечение персонального компьютера
                 - *### 2.2.Файловая система
         
-        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\3. Операционные системы, их виды и функциональные характеристики\cat.3. Операционные системы, их виды и функциональные характеристики\dir.3. Операционные системы, их виды и функциональные характеристики.md">3. Операционные системы, их виды и функциональные характеристики</a>
-            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\3. Операционные системы, их виды и функциональные характеристики\partyka_conspect\cat.partyka_conspect\dir.partyka_conspect.md">partyka_conspect</a>
-                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\3. Операционные системы, их виды и функциональные характеристики\partyka_conspect\glossary.md">glossary.md</a>
+        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\3. Операционные системы, их виды и функциональные характеристики\cat.3. Операционные системы, их виды и функциональные характеристики\dir.3. Операционные системы, их виды и функциональные характеристики.md">3. Операционные системы, их виды и функциональные характеристики</a>
+            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\3. Операционные системы, их виды и функциональные характеристики\partyka_conspect\cat.partyka_conspect\dir.partyka_conspect.md">partyka_conspect</a>
+                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\3. Операционные системы, их виды и функциональные характеристики\partyka_conspect\glossary.md">glossary.md</a>
                     - *# Глоссарий (список используемых терминов)
             
-            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\3. Операционные системы, их виды и функциональные характеристики\ReadMe.md">ReadMe.md</a>
+            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\3. Операционные системы, их виды и функциональные характеристики\ReadMe.md">ReadMe.md</a>
                 - *# 3. Операционные системы, их виды и функциональные характеристики
         
-        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\4. Операционная система, среда и оболочка\cat.4. Операционная система, среда и оболочка\dir.4. Операционная система, среда и оболочка.md">4. Операционная система, среда и оболочка</a>
-            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\4. Операционная система, среда и оболочка\iprbookshop.ru_52176\cat.iprbookshop.ru_52176\dir.iprbookshop.ru_52176.md">iprbookshop.ru_52176</a>
-                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\4. Операционная система, среда и оболочка\iprbookshop.ru_52176\iprbookshop.ru_52176.md">iprbookshop.ru_52176.md</a>
+        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\4. Операционная система, среда и оболочка\cat.4. Операционная система, среда и оболочка\dir.4. Операционная система, среда и оболочка.md">4. Операционная система, среда и оболочка</a>
+            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\4. Операционная система, среда и оболочка\iprbookshop.ru_52176\cat.iprbookshop.ru_52176\dir.iprbookshop.ru_52176.md">iprbookshop.ru_52176</a>
+                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\4. Операционная система, среда и оболочка\iprbookshop.ru_52176\iprbookshop.ru_52176.md">iprbookshop.ru_52176.md</a>
                     - *# Современные операционные системы
                     - *## Архитектура, назначение и функции операционных систем
                     - *### 1.1. Понятие операционной системы. Виртуальные машины
             
-            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\4. Операционная система, среда и оболочка\ReadMe.md">ReadMe.md</a>
+            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\4. Операционная система, среда и оболочка\ReadMe.md">ReadMe.md</a>
                 - *# 4. Операционная система, среда и оболочка. Назначение, состав и функции операционных систем
         
-        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\5. Архитектура операционной системы\cat.5. Архитектура операционной системы\dir.5. Архитектура операционной системы.md">5. Архитектура операционной системы</a>
-            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\5. Архитектура операционной системы\ReadMe.md">ReadMe.md</a>
+        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\5. Архитектура операционной системы\cat.5. Архитектура операционной системы\dir.5. Архитектура операционной системы.md">5. Архитектура операционной системы</a>
+            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\5. Архитектура операционной системы\ReadMe.md">ReadMe.md</a>
                 - *# 5. Архитектура операционной системы
         
-        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\6. Классификация операционных систем\cat.6. Классификация операционных систем\dir.6. Классификация операционных систем.md">6. Классификация операционных систем</a>
-            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\6. Классификация операционных систем\ReadMe.md">ReadMe.md</a>
+        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\6. Классификация операционных систем\cat.6. Классификация операционных систем\dir.6. Классификация операционных систем.md">6. Классификация операционных систем</a>
+            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\6. Классификация операционных систем\ReadMe.md">ReadMe.md</a>
                 - *# 6. Классификация операционных систем
         
-        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\7. Концепция процессов и потоков\cat.7. Концепция процессов и потоков\dir.7. Концепция процессов и потоков.md">7. Концепция процессов и потоков</a>
-            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\7. Концепция процессов и потоков\ReadMe.md">ReadMe.md</a>
+        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\7. Концепция процессов и потоков\cat.7. Концепция процессов и потоков\dir.7. Концепция процессов и потоков.md">7. Концепция процессов и потоков</a>
+            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\7. Концепция процессов и потоков\ReadMe.md">ReadMe.md</a>
                 - *# 7. Концепция процессов и потоков
         
-        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\8. Управление памятью\cat.8. Управление памятью\dir.8. Управление памятью.md">8. Управление памятью</a>
-            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\8. Управление памятью\ReadMe.md">ReadMe.md</a>
+        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\8. Управление памятью\cat.8. Управление памятью\dir.8. Управление памятью.md">8. Управление памятью</a>
+            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\8. Управление памятью\ReadMe.md">ReadMe.md</a>
                 - *# 8. Управление памятью. Методы, алгоритмы и средства
         
-        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\9. Подсистема ввода-вывода. Файловые системы\cat.9. Подсистема ввода-вывода. Файловые системы\dir.9. Подсистема ввода-вывода. Файловые системы.md">9. Подсистема ввода-вывода. Файловые системы</a>
-            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\9. Подсистема ввода-вывода. Файловые системы\ReadMe.md">ReadMe.md</a>
+        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\9. Подсистема ввода-вывода. Файловые системы\cat.9. Подсистема ввода-вывода. Файловые системы\dir.9. Подсистема ввода-вывода. Файловые системы.md">9. Подсистема ввода-вывода. Файловые системы</a>
+            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\9. Подсистема ввода-вывода. Файловые системы\ReadMe.md">ReadMe.md</a>
                 - *# 9. Подсистема ввода-вывода. Файловые системы
         
-        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\With_courses\cat.With_courses\dir.With_courses.md">With_courses</a>
-            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\With_courses\Lecture_OS_I\cat.Lecture_OS_I\dir.Lecture_OS_I.md">Lecture_OS_I</a>
-                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\With_courses\Lecture_OS_I\ReadMe.md">ReadMe.md</a>
+        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\With_courses\cat.With_courses\dir.With_courses.md">With_courses</a>
+            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\With_courses\Lecture_OS_I\cat.Lecture_OS_I\dir.Lecture_OS_I.md">Lecture_OS_I</a>
+                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\With_courses\Lecture_OS_I\ReadMe.md">ReadMe.md</a>
                     - *# Лекция № 1. ОСНОВНЫЕ ПОНЯТИЯ
                     - *## 1.1. Системное и прикладное программное обеспечение
                     - *## 1.2. Операционные системы
@@ -184,59 +184,59 @@
                     - *# Лекция № 14. ОРГАНИЗАЦИЯ ПРОГРАММНЫХ ПОТОКОВ
             
         
-        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\_pdf\cat._pdf\dir._pdf.md">_pdf</a>
-            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\_pdf\iprbookshop.ru_52176_nazar\cat.iprbookshop.ru_52176_nazar\dir.iprbookshop.ru_52176_nazar.md">iprbookshop.ru_52176_nazar</a>
-                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\_pdf\iprbookshop.ru_52176_nazar\iprbookshop.ru_52176.md">iprbookshop.ru_52176.md</a>
+        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\_pdf\cat._pdf\dir._pdf.md">_pdf</a>
+            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\_pdf\iprbookshop.ru_52176_nazar\cat.iprbookshop.ru_52176_nazar\dir.iprbookshop.ru_52176_nazar.md">iprbookshop.ru_52176_nazar</a>
+                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\++Архитектура_компьютеров_и_операционные_системы\_pdf\iprbookshop.ru_52176_nazar\iprbookshop.ru_52176.md">iprbookshop.ru_52176.md</a>
                     - *# Современные операционные системы
                     - *## Архитектура, назначение и функции операционных систем
                     - *### 1.1. Понятие операционной системы. Виртуальные машины
             
         
     
-    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\General_English_б1\cat.General_English_б1\dir.General_English_б1.md">General_English_б1</a>
-        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\General_English_б1\ReadMe.md">ReadMe.md</a>
+    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\General_English_б1\cat.General_English_б1\dir.General_English_б1.md">General_English_б1</a>
+        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\General_English_б1\ReadMe.md">ReadMe.md</a>
             - *## https://www.macmillanpracticeonline.com/MPO/StudentClassDashboard
     
-    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Информационные_системы_и_технологии\cat.Информационные_системы_и_технологии\dir.Информационные_системы_и_технологии.md">Информационные_системы_и_технологии</a>
-        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Информационные_системы_и_технологии\1. Информация и ее свойства\cat.1. Информация и ее свойства\dir.1. Информация и ее свойства.md">1. Информация и ее свойства</a>
-            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Информационные_системы_и_технологии\1. Информация и ее свойства\ReadMe.md">ReadMe.md</a>
+    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Информационные_системы_и_технологии\cat.Информационные_системы_и_технологии\dir.Информационные_системы_и_технологии.md">Информационные_системы_и_технологии</a>
+        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Информационные_системы_и_технологии\1. Информация и ее свойства\cat.1. Информация и ее свойства\dir.1. Информация и ее свойства.md">1. Информация и ее свойства</a>
+            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Информационные_системы_и_технологии\1. Информация и ее свойства\ReadMe.md">ReadMe.md</a>
                 - *# 1. Информация и ее свойства
         
-        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Информационные_системы_и_технологии\2. Основные понятия информационных технологий\cat.2. Основные понятия информационных технологий\dir.2. Основные понятия информационных технологий.md">2. Основные понятия информационных технологий</a>
-            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Информационные_системы_и_технологии\2. Основные понятия информационных технологий\ReadMe.md">ReadMe.md</a>
+        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Информационные_системы_и_технологии\2. Основные понятия информационных технологий\cat.2. Основные понятия информационных технологий\dir.2. Основные понятия информационных технологий.md">2. Основные понятия информационных технологий</a>
+            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Информационные_системы_и_технологии\2. Основные понятия информационных технологий\ReadMe.md">ReadMe.md</a>
                 - *# 2. Основные понятия информационных технологий. Классификация информационных технологий
         
-        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Информационные_системы_и_технологии\3. Информационные технологии конечного пользователя\cat.3. Информационные технологии конечного пользователя\dir.3. Информационные технологии конечного пользователя.md">3. Информационные технологии конечного пользователя</a>
-            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Информационные_системы_и_технологии\3. Информационные технологии конечного пользователя\ReadMe.md">ReadMe.md</a>
+        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Информационные_системы_и_технологии\3. Информационные технологии конечного пользователя\cat.3. Информационные технологии конечного пользователя\dir.3. Информационные технологии конечного пользователя.md">3. Информационные технологии конечного пользователя</a>
+            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Информационные_системы_и_технологии\3. Информационные технологии конечного пользователя\ReadMe.md">ReadMe.md</a>
                 - *# 3. Информационные технологии конечного пользователя
         
-        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Информационные_системы_и_технологии\4. Интеграция информационных технологий\cat.4. Интеграция информационных технологий\dir.4. Интеграция информационных технологий.md">4. Интеграция информационных технологий</a>
-            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Информационные_системы_и_технологии\4. Интеграция информационных технологий\ReadMe.md">ReadMe.md</a>
+        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Информационные_системы_и_технологии\4. Интеграция информационных технологий\cat.4. Интеграция информационных технологий\dir.4. Интеграция информационных технологий.md">4. Интеграция информационных технологий</a>
+            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Информационные_системы_и_технологии\4. Интеграция информационных технологий\ReadMe.md">ReadMe.md</a>
                 - *# 4. Интеграция информационных технологий
         
-        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Информационные_системы_и_технологии\6. Классификация информационных систем и этапы их развития\cat.6. Классификация информационных систем и этапы их развития\dir.6. Классификация информационных систем и этапы их развития.md">6. Классификация информационных систем и этапы их развития</a>
-            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Информационные_системы_и_технологии\6. Классификация информационных систем и этапы их развития\ReadMe.md">ReadMe.md</a>
+        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Информационные_системы_и_технологии\6. Классификация информационных систем и этапы их развития\cat.6. Классификация информационных систем и этапы их развития\dir.6. Классификация информационных систем и этапы их развития.md">6. Классификация информационных систем и этапы их развития</a>
+            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Информационные_системы_и_технологии\6. Классификация информационных систем и этапы их развития\ReadMe.md">ReadMe.md</a>
                 - *# 6. Классификация информационных систем и этапы их развития
         
-        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Информационные_системы_и_технологии\7. Жизненный цикл информационных систем\cat.7. Жизненный цикл информационных систем\dir.7. Жизненный цикл информационных систем.md">7. Жизненный цикл информационных систем</a>
-            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Информационные_системы_и_технологии\7. Жизненный цикл информационных систем\ReadMe.md">ReadMe.md</a>
+        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Информационные_системы_и_технологии\7. Жизненный цикл информационных систем\cat.7. Жизненный цикл информационных систем\dir.7. Жизненный цикл информационных систем.md">7. Жизненный цикл информационных систем</a>
+            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Информационные_системы_и_технологии\7. Жизненный цикл информационных систем\ReadMe.md">ReadMe.md</a>
                 - *# 7. Жизненный цикл информационных систем
         
-        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Информационные_системы_и_технологии\8. Архитектура информационных систем\cat.8. Архитектура информационных систем\dir.8. Архитектура информационных систем.md">8. Архитектура информационных систем</a>
-            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Информационные_системы_и_технологии\8. Архитектура информационных систем\ReadMe.md">ReadMe.md</a>
+        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Информационные_системы_и_технологии\8. Архитектура информационных систем\cat.8. Архитектура информационных систем\dir.8. Архитектура информационных систем.md">8. Архитектура информационных систем</a>
+            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Информационные_системы_и_технологии\8. Архитектура информационных систем\ReadMe.md">ReadMe.md</a>
                 - *# 8. Архитектура информационных систем
         
-        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Информационные_системы_и_технологии\9. Технологии моделирования информационных систем\cat.9. Технологии моделирования информационных систем\dir.9. Технологии моделирования информационных систем.md">9. Технологии моделирования информационных систем</a>
-            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Информационные_системы_и_технологии\9. Технологии моделирования информационных систем\ReadMe.md">ReadMe.md</a>
+        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Информационные_системы_и_технологии\9. Технологии моделирования информационных систем\cat.9. Технологии моделирования информационных систем\dir.9. Технологии моделирования информационных систем.md">9. Технологии моделирования информационных систем</a>
+            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Информационные_системы_и_технологии\9. Технологии моделирования информационных систем\ReadMe.md">ReadMe.md</a>
                 - *# 9. Технологии моделирования информационных систем
         
-        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Информационные_системы_и_технологии\ReadMe.md">ReadMe.md</a>
+        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Информационные_системы_и_технологии\ReadMe.md">ReadMe.md</a>
             - *# Контрольное мероприятие
     
-    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Методы_решения_проблем_в_информатике_pdf\cat.Методы_решения_проблем_в_информатике_pdf\dir.Методы_решения_проблем_в_информатике_pdf.md">Методы_решения_проблем_в_информатике_pdf</a>
-        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Методы_решения_проблем_в_информатике_pdf\5. Концепции_и_классификации_языков_программирования\cat.5. Концепции_и_классификации_языков_программирования\dir.5. Концепции_и_классификации_языков_программирования.md">5. Концепции_и_классификации_языков_программирования</a>
-            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Методы_решения_проблем_в_информатике_pdf\5. Концепции_и_классификации_языков_программирования\_consp\cat._consp\dir._consp.md">_consp</a>
-                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Методы_решения_проблем_в_информатике_pdf\5. Концепции_и_классификации_языков_программирования\_consp\from_pdf.md">from_pdf.md</a>
+    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Методы_решения_проблем_в_информатике_pdf\cat.Методы_решения_проблем_в_информатике_pdf\dir.Методы_решения_проблем_в_информатике_pdf.md">Методы_решения_проблем_в_информатике_pdf</a>
+        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Методы_решения_проблем_в_информатике_pdf\5. Концепции_и_классификации_языков_программирования\cat.5. Концепции_и_классификации_языков_программирования\dir.5. Концепции_и_классификации_языков_программирования.md">5. Концепции_и_классификации_языков_программирования</a>
+            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Методы_решения_проблем_в_информатике_pdf\5. Концепции_и_классификации_языков_программирования\_consp\cat._consp\dir._consp.md">_consp</a>
+                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Методы_решения_проблем_в_информатике_pdf\5. Концепции_и_классификации_языков_программирования\_consp\from_pdf.md">from_pdf.md</a>
                     - *# Тема 5. Концепции и классификация языков программирования
                     - *## Машинный язык
                     - *## Общая схема создания программ для компьютера
@@ -267,9 +267,9 @@
                     - *### Сравнение языков программирования
             
         
-        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Методы_решения_проблем_в_информатике_pdf\6. Программы_для_ЭВМ\cat.6. Программы_для_ЭВМ\dir.6. Программы_для_ЭВМ.md">6. Программы_для_ЭВМ</a>
-            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Методы_решения_проблем_в_информатике_pdf\6. Программы_для_ЭВМ\_consp\cat._consp\dir._consp.md">_consp</a>
-                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Методы_решения_проблем_в_информатике_pdf\6. Программы_для_ЭВМ\_consp\from_pdf.md">from_pdf.md</a>
+        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Методы_решения_проблем_в_информатике_pdf\6. Программы_для_ЭВМ\cat.6. Программы_для_ЭВМ\dir.6. Программы_для_ЭВМ.md">6. Программы_для_ЭВМ</a>
+            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Методы_решения_проблем_в_информатике_pdf\6. Программы_для_ЭВМ\_consp\cat._consp\dir._consp.md">_consp</a>
+                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Методы_решения_проблем_в_информатике_pdf\6. Программы_для_ЭВМ\_consp\from_pdf.md">from_pdf.md</a>
                     - *# Тема 6. Программа для ЭВМ
                     - *## что такое указатели;
                     - *## зачем нужны типы данных;
@@ -300,9 +300,9 @@
                     - *###### Особенности передачи параметров по имени и значению
             
         
-        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Методы_решения_проблем_в_информатике_pdf\8._Основы_системного_анализа\cat.8._Основы_системного_анализа\dir.8._Основы_системного_анализа.md">8._Основы_системного_анализа</a>
-            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Методы_решения_проблем_в_информатике_pdf\8._Основы_системного_анализа\_consp\cat._consp\dir._consp.md">_consp</a>
-                - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Методы_решения_проблем_в_информатике_pdf\8._Основы_системного_анализа\_consp\from_pdf.md">from_pdf.md</a>
+        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Методы_решения_проблем_в_информатике_pdf\8._Основы_системного_анализа\cat.8._Основы_системного_анализа\dir.8._Основы_системного_анализа.md">8._Основы_системного_анализа</a>
+            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Методы_решения_проблем_в_информатике_pdf\8._Основы_системного_анализа\_consp\cat._consp\dir._consp.md">_consp</a>
+                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Методы_решения_проблем_в_информатике_pdf\8._Основы_системного_анализа\_consp\from_pdf.md">from_pdf.md</a>
                     - *# Основы системного анализа 
                     - *## системный аналитик должен
             

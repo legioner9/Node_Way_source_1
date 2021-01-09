@@ -1,7 +1,7 @@
-- <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Методы_решения_проблем_в_информатике_pdf\cat.Методы_решения_проблем_в_информатике_pdf\dir.Методы_решения_проблем_в_информатике_pdf.md">Методы_решения_проблем_в_информатике_pdf</a>
-    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Методы_решения_проблем_в_информатике_pdf\5. Концепции_и_классификации_языков_программирования\cat.5. Концепции_и_классификации_языков_программирования\dir.5. Концепции_и_классификации_языков_программирования.md">5. Концепции_и_классификации_языков_программирования</a>
-        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Методы_решения_проблем_в_информатике_pdf\5. Концепции_и_классификации_языков_программирования\_consp\cat._consp\dir._consp.md">_consp</a>
-            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Методы_решения_проблем_в_информатике_pdf\5. Концепции_и_классификации_языков_программирования\_consp\from_pdf.md">from_pdf.md</a>
+- <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Методы_решения_проблем_в_информатике_pdf\cat.Методы_решения_проблем_в_информатике_pdf\dir.Методы_решения_проблем_в_информатике_pdf.md">Методы_решения_проблем_в_информатике_pdf</a>
+    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Методы_решения_проблем_в_информатике_pdf\5. Концепции_и_классификации_языков_программирования\cat.5. Концепции_и_классификации_языков_программирования\dir.5. Концепции_и_классификации_языков_программирования.md">5. Концепции_и_классификации_языков_программирования</a>
+        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Методы_решения_проблем_в_информатике_pdf\5. Концепции_и_классификации_языков_программирования\_consp\cat._consp\dir._consp.md">_consp</a>
+            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Методы_решения_проблем_в_информатике_pdf\5. Концепции_и_классификации_языков_программирования\_consp\from_pdf.md">from_pdf.md</a>
                 - *# Тема 5. Концепции и классификация языков программирования
                 - *## Машинный язык
                 - *## Общая схема создания программ для компьютера
@@ -32,9 +32,9 @@
                 - *### Сравнение языков программирования
         
     
-    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Методы_решения_проблем_в_информатике_pdf\6. Программы_для_ЭВМ\cat.6. Программы_для_ЭВМ\dir.6. Программы_для_ЭВМ.md">6. Программы_для_ЭВМ</a>
-        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Методы_решения_проблем_в_информатике_pdf\6. Программы_для_ЭВМ\_consp\cat._consp\dir._consp.md">_consp</a>
-            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Методы_решения_проблем_в_информатике_pdf\6. Программы_для_ЭВМ\_consp\from_pdf.md">from_pdf.md</a>
+    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Методы_решения_проблем_в_информатике_pdf\6. Программы_для_ЭВМ\cat.6. Программы_для_ЭВМ\dir.6. Программы_для_ЭВМ.md">6. Программы_для_ЭВМ</a>
+        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Методы_решения_проблем_в_информатике_pdf\6. Программы_для_ЭВМ\_consp\cat._consp\dir._consp.md">_consp</a>
+            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Методы_решения_проблем_в_информатике_pdf\6. Программы_для_ЭВМ\_consp\from_pdf.md">from_pdf.md</a>
                 - *# Тема 6. Программа для ЭВМ
                 - *## что такое указатели;
                 - *## зачем нужны типы данных;
@@ -65,9 +65,9 @@
                 - *###### Особенности передачи параметров по имени и значению
         
     
-    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Методы_решения_проблем_в_информатике_pdf\8._Основы_системного_анализа\cat.8._Основы_системного_анализа\dir.8._Основы_системного_анализа.md">8._Основы_системного_анализа</a>
-        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Методы_решения_проблем_в_информатике_pdf\8._Основы_системного_анализа\_consp\cat._consp\dir._consp.md">_consp</a>
-            - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Методы_решения_проблем_в_информатике_pdf\8._Основы_системного_анализа\_consp\from_pdf.md">from_pdf.md</a>
+    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Методы_решения_проблем_в_информатике_pdf\8._Основы_системного_анализа\cat.8._Основы_системного_анализа\dir.8._Основы_системного_анализа.md">8._Основы_системного_анализа</a>
+        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Методы_решения_проблем_в_информатике_pdf\8._Основы_системного_анализа\_consp\cat._consp\dir._consp.md">_consp</a>
+            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Методы_решения_проблем_в_информатике_pdf\8._Основы_системного_анализа\_consp\from_pdf.md">from_pdf.md</a>
                 - *# Основы системного анализа 
                 - *## системный аналитик должен
         

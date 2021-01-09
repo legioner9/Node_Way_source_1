@@ -1,5 +1,5 @@
-- <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\9git\cat.9git\dir.9git.md">9git</a>
-    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\9git\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
+- <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\9git\cat.9git\dir.9git.md">9git</a>
+    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\9git\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
         - *## {st} - (blob|ident) area :ident{stash}::blob: + :blob:
         - *## {fs} - (file) area :file:
         - *## {ws} - (ident) area :wd::file: - label on unstage file 

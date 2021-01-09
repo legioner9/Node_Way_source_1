@@ -1,6 +1,6 @@
-- <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\++Основы_программирования\2. Операции и стандартные библиотечные функции языка\cat.2. Операции и стандартные библиотечные функции языка\dir.2. Операции и стандартные библиотечные функции языка.md">2. Операции и стандартные библиотечные функции языка</a>
-    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\++Основы_программирования\2. Операции и стандартные библиотечные функции языка\_this_conspect\cat._this_conspect\dir._this_conspect.md">_this_conspect</a>
-        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\++Основы_программирования\2. Операции и стандартные библиотечные функции языка\_this_conspect\consp.md">consp.md</a>
+- <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\++Основы_программирования\2. Операции и стандартные библиотечные функции языка\cat.2. Операции и стандартные библиотечные функции языка\dir.2. Операции и стандартные библиотечные функции языка.md">2. Операции и стандартные библиотечные функции языка</a>
+    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\++Основы_программирования\2. Операции и стандартные библиотечные функции языка\_this_conspect\cat._this_conspect\dir._this_conspect.md">_this_conspect</a>
+        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\++Основы_программирования\2. Операции и стандартные библиотечные функции языка\_this_conspect\consp.md">consp.md</a>
             - *# Операции и стандартные библиотечные функции языка
             - *## Unary operation 
             - *### sizeof 

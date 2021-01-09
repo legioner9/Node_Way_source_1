@@ -1,5 +1,5 @@
-- <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Методы_решения_проблем_в_информатике_pdf\5. Концепции_и_классификации_языков_программирования\_consp\cat._consp\dir._consp.md">_consp</a>
-    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Методы_решения_проблем_в_информатике_pdf\5. Концепции_и_классификации_языков_программирования\_consp\from_pdf.md">from_pdf.md</a>
+- <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Методы_решения_проблем_в_информатике_pdf\5. Концепции_и_классификации_языков_программирования\_consp\cat._consp\dir._consp.md">_consp</a>
+    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__DONE\Методы_решения_проблем_в_информатике_pdf\5. Концепции_и_классификации_языков_программирования\_consp\from_pdf.md">from_pdf.md</a>
         - *# Тема 5. Концепции и классификация языков программирования
         - *## Машинный язык
         - *## Общая схема создания программ для компьютера

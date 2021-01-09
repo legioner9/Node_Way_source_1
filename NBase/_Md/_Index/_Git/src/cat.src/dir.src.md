@@ -1,9 +1,9 @@
-- <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\src\cat.src\dir.src.md">src</a>
-    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\src\Git_what_trane{}@1_{repo}\cat.Git_what_trane{}@1_{repo}\dir.Git_what_trane{}@1_{repo}.md">Git_what_trane{}@1_{repo}</a>
-        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\src\Git_what_trane{}@1_{repo}\create_bind_repo.md">create_bind_repo.md</a>
+- <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\src\cat.src\dir.src.md">src</a>
+    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\src\Git_what_trane{}@1_{repo}\cat.Git_what_trane{}@1_{repo}\dir.Git_what_trane{}@1_{repo}.md">Git_what_trane{}@1_{repo}</a>
+        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\src\Git_what_trane{}@1_{repo}\create_bind_repo.md">create_bind_repo.md</a>
             - *# create repo
             - *# bind repo
-        - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\src\Git_what_trane{}@1_{repo}\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
+        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\src\Git_what_trane{}@1_{repo}\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
             - *## {st} - (blob|ident) area :ident{stash}::blob: + :blob:
             - *## {fs} - (file) area :file:
             - *## {ws} - (ident) area :wd::file: - label on unstage file 
