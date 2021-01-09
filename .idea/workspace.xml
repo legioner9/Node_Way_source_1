@@ -26,15 +26,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
-      <change afterPath="$PROJECT_DIR$/Education/Gulp/Gulp_project_pug_2/ReadMe.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Gulp/Gulp_project_2/CreateDirFree_v_1_gulp_2.js" beforeDir="false" afterPath="$PROJECT_DIR$/Education/Gulp/Gulp_project_pug_2/CreateDirFree_v_1_gulp_2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Gulp/Gulp_project_2/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Gulp/Gulp_project_2/_gulp.js" beforeDir="false" afterPath="$PROJECT_DIR$/Education/Gulp/Gulp_project_pug_2/_gulp.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Gulp/Gulp_project_2/app/0" beforeDir="false" afterPath="$PROJECT_DIR$/Education/Gulp/Gulp_project_pug_2/app/0" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Gulp/Gulp_project_2/build/0" beforeDir="false" afterPath="$PROJECT_DIR$/Education/Gulp/Gulp_project_pug_2/build/0" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Gulp/Gulp_project_2/gulp/0" beforeDir="false" afterPath="$PROJECT_DIR$/Education/Gulp/Gulp_project_pug_2/gulp/0" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Gulp/Gulp_project_2/gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/Education/Gulp/Gulp_project_pug_2/gulpfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/Gulp/Gulp_project_pug_2/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/Education/Gulp/Gulp_project_pug_2/ReadMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/Gulp/Gulp_project_pug_2/gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/Education/Gulp/Gulp_project_pug_2/gulpfile.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -479,7 +473,7 @@
       <workItem from="1610170573501" duration="1280000" />
       <workItem from="1610175338258" duration="2958000" />
       <workItem from="1610188045096" duration="9708000" />
-      <workItem from="1610200601103" duration="3923000" />
+      <workItem from="1610200601103" duration="4620000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>

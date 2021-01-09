@@ -1,1 +1,1 @@
-step_2 Gulp_project_pug_2
+init gulp-template-master_to_1_set
