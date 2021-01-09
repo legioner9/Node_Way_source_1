@@ -113,7 +113,7 @@ typings/
 /Education/ITVDN_Video_Node.js/8/Simple/node_modules/
 
 # archives
-*.zip
+# *.zip
 /NBase/_Md/_Index/_Metarhia/Archiv_Metarchia_05_06_2020/
 
 # .ign directories
