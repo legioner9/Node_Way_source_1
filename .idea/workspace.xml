@@ -26,7 +26,227 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__/cat.__/dir.__.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/__/cat.__/dir.__.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/cat._Index/dir._Index.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/cat._Index/dir._Index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/_Bash.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/cat._Bash/dir._Bash.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Intro_to_this/Common/_Common.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Intro_to_this/Common/cat.Common/dir.Common.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Intro_to_this/Common/custom_aliases.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Intro_to_this/Docs/_Docs.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Intro_to_this/_contaner_1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Intro_to_this/cat.Intro_to_this/dir.Intro_to_this.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Intro_to_this/cygwin/Manuals/_Manuals.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Intro_to_this/cygwin/Manuals/install.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Intro_to_this/cygwin/Manuals/mirrors.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Intro_to_this/cygwin/Manuals/recommend_utils.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Intro_to_this/cygwin/_cygwin.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Intro_to_this/cygwin/cygwin.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Intro_to_this/habr.com/47163_post.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Intro_to_this/habr.com/_habr.com.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Intro_to_this/habr.com/test.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Intro_to_this/www/_www.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/Common/_Common.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/Docs/_Docs.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_contaner_2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Bash/.bashrc/Parts/_Parts.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Bash/.bashrc/_.bashrc.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Bash/Common/_Common.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Bash/Docs/_Docs.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Bash/Docs/cat.Docs/dir.Docs.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Bash/Mendel_Cooper/Parts/1_Introduction.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Bash/Mendel_Cooper/Parts/2_Basics.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Bash/Mendel_Cooper/Parts/38_Endnotes.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Bash/Mendel_Cooper/Parts/3_Beyond_the _Basics.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Bash/Mendel_Cooper/Parts/4_Commands.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Bash/Mendel_Cooper/Parts/5_Advanced_Topics.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Bash/Mendel_Cooper/Parts/List_of _Examples.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Bash/Mendel_Cooper/Parts/List_of_Tables.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Bash/Mendel_Cooper/Parts/_Parts.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Bash/Mendel_Cooper/_Mendel_Cooper.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Bash/Mendel_Cooper/_src/abs-guide-flat/abs-book - Ярлык.lnk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Bash/Mendel_Cooper/_src/abs-guide-flat/abs-book.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Bash/Mendel_Cooper/_src/abs-guide-flat/misc/abs-book/images/caution.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Bash/Mendel_Cooper/_src/abs-guide-flat/misc/abs-book/images/important.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Bash/Mendel_Cooper/_src/abs-guide-flat/misc/abs-book/images/logotp3.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Bash/Mendel_Cooper/_src/abs-guide-flat/misc/abs-book/images/note.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Bash/Mendel_Cooper/_src/abs-guide-flat/misc/abs-book/images/tip.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Bash/Mendel_Cooper/_src/abs-guide-flat/misc/abs-book/images/warning.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Bash/_Bash.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Bash/_src/abs-guide-flat.tar.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Bash/bash-script-easy-guide/Parts/_Parts.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Bash/bash-script-easy-guide/_bash-script-easy-guide.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Bash/bash-script-easy-guide/cat.bash-script-easy-guide/dir.bash-script-easy-guide.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Bash/cat.Bash/dir.Bash.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Bash/devdocs.io/Parts/_Parts.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Bash/devdocs.io/_devdocs.io.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Bash/devdocs.io/cat.devdocs.io/dir.devdocs.io.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Bash/losst.ru/Parts/_Parts.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Bash/losst.ru/_losst.ru.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Bash/losst.ru/_losst.ru.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Bash/losst.ru/_src/bash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Bash/losst.ru/_src/bash1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Bash/losst.ru/_src/bash10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Bash/losst.ru/_src/bash11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Bash/losst.ru/_src/bash12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Bash/losst.ru/_src/bash13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Bash/losst.ru/_src/bash14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Bash/losst.ru/_src/bash2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Bash/losst.ru/_src/bash3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Bash/losst.ru/_src/bash4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Bash/losst.ru/_src/bash5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Bash/losst.ru/_src/bash6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Bash/losst.ru/_src/bash7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Bash/losst.ru/_src/bash8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Bash/losst.ru/_src/bash9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Bash/studylinux.ru/_studylinux.ru.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Bash/studylinux.ru/_studylinux.ru.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Bash/www.fpublisher.ru/Parts/_Parts.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Bash/www.fpublisher.ru/_www.fpublisher.ru.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Bash/www/Parts/_Parts.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Bash/www/_www.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Dnf/Common/_Common.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Dnf/Common/_Common.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Dnf/Docs/_Docs.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Dnf/Docs/cat.Docs/dir.Docs.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Dnf/_Dnf.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Dnf/cat.Dnf/dir.Dnf.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Dnf/www.alv.me/_www.alv.me.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Dnf/www.alv.me/_www.alv.me.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Dnf/www/Parts/_Parts.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Dnf/www/_www.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Git/init_comands.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Git/www/Parts/_Parts.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Git/www/_www.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Java/Common/_Common.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Java/Docs/_Docs.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Java/_Java.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Java/losst.ru/Parts/_Parts.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Java/losst.ru/_losst.ru.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Java/losst.ru/_losst.ru.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Java/losst.ru/_src/Screenshot_2018-06-11_18-01-17-1024x576.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Java/losst.ru/_src/jre8-1-1024x576.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Java/losst.ru/_src/jre8-2-1024x576.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Java/losst.ru/_src/jre8-4-1024x576.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Java/losst.ru/_src/oracle_hand-1024x576.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Java/losst.ru/_src/profile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Java/losst.ru/_src/snapshot1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Java/losst.ru/_src/update-alternatives.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Rpm/Common/_Common.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Rpm/Common/_src/Add-New-DNF-Repository-in-Fedora.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Rpm/Common/_src/Add-and-Enable-DNF-Repo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Rpm/Common/_src/Install-Package-from-Enabled-Repository.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Rpm/Common/_src/Permanently-Enable-DNF-Repo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Rpm/Common/main_comand_1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Rpm/Common/main_comand_1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Rpm/_Rpm.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Rpm/linux.jofo.me/_linux.jofo.me.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Rpm/linux.jofo.me/content_1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Rpm/losst.ru/_losst.ru.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Rpm/losst.ru/_losst.ru.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Rpm/wiki.merionet.ru/_wiki.merionet.ru.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Rpm/wiki.merionet.ru/_wiki.merionet.ru.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Rpm/www.linux.org.ru/Content_1/_Content_1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Rpm/www.linux.org.ru/_www.linux.org.ru.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Rpm/www.opennet.ru/_www.opennet.ru.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Rpm/www.opennet.ru/_www.opennet.ru.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Rpm/www/Parts/_Parts.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Rpm/www/_www.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Screen_Resolution/Common/_Common.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Screen_Resolution/Common/cat.Common/dir.Common.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Screen_Resolution/Docs/_Docs.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Screen_Resolution/Nevidia/cat.Nevidia/dir.Nevidia.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Screen_Resolution/Nevidia/russianfedora.github.io/Parts/_Parts.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Screen_Resolution/Nevidia/russianfedora.github.io/_russianfedora.github.io.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Screen_Resolution/Nevidia/www.easycoding.org/Parts/_Parts.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Screen_Resolution/Nevidia/www.easycoding.org/_www.easycoding.org.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Screen_Resolution/Nevidia/www.easycoding.org/cat.www.easycoding.org/dir.www.easycoding.org.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Screen_Resolution/_Screen_Resolution.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Screen_Resolution/cat.Screen_Resolution/dir.Screen_Resolution.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Screen_Resolution/www/Parts/_Parts.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Screen_Resolution/www/_www.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Xrandr/Common/_Common.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Xrandr/Docs/_Docs.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Xrandr/_Xrandr.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Xrandr/wiki.archlinux.org/Parts/_Parts.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Xrandr/wiki.archlinux.org/_wiki.archlinux.org.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Xrandr/www/Parts/_Parts.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/Xrandr/www/_www.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/_stash/cat._stash/dir._stash.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/cat.Learn_this/dir.Learn_this.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/file_contaner_2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/Learn_this/www/_www.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/_contaners.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/contaners/cat.contaners/dir.contaners.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/content/Docs/_Docs.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/content/Docs/gnu.org/GNU Manuals Online/GNU Manuals Online - GNU Project - Free Software Foundation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/content/Docs/gnu.org/GNU Manuals Online/GNU Manuals Online - GNU Project - Free Software Foundation_files/fsf-logo-notext-small.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/content/Docs/gnu.org/GNU Manuals Online/GNU Manuals Online - GNU Project - Free Software Foundation_files/heckert_gnu.transp.small.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/content/Docs/gnu.org/GNU Manuals Online/GNU Manuals Online - GNU Project - Free Software Foundation_files/layout.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/content/Docs/gnu.org/GNU Manuals Online/GNU Manuals Online - GNU Project - Free Software Foundation_files/mini.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/content/Docs/gnu.org/GNU Manuals Online/GNU Manuals Online - GNU Project - Free Software Foundation_files/print.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/content/Docs/gnu.org/GNU Manuals Online/GNU Manuals Online - GNU Project - Free Software Foundation_files/reset.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/content/Docs/gnu.org/manual.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/content/Usage/Package_composition/Dig/_Dig.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/content/Usage/Package_composition/Dig/cat.Dig/dir.Dig.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/content/Usage/Package_composition/Dig/dig_usage.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/content/Usage/Package_composition/apt-cyg/_apt-cyg.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/content/Usage/Package_composition/apt-cyg/apt-cyg_install.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/content/Usage/Package_composition/apt-cyg/apt-cyg_setcomand.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/content/Usage/Package_composition/apt-cyg/apt-cyg_usage.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/content/Usage/Package_composition/apt-cyg/install.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/content/Usage/Package_composition/cat.Package_composition/dir.Package_composition.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/content/Usage/Package_composition/curl/_.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/content/Usage/Package_composition/curl/_angcors.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/content/Usage/Package_composition/curl/_docs.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/content/Usage/Package_composition/curl/_install.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/content/Usage/Package_composition/curl/_setcomand.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/content/Usage/Package_composition/curl/_usage.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/content/Usage/Package_composition/grep/_.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/content/Usage/Package_composition/grep/_angcors.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/content/Usage/Package_composition/grep/_docs.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/content/Usage/Package_composition/grep/_install.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/content/Usage/Package_composition/grep/_setcomand.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/content/Usage/Package_composition/grep/_usage.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/content/Usage/Package_composition/less/__.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/content/Usage/Package_composition/less/___angcors.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/content/Usage/Package_composition/less/___docs.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/content/Usage/Package_composition/less/___install.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/content/Usage/Package_composition/less/___setcomand.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/content/Usage/Package_composition/less/___usage.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/content/Usage/Package_composition/nano/_.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/content/Usage/Package_composition/nano/_angcors.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/content/Usage/Package_composition/nano/_docs.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/content/Usage/Package_composition/nano/_install.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/content/Usage/Package_composition/nano/_setcomand.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/content/Usage/Package_composition/nano/_usage.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/content/Usage/Package_composition/tree/__.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/content/Usage/Package_composition/tree/___angcors.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/content/Usage/Package_composition/tree/___docs.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/content/Usage/Package_composition/tree/___install.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/content/Usage/Package_composition/tree/___setcomand.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/content/Usage/Package_composition/tree/___usage.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/content/Usage/Package_composition/tree/cat.tree/dir.tree.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/content/Usage/Package_composition/tree/losst.ru.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/content/Usage/Package_composition/vim/_.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/content/Usage/Package_composition/vim/_angcors.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/content/Usage/Package_composition/vim/_docs.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/content/Usage/Package_composition/vim/_install.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/content/Usage/Package_composition/vim/_setcomand.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/content/Usage/Package_composition/vim/_usage.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/content/Usage/SetMainComand.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/content/Usage/cat.Usage/dir.Usage.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/content/Usage/util_/_.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/content/Usage/util_/_angcors.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/content/Usage/util_/_docs.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/content/Usage/util_/_install.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/content/Usage/util_/_setcomand.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/content/Usage/util_/_usage.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/content/_content.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/content/cat.content/dir.content.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash/src/_src.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/cat._Md/dir._Md.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/cat._Md/dir._Md.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -475,7 +695,8 @@
       <workItem from="1609670557784" duration="570000" />
       <workItem from="1609758760648" duration="3101000" />
       <workItem from="1610170573501" duration="1280000" />
-      <workItem from="1610175338258" duration="1504000" />
+      <workItem from="1610175338258" duration="2958000" />
+      <workItem from="1610188045096" duration="371000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
