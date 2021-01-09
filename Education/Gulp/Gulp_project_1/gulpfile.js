@@ -34,11 +34,5 @@ exports.clean = clean;
 // ['app/**/*.css', 'app/**/*.js'] - получаем сначала все css, потом все js в папке app;
 // ['app/**/*.*', '!app/**/*.js'] - все файлы в папке app, кроме js-файлов. (! - знак исключения).
 
-exports.parallel_series = parallel(tN , series (yourTask_1,yourTask_2))
+exports.parallel_series = series(clean() , series (yourTask_1,yourTask_2))
 
-gulp.task('watch', ['sass', 'js', 'browser-sync'], function() {
-    gulp.watch('sass/**/*.sass', ['sass']);
-    gulp.watch(['libs/**/*.js', 'js/common.js'], ['js']);
-    gulp.watch('*.html', browsersync.reload)
-});
-gulp.task('default', ['watch']);
