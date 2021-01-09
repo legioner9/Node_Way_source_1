@@ -26,33 +26,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
-      <change afterPath="$PROJECT_DIR$/Education/Gulp/Gulp_project_1/ReadMe.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Education/Gulp/Gulp_project_1/gulpfile.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Education/Gulp/Gulp_project_pug_2/ReadMe.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Gulp_project_1/CreateDirFree_v_1_gulp_1.js" beforeDir="false" afterPath="$PROJECT_DIR$/Education/Gulp/Gulp_project_1/CreateDirFree_v_1_gulp_1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Gulp_project_1/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Gulp_project_1/_gulp.js" beforeDir="false" afterPath="$PROJECT_DIR$/Education/Gulp/Gulp_project_1/_gulp.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Gulp_project_1/app/assets/css/0" beforeDir="false" afterPath="$PROJECT_DIR$/Education/Gulp/Gulp_project_1/app/assets/css/0" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Gulp_project_1/app/assets/css/new.css" beforeDir="false" afterPath="$PROJECT_DIR$/Education/Gulp/Gulp_project_1/app/assets/css/new.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Gulp_project_1/app/assets/fonts/0" beforeDir="false" afterPath="$PROJECT_DIR$/Education/Gulp/Gulp_project_1/app/assets/fonts/0" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Gulp_project_1/app/assets/img/0" beforeDir="false" afterPath="$PROJECT_DIR$/Education/Gulp/Gulp_project_1/app/assets/img/0" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Gulp_project_1/app/assets/js/0" beforeDir="false" afterPath="$PROJECT_DIR$/Education/Gulp/Gulp_project_1/app/assets/js/0" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Gulp_project_1/app/assets/libs/0" beforeDir="false" afterPath="$PROJECT_DIR$/Education/Gulp/Gulp_project_1/app/assets/libs/0" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Gulp_project_1/app/assets/sass/0" beforeDir="false" afterPath="$PROJECT_DIR$/Education/Gulp/Gulp_project_1/app/assets/sass/0" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Gulp_project_1/app/css/0" beforeDir="false" afterPath="$PROJECT_DIR$/Education/Gulp/Gulp_project_1/app/css/0" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Gulp_project_1/app/fonts/0" beforeDir="false" afterPath="$PROJECT_DIR$/Education/Gulp/Gulp_project_1/app/fonts/0" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Gulp_project_1/app/img/0" beforeDir="false" afterPath="$PROJECT_DIR$/Education/Gulp/Gulp_project_1/app/img/0" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Gulp_project_1/app/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Education/Gulp/Gulp_project_1/app/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Gulp_project_1/app/js/0" beforeDir="false" afterPath="$PROJECT_DIR$/Education/Gulp/Gulp_project_1/app/js/0" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Gulp_project_1/app/libs/0" beforeDir="false" afterPath="$PROJECT_DIR$/Education/Gulp/Gulp_project_1/app/libs/0" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Gulp_project_1/app/sass/0" beforeDir="false" afterPath="$PROJECT_DIR$/Education/Gulp/Gulp_project_1/app/sass/0" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Gulp_project_1/dist/0" beforeDir="false" afterPath="$PROJECT_DIR$/Education/Gulp/Gulp_project_1/dist/0" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Gulp_project_1/dist/assets/css/new.css" beforeDir="false" afterPath="$PROJECT_DIR$/Education/Gulp/Gulp_project_1/dist/assets/css/new.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Gulp_project_1/gulpfile.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Gulp_project_1/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Education/Gulp/Gulp_project_1/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Gulp_project_1/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Education/Gulp/Gulp_project_1/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tmp/last_commit.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Tmp/last_commit.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/Gulp/Gulp_project_2/CreateDirFree_v_1_gulp_2.js" beforeDir="false" afterPath="$PROJECT_DIR$/Education/Gulp/Gulp_project_pug_2/CreateDirFree_v_1_gulp_2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/Gulp/Gulp_project_2/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/Gulp/Gulp_project_2/_gulp.js" beforeDir="false" afterPath="$PROJECT_DIR$/Education/Gulp/Gulp_project_pug_2/_gulp.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/Gulp/Gulp_project_2/app/0" beforeDir="false" afterPath="$PROJECT_DIR$/Education/Gulp/Gulp_project_pug_2/app/0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/Gulp/Gulp_project_2/build/0" beforeDir="false" afterPath="$PROJECT_DIR$/Education/Gulp/Gulp_project_pug_2/build/0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/Gulp/Gulp_project_2/gulp/0" beforeDir="false" afterPath="$PROJECT_DIR$/Education/Gulp/Gulp_project_pug_2/gulp/0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/Gulp/Gulp_project_2/gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/Education/Gulp/Gulp_project_pug_2/gulpfile.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,7 +137,7 @@
     <property name="add_unversioned_files" value="$PROJECT_DIR$/Jobs/SetGlobLoggers/ModLogger_1/Core/Logs/eLogs.txt&#10;true" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="14.15.3" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Education/Gulp/Gulp_project_2/gulp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Education/Gulp/Gulp_project_2" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.jscs" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -182,8 +164,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\Node_projects\Node_Way\Education\Gulp\Gulp_project_2\gulp" />
       <recent name="F:\Node_projects\Node_Way\Education\Gulp\Gulp_project_2" />
+      <recent name="F:\Node_projects\Node_Way\Education\Gulp\Gulp_project_2\gulp" />
       <recent name="F:\Node_projects\Node_Way\Education" />
       <recent name="F:\Node_projects\Node_Way\Jobs\AutoTests" />
       <recent name="F:\Node_projects\Node_Way\ToUse\CreateDir" />
@@ -209,7 +191,7 @@
     <configuration name="CreateDirFree_v_1_gulp_1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Education/Gulp/Gulp_project_1/CreateDirFree_v_1_gulp_1.js" working-dir="$PROJECT_DIR$/Education/Gulp/Gulp_project_1">
       <method v="2" />
     </configuration>
-    <configuration name="CreateDirFree_v_1_gulp_2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Education/Gulp/Gulp_project_2/CreateDirFree_v_1_gulp_2.js" working-dir="$PROJECT_DIR$/Education/Gulp/Gulp_project_2">
+    <configuration name="CreateDirFree_v_1_gulp_2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Education/Gulp/Gulp_project_pug_2/CreateDirFree_v_1_gulp_2.js" working-dir="$PROJECT_DIR$/Education/Gulp/Gulp_project_pug_2">
       <method v="2" />
     </configuration>
     <configuration name="CreateDirFree_v_1_site_1.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ToUse/CreateDir/site_1/CreateDirFree_v_1_site_1.js" working-dir="$PROJECT_DIR$/ToUse/CreateDir/site_1">
@@ -228,13 +210,11 @@
       <item itemvalue="Node.js.CreateDirFree_v_1_site_1.js" />
       <item itemvalue="Node.js.CreateDirFree_v_1_site_1.js (1)" />
       <item itemvalue="Node.js.CreateDirFree_v_1_gulp_1.js" />
-      <item itemvalue="Node.js.CreateDirFree_v_1_gulp_1.js (1)" />
       <item itemvalue="Node.js.CreateDirFree_v_1_gulp_2.js" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Node.js.CreateDirFree_v_1_gulp_2.js" />
-        <item itemvalue="Node.js.CreateDirFree_v_1_gulp_1.js (1)" />
         <item itemvalue="Node.js.CreateDirFree_v_1_gulp_1.js" />
         <item itemvalue="Node.js.CreateDirFree_v_1_site_1.js (1)" />
         <item itemvalue="Node.js.CreateDirFree_v_1_site_1.js" />
@@ -498,7 +478,8 @@
       <workItem from="1609758760648" duration="3101000" />
       <workItem from="1610170573501" duration="1280000" />
       <workItem from="1610175338258" duration="2958000" />
-      <workItem from="1610188045096" duration="7077000" />
+      <workItem from="1610188045096" duration="9708000" />
+      <workItem from="1610200601103" duration="3923000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
@@ -1047,26 +1028,26 @@
     <state x="519" y="178" key="FileChooserDialogImpl/0.0.1440.860/1440.0.1024.728@0.0.1440.860" timestamp="1609601504304" />
     <state x="519" y="178" width="699" height="606" key="FileChooserDialogImpl/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1604737356241" />
     <state x="519" y="178" key="FileChooserDialogImpl/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1609604949545" />
-    <state width="1340" height="198" key="GridCell.Tab.0.bottom" timestamp="1610197619522">
+    <state width="1340" height="198" key="GridCell.Tab.0.bottom" timestamp="1610200477089">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1216" height="199" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1609422715716" />
-    <state width="1340" height="198" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1610197619522" />
-    <state width="1340" height="198" key="GridCell.Tab.0.center" timestamp="1610197619522">
+    <state width="1340" height="198" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1610200477089" />
+    <state width="1340" height="198" key="GridCell.Tab.0.center" timestamp="1610200477089">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1216" height="199" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1609422715715" />
-    <state width="1340" height="198" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1610197619522" />
-    <state width="1340" height="198" key="GridCell.Tab.0.left" timestamp="1610197619522">
+    <state width="1340" height="198" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1610200477089" />
+    <state width="1340" height="198" key="GridCell.Tab.0.left" timestamp="1610200477089">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1216" height="199" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1609422715715" />
-    <state width="1340" height="198" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1610197619522" />
-    <state width="1340" height="198" key="GridCell.Tab.0.right" timestamp="1610197619522">
+    <state width="1340" height="198" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1610200477089" />
+    <state width="1340" height="198" key="GridCell.Tab.0.right" timestamp="1610200477089">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1216" height="199" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1609422715715" />
-    <state width="1340" height="198" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1610197619522" />
+    <state width="1340" height="198" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1610200477089" />
     <state width="1247" height="769" key="GridCell.Tab.1.bottom" timestamp="1605966686878">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
