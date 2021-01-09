@@ -26,9 +26,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
+      <change afterPath="$PROJECT_DIR$/Education/Gulp/Gulp_project_gulp_pug_1/CreateDirFree_v_1_gulp_pug_1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Education/Gulp/Gulp_project_gulp_pug_1/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Education/Gulp/Gulp_project_gulp_pug_1/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Gulp/Gulp_project_pug_2/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/Education/Gulp/Gulp_project_pug_2/ReadMe.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Gulp/Gulp_project_pug_2/gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/Education/Gulp/Gulp_project_pug_2/gulpfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/Gulp/Gulp_project_pug_2/CreateDirFree_v_1_gulp_2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/Gulp/Gulp_project_pug_2/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/Education/Gulp/Gulp_project_gulp_pug_1/ReadMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/Gulp/Gulp_project_pug_2/_gulp.js" beforeDir="false" afterPath="$PROJECT_DIR$/Education/Gulp/Gulp_project_gulp_pug_1/_gulp.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/Gulp/Gulp_project_pug_2/app/0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/Gulp/Gulp_project_pug_2/build/0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/Gulp/Gulp_project_pug_2/gulp/0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/Gulp/Gulp_project_pug_2/gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/Education/Gulp/Gulp_project_gulp_pug_1/gulpfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/Gulp/Gulp_project_pug_2/includes/exa_name.pug" beforeDir="false" afterPath="$PROJECT_DIR$/Education/Gulp/Gulp_project_gulp_pug_1/pug_exa/exa_name.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/Gulp/Gulp_project_pug_2/includes/foot.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/Gulp/Gulp_project_pug_2/includes/head.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/Gulp/Gulp_project_pug_2/includes/index.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/Gulp/Gulp_project_pug_2/includes/pug_Compiller_exa_name.js" beforeDir="false" afterPath="$PROJECT_DIR$/Education/Gulp/Gulp_project_gulp_pug_1/pug_exa/pug_Compiller_exa_name.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/Gulp/Gulp_project_pug_2/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/Gulp/Gulp_project_pug_2/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/Gulp/gulp-template-master/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Education/Gulp/gulp-template-master/_package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/Gulp/gulp-template-master_to_1_set/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Education/Gulp/gulp-template-master_to_1_set/_package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,7 +148,7 @@
     <property name="add_unversioned_files" value="$PROJECT_DIR$/Jobs/SetGlobLoggers/ModLogger_1/Core/Logs/eLogs.txt&#10;true" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="14.15.3" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Education/Gulp/Gulp_project_2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Education/Gulp/Gulp_project_gulp_pug_1" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.jscs" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -157,22 +174,22 @@
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains_\IntelliJ IDEA 2020.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\Node_projects\Node_Way\Education\Gulp\Gulp_project_2" />
-      <recent name="F:\Node_projects\Node_Way\Education\Gulp\Gulp_project_2\gulp" />
-      <recent name="F:\Node_projects\Node_Way\Education" />
-      <recent name="F:\Node_projects\Node_Way\Jobs\AutoTests" />
-      <recent name="F:\Node_projects\Node_Way\ToUse\CreateDir" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Node_projects\Node_Way\Education\Gulp\Gulp_project_gulp_pug_1\pug_exa" />
       <recent name="F:\Node_projects\Node_Way\Education\Gulp" />
       <recent name="F:\Node_projects\Node_Way\ToUse\CreateDir\CreateDirFree_v_1_gulp_1" />
       <recent name="E:\Node_projects\Node_Way\ToUse\CreateDir\site_1" />
       <recent name="E:\Node_projects\Node_Way\NBase\_Md\_Index\_Bootstrap\Containers\Live_learn\ITVDN_BS_4\1.Урок_1_Знакомство_с_Twitter_Bootstrap_4.dir\1.1.Знакомство_с_фреймворком..dir\_site" />
-      <recent name="E:\Node_projects\Node_Way\Jobs\CataloguerFs\CreateCatalog\AFP5_0.1_ctlg_1_to_2.v.4\Examples\cleare\DIR_root\dir_1" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Node_projects\Node_Way\Education\Gulp\Gulp_project_gulp_pug_1" />
+      <recent name="F:\Node_projects\Node_Way\Education\Gulp\Gulp_project_2" />
+      <recent name="F:\Node_projects\Node_Way\Education\Gulp\Gulp_project_2\gulp" />
+      <recent name="F:\Node_projects\Node_Way\Education" />
+      <recent name="F:\Node_projects\Node_Way\Jobs\AutoTests" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.CreateDirFree_v_1_gulp_2.js">
+  <component name="RunManager" selected="Node.js.CreateDirFree_v_1_gulp_pug_1.js">
     <configuration name="a.html" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/Node_Way/Node_Docs/Education/IlKan/learn.javascript.ru/Browser/1/1.1/a.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -185,7 +202,7 @@
     <configuration name="CreateDirFree_v_1_gulp_1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Education/Gulp/Gulp_project_1/CreateDirFree_v_1_gulp_1.js" working-dir="$PROJECT_DIR$/Education/Gulp/Gulp_project_1">
       <method v="2" />
     </configuration>
-    <configuration name="CreateDirFree_v_1_gulp_2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Education/Gulp/Gulp_project_pug_2/CreateDirFree_v_1_gulp_2.js" working-dir="$PROJECT_DIR$/Education/Gulp/Gulp_project_pug_2">
+    <configuration name="CreateDirFree_v_1_gulp_pug_1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Education/Gulp/Gulp_project_gulp_pug_1/CreateDirFree_v_1_gulp_pug_1.js" working-dir="$PROJECT_DIR$/Education/Gulp/Gulp_project_gulp_pug_1">
       <method v="2" />
     </configuration>
     <configuration name="CreateDirFree_v_1_site_1.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ToUse/CreateDir/site_1/CreateDirFree_v_1_site_1.js" working-dir="$PROJECT_DIR$/ToUse/CreateDir/site_1">
@@ -204,11 +221,11 @@
       <item itemvalue="Node.js.CreateDirFree_v_1_site_1.js" />
       <item itemvalue="Node.js.CreateDirFree_v_1_site_1.js (1)" />
       <item itemvalue="Node.js.CreateDirFree_v_1_gulp_1.js" />
-      <item itemvalue="Node.js.CreateDirFree_v_1_gulp_2.js" />
+      <item itemvalue="Node.js.CreateDirFree_v_1_gulp_pug_1.js" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.CreateDirFree_v_1_gulp_2.js" />
+        <item itemvalue="Node.js.CreateDirFree_v_1_gulp_pug_1.js" />
         <item itemvalue="Node.js.CreateDirFree_v_1_gulp_1.js" />
         <item itemvalue="Node.js.CreateDirFree_v_1_site_1.js (1)" />
         <item itemvalue="Node.js.CreateDirFree_v_1_site_1.js" />
@@ -474,6 +491,7 @@
       <workItem from="1610175338258" duration="2958000" />
       <workItem from="1610188045096" duration="9708000" />
       <workItem from="1610200601103" duration="4620000" />
+      <workItem from="1610212069456" duration="5075000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
@@ -1022,26 +1040,26 @@
     <state x="519" y="178" key="FileChooserDialogImpl/0.0.1440.860/1440.0.1024.728@0.0.1440.860" timestamp="1609601504304" />
     <state x="519" y="178" width="699" height="606" key="FileChooserDialogImpl/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1604737356241" />
     <state x="519" y="178" key="FileChooserDialogImpl/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1609604949545" />
-    <state width="1340" height="198" key="GridCell.Tab.0.bottom" timestamp="1610200477089">
+    <state width="1340" height="198" key="GridCell.Tab.0.bottom" timestamp="1610217851060">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1216" height="199" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1609422715716" />
-    <state width="1340" height="198" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1610200477089" />
-    <state width="1340" height="198" key="GridCell.Tab.0.center" timestamp="1610200477089">
+    <state width="1340" height="198" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1610217851060" />
+    <state width="1340" height="198" key="GridCell.Tab.0.center" timestamp="1610217851060">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1216" height="199" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1609422715715" />
-    <state width="1340" height="198" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1610200477089" />
-    <state width="1340" height="198" key="GridCell.Tab.0.left" timestamp="1610200477089">
+    <state width="1340" height="198" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1610217851060" />
+    <state width="1340" height="198" key="GridCell.Tab.0.left" timestamp="1610217851060">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1216" height="199" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1609422715715" />
-    <state width="1340" height="198" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1610200477089" />
-    <state width="1340" height="198" key="GridCell.Tab.0.right" timestamp="1610200477089">
+    <state width="1340" height="198" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1610217851060" />
+    <state width="1340" height="198" key="GridCell.Tab.0.right" timestamp="1610217851060">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1216" height="199" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1609422715715" />
-    <state width="1340" height="198" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1610200477089" />
+    <state width="1340" height="198" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1610217851060" />
     <state width="1247" height="769" key="GridCell.Tab.1.bottom" timestamp="1605966686878">
       <screen x="0" y="0" width="1440" height="860" />
     </state>

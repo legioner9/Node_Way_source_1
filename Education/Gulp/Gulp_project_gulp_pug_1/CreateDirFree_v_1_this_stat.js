@@ -8,14 +8,6 @@ const arr_creator =
     [ 'gulpfile.js',
         'ReadMe.md',
         '_gulp.js',
-        [ 'build', 0 ],
-        [ 'app', 0 ],
-        [ 'gulp', 0 ],
-        [ 'includes',
-        'index.pug',
-        'head.pug',
-        'foot.pug',
-        ],
     ];
 
 createTechDir_1_v_2 ( __dirname, arr_creator );
