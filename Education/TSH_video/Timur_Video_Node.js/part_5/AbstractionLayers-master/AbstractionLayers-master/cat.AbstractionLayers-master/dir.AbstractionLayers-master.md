@@ -1,15 +1,15 @@
-- <a href = "E:\Node_projects\Node_Way\Education\Timur_Video_Node.js\part_5\AbstractionLayers-master\AbstractionLayers-master\cat.AbstractionLayers-master\dir.AbstractionLayers-master.md">AbstractionLayers-master</a>
-    - <a href = "E:\Node_projects\Node_Way\Education\Timur_Video_Node.js\part_5\AbstractionLayers-master\AbstractionLayers-master\Exercises.md">Exercises.md</a>
+- <a href = "F:\Node_projects\Node_Way\Education\TSH_video\Timur_Video_Node.js\part_5\AbstractionLayers-master\AbstractionLayers-master\cat.AbstractionLayers-master\dir.AbstractionLayers-master.md">AbstractionLayers-master</a>
+    - <a href = "F:\Node_projects\Node_Way\Education\TSH_video\Timur_Video_Node.js\part_5\AbstractionLayers-master\AbstractionLayers-master\Exercises.md">Exercises.md</a>
         - *# Exercises
         - *## Refactor
         - *## Improve functionality
-    - <a href = "E:\Node_projects\Node_Way\Education\Timur_Video_Node.js\part_5\AbstractionLayers-master\AbstractionLayers-master\JavaScript\cat.JavaScript\dir.JavaScript.md">JavaScript</a>
-        - <a href = "E:\Node_projects\Node_Way\Education\Timur_Video_Node.js\part_5\AbstractionLayers-master\AbstractionLayers-master\JavaScript\README.en.md">README.en.md</a>
+    - <a href = "F:\Node_projects\Node_Way\Education\TSH_video\Timur_Video_Node.js\part_5\AbstractionLayers-master\AbstractionLayers-master\JavaScript\cat.JavaScript\dir.JavaScript.md">JavaScript</a>
+        - <a href = "F:\Node_projects\Node_Way\Education\TSH_video\Timur_Video_Node.js\part_5\AbstractionLayers-master\AbstractionLayers-master\JavaScript\README.en.md">README.en.md</a>
             - *## Описание
             - *## Файлы
             - *## Запуск
             - *## Задания
-        - <a href = "E:\Node_projects\Node_Way\Education\Timur_Video_Node.js\part_5\AbstractionLayers-master\AbstractionLayers-master\JavaScript\README.md">README.md</a>
+        - <a href = "F:\Node_projects\Node_Way\Education\TSH_video\Timur_Video_Node.js\part_5\AbstractionLayers-master\AbstractionLayers-master\JavaScript\README.md">README.md</a>
             - *## Понятия
             - *## Типы связывания
             - *## Описание
@@ -17,5 +17,5 @@
             - *## Запуск
             - *## Задание
     
-    - <a href = "E:\Node_projects\Node_Way\Education\Timur_Video_Node.js\part_5\AbstractionLayers-master\AbstractionLayers-master\README.md">README.md</a>
+    - <a href = "F:\Node_projects\Node_Way\Education\TSH_video\Timur_Video_Node.js\part_5\AbstractionLayers-master\AbstractionLayers-master\README.md">README.md</a>
         - *# Abstraction Layers

@@ -1,5 +1,5 @@
-- <a href = "E:\Node_projects\Node_Way\Education\src\Knowledge\OwnSyntax\cat.OwnSyntax\dir.OwnSyntax.md">OwnSyntax</a>
-    - <a href = "E:\Node_projects\Node_Way\Education\src\Knowledge\OwnSyntax\NameTagPrepositions.md">NameTagPrepositions.md</a>
+- <a href = "F:\Node_projects\Node_Way\Education\src\Knowledge\OwnSyntax\cat.OwnSyntax\dir.OwnSyntax.md">OwnSyntax</a>
+    - <a href = "F:\Node_projects\Node_Way\Education\src\Knowledge\OwnSyntax\NameTagPrepositions.md">NameTagPrepositions.md</a>
         - *#### Простые
         - *#### Производные
         - *#### Сложные

@@ -1,5 +1,5 @@
-- <a href = "E:\Node_projects\Node_Way\Education\src\Knowledge\Git\Conspects\progit_v2.1.49\Other\cat.Other\dir.Other.md">Other</a>
-    - <a href = "E:\Node_projects\Node_Way\Education\src\Knowledge\Git\Conspects\progit_v2.1.49\Other\cmd_set_comand.md">cmd_set_comand.md</a>
+- <a href = "F:\Node_projects\Node_Way\Education\src\Knowledge\Git\Conspects\progit_v2.1.49\Other\cat.Other\dir.Other.md">Other</a>
+    - <a href = "F:\Node_projects\Node_Way\Education\src\Knowledge\Git\Conspects\progit_v2.1.49\Other\cmd_set_comand.md">cmd_set_comand.md</a>
         - *### A
         - *###  B
         - *###  C

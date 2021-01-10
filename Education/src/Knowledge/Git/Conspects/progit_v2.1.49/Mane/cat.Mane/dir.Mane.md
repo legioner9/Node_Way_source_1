@@ -1,5 +1,5 @@
-- <a href = "E:\Node_projects\Node_Way\Education\src\Knowledge\Git\Conspects\progit_v2.1.49\Mane\cat.Mane\dir.Mane.md">Mane</a>
-    - <a href = "E:\Node_projects\Node_Way\Education\src\Knowledge\Git\Conspects\progit_v2.1.49\Mane\mane.md">mane.md</a>
+- <a href = "F:\Node_projects\Node_Way\Education\src\Knowledge\Git\Conspects\progit_v2.1.49\Mane\cat.Mane\dir.Mane.md">Mane</a>
+    - <a href = "F:\Node_projects\Node_Way\Education\src\Knowledge\Git\Conspects\progit_v2.1.49\Mane\mane.md">mane.md</a>
         - *# Команды консоли
         - *## Синтаксис
         - *### &&

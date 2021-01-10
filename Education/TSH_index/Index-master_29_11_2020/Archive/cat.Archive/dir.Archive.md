@@ -1,25 +1,25 @@
-- <a href = "E:\Node_projects\Node_Way\Education\TSH_index\Index-master_29_11_2020\Archive\cat.Archive\dir.Archive.md">Archive</a>
-    - <a href = "E:\Node_projects\Node_Way\Education\TSH_index\Index-master_29_11_2020\Archive\2013-2016.md">2013-2016.md</a>
+- <a href = "F:\Node_projects\Node_Way\Education\TSH_index\Index-master_29_11_2020\Archive\cat.Archive\dir.Archive.md">Archive</a>
+    - <a href = "F:\Node_projects\Node_Way\Education\TSH_index\Index-master_29_11_2020\Archive\2013-2016.md">2013-2016.md</a>
         - *## Доклады 2013-2016
-    - <a href = "E:\Node_projects\Node_Way\Education\TSH_index\Index-master_29_11_2020\Archive\2017-Archive.md">2017-Archive.md</a>
+    - <a href = "F:\Node_projects\Node_Way\Education\TSH_index\Index-master_29_11_2020\Archive\2017-Archive.md">2017-Archive.md</a>
         - *## Семинары и доклады 2017
         - *### Семинары весной 2017
         - *### Выступление и разное
-    - <a href = "E:\Node_projects\Node_Way\Education\TSH_index\Index-master_29_11_2020\Archive\2017-Summer-school.md">2017-Summer-school.md</a>
+    - <a href = "F:\Node_projects\Node_Way\Education\TSH_index\Index-master_29_11_2020\Archive\2017-Summer-school.md">2017-Summer-school.md</a>
         - *## Летняя школа 2017
-    - <a href = "E:\Node_projects\Node_Way\Education\TSH_index\Index-master_29_11_2020\Archive\2018-Archive.md">2018-Archive.md</a>
+    - <a href = "F:\Node_projects\Node_Way\Education\TSH_index\Index-master_29_11_2020\Archive\2018-Archive.md">2018-Archive.md</a>
         - *## Выступления 2018
-    - <a href = "E:\Node_projects\Node_Way\Education\TSH_index\Index-master_29_11_2020\Archive\2018-Summer-school.md">2018-Summer-school.md</a>
+    - <a href = "F:\Node_projects\Node_Way\Education\TSH_index\Index-master_29_11_2020\Archive\2018-Summer-school.md">2018-Summer-school.md</a>
         - *## Летняя школа 2018 в Одессе
-    - <a href = "E:\Node_projects\Node_Way\Education\TSH_index\Index-master_29_11_2020\Archive\2019-2020\cat.2019-2020\dir.2019-2020.md">2019-2020</a>
-        - <a href = "E:\Node_projects\Node_Way\Education\TSH_index\Index-master_29_11_2020\Archive\2019-2020\Calendar.md">Calendar.md</a>
+    - <a href = "F:\Node_projects\Node_Way\Education\TSH_index\Index-master_29_11_2020\Archive\2019-2020\cat.2019-2020\dir.2019-2020.md">2019-2020</a>
+        - <a href = "F:\Node_projects\Node_Way\Education\TSH_index\Index-master_29_11_2020\Archive\2019-2020\Calendar.md">Calendar.md</a>
             - *# Расписание на весну 2020
             - *## Запланированные
             - *## Очередь
-        - <a href = "E:\Node_projects\Node_Way\Education\TSH_index\Index-master_29_11_2020\Archive\2019-2020\IP9X.md">IP9X.md</a>
+        - <a href = "F:\Node_projects\Node_Way\Education\TSH_index\Index-master_29_11_2020\Archive\2019-2020\IP9X.md">IP9X.md</a>
             - *# Материалы курса IP9X: Основы инженерии программного обеспечения
             - *## Ссылки
             - *## Программа на 1й семестр 2019-2020
-        - <a href = "E:\Node_projects\Node_Way\Education\TSH_index\Index-master_29_11_2020\Archive\2019-2020\NodeUA.md">NodeUA.md</a>
+        - <a href = "F:\Node_projects\Node_Way\Education\TSH_index\Index-master_29_11_2020\Archive\2019-2020\NodeUA.md">NodeUA.md</a>
             - *# Расписание NodeUA на 2019-2020
     

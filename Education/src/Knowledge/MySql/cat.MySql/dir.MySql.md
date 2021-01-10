@@ -1,6 +1,6 @@
-- <a href = "E:\Node_projects\Node_Way\Education\src\Knowledge\MySql\cat.MySql\dir.MySql.md">MySql</a>
-    - <a href = "E:\Node_projects\Node_Way\Education\src\Knowledge\MySql\Pdfs\cat.Pdfs\dir.Pdfs.md">Pdfs</a>
-        - <a href = "E:\Node_projects\Node_Way\Education\src\Knowledge\MySql\Pdfs\md.md">md.md</a>
+- <a href = "F:\Node_projects\Node_Way\Education\src\Knowledge\MySql\cat.MySql\dir.MySql.md">MySql</a>
+    - <a href = "F:\Node_projects\Node_Way\Education\src\Knowledge\MySql\Pdfs\cat.Pdfs\dir.Pdfs.md">Pdfs</a>
+        - <a href = "F:\Node_projects\Node_Way\Education\src\Knowledge\MySql\Pdfs\md.md">md.md</a>
             - *# SQL Statement	Syntax
             - *## AND / OR
             - *## ALTER TABLE

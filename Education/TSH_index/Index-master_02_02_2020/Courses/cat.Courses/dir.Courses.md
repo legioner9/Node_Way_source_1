@@ -1,34 +1,34 @@
-- <a href = "E:\Node_projects\Node_Way\Education\TSH_index\Index-master_02_02_2020\Courses\cat.Courses\dir.Courses.md">Courses</a>
-    - <a href = "E:\Node_projects\Node_Way\Education\TSH_index\Index-master_02_02_2020\Courses\Advanced.md">Advanced.md</a>
+- <a href = "F:\Node_projects\Node_Way\Education\TSH_index\Index-master_02_02_2020\Courses\cat.Courses\dir.Courses.md">Courses</a>
+    - <a href = "F:\Node_projects\Node_Way\Education\TSH_index\Index-master_02_02_2020\Courses\Advanced.md">Advanced.md</a>
         - *# Второй год обучения
-    - <a href = "E:\Node_projects\Node_Way\Education\TSH_index\Index-master_02_02_2020\Courses\AlgAndData.md">AlgAndData.md</a>
+    - <a href = "F:\Node_projects\Node_Way\Education\TSH_index\Index-master_02_02_2020\Courses\AlgAndData.md">AlgAndData.md</a>
         - *# Алгоритмы и структуры данных
-    - <a href = "E:\Node_projects\Node_Way\Education\TSH_index\Index-master_02_02_2020\Courses\Architecture.md">Architecture.md</a>
+    - <a href = "F:\Node_projects\Node_Way\Education\TSH_index\Index-master_02_02_2020\Courses\Architecture.md">Architecture.md</a>
         - *# Архитектура информационных систем
         - *## Структура курса
         - *## Видео-лекции
-    - <a href = "E:\Node_projects\Node_Way\Education\TSH_index\Index-master_02_02_2020\Courses\Asynchronous.md">Asynchronous.md</a>
+    - <a href = "F:\Node_projects\Node_Way\Education\TSH_index\Index-master_02_02_2020\Courses\Asynchronous.md">Asynchronous.md</a>
         - *# Асинхронное программирование
         - *## Структура курса
         - *## Видео-лекции
-    - <a href = "E:\Node_projects\Node_Way\Education\TSH_index\Index-master_02_02_2020\Courses\Databases.md">Databases.md</a>
+    - <a href = "F:\Node_projects\Node_Way\Education\TSH_index\Index-master_02_02_2020\Courses\Databases.md">Databases.md</a>
         - *# Проектирования баз данных
-    - <a href = "E:\Node_projects\Node_Way\Education\TSH_index\Index-master_02_02_2020\Courses\Functional.md">Functional.md</a>
+    - <a href = "F:\Node_projects\Node_Way\Education\TSH_index\Index-master_02_02_2020\Courses\Functional.md">Functional.md</a>
         - *# Функциональное программирование
-    - <a href = "E:\Node_projects\Node_Way\Education\TSH_index\Index-master_02_02_2020\Courses\Fundamentals.md">Fundamentals.md</a>
+    - <a href = "F:\Node_projects\Node_Way\Education\TSH_index\Index-master_02_02_2020\Courses\Fundamentals.md">Fundamentals.md</a>
         - *# Основы программирования
         - *## Ссылки
         - *## 1 семестр 1 курса
         - *## 2 семестр 1 курса (материалы готовятся)
-    - <a href = "E:\Node_projects\Node_Way\Education\TSH_index\Index-master_02_02_2020\Courses\Highload.md">Highload.md</a>
+    - <a href = "F:\Node_projects\Node_Way\Education\TSH_index\Index-master_02_02_2020\Courses\Highload.md">Highload.md</a>
         - *# Высоконагруженные и масштабируемые системы
-    - <a href = "E:\Node_projects\Node_Way\Education\TSH_index\Index-master_02_02_2020\Courses\Introduction.md">Introduction.md</a>
+    - <a href = "F:\Node_projects\Node_Way\Education\TSH_index\Index-master_02_02_2020\Courses\Introduction.md">Introduction.md</a>
         - *# Введение и обзор знаний
-    - <a href = "E:\Node_projects\Node_Way\Education\TSH_index\Index-master_02_02_2020\Courses\Metaprogramming.md">Metaprogramming.md</a>
+    - <a href = "F:\Node_projects\Node_Way\Education\TSH_index\Index-master_02_02_2020\Courses\Metaprogramming.md">Metaprogramming.md</a>
         - *# Метапрограммирование и мультипарадигменное программирование
-    - <a href = "E:\Node_projects\Node_Way\Education\TSH_index\Index-master_02_02_2020\Courses\Network.md">Network.md</a>
+    - <a href = "F:\Node_projects\Node_Way\Education\TSH_index\Index-master_02_02_2020\Courses\Network.md">Network.md</a>
         - *# Проектирование сетевых протоколов и сервисов
-    - <a href = "E:\Node_projects\Node_Way\Education\TSH_index\Index-master_02_02_2020\Courses\NodeJS.md">NodeJS.md</a>
+    - <a href = "F:\Node_projects\Node_Way\Education\TSH_index\Index-master_02_02_2020\Courses\NodeJS.md">NodeJS.md</a>
         - *# Технологический стек Node.js
         - *## Введение и основы
         - *## Структура и архитектура приложений на Node.js
@@ -37,32 +37,32 @@
         - *## Лекции по CQRS и Event Sourcing
         - *## Управление памятью и параллельное программирование
         - *## Безопасность, надежность, развертывание и управление инфраструктурой
-    - <a href = "E:\Node_projects\Node_Way\Education\TSH_index\Index-master_02_02_2020\Courses\OOP.md">OOP.md</a>
+    - <a href = "F:\Node_projects\Node_Way\Education\TSH_index\Index-master_02_02_2020\Courses\OOP.md">OOP.md</a>
         - *# Объектно-ориентированное программирование
-    - <a href = "E:\Node_projects\Node_Way\Education\TSH_index\Index-master_02_02_2020\Courses\OS.md">OS.md</a>
+    - <a href = "F:\Node_projects\Node_Way\Education\TSH_index\Index-master_02_02_2020\Courses\OS.md">OS.md</a>
         - *# Операционные системы
-    - <a href = "E:\Node_projects\Node_Way\Education\TSH_index\Index-master_02_02_2020\Courses\Paradigms.md">Paradigms.md</a>
+    - <a href = "F:\Node_projects\Node_Way\Education\TSH_index\Index-master_02_02_2020\Courses\Paradigms.md">Paradigms.md</a>
         - *# Парадигмы программирования
-    - <a href = "E:\Node_projects\Node_Way\Education\TSH_index\Index-master_02_02_2020\Courses\Parallel.md">Parallel.md</a>
+    - <a href = "F:\Node_projects\Node_Way\Education\TSH_index\Index-master_02_02_2020\Courses\Parallel.md">Parallel.md</a>
         - *# Параллельное программирование
         - *## Структура курса
         - *## Видео-лекции
-    - <a href = "E:\Node_projects\Node_Way\Education\TSH_index\Index-master_02_02_2020\Courses\Patterns.md">Patterns.md</a>
+    - <a href = "F:\Node_projects\Node_Way\Education\TSH_index\Index-master_02_02_2020\Courses\Patterns.md">Patterns.md</a>
         - *# Шаблоны проектирования
-    - <a href = "E:\Node_projects\Node_Way\Education\TSH_index\Index-master_02_02_2020\Courses\Quality.md">Quality.md</a>
+    - <a href = "F:\Node_projects\Node_Way\Education\TSH_index\Index-master_02_02_2020\Courses\Quality.md">Quality.md</a>
         - *# Качество, тестирование и надежность ПО
-    - <a href = "E:\Node_projects\Node_Way\Education\TSH_index\Index-master_02_02_2020\Courses\Security.md">Security.md</a>
+    - <a href = "F:\Node_projects\Node_Way\Education\TSH_index\Index-master_02_02_2020\Courses\Security.md">Security.md</a>
         - *# Безопасность информационных систем
-    - <a href = "E:\Node_projects\Node_Way\Education\TSH_index\Index-master_02_02_2020\Courses\Special.md">Special.md</a>
+    - <a href = "F:\Node_projects\Node_Way\Education\TSH_index\Index-master_02_02_2020\Courses\Special.md">Special.md</a>
         - *# Special Course for Information System Security
         - *## Web programming and technologies
         - *## Creating server-side application
         - *## Final contest
-    - <a href = "E:\Node_projects\Node_Way\Education\TSH_index\Index-master_02_02_2020\Courses\System.md">System.md</a>
+    - <a href = "F:\Node_projects\Node_Way\Education\TSH_index\Index-master_02_02_2020\Courses\System.md">System.md</a>
         - *# Системное программирование
-    - <a href = "E:\Node_projects\Node_Way\Education\TSH_index\Index-master_02_02_2020\Courses\Tools.md">Tools.md</a>
+    - <a href = "F:\Node_projects\Node_Way\Education\TSH_index\Index-master_02_02_2020\Courses\Tools.md">Tools.md</a>
         - *# Инструменты разработки и жизненного цикла ПО
-    - <a href = "E:\Node_projects\Node_Way\Education\TSH_index\Index-master_02_02_2020\Courses\UI-UX.md">UI-UX.md</a>
+    - <a href = "F:\Node_projects\Node_Way\Education\TSH_index\Index-master_02_02_2020\Courses\UI-UX.md">UI-UX.md</a>
         - *# Проектирование пользовательских интерфейсов
-    - <a href = "E:\Node_projects\Node_Way\Education\TSH_index\Index-master_02_02_2020\Courses\Web.md">Web.md</a>
+    - <a href = "F:\Node_projects\Node_Way\Education\TSH_index\Index-master_02_02_2020\Courses\Web.md">Web.md</a>
         - *# Веб-технологии

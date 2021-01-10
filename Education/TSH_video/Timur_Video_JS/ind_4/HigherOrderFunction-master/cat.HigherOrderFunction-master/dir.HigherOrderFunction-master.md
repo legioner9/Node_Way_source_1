@@ -1,7 +1,7 @@
-- <a href = "E:\Node_projects\Node_Way\Education\Timur_Video_JS\ind_4\HigherOrderFunction-master\cat.HigherOrderFunction-master\dir.HigherOrderFunction-master.md">HigherOrderFunction-master</a>
-    - <a href = "E:\Node_projects\Node_Way\Education\Timur_Video_JS\ind_4\HigherOrderFunction-master\Exercises.en.md">Exercises.en.md</a>
+- <a href = "F:\Node_projects\Node_Way\Education\TSH_video\Timur_Video_JS\ind_4\HigherOrderFunction-master\cat.HigherOrderFunction-master\dir.HigherOrderFunction-master.md">HigherOrderFunction-master</a>
+    - <a href = "F:\Node_projects\Node_Way\Education\TSH_video\Timur_Video_JS\ind_4\HigherOrderFunction-master\Exercises.en.md">Exercises.en.md</a>
         - *## Higher-order functions
-    - <a href = "E:\Node_projects\Node_Way\Education\Timur_Video_JS\ind_4\HigherOrderFunction-master\Exercises.ru.md">Exercises.ru.md</a>
+    - <a href = "F:\Node_projects\Node_Way\Education\TSH_video\Timur_Video_JS\ind_4\HigherOrderFunction-master\Exercises.ru.md">Exercises.ru.md</a>
         - *## Функции высшего порядка
-    - <a href = "E:\Node_projects\Node_Way\Education\Timur_Video_JS\ind_4\HigherOrderFunction-master\README.md">README.md</a>
+    - <a href = "F:\Node_projects\Node_Way\Education\TSH_video\Timur_Video_JS\ind_4\HigherOrderFunction-master\README.md">README.md</a>
         - *# Higher-order functions having functions as arguments or result

@@ -1,5 +1,5 @@
-- <a href = "E:\Node_projects\Node_Way\Education\IlKan\js.ru\Part_1\1.Документ.dir\_src\S_1\cat.S_1\dir.S_1.md">S_1</a>
-    - <a href = "E:\Node_projects\Node_Way\Education\IlKan\js.ru\Part_1\1.Документ.dir\_src\S_1\ReadMe.md">ReadMe.md</a>
+- <a href = "F:\Node_projects\Node_Way\Education\IlKan\js.ru\Part_1\1.Документ.dir\_src\S_1\cat.S_1\dir.S_1.md">S_1</a>
+    - <a href = "F:\Node_projects\Node_Way\Education\IlKan\js.ru\Part_1\1.Документ.dir\_src\S_1\ReadMe.md">ReadMe.md</a>
         - *# From  Education\htmlbook.ru\content\
         - *## favicon 
         - *## description (описание)

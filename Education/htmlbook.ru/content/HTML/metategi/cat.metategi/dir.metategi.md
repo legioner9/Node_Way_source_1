@@ -1,5 +1,5 @@
-- <a href = "E:\Node_projects\Node_Way\Education\htmlbook.ru\content\HTML\metategi\cat.metategi\dir.metategi.md">metategi</a>
-    - <a href = "E:\Node_projects\Node_Way\Education\htmlbook.ru\content\HTML\metategi\ReadMe.md">ReadMe.md</a>
+- <a href = "F:\Node_projects\Node_Way\Education\htmlbook.ru\content\HTML\metategi\cat.metategi\dir.metategi.md">metategi</a>
+    - <a href = "F:\Node_projects\Node_Way\Education\htmlbook.ru\content\HTML\metategi\ReadMe.md">ReadMe.md</a>
         - *## description (описание)
         - *## keywords (ключевые слова)
         - *## redirect 

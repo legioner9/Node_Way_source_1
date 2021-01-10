@@ -1,8 +1,8 @@
-- <a href = "E:\Node_projects\Node_Way\Education\src\Knowledge\Git\cat.Git\dir.Git.md">Git</a>
-    - <a href = "E:\Node_projects\Node_Way\Education\src\Knowledge\Git\Conspects\cat.Conspects\dir.Conspects.md">Conspects</a>
-        - <a href = "E:\Node_projects\Node_Way\Education\src\Knowledge\Git\Conspects\progit_v2.1.49\cat.progit_v2.1.49\dir.progit_v2.1.49.md">progit_v2.1.49</a>
-            - <a href = "E:\Node_projects\Node_Way\Education\src\Knowledge\Git\Conspects\progit_v2.1.49\Mane\cat.Mane\dir.Mane.md">Mane</a>
-                - <a href = "E:\Node_projects\Node_Way\Education\src\Knowledge\Git\Conspects\progit_v2.1.49\Mane\mane.md">mane.md</a>
+- <a href = "F:\Node_projects\Node_Way\Education\src\Knowledge\Git\cat.Git\dir.Git.md">Git</a>
+    - <a href = "F:\Node_projects\Node_Way\Education\src\Knowledge\Git\Conspects\cat.Conspects\dir.Conspects.md">Conspects</a>
+        - <a href = "F:\Node_projects\Node_Way\Education\src\Knowledge\Git\Conspects\progit_v2.1.49\cat.progit_v2.1.49\dir.progit_v2.1.49.md">progit_v2.1.49</a>
+            - <a href = "F:\Node_projects\Node_Way\Education\src\Knowledge\Git\Conspects\progit_v2.1.49\Mane\cat.Mane\dir.Mane.md">Mane</a>
+                - <a href = "F:\Node_projects\Node_Way\Education\src\Knowledge\Git\Conspects\progit_v2.1.49\Mane\mane.md">mane.md</a>
                     - *# Команды консоли
                     - *## Синтаксис
                     - *### &&
@@ -47,8 +47,8 @@
                     - *# Alias Git
                     - *# Основы ветвления и слияния
             
-            - <a href = "E:\Node_projects\Node_Way\Education\src\Knowledge\Git\Conspects\progit_v2.1.49\Other\cat.Other\dir.Other.md">Other</a>
-                - <a href = "E:\Node_projects\Node_Way\Education\src\Knowledge\Git\Conspects\progit_v2.1.49\Other\cmd_set_comand.md">cmd_set_comand.md</a>
+            - <a href = "F:\Node_projects\Node_Way\Education\src\Knowledge\Git\Conspects\progit_v2.1.49\Other\cat.Other\dir.Other.md">Other</a>
+                - <a href = "F:\Node_projects\Node_Way\Education\src\Knowledge\Git\Conspects\progit_v2.1.49\Other\cmd_set_comand.md">cmd_set_comand.md</a>
                     - *### A
                     - *###  B
                     - *###  C

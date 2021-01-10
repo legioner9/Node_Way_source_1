@@ -1,10 +1,10 @@
-- <a href = "E:\Node_projects\Node_Way\Education\src\cat.src\dir.src.md">src</a>
-    - <a href = "E:\Node_projects\Node_Way\Education\src\Knowledge\cat.Knowledge\dir.Knowledge.md">Knowledge</a>
-        - <a href = "E:\Node_projects\Node_Way\Education\src\Knowledge\Git\cat.Git\dir.Git.md">Git</a>
-            - <a href = "E:\Node_projects\Node_Way\Education\src\Knowledge\Git\Conspects\cat.Conspects\dir.Conspects.md">Conspects</a>
-                - <a href = "E:\Node_projects\Node_Way\Education\src\Knowledge\Git\Conspects\progit_v2.1.49\cat.progit_v2.1.49\dir.progit_v2.1.49.md">progit_v2.1.49</a>
-                    - <a href = "E:\Node_projects\Node_Way\Education\src\Knowledge\Git\Conspects\progit_v2.1.49\Mane\cat.Mane\dir.Mane.md">Mane</a>
-                        - <a href = "E:\Node_projects\Node_Way\Education\src\Knowledge\Git\Conspects\progit_v2.1.49\Mane\mane.md">mane.md</a>
+- <a href = "F:\Node_projects\Node_Way\Education\src\cat.src\dir.src.md">src</a>
+    - <a href = "F:\Node_projects\Node_Way\Education\src\Knowledge\cat.Knowledge\dir.Knowledge.md">Knowledge</a>
+        - <a href = "F:\Node_projects\Node_Way\Education\src\Knowledge\Git\cat.Git\dir.Git.md">Git</a>
+            - <a href = "F:\Node_projects\Node_Way\Education\src\Knowledge\Git\Conspects\cat.Conspects\dir.Conspects.md">Conspects</a>
+                - <a href = "F:\Node_projects\Node_Way\Education\src\Knowledge\Git\Conspects\progit_v2.1.49\cat.progit_v2.1.49\dir.progit_v2.1.49.md">progit_v2.1.49</a>
+                    - <a href = "F:\Node_projects\Node_Way\Education\src\Knowledge\Git\Conspects\progit_v2.1.49\Mane\cat.Mane\dir.Mane.md">Mane</a>
+                        - <a href = "F:\Node_projects\Node_Way\Education\src\Knowledge\Git\Conspects\progit_v2.1.49\Mane\mane.md">mane.md</a>
                             - *# Команды консоли
                             - *## Синтаксис
                             - *### &&
@@ -49,8 +49,8 @@
                             - *# Alias Git
                             - *# Основы ветвления и слияния
                     
-                    - <a href = "E:\Node_projects\Node_Way\Education\src\Knowledge\Git\Conspects\progit_v2.1.49\Other\cat.Other\dir.Other.md">Other</a>
-                        - <a href = "E:\Node_projects\Node_Way\Education\src\Knowledge\Git\Conspects\progit_v2.1.49\Other\cmd_set_comand.md">cmd_set_comand.md</a>
+                    - <a href = "F:\Node_projects\Node_Way\Education\src\Knowledge\Git\Conspects\progit_v2.1.49\Other\cat.Other\dir.Other.md">Other</a>
+                        - <a href = "F:\Node_projects\Node_Way\Education\src\Knowledge\Git\Conspects\progit_v2.1.49\Other\cmd_set_comand.md">cmd_set_comand.md</a>
                             - *### A
                             - *###  B
                             - *###  C
@@ -78,9 +78,9 @@
                 
             
         
-        - <a href = "E:\Node_projects\Node_Way\Education\src\Knowledge\MySql\cat.MySql\dir.MySql.md">MySql</a>
-            - <a href = "E:\Node_projects\Node_Way\Education\src\Knowledge\MySql\Pdfs\cat.Pdfs\dir.Pdfs.md">Pdfs</a>
-                - <a href = "E:\Node_projects\Node_Way\Education\src\Knowledge\MySql\Pdfs\md.md">md.md</a>
+        - <a href = "F:\Node_projects\Node_Way\Education\src\Knowledge\MySql\cat.MySql\dir.MySql.md">MySql</a>
+            - <a href = "F:\Node_projects\Node_Way\Education\src\Knowledge\MySql\Pdfs\cat.Pdfs\dir.Pdfs.md">Pdfs</a>
+                - <a href = "F:\Node_projects\Node_Way\Education\src\Knowledge\MySql\Pdfs\md.md">md.md</a>
                     - *# SQL Statement	Syntax
                     - *## AND / OR
                     - *## ALTER TABLE
@@ -113,8 +113,8 @@
                     - *## WHERE
             
         
-        - <a href = "E:\Node_projects\Node_Way\Education\src\Knowledge\OwnSyntax\cat.OwnSyntax\dir.OwnSyntax.md">OwnSyntax</a>
-            - <a href = "E:\Node_projects\Node_Way\Education\src\Knowledge\OwnSyntax\NameTagPrepositions.md">NameTagPrepositions.md</a>
+        - <a href = "F:\Node_projects\Node_Way\Education\src\Knowledge\OwnSyntax\cat.OwnSyntax\dir.OwnSyntax.md">OwnSyntax</a>
+            - <a href = "F:\Node_projects\Node_Way\Education\src\Knowledge\OwnSyntax\NameTagPrepositions.md">NameTagPrepositions.md</a>
                 - *#### Простые
                 - *#### Производные
                 - *#### Сложные
@@ -124,10 +124,10 @@
                 - *#### Предлоги деятеля и инструмента
         
     
-    - <a href = "E:\Node_projects\Node_Way\Education\src\Markdown_DOCS\cat.Markdown_DOCS\dir.Markdown_DOCS.md">Markdown_DOCS</a>
-        - <a href = "E:\Node_projects\Node_Way\Education\src\Markdown_DOCS\VS_code_Trane\cat.VS_code_Trane\dir.VS_code_Trane.md">VS_code_Trane</a>
-            - <a href = "E:\Node_projects\Node_Way\Education\src\Markdown_DOCS\VS_code_Trane\In_Catalogs\cat.In_Catalogs\dir.In_Catalogs.md">In_Catalogs</a>
-                - <a href = "E:\Node_projects\Node_Way\Education\src\Markdown_DOCS\VS_code_Trane\In_Catalogs\Tiltle_trane_VS.md">Tiltle_trane_VS.md</a>
+    - <a href = "F:\Node_projects\Node_Way\Education\src\Markdown_DOCS\cat.Markdown_DOCS\dir.Markdown_DOCS.md">Markdown_DOCS</a>
+        - <a href = "F:\Node_projects\Node_Way\Education\src\Markdown_DOCS\VS_code_Trane\cat.VS_code_Trane\dir.VS_code_Trane.md">VS_code_Trane</a>
+            - <a href = "F:\Node_projects\Node_Way\Education\src\Markdown_DOCS\VS_code_Trane\In_Catalogs\cat.In_Catalogs\dir.In_Catalogs.md">In_Catalogs</a>
+                - <a href = "F:\Node_projects\Node_Way\Education\src\Markdown_DOCS\VS_code_Trane\In_Catalogs\Tiltle_trane_VS.md">Tiltle_trane_VS.md</a>
                     - *# cefed
                     - *# x
                     - *# pragma Section name (case sensitive)
