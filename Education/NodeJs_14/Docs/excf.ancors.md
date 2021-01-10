@@ -7,9 +7,6 @@ https://github.com/nodejs/node/tree/master/doc/api/
 
 <!--introduced_in=v0.10.0-->
 
-## About this documentation
-## Usage and example
-
 <hr class="line"/>
 
 ## Assertion testing
@@ -71,4 +68,3 @@ https://github.com/nodejs/node/tree/master/doc/api/
 
 <hr class="line"/>
 
-## Code repository and issue tracker

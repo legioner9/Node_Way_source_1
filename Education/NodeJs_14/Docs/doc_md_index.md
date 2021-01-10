@@ -71,4 +71,4 @@ https://github.com/nodejs/node/tree/master/doc/api/
 
 <hr class="line"/>
 
-* [Code repository and issue tracker](https://github.com/nodejs/node/tree/master/doc/api/https://github.com/nodejs/node)
+* [Code repository and issue tracker](https://github.com/nodejs/node)
