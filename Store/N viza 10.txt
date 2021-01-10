@@ -616,7 +616,8 @@ mastersruba@outlook.com
 microsoft
 legioner9.9.9.9
 legioner9@inbox
-124578a124578a
+legioner9@outlook.com
+124578a124578a124578a
 
 microsoft
 mastersruba.ru@mail.ru
@@ -625,3 +626,7 @@ mastersruba.ru@mail.ru
 git
 legioner9@inbox.ru
 124578a124578aA
+
+unix username Ubuntu win 10
+legioner9
+123
