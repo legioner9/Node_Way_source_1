@@ -1,1 +1,1 @@
-npm rise
+Test_auto clear complete

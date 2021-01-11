@@ -33,13 +33,7 @@
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Tmp/last_commit.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Tmp/last_commit.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/CreateDirFile/CreateTechDirHot_1/Test/A" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/CreateDirFile/CreateTechDirHot_1/Test/B" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/CreateDirFile/CreateTechDirHot_1/Test/B.dir/BA" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/CreateDirFile/CreateTechDirHot_1/Test/B.dir/BB" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/CreateDirFile/CreateTechDirHot_1/Test/B.dir/BB.dir/BBA" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/CreateDirFile/CreateTechDirHot_1/Test/B.dir/BB.dir/BBB" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/CreateDirFile/CreateTechDirHot_1/Test_auto/clear.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/CreateDirFile/CreateTechDirHot_1/Test_auto/clear.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -492,7 +486,7 @@
       <workItem from="1610297957214" duration="2662000" />
       <workItem from="1610348246896" duration="972000" />
       <workItem from="1610353414795" duration="1568000" />
-      <workItem from="1610385558897" duration="3277000" />
+      <workItem from="1610385558897" duration="4397000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
