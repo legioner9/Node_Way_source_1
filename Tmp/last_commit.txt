@@ -1,1 +1,1 @@
-fix argv[2] CreateTechDirHot_1
+to fix remove .dir
