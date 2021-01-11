@@ -1,0 +1,46 @@
+block variables
+
+doctype html
+html(lang="en")
+	head
+		meta(charset="utf-8")
+		title #{title}
+		meta(http-equiv="X-UA-Compatible" content="IE=edge")
+		meta(name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no")
+		// No Robots
+		meta(name='robots', content='noindex, nofollow')
+		// Favicon
+		link(rel="icon" type="image/png" href="static/img/general/favicon.png")
+		link(rel="apple-touch-icon" href="static/img/general/favicon.png")
+		link(rel="icon" type="image/x-icon" href="static/img/general/favicon.ico")
+		// Mobile browser color
+		meta(name="theme-color" content="#ffffff")
+		// Styles
+		link(rel="stylesheet" href="static/css/libs/jquery-ui.css")
+		link(rel="stylesheet" href="static/css/libs/swiper.css")
+		link(rel="stylesheet" href="static/css/libs/fancybox.css")
+		link(rel="stylesheet" href="static/css/style.css")
+		// Explorer
+		<!--[if lt IE 9]>
+		script(src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js")
+		script(src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js")
+		<![endif]-->
+	body
+		// Header
+		include header
+		// Content
+		main.main
+			block content
+		// Footer
+		include footer
+		// Scripts
+		script(src="static/js/jquery-3.4.1.min.js")
+		script(src="static/js/jquery-ui.min.js")
+		script(src="static/js/swiper.min.js")
+		script(src="static/js/fancybox.min.js")
+		script(src="static/js/main.js")
+		block script
+		// Modal
+		include ../modules/modal
+		// Svg Icons
+		include ../modules/icons

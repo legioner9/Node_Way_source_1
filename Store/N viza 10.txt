@@ -630,3 +630,5 @@ legioner9@inbox.ru
 unix username Ubuntu win 10
 legioner9
 123
+
+⬆️ update dependencies

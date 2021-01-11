@@ -1,0 +1,18 @@
+{
+  "index": {
+  },
+  "common": {
+    "header": {
+      "logo": {
+        "image": "logo.png",
+        "title": "Logo"
+      }
+    },
+    "footer": {
+    }
+  },
+  "general": {
+    "modal": {
+    }
+  }
+}

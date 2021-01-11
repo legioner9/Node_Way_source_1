@@ -1,0 +1,5 @@
+nav.nav
+  ul.nav__list
+    for i in nav.nav.items
+      li.nav__item
+        a(href=i.href).nav__link=i.title

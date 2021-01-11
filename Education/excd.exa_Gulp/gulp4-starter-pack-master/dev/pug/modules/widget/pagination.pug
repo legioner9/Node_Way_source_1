@@ -1,0 +1,16 @@
+.pagination
+  ul.pagination__list
+    // prev
+    li.pagination__item.disabled
+      a(href="#").pagination__link
+        svg.icon
+          use(xlink:href="#ic-prev")
+    // numbers
+    - for(let i = 0; i < 10; i++)
+      li.pagination__item
+        a(href="#").pagination__link=i
+    // next
+    li.pagination__item
+      a(href="#").pagination__link
+        svg.icon
+          use(xlink:href="#ic-next")

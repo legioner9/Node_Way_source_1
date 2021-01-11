@@ -1,1 +1,1 @@
-restruct 1
+gulp zips

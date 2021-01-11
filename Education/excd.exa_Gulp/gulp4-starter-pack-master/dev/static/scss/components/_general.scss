@@ -1,0 +1,172 @@
+body {
+	display: flex;
+	flex-direction: column;
+	height: 100%;
+	font-size: 14px;
+	line-height: 21px;
+	font-family: 'Roboto', Helvetica, Arial, sans-serif;
+	color: $default;
+	background-color: $white;
+	-webkit-overflow-scrolling: touch;
+	-ms-overflow-style: -ms-autohiding-scrollbar;
+	overflow-x: hidden;
+}
+
+h1 {
+	font-size: 28px;
+	line-height: 34px;
+	color: $default;
+}
+
+h2 {
+	font-size: 28px;
+	line-height: 34px;
+	color: $default;
+}
+
+h3 {
+	font-size: 18px;
+	line-height: 26px;
+	color: $default;
+}
+
+h4 {
+	font-size: 18px;
+	line-height: 28px;
+	color: $default;
+}
+
+h5 {
+	font-size: 16px;
+	line-height: 26px;
+	color: $default;
+}
+
+h6 {
+	font-size: 14px;
+	line-height: 21px;
+	color: $default;
+}
+
+p {
+	font-size: 14px;
+	line-height: 23px;
+}
+
+img {
+	display: block;
+	width: 100%;
+	font-size: 12px;
+	line-height: 14px;
+}
+
+section {
+	position: relative;
+	padding: 40px 0;
+}
+
+.section {
+	position: relative;
+	padding: 40px 0;
+}
+
+.row.min {
+	margin-left: -5px;
+	margin-right: -5px;
+}
+
+.row.min > div[class^="col-"] {
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+.overflow {
+	overflow: hidden !important;
+}
+
+.hidden {
+	display: none !important;
+}
+
+.text-center {
+	text-align: center;
+}
+.text-right {
+	text-align: right;
+}
+
+.clearfix {
+	&:after {
+		content: '';
+		display: block;
+		clear: both;
+	}
+}
+
+.icon {
+	width: 20px;
+	height: 20px;
+}
+
+a,
+button,
+input,
+select,
+textarea,
+span,
+.icon {
+	transition: all 150ms ease;
+}
+
+/* slider */
+
+.slider {
+	&__container {
+		position: relative;
+	}
+}
+
+
+/* scroll top */
+
+.scroll__top {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	position: fixed;
+	right: 15px;
+	bottom: 15px;
+	width: 40px;
+	height: 40px;
+	opacity: 0;
+	visibility: hidden;
+	margin-top: -20px;
+	background-color: rgba($black,.07);
+	outline: none;
+	transition: all 200ms ease;
+	z-index: 50;
+	.icon {
+		width: 16px;
+		height: 16px;
+		fill: $gray;
+		transform: rotate(-90deg);
+	}
+	&.show {
+		opacity: 1;
+		visibility: visible;
+		&:hover {
+			opacity: 1;
+			background-color: $primary;
+			.icon {
+				fill: $white;
+			}
+		}
+	}
+}
+
+
+/* breadcrumbs */
+//@import "../components/breadcrumbs";
+
+/* pagination */
+//@import "../components/pagination";
