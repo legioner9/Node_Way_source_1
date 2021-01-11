@@ -44,25 +44,25 @@ NBase/BigIssue/*
 node_modules/*
 
 
-#!node_modules/st_doc1
-#!node_modules/st_ex1
-#!node_modules/st_ini
-#!node_modules/st_ex1_deep1
-#!node_modules/st_ex1_up1
-#!node_modules/st_ini_deep1
-#!node_modules/st_ex1_prod1
-#!node_modules/st___
-#!node_modules/st___00
-#!node_modules/st_STN
-#!node_modules/st_arht
-#!node_modules/st_ini_arht
-#!node_modules/st_fs
-#!node_modules/st_ini_fs
-#!node_modules/st_ManeArchetype
-#!node_modules/st_catFs
-#!node_modules/st_ini_catFs
+!node_modules/st_doc1
+!node_modules/st_ex1
+!node_modules/st_ini
+!node_modules/st_ex1_deep1
+!node_modules/st_ex1_up1
+!node_modules/st_ini_deep1
+!node_modules/st_ex1_prod1
+!node_modules/st___
+!node_modules/st___00
+!node_modules/st_STN
+!node_modules/st_arht
+!node_modules/st_ini_arht
+!node_modules/st_fs
+!node_modules/st_ini_fs
+!node_modules/st_ManeArchetype
+!node_modules/st_catFs
+!node_modules/st_ini_catFs
 
-!node_modules/st_*
+
 
 
 
