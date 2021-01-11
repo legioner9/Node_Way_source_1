@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -27,55 +32,9 @@
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Gulp/Gulp_project_1/gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/Education/Gulp/Gulp_project_1/gulpfile.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Gulp/gulp-template-master_to_1_set/.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Gulp/gulp-template-master_to_1_set/.eslintignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Gulp/gulp-template-master_to_1_set/.eslintrc.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Gulp/gulp-template-master_to_1_set/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Gulp/gulp-template-master_to_1_set/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Gulp/gulp-template-master_to_1_set/.pug-lint.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Gulp/gulp-template-master_to_1_set/.stylelintrc.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Gulp/gulp-template-master_to_1_set/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Gulp/gulp-template-master_to_1_set/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Gulp/gulp-template-master_to_1_set/_package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Gulp/gulp-template-master_to_1_set/build/about.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Gulp/gulp-template-master_to_1_set/build/css/style.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Gulp/gulp-template-master_to_1_set/build/img/forest.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Gulp/gulp-template-master_to_1_set/build/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Gulp/gulp-template-master_to_1_set/build/js/main.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Gulp/gulp-template-master_to_1_set/cat.gulp-template-master_to_1_set/dir.gulp-template-master_to_1_set.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Gulp/gulp-template-master_to_1_set/gulp/config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Gulp/gulp-template-master_to_1_set/gulp/tasks/clean.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Gulp/gulp-template-master_to_1_set/gulp/tasks/copyDependencies.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Gulp/gulp-template-master_to_1_set/gulp/tasks/fonts.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Gulp/gulp-template-master_to_1_set/gulp/tasks/imageMinify.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Gulp/gulp-template-master_to_1_set/gulp/tasks/lighthouse.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Gulp/gulp-template-master_to_1_set/gulp/tasks/pug2html.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Gulp/gulp-template-master_to_1_set/gulp/tasks/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Gulp/gulp-template-master_to_1_set/gulp/tasks/serve.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Gulp/gulp-template-master_to_1_set/gulp/tasks/styles.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Gulp/gulp-template-master_to_1_set/gulp/tasks/svgSprite.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Gulp/gulp-template-master_to_1_set/gulpfile.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Gulp/gulp-template-master_to_1_set/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Gulp/gulp-template-master_to_1_set/src/img/forest.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Gulp/gulp-template-master_to_1_set/src/js/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Gulp/gulp-template-master_to_1_set/src/local_modules/jquery/dist/jquery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Gulp/gulp-template-master_to_1_set/src/local_modules/jquery/dist/jquery.slim.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Gulp/gulp-template-master_to_1_set/src/local_modules/normalize.css/normalize.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Gulp/gulp-template-master_to_1_set/src/pages/about.pug" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Gulp/gulp-template-master_to_1_set/src/pages/common/footer.pug" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Gulp/gulp-template-master_to_1_set/src/pages/common/header.pug" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Gulp/gulp-template-master_to_1_set/src/pages/common/layout.pug" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Gulp/gulp-template-master_to_1_set/src/pages/includes/about/company-info.pug" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Gulp/gulp-template-master_to_1_set/src/pages/includes/index/banner.pug" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Gulp/gulp-template-master_to_1_set/src/pages/index.pug" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Gulp/gulp-template-master_to_1_set/src/styles/common/footer.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Gulp/gulp-template-master_to_1_set/src/styles/common/global.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Gulp/gulp-template-master_to_1_set/src/styles/common/header.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Gulp/gulp-template-master_to_1_set/src/styles/mixins/media.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Gulp/gulp-template-master_to_1_set/src/styles/style.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Gulp/gulp-template-master_to_1_set/src/styles/utils/fonts.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Gulp/gulp-template-master_to_1_set/src/styles/utils/variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Store/bookmarks_05.01.2021.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Store/bookmarks_21.12.2020.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Store/y_bookmarks_04.01.2021.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Tmp/last_commit.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Tmp/last_commit.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -200,7 +159,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
     <property name="settings.editor.splitter.proportion" value="0.23273855" />
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains_\IntelliJ IDEA 2020.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
@@ -527,6 +486,8 @@
       <workItem from="1610212069456" duration="22959000" />
       <workItem from="1610270849786" duration="3969000" />
       <workItem from="1610297957214" duration="2662000" />
+      <workItem from="1610348246896" duration="972000" />
+      <workItem from="1610353414795" duration="1568000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
@@ -1159,12 +1120,12 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="155" y="99" key="IDE.errors.dialog/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1602919313877" />
-    <state x="120" y="148" width="1141" height="710" key="SettingsEditor" timestamp="1609759857739">
+    <state x="120" y="148" width="1141" height="710" key="SettingsEditor" timestamp="1610353249597">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="156" y="93" key="SettingsEditor/0.0.1440.860/1440.0.1024.728@0.0.1440.860" timestamp="1609602410130" />
     <state x="1579" y="111" width="1141" height="913" key="SettingsEditor/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1606893966128" />
-    <state x="120" y="148" width="1141" height="710" key="SettingsEditor/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1609759857739" />
+    <state x="120" y="148" width="1141" height="710" key="SettingsEditor/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1610353249597" />
     <state width="705" height="498" key="SwitcherDM" timestamp="1603509637301">
       <screen x="0" y="0" width="1440" height="860" />
     </state>

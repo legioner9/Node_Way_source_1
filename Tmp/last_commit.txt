@@ -1,1 +1,1 @@
-gulp zips
+fix argv[2] CreateTechDirHot_1
