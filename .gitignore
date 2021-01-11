@@ -41,7 +41,7 @@ build/Release
 
 # Dependency directories
 NBase/BigIssue/*
-node_modules
+node_modules/*
 
 
 #!node_modules/st_doc1

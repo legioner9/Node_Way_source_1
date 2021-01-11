@@ -31,11 +31,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Store/bookmarks_05.01.2021.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Store/bookmarks_21.12.2020.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Store/y_bookmarks_04.01.2021.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tmp/last_commit.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Tmp/last_commit.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/CreateDirFile/CreateTechDirHot_1/Test/main_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/CreateDirFile/CreateTechDirHot_1/Test/main_test.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,7 +136,7 @@
     <property name="add_unversioned_files" value="$PROJECT_DIR$/Jobs/SetGlobLoggers/ModLogger_1/Core/Logs/eLogs.txt&#10;true" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="14.15.3" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Education/TSH_video/PlayLists_youtube/Asinc_Programming" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/CreateDirFile" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.jscs" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -164,19 +162,19 @@
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains_\IntelliJ IDEA 2020.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Node_projects\Node_Way\node_modules\st_ex1\SetDirFile\CreateDirFile" />
+      <recent name="F:\Node_projects\Node_Way\Education\TSH_video\PlayLists_youtube\Asinc_Programming" />
+      <recent name="F:\Node_projects\Node_Way\Education\Gulp\Gulp_project_gulp_pug_1\pug_exa\gulp\tasks" />
+      <recent name="F:\Node_projects\Node_Way\Education\Gulp\Gulp_project_gulp_pug_1" />
+      <recent name="F:\Node_projects\Node_Way\Education\Gulp\Gulp_project_2" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\Node_projects\Node_Way\ToUse\cloneFileToDir\Dir_in_num_2_3_level" />
       <recent name="F:\Node_projects\Node_Way\ToUse\cloneFileToDir" />
       <recent name="F:\Node_projects\Node_Way\Education\TSH_video" />
       <recent name="F:\Node_projects\Node_Way\Education\Gulp\Gulp_project_gulp_pug_1\pug_exa\gulp" />
       <recent name="F:\Node_projects\Node_Way\Education\Gulp\Gulp_project_gulp_pug_1\pug_exa" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\Node_projects\Node_Way\Education\TSH_video\PlayLists_youtube\Asinc_Programming" />
-      <recent name="F:\Node_projects\Node_Way\Education\Gulp\Gulp_project_gulp_pug_1\pug_exa\gulp\tasks" />
-      <recent name="F:\Node_projects\Node_Way\Education\Gulp\Gulp_project_gulp_pug_1" />
-      <recent name="F:\Node_projects\Node_Way\Education\Gulp\Gulp_project_2" />
-      <recent name="F:\Node_projects\Node_Way\Education\Gulp\Gulp_project_2\gulp" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.1_test_ini_module_Education.v.0.1.7.1.js">
