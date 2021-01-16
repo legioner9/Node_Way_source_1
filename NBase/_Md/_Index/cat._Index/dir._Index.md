@@ -74,30 +74,6 @@
             
         
     
-    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Bootstrap\cat._Bootstrap\dir._Bootstrap.md">_Bootstrap</a>
-        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Bootstrap\Containers\cat.Containers\dir.Containers.md">Containers</a>
-            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Bootstrap\Containers\Live_learn\cat.Live_learn\dir.Live_learn.md">Live_learn</a>
-                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Bootstrap\Containers\Live_learn\ITVDN_BS_4\cat.ITVDN_BS_4\dir.ITVDN_BS_4.md">ITVDN_BS_4</a>
-                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Bootstrap\Containers\Live_learn\ITVDN_BS_4\1.Урок_1_Знакомство_с_Twitter_Bootstrap_4.dir\cat.1.Урок_1_Знакомство_с_Twitter_Bootstrap_4.dir\dir.1.Урок_1_Знакомство_с_Twitter_Bootstrap_4.dir.md">1.Урок_1_Знакомство_с_Twitter_Bootstrap_4.dir</a>
-                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Bootstrap\Containers\Live_learn\ITVDN_BS_4\1.Урок_1_Знакомство_с_Twitter_Bootstrap_4.dir\1.1.Знакомство_с_фреймворком..dir\cat.1.1.Знакомство_с_фреймворком..dir\dir.1.1.Знакомство_с_фреймворком..dir.md">1.1.Знакомство_с_фреймворком..dir</a>
-                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Bootstrap\Containers\Live_learn\ITVDN_BS_4\1.Урок_1_Знакомство_с_Twitter_Bootstrap_4.dir\1.1.Знакомство_с_фреймворком..dir\ReadMe.md">ReadMe.md</a>
-                                - *@@ bootstrap continue far
-                        
-                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Bootstrap\Containers\Live_learn\ITVDN_BS_4\1.Урок_1_Знакомство_с_Twitter_Bootstrap_4.dir\1.2.Способы_подключения_фреймворка..dir\cat.1.2.Способы_подключения_фреймворка..dir\dir.1.2.Способы_подключения_фреймворка..dir.md">1.2.Способы_подключения_фреймворка..dir</a>
-                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Bootstrap\Containers\Live_learn\ITVDN_BS_4\1.Урок_1_Знакомство_с_Twitter_Bootstrap_4.dir\1.2.Способы_подключения_фреймворка..dir\1.2.Способы_подключения_фреймворка..md">1.2.Способы_подключения_фреймворка..md</a>
-                                - *# 1.2.Способы_подключения_фреймворка.
-                        
-                    
-                
-            
-        
-        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Bootstrap\ReadMe.md">ReadMe.md</a>
-            - *# [Bootstrap](https://bootstrap-4.ru/)
-            - *## [Docs](https://bootstrap-4.ru/docs/4.5/getting-started/introduction/)
-            - *## [Examples](https://bootstrap-4.ru/docs/4.5/examples/)
-            - *## [starter-template](https://bootstrap-4.ru/docs/4.5/getting-started/introduction/#starter-template)
-            - *## [testprovider.com](https://testprovider.com/ru)
-    
     - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_C++\cat._C++\dir._C++.md">_C++</a>
         - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_C++\Containers\cat.Containers\dir.Containers.md">Containers</a>
             - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_C++\Containers\Intro_to_this\cat.Intro_to_this\dir.Intro_to_this.md">Intro_to_this</a>
@@ -1531,15 +1507,6 @@
             
         
     
-    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_ReactJs\cat._ReactJs\dir._ReactJs.md">_ReactJs</a>
-        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_ReactJs\Containers\cat.Containers\dir.Containers.md">Containers</a>
-            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_ReactJs\Containers\Intro_to_this\cat.Intro_to_this\dir.Intro_to_this.md">Intro_to_this</a>
-                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_ReactJs\Containers\Intro_to_this\Intro_to_this.md">Intro_to_this.md</a>
-                    - *# [React JS. Быстрый Курс 2020 (Вся Теория Включена!)](https://www.youtube.com/watch?v=xJZa2_aldDs&t=1397s&ab_channel=%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BB%D0%B5%D0%BD%D0%9C%D0%B8%D0%BD%D0%B8%D0%BD)
-                    - *@@ start _reactJs with VLDN
-            
-        
-    
     - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\cat._TGUniversitet\dir._TGUniversitet.md">_TGUniversitet</a>
         - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\cat.I_kurs\dir.I_kurs.md">I_kurs</a>
             - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\++Основы_программирования\cat.++Основы_программирования\dir.++Основы_программирования.md">++Основы_программирования</a>
@@ -2224,6 +2191,28 @@
                         - *# to tail
                 
             
+        
+        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\__\Pug\cat.Pug\dir.Pug.md">Pug</a>
+            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\__\Pug\pug_intro.md">pug_intro.md</a>
+                - *# [Препроцессор Pug(Jade)](https://pugjs.org/api/getting-started.html)
+                - *#### <a name='Содержание'></a>Содержание:
+                - *### <a name="Теги"></a> Теги
+                - *### <a name="Текст"></a> Текст
+                - *### <a name="Атрибуты"></a> Атрибуты
+                - *### <a name="Констуркция-Switch-Case"></a> Констуркция Switch Case
+                - *### <a name="Циклы"></a> Циклы
+                - *### <a name="Вставка-JavaScript-кода"></a> Вставка JavaScript кода
+                - *### <a name="Комментарии"></a> Комментарии
+                - *### <a name="Условия"></a> Условия
+                - *#user
+                - *### <a name="Тип-документа"></a> Тип документа
+                - *### <a name="Инклюды"></a> Инклюды (Includes)
+                - *### <a name="Наследование-шаблонов"></a> Наследование шаблонов
+                - *### <a name="Интерполяция-переменных"></a> Интерполяция переменных
+                - *### <a name="Миксины"></a> Миксины
+                - *### <a name="Ассоциативный-массив"></a> Многострочный ассоциативный массив
+            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\__\Pug\ReadMe.md">ReadMe.md</a>
+                - *# [Препроцессор Pug(Jade)](https://gist.github.com/neretin-trike/53aff5afb76153f050c958b82abd9228)
         
         - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\__\Vs settings\cat.Vs settings\dir.Vs settings.md">Vs settings</a>
             - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\__\Vs settings\_ancors.md">_ancors.md</a>

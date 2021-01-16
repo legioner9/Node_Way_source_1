@@ -1,1 +1,1 @@
-Test_auto clear complete
+test.bat cheCreateTechDirHot_1 complete
