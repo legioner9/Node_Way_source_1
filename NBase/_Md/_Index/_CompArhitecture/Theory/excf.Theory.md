@@ -1,4 +1,20 @@
-## Moterboard
+## Moterboard 
+![jpg](_src/motherboard-1.png)
+### FormFactor
+### Socket
+### sRAM
+### sPCI-Express
+#### x16
+#### x1
+### sSATA-III
+### sBackPanel
+#### USB3.1
+#### USB3.o
+#### EthernetRJ-45
+#### S_PDIF
+#### HDMI
+#### Audio
+### OverClocKing
 ## CPU
 ### Cache
 #### L1
@@ -33,7 +49,24 @@
 #### RowPrechargeDelay (tRD)
 #### ActivatePrechargeDelay (tRAS)
 ## Colling
-## StirageDevice
+### RPM (RevPerMin)
+### CFM (AmountAirSupplied)
+### dB
+### BearingTipe
+### ConnectionSocket
+### Design
+## StorageDevice
 ### HDD
+#### CashMemory
+#### RAIDEdition
+#### NCQ
+#### iSATA-III
+#### iSAS
 ### SSD
+#### SingleLevelCell (SLC)
+#### MultiLevelCell (MLC)
+#### TripleLevelCell (TLC)
+#### QuadLevelCell (QLC)
+### SSHD
+
  
