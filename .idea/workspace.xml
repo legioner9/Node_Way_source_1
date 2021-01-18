@@ -31,58 +31,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
-      <change afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_CompArhitecture/_src/DESKTOP-4F0UQTT.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_CompArhitecture/_src/Report.htm" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_CompArhitecture/Theory/Theory.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ToUse/cloneFileToDir/Dir_in_num_2_3_level/cloneFileToDir_in_num_2_3_level_src_1.js" beforeDir="false" afterPath="$PROJECT_DIR$/ToUse/cloneFileToDir/Dir_in_num_2_3_level/cloneFileToDir_in_num_2_3_level_src_1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/1.level_2A_,_csc.dir/1.level_2A_,_csc.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_CompArhitecture/Ali/CPU/Intel/Intel.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/1.level_2A_,_csc.dir/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_CompArhitecture/Ali/CPU/Intel/ReadMe.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/1.level_2A_,_csc.dir/_src/1.html" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_CompArhitecture/Ali/CPU/Intel/_src/0" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/1.level_2A_,_csc.dir/_src/1.js" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_CompArhitecture/Ali/CPU/Ryzen/Ryzen.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/1.level_2A_,_csc.dir/_src/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_CompArhitecture/Ali/CPU/Ryzen/_src/0" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/1.level_2A_,_csc.dir/www/_src/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_CompArhitecture/Ali/CPU/Xeon/Xeon.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/1.level_2A_,_csc.dir/www/www.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_CompArhitecture/Ali/CPU/Xeon/_src/0" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/2.level_2B.dir/2.1.level_3A_,,vc.dir/2.1.level_3A_,,vc.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/2.level_2B.dir/2.1.level_3A_,,vc.dir/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_CompArhitecture/Ali/CPU/Ryzen/ReadMe.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/2.level_2B.dir/2.1.level_3A_,,vc.dir/_src/1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/2.level_2B.dir/2.1.level_3A_,,vc.dir/_src/1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/2.level_2B.dir/2.1.level_3A_,,vc.dir/_src/Readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/2.level_2B.dir/2.1.level_3A_,,vc.dir/www/_src/Readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/2.level_2B.dir/2.1.level_3A_,,vc.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/2.level_2B.dir/2.2.level_3B.dir/2.2.level_3B.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/2.level_2B.dir/2.2.level_3B.dir/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_CompArhitecture/Ali/CPU/Xeon/ReadMe.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/2.level_2B.dir/2.2.level_3B.dir/_src/1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/2.level_2B.dir/2.2.level_3B.dir/_src/1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/2.level_2B.dir/2.2.level_3B.dir/_src/Readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/2.level_2B.dir/2.2.level_3B.dir/www/_src/Readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/2.level_2B.dir/2.2.level_3B.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/2.level_2B.dir/2.level_2B.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/2.level_2B.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/2.level_2B.dir/_src/1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/2.level_2B.dir/_src/1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/2.level_2B.dir/_src/Readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/2.level_2B.dir/www/_src/Readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/2.level_2B.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/3.level_2C.dir/3.1.level_3A.dir/3.1.level_3A.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/3.level_2C.dir/3.1.level_3A.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/3.level_2C.dir/3.1.level_3A.dir/_src/1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/3.level_2C.dir/3.1.level_3A.dir/_src/1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/3.level_2C.dir/3.1.level_3A.dir/_src/Readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/3.level_2C.dir/3.1.level_3A.dir/www/_src/Readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/3.level_2C.dir/3.1.level_3A.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/3.level_2C.dir/3.2.level_3B.dir/3.2.level_3B.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/3.level_2C.dir/3.2.level_3B.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/3.level_2C.dir/3.2.level_3B.dir/_src/1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/3.level_2C.dir/3.2.level_3B.dir/_src/1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/3.level_2C.dir/3.2.level_3B.dir/_src/Readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/3.level_2C.dir/3.2.level_3B.dir/www/_src/Readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/3.level_2C.dir/3.2.level_3B.dir/www/www.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/3.level_2C.dir/3.level_2C.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/3.level_2C.dir/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/3.level_2C.dir/_src/1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/3.level_2C.dir/_src/1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/3.level_2C.dir/_src/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_CompArhitecture/Theory/cloneFileToDir_in_num_2_3_level_src_1.js" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_CompArhitecture/Theory/cloneFileToDir_in_num_2_3_level_src_1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToUse/cloneFileToDir/Dir_in_num_2_3_level/1.sdca.dir/1.1.csadc.dir/1.1.csadc.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToUse/cloneFileToDir/Dir_in_num_2_3_level/1.sdca.dir/1.1.csadc.dir/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToUse/cloneFileToDir/Dir_in_num_2_3_level/1.sdca.dir/1.1.csadc.dir/_src/1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToUse/cloneFileToDir/Dir_in_num_2_3_level/1.sdca.dir/1.1.csadc.dir/_src/1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToUse/cloneFileToDir/Dir_in_num_2_3_level/1.sdca.dir/1.1.csadc.dir/_src/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToUse/cloneFileToDir/Dir_in_num_2_3_level/1.sdca.dir/1.1.csadc.dir/www/_src/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToUse/cloneFileToDir/Dir_in_num_2_3_level/1.sdca.dir/1.1.csadc.dir/www/www.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToUse/cloneFileToDir/Dir_in_num_2_3_level/1.sdca.dir/1.sdca.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToUse/cloneFileToDir/Dir_in_num_2_3_level/1.sdca.dir/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToUse/cloneFileToDir/Dir_in_num_2_3_level/1.sdca.dir/_src/1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToUse/cloneFileToDir/Dir_in_num_2_3_level/1.sdca.dir/_src/1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToUse/cloneFileToDir/Dir_in_num_2_3_level/1.sdca.dir/_src/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToUse/cloneFileToDir/Dir_in_num_2_3_level/1.sdca.dir/www/_src/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToUse/cloneFileToDir/Dir_in_num_2_3_level/1.sdca.dir/www/www.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/cloneFileToDir_in_num_2_3_level_src_1.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/cloneFileToDir_in_num_2_3_level_src_1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -226,11 +192,8 @@
       <recent name="F:\Node_projects\Node_Way\Store\myNpm" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.cloneFileToDir_in_num_2_3_level_src_1.js">
+  <component name="RunManager" selected="Node.js.cloneFileToDir_in_num_2_3_level_src_1.js (2)">
     <configuration name="a.html" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/Node_Way/Node_Docs/Education/IlKan/learn.javascript.ru/Browser/1/1.1/a.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <configuration name="1_test_ini_module_Education.v.0.1.7.1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/1_test_ini_module_Education.v.0.1.7.1.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="6-parse_1.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="6-parse_1.js" working-dir="$PROJECT_DIR$/NBase/_Md/_Index/_HPW/Part_I/content/Courses/Fundamentals/basic_sintax/DataTypes-master/JavaScript">
@@ -245,6 +208,9 @@
     <configuration name="cloneFileToDir_in_num_2_3_level_src_1.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/cloneFileToDir_in_num_2_3_level_src_1.js" working-dir="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production">
       <method v="2" />
     </configuration>
+    <configuration name="cloneFileToDir_in_num_2_3_level_src_1.js (2)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/NBase/_Md/_Index/_CompArhitecture/Theory/cloneFileToDir_in_num_2_3_level_src_1.js" working-dir="$PROJECT_DIR$/NBase/_Md/_Index/_CompArhitecture/Theory">
+      <method v="2" />
+    </configuration>
     <configuration name="cloneFileToDir_in_num_2_3_level_src_1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ToUse/cloneFileToDir/Dir_in_num_2_3_level/cloneFileToDir_in_num_2_3_level_src_1.js" working-dir="$PROJECT_DIR$/ToUse/cloneFileToDir/Dir_in_num_2_3_level">
       <method v="2" />
     </configuration>
@@ -255,19 +221,19 @@
       <item itemvalue="JavaScript Debug.a.html" />
       <item itemvalue="Node.js.6-parse_1.js" />
       <item itemvalue="Node.js.Object.create.js" />
-      <item itemvalue="Node.js.1_test_ini_module_Education.v.0.1.7.1.js" />
       <item itemvalue="Node.js.clear.js" />
       <item itemvalue="Node.js.main_test.js" />
       <item itemvalue="Node.js.cloneFileToDir_in_num_2_3_level_src_1.js" />
       <item itemvalue="Node.js.cloneFileToDir_in_num_2_3_level_src_1.js (1)" />
+      <item itemvalue="Node.js.cloneFileToDir_in_num_2_3_level_src_1.js (2)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.cloneFileToDir_in_num_2_3_level_src_1.js" />
+        <item itemvalue="Node.js.cloneFileToDir_in_num_2_3_level_src_1.js (2)" />
         <item itemvalue="Node.js.cloneFileToDir_in_num_2_3_level_src_1.js (1)" />
+        <item itemvalue="Node.js.cloneFileToDir_in_num_2_3_level_src_1.js" />
         <item itemvalue="Node.js.clear.js" />
         <item itemvalue="Node.js.main_test.js" />
-        <item itemvalue="Node.js.1_test_ini_module_Education.v.0.1.7.1.js" />
       </list>
     </recent_temporary>
   </component>
@@ -537,7 +503,7 @@
       <workItem from="1610353414795" duration="1568000" />
       <workItem from="1610385558897" duration="13563000" />
       <workItem from="1610818800663" duration="2626000" />
-      <workItem from="1610969974754" duration="769000" />
+      <workItem from="1610969974754" duration="2589000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
@@ -1110,26 +1076,26 @@
     <state x="519" y="178" key="FileChooserDialogImpl/0.0.1440.860/1440.0.1024.728@0.0.1440.860" timestamp="1609601504304" />
     <state x="519" y="178" width="699" height="606" key="FileChooserDialogImpl/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1604737356241" />
     <state x="519" y="178" key="FileChooserDialogImpl/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1609604949545" />
-    <state width="1340" height="167" key="GridCell.Tab.0.bottom" timestamp="1610970706069">
+    <state width="1340" height="159" key="GridCell.Tab.0.bottom" timestamp="1610973061600">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1216" height="199" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1609422715716" />
-    <state width="1340" height="167" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1610970706069" />
-    <state width="1340" height="167" key="GridCell.Tab.0.center" timestamp="1610970706069">
+    <state width="1340" height="159" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1610973061600" />
+    <state width="1340" height="159" key="GridCell.Tab.0.center" timestamp="1610973061600">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1216" height="199" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1609422715715" />
-    <state width="1340" height="167" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1610970706069" />
-    <state width="1340" height="167" key="GridCell.Tab.0.left" timestamp="1610970706069">
+    <state width="1340" height="159" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1610973061600" />
+    <state width="1340" height="159" key="GridCell.Tab.0.left" timestamp="1610973061600">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1216" height="199" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1609422715715" />
-    <state width="1340" height="167" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1610970706069" />
-    <state width="1340" height="167" key="GridCell.Tab.0.right" timestamp="1610970706069">
+    <state width="1340" height="159" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1610973061600" />
+    <state width="1340" height="159" key="GridCell.Tab.0.right" timestamp="1610973061600">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1216" height="199" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1609422715715" />
-    <state width="1340" height="167" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1610970706069" />
+    <state width="1340" height="159" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1610973061600" />
     <state width="1340" height="247" key="GridCell.Tab.1.bottom" timestamp="1610266938301">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
