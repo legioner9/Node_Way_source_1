@@ -50,6 +50,8 @@
       <excludeFolder url="file://$MODULE_DIR$/NPM_/ST_INI/st_ini@1.0.7" />
       <excludeFolder url="file://$MODULE_DIR$/NPM_/ST_INI/st_ini@1.0.8" />
       <excludeFolder url="file://$MODULE_DIR$/NPM_/ST_INI/st_ini@1.0.9" />
+      <excludeFolder url="file://$MODULE_DIR$/Store/myNpm/st_doc1/Init/Codepillir_icons-master/examples/angular/dist" />
+      <excludeFolder url="file://$MODULE_DIR$/Store/myNpm/st_doc1/Init/Codepillir_icons-master/examples/angular/tmp" />
       <excludeFolder url="file://$MODULE_DIR$/exc" />
       <excludeFolder url="file://$MODULE_DIR$/node_modules/._" />
       <excludeFolder url="file://$MODULE_DIR$/node_modules/.bin" />
