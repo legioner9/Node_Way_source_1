@@ -31,8 +31,197 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
-      <change beforePath="$PROJECT_DIR$/.idea/Node_Docs.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Node_Docs.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/.swp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/1.Методы_проецирования.dir/1.Методы_проецирования.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/1.Методы_проецирования.dir/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/1.Методы_проецирования.dir/_consp/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/1.Методы_проецирования.dir/_consp/_author/_src/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/1.Методы_проецирования.dir/_consp/from_pdf.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/1.Методы_проецирования.dir/_src/1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/1.Методы_проецирования.dir/_src/1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/1.Методы_проецирования.dir/_src/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/1.Методы_проецирования.dir/_Контрольные мероприятия/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/1.Методы_проецирования.dir/www/_src/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/1.Методы_проецирования.dir/www/www.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/10.Позиционные_задачи.dir/10.Позиционные_задачи.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/10.Позиционные_задачи.dir/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/10.Позиционные_задачи.dir/_consp/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/10.Позиционные_задачи.dir/_consp/_author/_src/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/10.Позиционные_задачи.dir/_consp/from_pdf.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/10.Позиционные_задачи.dir/_src/1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/10.Позиционные_задачи.dir/_src/1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/10.Позиционные_задачи.dir/_src/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/10.Позиционные_задачи.dir/_Контрольные мероприятия/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/10.Позиционные_задачи.dir/www/_src/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/10.Позиционные_задачи.dir/www/www.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/11.Алгоритмы_решения_ГПЗ.dir/11.Алгоритмы_решения_ГПЗ.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/11.Алгоритмы_решения_ГПЗ.dir/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/11.Алгоритмы_решения_ГПЗ.dir/_consp/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/11.Алгоритмы_решения_ГПЗ.dir/_consp/_author/_src/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/11.Алгоритмы_решения_ГПЗ.dir/_consp/from_pdf.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/11.Алгоритмы_решения_ГПЗ.dir/_src/1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/11.Алгоритмы_решения_ГПЗ.dir/_src/1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/11.Алгоритмы_решения_ГПЗ.dir/_src/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/11.Алгоритмы_решения_ГПЗ.dir/_Контрольные мероприятия/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/11.Алгоритмы_решения_ГПЗ.dir/www/_src/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/11.Алгоритмы_решения_ГПЗ.dir/www/www.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/12.Конические_сечения.dir/12.Конические_сечения.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/12.Конические_сечения.dir/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/12.Конические_сечения.dir/_consp/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/12.Конические_сечения.dir/_consp/_author/_src/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/12.Конические_сечения.dir/_consp/from_pdf.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/12.Конические_сечения.dir/_src/1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/12.Конические_сечения.dir/_src/1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/12.Конические_сечения.dir/_src/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/12.Конические_сечения.dir/_Контрольные мероприятия/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/12.Конические_сечения.dir/www/_src/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/12.Конические_сечения.dir/www/www.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/13.Решение_1ГПЗ_по_3_алгоритму.dir/13.Решение_1ГПЗ_по_3_алгоритму.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/13.Решение_1ГПЗ_по_3_алгоритму.dir/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/13.Решение_1ГПЗ_по_3_алгоритму.dir/_consp/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/13.Решение_1ГПЗ_по_3_алгоритму.dir/_consp/_author/_src/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/13.Решение_1ГПЗ_по_3_алгоритму.dir/_consp/from_pdf.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/13.Решение_1ГПЗ_по_3_алгоритму.dir/_src/1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/13.Решение_1ГПЗ_по_3_алгоритму.dir/_src/1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/13.Решение_1ГПЗ_по_3_алгоритму.dir/_src/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/13.Решение_1ГПЗ_по_3_алгоритму.dir/_Контрольные мероприятия/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/13.Решение_1ГПЗ_по_3_алгоритму.dir/www/_src/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/13.Решение_1ГПЗ_по_3_алгоритму.dir/www/www.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/14.Метрические_задачи.dir/14.Метрические_задачи.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/14.Метрические_задачи.dir/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/14.Метрические_задачи.dir/_consp/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/14.Метрические_задачи.dir/_consp/_author/_src/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/14.Метрические_задачи.dir/_consp/from_pdf.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/14.Метрические_задачи.dir/_src/1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/14.Метрические_задачи.dir/_src/1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/14.Метрические_задачи.dir/_src/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/14.Метрические_задачи.dir/_Контрольные мероприятия/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/14.Метрические_задачи.dir/www/_src/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/14.Метрические_задачи.dir/www/www.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/15.Преобразование_комплексного_чертежа.dir/15.Преобразование_комплексного_чертежа.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/15.Преобразование_комплексного_чертежа.dir/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/15.Преобразование_комплексного_чертежа.dir/_consp/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/15.Преобразование_комплексного_чертежа.dir/_consp/_author/_src/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/15.Преобразование_комплексного_чертежа.dir/_consp/from_pdf.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/15.Преобразование_комплексного_чертежа.dir/_src/1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/15.Преобразование_комплексного_чертежа.dir/_src/1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/15.Преобразование_комплексного_чертежа.dir/_src/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/15.Преобразование_комплексного_чертежа.dir/_Контрольные мероприятия/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/15.Преобразование_комплексного_чертежа.dir/www/_src/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/15.Преобразование_комплексного_чертежа.dir/www/www.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/16.Решение_метрических_задач.dir/16.Решение_метрических_задач.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/16.Решение_метрических_задач.dir/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/16.Решение_метрических_задач.dir/_consp/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/16.Решение_метрических_задач.dir/_consp/_author/_src/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/16.Решение_метрических_задач.dir/_consp/from_pdf.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/16.Решение_метрических_задач.dir/_src/1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/16.Решение_метрических_задач.dir/_src/1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/16.Решение_метрических_задач.dir/_src/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/16.Решение_метрических_задач.dir/_Контрольные мероприятия/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/16.Решение_метрических_задач.dir/www/_src/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/16.Решение_метрических_задач.dir/www/www.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/2.Метод_Монжа.dir/2.Метод_Монжа.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/2.Метод_Монжа.dir/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/2.Метод_Монжа.dir/_consp/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/2.Метод_Монжа.dir/_consp/_author/_src/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/2.Метод_Монжа.dir/_consp/from_pdf.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/2.Метод_Монжа.dir/_src/1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/2.Метод_Монжа.dir/_src/1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/2.Метод_Монжа.dir/_src/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/2.Метод_Монжа.dir/_Контрольные мероприятия/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/2.Метод_Монжа.dir/www/_src/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/2.Метод_Монжа.dir/www/www.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/3.Задание_прямой_на_комплексном_чертеже.dir/3.Задание_прямой_на_комплексном_чертеже.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/3.Задание_прямой_на_комплексном_чертеже.dir/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/3.Задание_прямой_на_комплексном_чертеже.dir/_consp/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/3.Задание_прямой_на_комплексном_чертеже.dir/_consp/_author/_src/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/3.Задание_прямой_на_комплексном_чертеже.dir/_consp/from_pdf.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/3.Задание_прямой_на_комплексном_чертеже.dir/_src/1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/3.Задание_прямой_на_комплексном_чертеже.dir/_src/1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/3.Задание_прямой_на_комплексном_чертеже.dir/_src/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/3.Задание_прямой_на_комплексном_чертеже.dir/_Контрольные мероприятия/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/3.Задание_прямой_на_комплексном_чертеже.dir/www/_src/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/3.Задание_прямой_на_комплексном_чертеже.dir/www/www.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/4.Взаимное_положение_прямых.dir/4.Взаимное_положение_прямых.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/4.Взаимное_положение_прямых.dir/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/4.Взаимное_положение_прямых.dir/_consp/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/4.Взаимное_положение_прямых.dir/_consp/_author/_src/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/4.Взаимное_положение_прямых.dir/_consp/from_pdf.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/4.Взаимное_положение_прямых.dir/_src/1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/4.Взаимное_положение_прямых.dir/_src/1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/4.Взаимное_положение_прямых.dir/_src/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/4.Взаимное_положение_прямых.dir/_Контрольные мероприятия/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/4.Взаимное_положение_прямых.dir/www/_src/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/4.Взаимное_положение_прямых.dir/www/www.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/5.Задание_кривых_линий_на_комплексном_чертеже.dir/5.Задание_кривых_линий_на_комплексном_чертеже.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/5.Задание_кривых_линий_на_комплексном_чертеже.dir/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/5.Задание_кривых_линий_на_комплексном_чертеже.dir/_consp/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/5.Задание_кривых_линий_на_комплексном_чертеже.dir/_consp/_author/_src/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/5.Задание_кривых_линий_на_комплексном_чертеже.dir/_consp/from_pdf.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/5.Задание_кривых_линий_на_комплексном_чертеже.dir/_src/1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/5.Задание_кривых_линий_на_комплексном_чертеже.dir/_src/1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/5.Задание_кривых_линий_на_комплексном_чертеже.dir/_src/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/5.Задание_кривых_линий_на_комплексном_чертеже.dir/_Контрольные мероприятия/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/5.Задание_кривых_линий_на_комплексном_чертеже.dir/www/_src/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/5.Задание_кривых_линий_на_комплексном_чертеже.dir/www/www.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/6.Задание_плоскости_на_чертеже.dir/6.Задание_плоскости_на_чертеже.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/6.Задание_плоскости_на_чертеже.dir/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/6.Задание_плоскости_на_чертеже.dir/_consp/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/6.Задание_плоскости_на_чертеже.dir/_consp/_author/_src/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/6.Задание_плоскости_на_чертеже.dir/_consp/from_pdf.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/6.Задание_плоскости_на_чертеже.dir/_src/1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/6.Задание_плоскости_на_чертеже.dir/_src/1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/6.Задание_плоскости_на_чертеже.dir/_src/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/6.Задание_плоскости_на_чертеже.dir/_Контрольные мероприятия/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/6.Задание_плоскости_на_чертеже.dir/www/_src/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/6.Задание_плоскости_на_чертеже.dir/www/www.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/7.Задание_поверхности_на_чертеже.dir/7.Задание_поверхности_на_чертеже.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/7.Задание_поверхности_на_чертеже.dir/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/7.Задание_поверхности_на_чертеже.dir/_consp/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/7.Задание_поверхности_на_чертеже.dir/_consp/_author/_src/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/7.Задание_поверхности_на_чертеже.dir/_consp/from_pdf.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/7.Задание_поверхности_на_чертеже.dir/_src/1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/7.Задание_поверхности_на_чертеже.dir/_src/1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/7.Задание_поверхности_на_чертеже.dir/_src/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/7.Задание_поверхности_на_чертеже.dir/_Контрольные мероприятия/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/7.Задание_поверхности_на_чертеже.dir/www/_src/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/7.Задание_поверхности_на_чертеже.dir/www/www.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/8.Задание_поверхностей_вращения.dir/8.Задание_поверхностей_вращения.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/8.Задание_поверхностей_вращения.dir/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/8.Задание_поверхностей_вращения.dir/_consp/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/8.Задание_поверхностей_вращения.dir/_consp/_author/_src/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/8.Задание_поверхностей_вращения.dir/_consp/from_pdf.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/8.Задание_поверхностей_вращения.dir/_src/1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/8.Задание_поверхностей_вращения.dir/_src/1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/8.Задание_поверхностей_вращения.dir/_src/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/8.Задание_поверхностей_вращения.dir/_Контрольные мероприятия/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/8.Задание_поверхностей_вращения.dir/www/_src/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/8.Задание_поверхностей_вращения.dir/www/www.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/9.Прямой_геликоид._Наклонный_геликоид.dir/9.Прямой_геликоид._Наклонный_геликоид.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/9.Прямой_геликоид._Наклонный_геликоид.dir/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/9.Прямой_геликоид._Наклонный_геликоид.dir/_consp/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/9.Прямой_геликоид._Наклонный_геликоид.dir/_consp/_author/_src/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/9.Прямой_геликоид._Наклонный_геликоид.dir/_consp/from_pdf.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/9.Прямой_геликоид._Наклонный_геликоид.dir/_src/1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/9.Прямой_геликоид._Наклонный_геликоид.dir/_src/1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/9.Прямой_геликоид._Наклонный_геликоид.dir/_src/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/9.Прямой_геликоид._Наклонный_геликоид.dir/_Контрольные мероприятия/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/9.Прямой_геликоид._Наклонный_геликоид.dir/www/_src/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/9.Прямой_геликоид._Наклонный_геликоид.dir/www/www.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/Course_.accdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/_consp/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/_consp/_author/_src/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/_consp/_src/0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/_consp/consp.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/_consp/from_pdf.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/_pdf/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/_pdf/partica/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/_src/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/_Контрольные мероприятия/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/_Контрольные мероприятия/Практическое_задание/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/cloneFileToDir_in_num_2_3_level_src_1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet_2/I_kurs/_Начертательна_геометрия/excf.ancors.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -489,6 +678,7 @@
       <workItem from="1610818800663" duration="2626000" />
       <workItem from="1610969974754" duration="2589000" />
       <workItem from="1611036802132" duration="4098000" />
+      <workItem from="1611139324586" duration="641000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
