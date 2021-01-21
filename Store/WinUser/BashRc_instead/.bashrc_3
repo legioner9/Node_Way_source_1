@@ -8,10 +8,7 @@ rel__ :: rel__ ~/.bashrc and ~/.custom_aliases
 copy_bash :: copy ~/.bashrc to Node_Way/Store/WinUser/BashRc_instead/.bashrc
 
 cat__ :: to catigorize _Education _Jobs _Md
-test__ :: a_d1t Autotest
 a_d1 :: create [[ arg, arg + '.md','ReadMe.md',['_src',0] ]]
-a_d1t Autotest::
-/f/Node_projects/Node_Way/node_modules/st_ex1/SetDirFile/CreateDirFile/CreateTechDirHot_1/Test_auto
 
 
 echo_arg :: echo arg
@@ -46,16 +43,6 @@ a_d1 Autotest::
 
 }
 
-test__(){
-    echo -e 'test__ is RUN'
-
-a_d1t
-echo 'a_d1t Autotest DONE'
-
-echo 'test__ DONE'
-
-}
-
 rel__(){
     echo 'rel__ ~/.bashrc and ~/.custom_aliases'
 
@@ -79,12 +66,11 @@ cat__(){
 copy_bash(){
     echo 'RUN copy_bash  :: copy ~/.bashrc to Node_Way/Store/WinUser/BashRc_instead/.bashrc'
 
-    cp  /C/Users/79059/.bashrc /F/Node_projects/Node_Way/Store/WinUser/BashRc_instead/.bashrc
+cp  /C/Users/79059/.bashrc /F/Node_projects/Node_Way/Store/WinUser/BashRc_instead/.bashrc
 
     echo 'copy_bash DONE'
 
 }
-
 
 
 
