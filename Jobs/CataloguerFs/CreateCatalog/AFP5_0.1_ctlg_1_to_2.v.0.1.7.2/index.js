@@ -5,16 +5,17 @@ const arht_fm = Arht.SetArchetype.FunctionARHT.AtOut_fm;
 // const ModuleFunc = Ex.ModuleFunc
 // ModuleFunc.mode = { deb: false, log: false, debLog: false, logFs: false, stack: false};
 
-const Func_examp = ( obj_ctlg_1, arr_tag, arr_excd, arr_excf, delete_file_arr_regexp, arr_excd_name_dir ) => {
+const Func_examp = ( obj_ctlg_1, tags, ignore_dir_PrEq, ignore_file_PrEq, delete_file_FnIo, ignore_dir_FnIo ) => {
 
     const extract_regExp = arr_tags => {
         const res_arr = arr_tags.map ( item => `^${ item }` );
 
         return '(' + res_arr.join ( '|' ) + ')';
 
+
     };
 
-    const regexp = new RegExp ( extract_regExp ( arr_tag ) );
+    const regexp = new RegExp ( extract_regExp ( tags ) );
 
     // BOUNDEN CALL define inner Env
     const Env = arht_fm.at ( Func_examp );
@@ -220,13 +221,13 @@ const Func_examp = ( obj_ctlg_1, arr_tag, arr_excd, arr_excf, delete_file_arr_re
         const fullName = Path.basename ( path );
         let if_exc_dir = first_ext !== 'cat';
 
-        arr_excd.map ( item => {
+        ignore_dir_PrEq.map ( item => {
             // const ind = ~fullName.indexOf(item)
             debugger
             if_exc_dir = if_exc_dir && first_ext !== item;
             //    && ~fullName.indexOf(item);
         } );
-        arr_excd_name_dir.map ( item => {
+        ignore_dir_FnIo.map ( item => {
             const ind = ~fullName.indexOf ( item );
             if_exc_dir = if_exc_dir && !~fullName.indexOf(item);
             debugger
@@ -273,12 +274,12 @@ const Func_examp = ( obj_ctlg_1, arr_tag, arr_excd, arr_excf, delete_file_arr_re
                 const name_file = Path.basename ( arr_i );
                 let if_delete = true; // search match for delete
                 let if_ignore = true; // search match for ignore
-                delete_file_arr_regexp.map ( item => {
+                delete_file_FnIo.map ( item => {
                     // const regExp = new RegExp ( item );
                     debugger
                     if_delete = if_delete && ~ name_file.indexOf(item);
                 } );
-                arr_excf.map ( item => {
+                ignore_file_PrEq.map ( item => {
                     if_ignore = if_ignore && ( item === name_file.split ( '.' )[0] );
                 } );
 
