@@ -274,9 +274,9 @@ const Func_examp = ( obj_ctlg_1, arr_tag, arr_excd, arr_excf, delete_file_arr_re
                 let if_delete = true; // search match for delete
                 let if_ignore = true; // search match for ignore
                 delete_file_arr_regexp.map ( item => {
-                    const regExp = new RegExp ( item );
+                    // const regExp = new RegExp ( item );
                     debugger
-                    if_delete = if_delete && name_file.match ( regExp );
+                    if_delete = if_delete && ~ name_file.indexOf(item);
                 } );
                 arr_excf.map ( item => {
                     if_ignore = if_ignore && ( item === name_file.split ( '.' )[0] );

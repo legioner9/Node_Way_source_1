@@ -19,9 +19,21 @@ anls.preset = { if_basename: false };
 const res = anls ( 'DIR_root' );
 
 // anlsFs_1.mode.deb = true;
-// funcExamp ( anls ( 'DIR_root' ) , arr_tag , arr_exception_dir , arr_exception_file , delete_file_arr_regexp, arr_ignore_name_dir )
+// funcExamp ( anls ( 'DIR_root' ) , tags , ignore_dir_PrEq , ignore_file_PrEq , delete_file_FnIo, ignore_dir_FnIo )
+/*Declaration elements (fields):
+- `tags`\<array> - Header tags ;
+- `ignore_dir_PrEq`\<array> - ignored dir meth(preextend equal)[PrEq];
+- `ignore_file_PrEq`\<array> - ignored file meth(preextend equal)[PrEq];
+- `delete_file_FnIo`\<array> - delete file meth(fullName indexOff)[FnIo];
+- `ignore_dir_FnIo`\<array> - ignored dir meth(fullName indexOff)[FnIo];
+
+P.S
+- meth(fullName indexOff)
+- meth(preextend equal)
+- meth(baseName equal)
+*/
 funcExamp ( res, [ '#', '@@' ], [ 'excd' ], [ 'excf' ]
-    ,['deg'],['node_modules']);
+    ,['deg.forDelete'],['node_modules']);
 
 console.log ( '\n\nThe END __________________________ process.exit ( 0 )\n\n' );
 process.exit ( 0 );
