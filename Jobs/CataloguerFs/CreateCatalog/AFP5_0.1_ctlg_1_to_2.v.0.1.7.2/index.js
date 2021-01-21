@@ -5,7 +5,7 @@ const arht_fm = Arht.SetArchetype.FunctionARHT.AtOut_fm;
 // const ModuleFunc = Ex.ModuleFunc
 // ModuleFunc.mode = { deb: false, log: false, debLog: false, logFs: false, stack: false};
 
-const Func_examp = ( obj_ctlg_1, arr_tag, arr_excd, arr_excf, delete_file_arr_regexp ,arr_excd_name_dir) => {
+const Func_examp = ( obj_ctlg_1, arr_tag, arr_excd, arr_excf, delete_file_arr_regexp, arr_excd_name_dir ) => {
 
     const extract_regExp = arr_tags => {
         const res_arr = arr_tags.map ( item => `^${ item }` );
@@ -217,10 +217,19 @@ const Func_examp = ( obj_ctlg_1, arr_tag, arr_excd, arr_excf, delete_file_arr_re
 
     const if_cat = path => {
         const first_ext = Path.basename ( path ).split ( '.' )[0];
+        const fullName = Path.basename ( path );
         let if_exc_dir = first_ext !== 'cat';
 
         arr_excd.map ( item => {
+            // const ind = ~fullName.indexOf(item)
+            debugger
             if_exc_dir = if_exc_dir && first_ext !== item;
+            //    && ~fullName.indexOf(item);
+        } );
+        arr_excd_name_dir.map ( item => {
+            const ind = ~fullName.indexOf ( item );
+            if_exc_dir = if_exc_dir && !~fullName.indexOf(item);
+            debugger
         } );
 
         return if_exc_dir;
@@ -266,7 +275,8 @@ const Func_examp = ( obj_ctlg_1, arr_tag, arr_excd, arr_excf, delete_file_arr_re
                 let if_ignore = true; // search match for ignore
                 delete_file_arr_regexp.map ( item => {
                     const regExp = new RegExp ( item );
-                    if_delete = if_delete && !!name_file.match ( regExp );
+                    debugger
+                    if_delete = if_delete && name_file.match ( regExp );
                 } );
                 arr_excf.map ( item => {
                     if_ignore = if_ignore && ( item === name_file.split ( '.' )[0] );

@@ -1,1 +1,1 @@
-# fix ignore name file as  ['node_modules']
+# fix delete accoding for fileName test_ini_module.v.0.1.7.2.js
