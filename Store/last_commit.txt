@@ -1,1 +1,1 @@
-task copy Gulp_0
+step_2 Gulp_0
