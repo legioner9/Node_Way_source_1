@@ -1,1 +1,1 @@
-# fix delete accoding for fileName test_ini_module.v.0.1.7.2.js
+# fix rename param and ann discribe test_ini_module.v.0.1.7.2.js
