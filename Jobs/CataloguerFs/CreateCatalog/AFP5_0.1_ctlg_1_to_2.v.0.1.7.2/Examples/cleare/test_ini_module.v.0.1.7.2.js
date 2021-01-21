@@ -19,7 +19,7 @@ anls.preset = { if_basename: false };
 const res = anls ( 'DIR_root' );
 
 // anlsFs_1.mode.deb = true;
-// funcExamp ( anls ( 'DIR_root' ) , arr_tag , arr_exception_dir , arr_exception_file , delete_file_arr_regexp)
+// funcExamp ( anls ( 'DIR_root' ) , arr_tag , arr_exception_dir , arr_exception_file , delete_file_arr_regexp,arr_ignore_name_dir )
 funcExamp ( res, [ '#', '@@' ], [ 'excd' ], [ 'excf' ]
     ,['deg']);
 

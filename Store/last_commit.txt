@@ -1,1 +1,1 @@
-step_2 Gulp_0
+# fix ignore name file as  ['node_modules']

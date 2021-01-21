@@ -32,8 +32,1023 @@
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/Gulp/Gulp_0/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Education/Gulp/excd.Gulp_0/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/Gulp/Gulp_0/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/Education/Gulp/excd.Gulp_0/ReadMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/Gulp/Gulp_0/a" beforeDir="false" afterPath="$PROJECT_DIR$/Education/Gulp/excd.Gulp_0/a" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Education/Gulp/Gulp_0/app/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Gulp/Gulp_0/gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/Education/Gulp/Gulp_0/gulpfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/Gulp/Gulp_0/dist/file.dist" beforeDir="false" afterPath="$PROJECT_DIR$/Education/Gulp/excd.Gulp_0/dist/file.dist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/Gulp/Gulp_0/gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/Education/Gulp/excd.Gulp_0/gulpfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/Gulp/Gulp_0/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Education/Gulp/excd.Gulp_0/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/Gulp/Gulp_0/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Education/Gulp/excd.Gulp_0/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Frontend-StarterKit-main.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp 4. Подробное руководство/gulpfile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp 4. Подробное руководство/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp 4. Подробное руководство/src/fonts/Roboto-Light.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp 4. Подробное руководство/src/img/Frame 5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp 4. Подробное руководство/src/img/svg.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp 4. Подробное руководство/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp 4. Подробное руководство/src/js/func.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp 4. Подробное руководство/src/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp 4. Подробное руководство/src/scss/_fonts.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp 4. Подробное руководство/src/scss/_second.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp 4. Подробное руководство/src/scss/main.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp4-starter-master.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp4-starter-master/.eslintrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp4-starter-master/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp4-starter-master/.prettierrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp4-starter-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp4-starter-master/gulp/config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp4-starter-master/gulp/tasks/clean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp4-starter-master/gulp/tasks/htmlConvert.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp4-starter-master/gulp/tasks/images.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp4-starter-master/gulp/tasks/lighthouse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp4-starter-master/gulp/tasks/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp4-starter-master/gulp/tasks/serve.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp4-starter-master/gulp/tasks/sprite.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp4-starter-master/gulp/tasks/styles.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp4-starter-master/gulpfile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp4-starter-master/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp4-starter-master/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp4-starter-master/src/assets/css/index_styles.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp4-starter-master/src/assets/css/index_styles.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp4-starter-master/src/assets/css/index_styles_desktop.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp4-starter-master/src/assets/css/index_styles_desktop.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp4-starter-master/src/assets/css/index_styles_tablet.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp4-starter-master/src/assets/css/index_styles_tablet.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp4-starter-master/src/assets/css/inner_styles.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp4-starter-master/src/assets/css/inner_styles.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp4-starter-master/src/assets/css/inner_styles_desktop.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp4-starter-master/src/assets/css/inner_styles_desktop.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp4-starter-master/src/assets/css/inner_styles_tablet.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp4-starter-master/src/assets/css/inner_styles_tablet.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp4-starter-master/src/assets/css/source/index_styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp4-starter-master/src/assets/css/source/index_styles_desktop.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp4-starter-master/src/assets/css/source/index_styles_tablet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp4-starter-master/src/assets/css/source/inner_styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp4-starter-master/src/assets/css/source/inner_styles_desktop.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp4-starter-master/src/assets/css/source/inner_styles_tablet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp4-starter-master/src/assets/fonts/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp4-starter-master/src/assets/images/sprite/sprite.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp4-starter-master/src/assets/images/svg/flag.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp4-starter-master/src/assets/js/index_common.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp4-starter-master/src/assets/js/index_common.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp4-starter-master/src/assets/js/inner_common.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp4-starter-master/src/assets/js/inner_common.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp4-starter-master/src/assets/js/source/index/index_common.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp4-starter-master/src/assets/js/source/inner/inner_common.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp4-starter-master/src/assets/libs/normalize.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp4-starter-master/src/assets/libs/svgxuse.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp4-starter-master/src/assets/sass/common/base.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp4-starter-master/src/assets/sass/common/fonts.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp4-starter-master/src/assets/sass/common/variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp4-starter-master/src/assets/sass/index/index_styles.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp4-starter-master/src/assets/sass/index/index_styles_desktop.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp4-starter-master/src/assets/sass/index/index_styles_tablet.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp4-starter-master/src/assets/sass/inner/inner_styles.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp4-starter-master/src/assets/sass/inner/inner_styles_desktop.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp4-starter-master/src/assets/sass/inner/inner_styles_tablet.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp4-starter-master/src/assets/sass/mixins/media.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp4-starter-master/src/assets/sass/mixins/mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp4-starter-master/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp4-starter-master/src/inner.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp4-starter-master/src/js/index/index_common.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp4-starter-master/src/js/inner/inner_common.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp4-starter-master/src/pages/common/mixins.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp4-starter-master/src/pages/index.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp4-starter-master/src/pages/inner.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp4-starter-master/src/pages/layout/base.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp4-starter-master/src/pages/modules/footer/footer.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp4-starter-master/src/pages/modules/header/header.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp4-starter-master/src/static/favicon/android-chrome-192x192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp4-starter-master/src/static/favicon/android-chrome-512x512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp4-starter-master/src/static/favicon/apple-touch-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp4-starter-master/src/static/favicon/browserconfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp4-starter-master/src/static/favicon/favicon-16x16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp4-starter-master/src/static/favicon/favicon-32x32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp4-starter-master/src/static/favicon/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp4-starter-master/src/static/favicon/mstile-150x150.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp4-starter-master/src/static/favicon/safari-pinned-tab.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp4-starter-master/src/static/favicon/site.webmanifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp_project_1/CreateDirFree_v_1_gulp_1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp_project_1/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp_project_1/_gulp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp_project_1/app/assets/css/0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp_project_1/app/assets/css/new.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp_project_1/app/assets/fonts/0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp_project_1/app/assets/img/0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp_project_1/app/assets/js/0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp_project_1/app/assets/libs/0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp_project_1/app/assets/sass/0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp_project_1/app/css/0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp_project_1/app/css/st.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp_project_1/app/fonts/0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp_project_1/app/img/0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp_project_1/app/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp_project_1/app/js/0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp_project_1/app/libs/0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp_project_1/app/sass/0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp_project_1/cat.Gulp_project_1/dir.Gulp_project_1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp_project_1/dist/0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp_project_1/gulpfile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp_project_1/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp_project_1/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp_project_gulp_pug_1/CreateDirFree_v_1_gulp_pug_1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp_project_gulp_pug_1/CreateDirFree_v_1_this_start.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp_project_gulp_pug_1/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp_project_gulp_pug_1/_gulp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp_project_gulp_pug_1/cat.Gulp_project_gulp_pug_1/dir.Gulp_project_gulp_pug_1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp_project_gulp_pug_1/gulp/config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp_project_gulp_pug_1/gulp/tasks/clean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp_project_gulp_pug_1/gulpfile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp_project_gulp_pug_1/includes/foot.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp_project_gulp_pug_1/includes/head.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp_project_gulp_pug_1/includes/index.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp_project_gulp_pug_1/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp_project_gulp_pug_1/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp_project_gulp_pug_1/pug_exa/exa_name.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp_project_gulp_pug_1/pug_exa/gulp/tasks/clean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp_project_gulp_pug_1/pug_exa/pug_Compiller_exa_name.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp_project_gulp_pug_1/src/img/0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp_project_gulp_pug_1/src/js/mane.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp_project_gulp_pug_1/src/local_modules/jquery/dist/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp_project_gulp_pug_1/src/pages/about.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp_project_gulp_pug_1/src/pages/common/footer.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp_project_gulp_pug_1/src/pages/common/header.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp_project_gulp_pug_1/src/pages/common/layout.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp_project_gulp_pug_1/src/pages/includes/about.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp_project_gulp_pug_1/src/pages/includes/about/company-info.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp_project_gulp_pug_1/src/pages/includes/index.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp_project_gulp_pug_1/src/pages/includes/index/banner.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp_project_gulp_pug_1/src/pages/index.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp_project_gulp_pug_1/src/stiles/common/global.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp_project_gulp_pug_1/src/stiles/mixins/media.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp_project_gulp_pug_1/src/stiles/style.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp_project_gulp_pug_1/src/stiles/utils/fonts.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Gulp_project_gulp_pug_1/src/stiles/utils/variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Start-template-gulp-4-pug-sass-master.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Start-template-gulp-4-pug-sass-master/.csscomb.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Start-template-gulp-4-pug-sass-master/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Start-template-gulp-4-pug-sass-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Start-template-gulp-4-pug-sass-master/dev/pug/index.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Start-template-gulp-4-pug-sass-master/dev/pug/modules/footer/footer.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Start-template-gulp-4-pug-sass-master/dev/pug/modules/header/header.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Start-template-gulp-4-pug-sass-master/dev/pug/pages/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Start-template-gulp-4-pug-sass-master/dev/pug/template/main.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Start-template-gulp-4-pug-sass-master/dev/pug/utils/mixins.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Start-template-gulp-4-pug-sass-master/dev/static/images/content/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Start-template-gulp-4-pug-sass-master/dev/static/images/general/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Start-template-gulp-4-pug-sass-master/dev/static/images/svg/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Start-template-gulp-4-pug-sass-master/dev/static/js/jquery-3.3.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Start-template-gulp-4-pug-sass-master/dev/static/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Start-template-gulp-4-pug-sass-master/dev/static/styles/modules/buttons/buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Start-template-gulp-4-pug-sass-master/dev/static/styles/modules/footer/footer.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Start-template-gulp-4-pug-sass-master/dev/static/styles/modules/header/header.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Start-template-gulp-4-pug-sass-master/dev/static/styles/modules/main-nav/main-nav.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Start-template-gulp-4-pug-sass-master/dev/static/styles/modules/modules.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Start-template-gulp-4-pug-sass-master/dev/static/styles/styles.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Start-template-gulp-4-pug-sass-master/dev/static/styles/utils/fonts.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Start-template-gulp-4-pug-sass-master/dev/static/styles/utils/libs.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Start-template-gulp-4-pug-sass-master/dev/static/styles/utils/mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Start-template-gulp-4-pug-sass-master/dev/static/styles/utils/vars.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Start-template-gulp-4-pug-sass-master/dev/ui-kit/ui-breadcrumbs/ui-breadcrumbs.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Start-template-gulp-4-pug-sass-master/dev/ui-kit/ui-breadcrumbs/ui-breadcrumbs.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Start-template-gulp-4-pug-sass-master/dev/ui-kit/ui-checkbox/ui-checkbox.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Start-template-gulp-4-pug-sass-master/dev/ui-kit/ui-checkbox/ui-checkbox.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Start-template-gulp-4-pug-sass-master/dev/ui-kit/ui-counter/ui-counter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Start-template-gulp-4-pug-sass-master/dev/ui-kit/ui-counter/ui-counter.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Start-template-gulp-4-pug-sass-master/dev/ui-kit/ui-counter/ui-counter.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Start-template-gulp-4-pug-sass-master/dev/ui-kit/ui-sandwich/ui-sandwich.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Start-template-gulp-4-pug-sass-master/dev/ui-kit/ui-sandwich/ui-sandwich.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Start-template-gulp-4-pug-sass-master/dev/ui-kit/ui-sandwich/ui-sandwich.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Start-template-gulp-4-pug-sass-master/dev/ui-kit/ui-select/ui-select.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Start-template-gulp-4-pug-sass-master/dev/ui-kit/ui-select/ui-select.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Start-template-gulp-4-pug-sass-master/dev/ui-kit/ui-select/ui-select.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Start-template-gulp-4-pug-sass-master/dev/ui-kit/ui-socials/ui-socials.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Start-template-gulp-4-pug-sass-master/dev/ui-kit/ui-socials/ui-socials.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Start-template-gulp-4-pug-sass-master/dev/ui-kit/ui-tab/ui-tab.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Start-template-gulp-4-pug-sass-master/dev/ui-kit/ui-tab/ui-tab.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Start-template-gulp-4-pug-sass-master/dev/ui-kit/ui-tab/ui-tab.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Start-template-gulp-4-pug-sass-master/gulp/path/tasks.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Start-template-gulp-4-pug-sass-master/gulp/tasks/clean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Start-template-gulp-4-pug-sass-master/gulp/tasks/fonts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Start-template-gulp-4-pug-sass-master/gulp/tasks/image.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Start-template-gulp-4-pug-sass-master/gulp/tasks/pug.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Start-template-gulp-4-pug-sass-master/gulp/tasks/scripts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Start-template-gulp-4-pug-sass-master/gulp/tasks/serve.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Start-template-gulp-4-pug-sass-master/gulp/tasks/styles.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Start-template-gulp-4-pug-sass-master/gulp/tasks/svg.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Start-template-gulp-4-pug-sass-master/gulp/tasks/watch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Start-template-gulp-4-pug-sass-master/gulpfile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/Start-template-gulp-4-pug-sass-master/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/bootstrap-4-sass-gulp-4-boilerplate-master.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/bootstrap-4-sass-gulp-4-boilerplate-master/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/bootstrap-4-sass-gulp-4-boilerplate-master/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/bootstrap-4-sass-gulp-4-boilerplate-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/bootstrap-4-sass-gulp-4-boilerplate-master/assets/img/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/bootstrap-4-sass-gulp-4-boilerplate-master/assets/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/bootstrap-4-sass-gulp-4-boilerplate-master/assets/scss/_bootstrap_variable_overrides.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/bootstrap-4-sass-gulp-4-boilerplate-master/assets/scss/_general.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/bootstrap-4-sass-gulp-4-boilerplate-master/assets/scss/_layout.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/bootstrap-4-sass-gulp-4-boilerplate-master/assets/scss/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/bootstrap-4-sass-gulp-4-boilerplate-master/assets/scss/_module.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/bootstrap-4-sass-gulp-4-boilerplate-master/assets/scss/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/bootstrap-4-sass-gulp-4-boilerplate-master/assets/scss/app.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/bootstrap-4-sass-gulp-4-boilerplate-master/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/bootstrap-4-sass-gulp-4-boilerplate-master/gulpfile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/bootstrap-4-sass-gulp-4-boilerplate-master/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/bootstrap-4-sass-gulp-4-boilerplate-master/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/build_gulp4-master.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/build_gulp4-master/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/build_gulp4-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/build_gulp4-master/gulp/config/tasks.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/build_gulp4-master/gulp/tasks/fonts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/build_gulp4-master/gulp/tasks/img.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/build_gulp4-master/gulp/tasks/pug.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/build_gulp4-master/gulp/tasks/sass.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/build_gulp4-master/gulp/tasks/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/build_gulp4-master/gulp/tasks/serve.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/build_gulp4-master/gulp/tasks/svg.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/build_gulp4-master/gulp/tasks/watch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/build_gulp4-master/gulpfile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/build_gulp4-master/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/build_gulp4-master/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/build_gulp4-master/src/pug/includes/content-cont.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/build_gulp4-master/src/pug/includes/content-main.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/build_gulp4-master/src/pug/includes/footer-modals.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/build_gulp4-master/src/pug/includes/footer.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/build_gulp4-master/src/pug/includes/header.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/build_gulp4-master/src/pug/includes/links.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/build_gulp4-master/src/pug/includes/mixins.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/build_gulp4-master/src/pug/layout/layout.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/build_gulp4-master/src/pug/pages/cont.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/build_gulp4-master/src/pug/pages/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/build_gulp4-master/src/pug/pages/index.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/build_gulp4-master/src/static/css/import/fonts.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/build_gulp4-master/src/static/css/import/reset.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/build_gulp4-master/src/static/css/import/reset.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/build_gulp4-master/src/static/css/main.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/build_gulp4-master/src/static/css/main.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/build_gulp4-master/src/static/fonts/Gilroy-Bold/Gilroy-Bold.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/build_gulp4-master/src/static/fonts/Gilroy-Bold/Gilroy-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/build_gulp4-master/src/static/fonts/Gilroy-Bold/Gilroy-Bold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/build_gulp4-master/src/static/fonts/Gilroy-Medium/Gilroy-Medium.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/build_gulp4-master/src/static/fonts/Gilroy-Medium/Gilroy-Medium.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/build_gulp4-master/src/static/fonts/Gilroy-Medium/Gilroy-Medium.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/build_gulp4-master/src/static/fonts/Gilroy-Regular/Gilroy-Regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/build_gulp4-master/src/static/fonts/Gilroy-Regular/Gilroy-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/build_gulp4-master/src/static/fonts/Gilroy-Regular/Gilroy-Regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/build_gulp4-master/src/static/fonts/HelveticaNeueCyr-Bold/HelveticaNeueCyr-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/build_gulp4-master/src/static/fonts/HelveticaNeueCyr-Bold/HelveticaNeueCyr-Bold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/build_gulp4-master/src/static/fonts/HelveticaNeueCyr-Bold/HelveticaNeueCyr-Bold.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/build_gulp4-master/src/static/fonts/HelveticaNeueCyr-Light/HelveticaNeueCyr-Light.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/build_gulp4-master/src/static/fonts/HelveticaNeueCyr-Light/HelveticaNeueCyr-Light.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/build_gulp4-master/src/static/fonts/HelveticaNeueCyr-Light/HelveticaNeueCyr-Light.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/build_gulp4-master/src/static/fonts/HelveticaNeueCyr-Medium/HelveticaNeueCyr-Medium.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/build_gulp4-master/src/static/fonts/HelveticaNeueCyr-Medium/HelveticaNeueCyr-Medium.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/build_gulp4-master/src/static/fonts/HelveticaNeueCyr-Medium/HelveticaNeueCyr-Medium.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/build_gulp4-master/src/static/img/svg/hands.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/build_gulp4-master/src/static/img/svg/hello.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/build_gulp4-master/src/static/js/common.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/build_gulp4-master/src/static/libs/maskedinput/jquery.maskedinput.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/build_gulp4-master/src/static/libs/selectric/jquery.selectric.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/build_gulp4-master/src/static/libs/selectric/selectric.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/cat.Gulp/dir.Gulp.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-maxgraph-master.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-maxgraph-master/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-maxgraph-master/.stylelintrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-maxgraph-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-maxgraph-master/gulpfile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-maxgraph-master/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-maxgraph-master/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-maxgraph-master/src/fonts/put your fonts into this folder.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-maxgraph-master/src/html/footer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-maxgraph-master/src/html/header.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-maxgraph-master/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-maxgraph-master/src/js/_vars.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-maxgraph-master/src/js/functions/resize.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-maxgraph-master/src/js/functions/smooth-scroll.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-maxgraph-master/src/js/functions/stop-scroll.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-maxgraph-master/src/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-maxgraph-master/src/js/vendor/focus-visible.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-maxgraph-master/src/resources/PHPMailer/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-maxgraph-master/src/resources/PHPMailer/PHPMailerAutoload.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-maxgraph-master/src/resources/PHPMailer/VERSION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-maxgraph-master/src/resources/PHPMailer/class.phpmailer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-maxgraph-master/src/resources/PHPMailer/class.phpmaileroauth.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-maxgraph-master/src/resources/PHPMailer/class.phpmaileroauthgoogle.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-maxgraph-master/src/resources/PHPMailer/class.pop3.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-maxgraph-master/src/resources/PHPMailer/class.smtp.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-maxgraph-master/src/resources/PHPMailer/extras/EasyPeasyICS.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-maxgraph-master/src/resources/PHPMailer/extras/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-maxgraph-master/src/resources/PHPMailer/extras/htmlfilter.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-maxgraph-master/src/resources/PHPMailer/extras/ntlm_sasl_client.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-maxgraph-master/src/resources/PHPMailer/get_oauth_token.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-maxgraph-master/src/resources/PHPMailer/language/phpmailer.lang-am.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-maxgraph-master/src/resources/PHPMailer/language/phpmailer.lang-ar.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-maxgraph-master/src/resources/PHPMailer/language/phpmailer.lang-az.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-maxgraph-master/src/resources/PHPMailer/language/phpmailer.lang-ba.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-maxgraph-master/src/resources/PHPMailer/language/phpmailer.lang-be.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-maxgraph-master/src/resources/PHPMailer/language/phpmailer.lang-bg.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-maxgraph-master/src/resources/PHPMailer/language/phpmailer.lang-ca.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-maxgraph-master/src/resources/PHPMailer/language/phpmailer.lang-ch.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-maxgraph-master/src/resources/PHPMailer/language/phpmailer.lang-cs.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-maxgraph-master/src/resources/PHPMailer/language/phpmailer.lang-da.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-maxgraph-master/src/resources/PHPMailer/language/phpmailer.lang-de.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-maxgraph-master/src/resources/PHPMailer/language/phpmailer.lang-el.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-maxgraph-master/src/resources/PHPMailer/language/phpmailer.lang-eo.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-maxgraph-master/src/resources/PHPMailer/language/phpmailer.lang-es.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-maxgraph-master/src/resources/PHPMailer/language/phpmailer.lang-et.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-maxgraph-master/src/resources/PHPMailer/language/phpmailer.lang-fa.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-maxgraph-master/src/resources/PHPMailer/language/phpmailer.lang-fi.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-maxgraph-master/src/resources/PHPMailer/language/phpmailer.lang-fo.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-maxgraph-master/src/resources/PHPMailer/language/phpmailer.lang-fr.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-maxgraph-master/src/resources/PHPMailer/language/phpmailer.lang-gl.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-maxgraph-master/src/resources/PHPMailer/language/phpmailer.lang-he.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-maxgraph-master/src/resources/PHPMailer/language/phpmailer.lang-hr.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-maxgraph-master/src/resources/PHPMailer/language/phpmailer.lang-hu.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-maxgraph-master/src/resources/PHPMailer/language/phpmailer.lang-id.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-maxgraph-master/src/resources/PHPMailer/language/phpmailer.lang-it.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-maxgraph-master/src/resources/PHPMailer/language/phpmailer.lang-ja.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-maxgraph-master/src/resources/PHPMailer/language/phpmailer.lang-ka.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-maxgraph-master/src/resources/PHPMailer/language/phpmailer.lang-ko.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-maxgraph-master/src/resources/PHPMailer/language/phpmailer.lang-lt.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-maxgraph-master/src/resources/PHPMailer/language/phpmailer.lang-lv.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-maxgraph-master/src/resources/PHPMailer/language/phpmailer.lang-ms.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-maxgraph-master/src/resources/PHPMailer/language/phpmailer.lang-nb.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-maxgraph-master/src/resources/PHPMailer/language/phpmailer.lang-nl.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-maxgraph-master/src/resources/PHPMailer/language/phpmailer.lang-pl.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-maxgraph-master/src/resources/PHPMailer/language/phpmailer.lang-pt.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-maxgraph-master/src/resources/PHPMailer/language/phpmailer.lang-pt_br.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-maxgraph-master/src/resources/PHPMailer/language/phpmailer.lang-ro.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-maxgraph-master/src/resources/PHPMailer/language/phpmailer.lang-rs.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-maxgraph-master/src/resources/PHPMailer/language/phpmailer.lang-ru.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-maxgraph-master/src/resources/PHPMailer/language/phpmailer.lang-sk.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-maxgraph-master/src/resources/PHPMailer/language/phpmailer.lang-sl.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-maxgraph-master/src/resources/PHPMailer/language/phpmailer.lang-sv.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-maxgraph-master/src/resources/PHPMailer/language/phpmailer.lang-tr.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-maxgraph-master/src/resources/PHPMailer/language/phpmailer.lang-uk.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-maxgraph-master/src/resources/PHPMailer/language/phpmailer.lang-vi.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-maxgraph-master/src/resources/PHPMailer/language/phpmailer.lang-zh.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-maxgraph-master/src/resources/PHPMailer/language/phpmailer.lang-zh_cn.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-maxgraph-master/src/resources/mail.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-maxgraph-master/src/scss/_fonts.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-maxgraph-master/src/scss/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-maxgraph-master/src/scss/_settings.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-maxgraph-master/src/scss/_vars.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-maxgraph-master/src/scss/_vendor.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-maxgraph-master/src/scss/main.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-maxgraph-master/src/scss/mixins/_breakpoint.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-maxgraph-master/src/scss/mixins/_burger.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-maxgraph-master/src/scss/mixins/_font-face.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-maxgraph-master/src/scss/mixins/_stop-scroll.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-maxgraph-master/src/scss/mixins/_visually-hidden.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-maxgraph-master/src/scss/vendor/normalize.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-maxgraph-master/src/scss/vendor/simple-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-project-bootstrap-4-master.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-project-bootstrap-4-master/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-project-bootstrap-4-master/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-project-bootstrap-4-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-project-bootstrap-4-master/assets/src/fonts/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-project-bootstrap-4-master/assets/src/img/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-project-bootstrap-4-master/assets/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-project-bootstrap-4-master/assets/src/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-project-bootstrap-4-master/assets/src/js/my.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-project-bootstrap-4-master/assets/src/style/main.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-project-bootstrap-4-master/assets/src/style/my.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-project-bootstrap-4-master/assets/src/style/variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-project-bootstrap-4-master/assets/src/template/footer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-project-bootstrap-4-master/assets/src/template/head.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-project-bootstrap-4-master/gulpfile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-project-bootstrap-4-master/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-scss-starter-master.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-scss-starter-master/.babelrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-scss-starter-master/.bemrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-scss-starter-master/.browserlistrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-scss-starter-master/.eslintrc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-scss-starter-master/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-scss-starter-master/.stylelintignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-scss-starter-master/.stylelintrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-scss-starter-master/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-scss-starter-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-scss-starter-master/gulp-tasks/clean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-scss-starter-master/gulp-tasks/favicons.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-scss-starter-master/gulp-tasks/fonts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-scss-starter-master/gulp-tasks/gzip.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-scss-starter-master/gulp-tasks/images.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-scss-starter-master/gulp-tasks/scripts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-scss-starter-master/gulp-tasks/serve.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-scss-starter-master/gulp-tasks/smart-grid.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-scss-starter-master/gulp-tasks/sprites.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-scss-starter-master/gulp-tasks/styles.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-scss-starter-master/gulp-tasks/views.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-scss-starter-master/gulp-tasks/webp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-scss-starter-master/gulpfile.babel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-scss-starter-master/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-scss-starter-master/src/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-scss-starter-master/src/blocks/_modules.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-scss-starter-master/src/blocks/modules/footer/footer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-scss-starter-master/src/blocks/modules/footer/footer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-scss-starter-master/src/blocks/modules/footer/footer.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-scss-starter-master/src/blocks/modules/header/header.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-scss-starter-master/src/blocks/modules/header/header.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-scss-starter-master/src/blocks/modules/header/header.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-scss-starter-master/src/fonts/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-scss-starter-master/src/img/favicon/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-scss-starter-master/src/img/svg/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-scss-starter-master/src/js/import/modules.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-scss-starter-master/src/js/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-scss-starter-master/src/styles/base/_fonts.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-scss-starter-master/src/styles/base/_general.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-scss-starter-master/src/styles/helpers/_functions.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-scss-starter-master/src/styles/helpers/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-scss-starter-master/src/styles/helpers/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-scss-starter-master/src/styles/main.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-scss-starter-master/src/styles/vendor/_libs.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-scss-starter-master/src/styles/vendor/import/_normalize.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-scss-starter-master/src/views/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-scss-starter-master/src/views/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-scss-starter-master/src/views/pages/page.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-scss-starter-master/webpack.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-template-master.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-template-master/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-template-master/.eslintignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-template-master/.eslintrc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-template-master/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-template-master/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-template-master/.pug-lint.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-template-master/.stylelintrc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-template-master/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-template-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-template-master/_package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-template-master/build/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-template-master/build/css/style.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-template-master/build/img/forest.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-template-master/build/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-template-master/build/js/main.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-template-master/cat.gulp-template-master/dir.gulp-template-master.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-template-master/gulp/config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-template-master/gulp/tasks/clean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-template-master/gulp/tasks/copyDependencies.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-template-master/gulp/tasks/fonts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-template-master/gulp/tasks/imageMinify.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-template-master/gulp/tasks/lighthouse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-template-master/gulp/tasks/pug2html.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-template-master/gulp/tasks/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-template-master/gulp/tasks/serve.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-template-master/gulp/tasks/styles.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-template-master/gulp/tasks/svgSprite.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-template-master/gulpfile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-template-master/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-template-master/src/img/forest.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-template-master/src/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-template-master/src/local_modules/jquery/dist/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-template-master/src/local_modules/jquery/dist/jquery.slim.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-template-master/src/local_modules/normalize.css/normalize.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-template-master/src/pages/about.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-template-master/src/pages/common/footer.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-template-master/src/pages/common/header.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-template-master/src/pages/common/layout.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-template-master/src/pages/includes/about/company-info.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-template-master/src/pages/includes/index/banner.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-template-master/src/pages/index.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-template-master/src/styles/common/footer.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-template-master/src/styles/common/global.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-template-master/src/styles/common/header.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-template-master/src/styles/mixins/media.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-template-master/src/styles/style.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-template-master/src/styles/utils/fonts.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp-template-master/src/styles/utils/variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-for-frontend-master.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-for-frontend-master/.eslintrc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-for-frontend-master/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-for-frontend-master/.stylelintrc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-for-frontend-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-for-frontend-master/dev/pug/helpers/mixins.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-for-frontend-master/dev/pug/index.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-for-frontend-master/dev/pug/layout/main.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-for-frontend-master/dev/pug/modules/footer/footer.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-for-frontend-master/dev/pug/modules/header/header.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-for-frontend-master/dev/pug/pages/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-for-frontend-master/dev/static/fonts/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-for-frontend-master/dev/static/fonts/opensans/opensans.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-for-frontend-master/dev/static/fonts/opensans/opensans/opensans.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-for-frontend-master/dev/static/fonts/opensans/opensans/opensans.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-for-frontend-master/dev/static/fonts/opensans/opensans/opensans.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-for-frontend-master/dev/static/fonts/opensans/opensansbold/opensansbold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-for-frontend-master/dev/static/fonts/opensans/opensansbold/opensansbold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-for-frontend-master/dev/static/fonts/opensans/opensansbold/opensansbold.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-for-frontend-master/dev/static/fonts/opensans/opensansbolditalic/opensansbolditalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-for-frontend-master/dev/static/fonts/opensans/opensansbolditalic/opensansbolditalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-for-frontend-master/dev/static/fonts/opensans/opensansbolditalic/opensansbolditalic.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-for-frontend-master/dev/static/fonts/opensans/opensansextrabold/opensansextrabold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-for-frontend-master/dev/static/fonts/opensans/opensansextrabold/opensansextrabold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-for-frontend-master/dev/static/fonts/opensans/opensansextrabold/opensansextrabold.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-for-frontend-master/dev/static/fonts/opensans/opensansextrabolditalic/opensansextrabolditalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-for-frontend-master/dev/static/fonts/opensans/opensansextrabolditalic/opensansextrabolditalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-for-frontend-master/dev/static/fonts/opensans/opensansextrabolditalic/opensansextrabolditalic.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-for-frontend-master/dev/static/fonts/opensans/opensansitalic/opensansitalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-for-frontend-master/dev/static/fonts/opensans/opensansitalic/opensansitalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-for-frontend-master/dev/static/fonts/opensans/opensansitalic/opensansitalic.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-for-frontend-master/dev/static/fonts/opensans/opensanslight/opensanslight.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-for-frontend-master/dev/static/fonts/opensans/opensanslight/opensanslight.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-for-frontend-master/dev/static/fonts/opensans/opensanslight/opensanslight.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-for-frontend-master/dev/static/fonts/opensans/opensanslightitalic/opensanslightitalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-for-frontend-master/dev/static/fonts/opensans/opensanslightitalic/opensanslightitalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-for-frontend-master/dev/static/fonts/opensans/opensanslightitalic/opensanslightitalic.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-for-frontend-master/dev/static/fonts/opensans/opensanssemibold/opensanssemibold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-for-frontend-master/dev/static/fonts/opensans/opensanssemibold/opensanssemibold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-for-frontend-master/dev/static/fonts/opensans/opensanssemibold/opensanssemibold.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-for-frontend-master/dev/static/fonts/opensans/opensanssemibolditalic/opensanssemibolditalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-for-frontend-master/dev/static/fonts/opensans/opensanssemibolditalic/opensanssemibolditalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-for-frontend-master/dev/static/fonts/opensans/opensanssemibolditalic/opensanssemibolditalic.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-for-frontend-master/dev/static/images/common/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-for-frontend-master/dev/static/images/content/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-for-frontend-master/dev/static/images/sprite/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-for-frontend-master/dev/static/images/sprite/png/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-for-frontend-master/dev/static/images/sprite/svg/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-for-frontend-master/dev/static/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-for-frontend-master/dev/static/js/vendor/jquery-3.3.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-for-frontend-master/dev/static/styles/modules/buttons/buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-for-frontend-master/dev/static/styles/modules/footer/footer.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-for-frontend-master/dev/static/styles/modules/header/header.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-for-frontend-master/dev/static/styles/modules/main-nav/main-nav.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-for-frontend-master/dev/static/styles/modules/modules.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-for-frontend-master/dev/static/styles/styles.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-for-frontend-master/dev/static/styles/utils/fonts.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-for-frontend-master/dev/static/styles/utils/libs.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-for-frontend-master/dev/static/styles/utils/mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-for-frontend-master/dev/static/styles/utils/sprite.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-for-frontend-master/dev/static/styles/utils/vars.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-for-frontend-master/dev/ui-kit/ui-breadcrumbs/ui-breadcrumbs.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-for-frontend-master/dev/ui-kit/ui-breadcrumbs/ui-breadcrumbs.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-for-frontend-master/dev/ui-kit/ui-checkbox/ui-checkbox.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-for-frontend-master/dev/ui-kit/ui-checkbox/ui-checkbox.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-for-frontend-master/dev/ui-kit/ui-counter/ui-counter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-for-frontend-master/dev/ui-kit/ui-counter/ui-counter.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-for-frontend-master/dev/ui-kit/ui-counter/ui-counter.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-for-frontend-master/dev/ui-kit/ui-sandwich/ui-sandwich.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-for-frontend-master/dev/ui-kit/ui-sandwich/ui-sandwich.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-for-frontend-master/dev/ui-kit/ui-sandwich/ui-sandwich.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-for-frontend-master/dev/ui-kit/ui-select/ui-select.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-for-frontend-master/dev/ui-kit/ui-select/ui-select.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-for-frontend-master/dev/ui-kit/ui-select/ui-select.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-for-frontend-master/dev/ui-kit/ui-socials/ui-socials.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-for-frontend-master/dev/ui-kit/ui-socials/ui-socials.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-for-frontend-master/dev/ui-kit/ui-tab/ui-tab.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-for-frontend-master/dev/ui-kit/ui-tab/ui-tab.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-for-frontend-master/dev/ui-kit/ui-tab/ui-tab.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-for-frontend-master/gulp/tasks/clean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-for-frontend-master/gulp/tasks/fonts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-for-frontend-master/gulp/tasks/imageMinify.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-for-frontend-master/gulp/tasks/pug.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-for-frontend-master/gulp/tasks/scripts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-for-frontend-master/gulp/tasks/serve.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-for-frontend-master/gulp/tasks/spritePNG.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-for-frontend-master/gulp/tasks/spriteSVG.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-for-frontend-master/gulp/tasks/styles.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-for-frontend-master/gulp/tasks/vendorsJS.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-for-frontend-master/gulpfile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-for-frontend-master/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-project-starter-master.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-project-starter-master/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-project-starter-master/.gulp/tinypng/heather-4411842_1920.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-project-starter-master/.gulp/tinypng/sea-4242303_1920.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-project-starter-master/gulp/config/tasks.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-project-starter-master/gulp/tasks/clean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-project-starter-master/gulp/tasks/imgmin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-project-starter-master/gulp/tasks/pug.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-project-starter-master/gulp/tasks/sass.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-project-starter-master/gulp/tasks/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-project-starter-master/gulp/tasks/serve.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-project-starter-master/gulp/tasks/svg.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-project-starter-master/gulp/tasks/watch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-project-starter-master/gulpfile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-project-starter-master/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-project-starter-master/src/pug/pages/index.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-project-starter-master/src/static/img/heather-4411842_1920.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-project-starter-master/src/static/img/sea-4242303_1920.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-project-starter-master/src/static/img/svg/arrow-point-to-right.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-project-starter-master/src/static/img/svg/reload.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-project-starter-master/src/static/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-project-starter-master/src/static/scss/libs.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-project-starter-master/src/static/scss/main.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-pug-scss-ts-template-develop.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-pug-scss-ts-template-develop/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-pug-scss-ts-template-develop/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-pug-scss-ts-template-develop/SECURITY.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-pug-scss-ts-template-develop/dist/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-pug-scss-ts-template-develop/dist/image/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-pug-scss-ts-template-develop/dist/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-pug-scss-ts-template-develop/dist/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-pug-scss-ts-template-develop/gulpfile.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-pug-scss-ts-template-develop/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-pug-scss-ts-template-develop/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-pug-scss-ts-template-develop/src/image/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-pug-scss-ts-template-develop/src/pug/include/_base.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-pug-scss-ts-template-develop/src/pug/index.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-pug-scss-ts-template-develop/src/scss/style.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-pug-scss-ts-template-develop/src/typescript/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-starter-pack-master.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-starter-pack-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-starter-pack-master/bash.exe.stackdump" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-starter-pack-master/data/content.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-starter-pack-master/data/navigation.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-starter-pack-master/dev/pug/layout/footer.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-starter-pack-master/dev/pug/layout/header.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-starter-pack-master/dev/pug/layout/main.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-starter-pack-master/dev/pug/modules/icons.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-starter-pack-master/dev/pug/modules/mixin.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-starter-pack-master/dev/pug/modules/mobile.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-starter-pack-master/dev/pug/modules/modal.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-starter-pack-master/dev/pug/modules/slider/reviews-slider.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-starter-pack-master/dev/pug/modules/widget/navigation.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-starter-pack-master/dev/pug/modules/widget/pagination.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-starter-pack-master/dev/pug/pages/index.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-starter-pack-master/dev/static/css/fancybox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-starter-pack-master/dev/static/css/jquery-ui.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-starter-pack-master/dev/static/css/swiper.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-starter-pack-master/dev/static/img/general/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-starter-pack-master/dev/static/img/general/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-starter-pack-master/dev/static/img/general/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-starter-pack-master/dev/static/img/svg/ic-cross.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-starter-pack-master/dev/static/img/ui/ui-icons_444444_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-starter-pack-master/dev/static/img/ui/ui-icons_555555_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-starter-pack-master/dev/static/img/ui/ui-icons_777620_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-starter-pack-master/dev/static/img/ui/ui-icons_777777_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-starter-pack-master/dev/static/img/ui/ui-icons_cc0000_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-starter-pack-master/dev/static/img/ui/ui-icons_ffffff_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-starter-pack-master/dev/static/js/fancybox.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-starter-pack-master/dev/static/js/jquery-3.4.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-starter-pack-master/dev/static/js/jquery-ui.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-starter-pack-master/dev/static/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-starter-pack-master/dev/static/js/swiper.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-starter-pack-master/dev/static/scss/components/_breadcrumbs.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-starter-pack-master/dev/static/scss/components/_customize.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-starter-pack-master/dev/static/scss/components/_general.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-starter-pack-master/dev/static/scss/components/_grid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-starter-pack-master/dev/static/scss/components/_media.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-starter-pack-master/dev/static/scss/components/_mobile.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-starter-pack-master/dev/static/scss/components/_modal.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-starter-pack-master/dev/static/scss/components/_navigation.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-starter-pack-master/dev/static/scss/components/_pagination.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-starter-pack-master/dev/static/scss/components/_reset.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-starter-pack-master/dev/static/scss/components/_wysiwyg.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-starter-pack-master/dev/static/scss/includes/_fonts.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-starter-pack-master/dev/static/scss/includes/_var.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-starter-pack-master/dev/static/scss/modules/_footer.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-starter-pack-master/dev/static/scss/modules/_header.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-starter-pack-master/dev/static/scss/modules/_main.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-starter-pack-master/dev/static/scss/style.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-starter-pack-master/gulp/paths/tasks.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-starter-pack-master/gulp/tasks/clean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-starter-pack-master/gulp/tasks/fonts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-starter-pack-master/gulp/tasks/img.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-starter-pack-master/gulp/tasks/libs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-starter-pack-master/gulp/tasks/pug.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-starter-pack-master/gulp/tasks/scripts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-starter-pack-master/gulp/tasks/serve.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-starter-pack-master/gulp/tasks/styles.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-starter-pack-master/gulp/tasks/svg.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-starter-pack-master/gulp/tasks/watch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-starter-pack-master/gulpfile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-starter-pack-master/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-starter-pack-master/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-template-master.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-template-master/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-template-master/gulp/config/tasks.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-template-master/gulp/tasks/clean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-template-master/gulp/tasks/img.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-template-master/gulp/tasks/pug.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-template-master/gulp/tasks/sass.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-template-master/gulp/tasks/scripts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-template-master/gulp/tasks/serve.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-template-master/gulp/tasks/svg.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-template-master/gulp/tasks/watch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-template-master/gulpfile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-template-master/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-template-master/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-template-master/src/pug/pages/index.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-template-master/src/static/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-template-master/src/static/scss/libs.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4-template-master/src/static/scss/main.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4starter-master.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4starter-master/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4starter-master/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4starter-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4starter-master/dev/assets/fonts/RobotoBold/RobotoBold.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4starter-master/dev/assets/fonts/RobotoBold/RobotoBold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4starter-master/dev/assets/fonts/RobotoBold/RobotoBold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4starter-master/dev/assets/fonts/RobotoRegular/RobotoRegular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4starter-master/dev/assets/fonts/RobotoRegular/RobotoRegular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4starter-master/dev/assets/fonts/RobotoRegular/RobotoRegular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4starter-master/dev/assets/img/favicon/apple-touch-icon-180x180.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4starter-master/dev/assets/img/favicon/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4starter-master/dev/assets/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4starter-master/dev/assets/sass/fonts.sass" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4starter-master/dev/assets/sass/libs.sass" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4starter-master/dev/assets/sass/main.sass" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4starter-master/dev/assets/sass/media.sass" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4starter-master/dev/assets/sass/mixins.sass" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4starter-master/dev/assets/sass/modules/footer.sass" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4starter-master/dev/assets/sass/modules/header.sass" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4starter-master/dev/assets/sass/modules/modules.sass" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4starter-master/dev/assets/sass/pages/index.sass" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4starter-master/dev/assets/sass/vars.sass" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4starter-master/dev/ht.access" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4starter-master/dev/pug/layout/main.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4starter-master/dev/pug/mixins.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4starter-master/dev/pug/modules/footer.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4starter-master/dev/pug/modules/header.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4starter-master/dev/pug/pages/index.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4starter-master/gulp/tasks.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4starter-master/gulp/tasks/clean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4starter-master/gulp/tasks/fonts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4starter-master/gulp/tasks/img.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4starter-master/gulp/tasks/pug.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4starter-master/gulp/tasks/scripts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4starter-master/gulp/tasks/serve.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4starter-master/gulp/tasks/styles.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4starter-master/gulp/tasks/svg.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4starter-master/gulp/tasks/watch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4starter-master/gulpfile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4starter-master/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/gulp4starter-master/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/horizon-boilerplate-master.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/horizon-boilerplate-master/.babelrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/horizon-boilerplate-master/.browserslistrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/horizon-boilerplate-master/.eslintrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/horizon-boilerplate-master/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/horizon-boilerplate-master/.nvmrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/horizon-boilerplate-master/.prettierignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/horizon-boilerplate-master/.prettierrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/horizon-boilerplate-master/.pug-lintrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/horizon-boilerplate-master/.stylelintignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/horizon-boilerplate-master/.stylelintrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/horizon-boilerplate-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/horizon-boilerplate-master/app/icons/chevron-down.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/horizon-boilerplate-master/app/icons/chevron-left.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/horizon-boilerplate-master/app/icons/chevron-right.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/horizon-boilerplate-master/app/icons/chevron-up.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/horizon-boilerplate-master/app/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/horizon-boilerplate-master/app/js/components/name.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/horizon-boilerplate-master/app/pug/error.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/horizon-boilerplate-master/app/pug/layout.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/horizon-boilerplate-master/app/pug/pages/index.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/horizon-boilerplate-master/app/routes/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/horizon-boilerplate-master/app/routes/user.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/horizon-boilerplate-master/app/sass/_settings.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/horizon-boilerplate-master/app/sass/app.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/horizon-boilerplate-master/app/sass/base/all.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/horizon-boilerplate-master/app/sass/base/icons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/horizon-boilerplate-master/app/sass/components/all.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/horizon-boilerplate-master/app/sass/layout/all.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/horizon-boilerplate-master/app/sass/mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/horizon-boilerplate-master/app/sass/template/icon-template.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/horizon-boilerplate-master/gulpfile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/horizon-boilerplate-master/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/horizon-boilerplate-master/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/horizon-boilerplate-master/server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/horizon-boilerplate-master/webpack.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/css/main.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/fonts/RobotoBold/RobotoBold.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/fonts/RobotoBold/RobotoBold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/fonts/RobotoBold/RobotoBold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/fonts/RobotoRegular/RobotoRegular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/fonts/RobotoRegular/RobotoRegular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/fonts/RobotoRegular/RobotoRegular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/fonts/fonts.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/fonts/slick/slick.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/fonts/slick/slick.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/fonts/slick/slick.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/fonts/slick/slick.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/ht.access" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/img/content/Index img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/img/favicon/apple-touch-icon-180x180.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/img/favicon/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/img/general/Index img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/img/plugins/bxslider/bx_loader.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/img/plugins/bxslider/controls.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/img/plugins/slick/ajax-loader.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/img/sprite/Index img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/img/svg/Index img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/js/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/js/libs.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/animate/animate.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/bootstrap/scss/_alert.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/bootstrap/scss/_badge.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/bootstrap/scss/_breadcrumb.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/bootstrap/scss/_button-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/bootstrap/scss/_buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/bootstrap/scss/_card.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/bootstrap/scss/_carousel.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/bootstrap/scss/_close.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/bootstrap/scss/_code.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/bootstrap/scss/_custom-forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/bootstrap/scss/_dropdown.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/bootstrap/scss/_forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/bootstrap/scss/_functions.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/bootstrap/scss/_grid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/bootstrap/scss/_images.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/bootstrap/scss/_input-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/bootstrap/scss/_jumbotron.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/bootstrap/scss/_list-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/bootstrap/scss/_media.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/bootstrap/scss/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/bootstrap/scss/_modal.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/bootstrap/scss/_nav.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/bootstrap/scss/_navbar.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/bootstrap/scss/_pagination.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/bootstrap/scss/_popover.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/bootstrap/scss/_print.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/bootstrap/scss/_progress.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/bootstrap/scss/_reboot.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/bootstrap/scss/_root.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/bootstrap/scss/_tables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/bootstrap/scss/_tooltip.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/bootstrap/scss/_transitions.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/bootstrap/scss/_type.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/bootstrap/scss/_utilities.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/bootstrap/scss/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/bootstrap/scss/bootstrap-grid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/bootstrap/scss/bootstrap-reboot.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/bootstrap/scss/bootstrap.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/bootstrap/scss/mixins/_alert.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/bootstrap/scss/mixins/_background-variant.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/bootstrap/scss/mixins/_badge.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/bootstrap/scss/mixins/_border-radius.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/bootstrap/scss/mixins/_box-shadow.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/bootstrap/scss/mixins/_breakpoints.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/bootstrap/scss/mixins/_buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/bootstrap/scss/mixins/_caret.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/bootstrap/scss/mixins/_clearfix.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/bootstrap/scss/mixins/_float.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/bootstrap/scss/mixins/_forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/bootstrap/scss/mixins/_gradients.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/bootstrap/scss/mixins/_grid-framework.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/bootstrap/scss/mixins/_grid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/bootstrap/scss/mixins/_hover.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/bootstrap/scss/mixins/_image.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/bootstrap/scss/mixins/_list-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/bootstrap/scss/mixins/_lists.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/bootstrap/scss/mixins/_nav-divider.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/bootstrap/scss/mixins/_navbar-align.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/bootstrap/scss/mixins/_pagination.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/bootstrap/scss/mixins/_reset-text.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/bootstrap/scss/mixins/_resize.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/bootstrap/scss/mixins/_screen-reader.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/bootstrap/scss/mixins/_size.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/bootstrap/scss/mixins/_table-row.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/bootstrap/scss/mixins/_text-emphasis.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/bootstrap/scss/mixins/_text-hide.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/bootstrap/scss/mixins/_text-truncate.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/bootstrap/scss/mixins/_transition.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/bootstrap/scss/mixins/_visibility.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/bootstrap/scss/utilities/_align.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/bootstrap/scss/utilities/_background.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/bootstrap/scss/utilities/_borders.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/bootstrap/scss/utilities/_clearfix.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/bootstrap/scss/utilities/_display.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/bootstrap/scss/utilities/_embed.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/bootstrap/scss/utilities/_flex.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/bootstrap/scss/utilities/_float.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/bootstrap/scss/utilities/_position.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/bootstrap/scss/utilities/_screenreaders.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/bootstrap/scss/utilities/_sizing.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/bootstrap/scss/utilities/_spacing.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/bootstrap/scss/utilities/_text.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/bootstrap/scss/utilities/_visibility.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/bxslider/jquery.bxslider.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/bxslider/jquery.bxslider.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/fontawesome/css/fa-brands.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/fontawesome/css/fa-brands.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/fontawesome/css/fa-regular.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/fontawesome/css/fa-regular.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/fontawesome/css/fa-solid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/fontawesome/css/fa-solid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/fontawesome/css/fontawesome-all.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/fontawesome/css/fontawesome-all.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/fontawesome/css/fontawesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/fontawesome/css/fontawesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/fontawesome/scss/_animated.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/fontawesome/scss/_bordered-pulled.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/fontawesome/scss/_core.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/fontawesome/scss/_fixed-width.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/fontawesome/scss/_icons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/fontawesome/scss/_larger.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/fontawesome/scss/_list.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/fontawesome/scss/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/fontawesome/scss/_rotated-flipped.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/fontawesome/scss/_screen-reader.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/fontawesome/scss/_stacked.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/fontawesome/scss/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/fontawesome/scss/fa-brands.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/fontawesome/scss/fa-regular.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/fontawesome/scss/fa-solid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/fontawesome/scss/fontawesome.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/fontawesome/webfonts/fa-brands-400.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/fontawesome/webfonts/fa-brands-400.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/fontawesome/webfonts/fa-brands-400.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/fontawesome/webfonts/fa-brands-400.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/fontawesome/webfonts/fa-brands-400.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/fontawesome/webfonts/fa-regular-400.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/fontawesome/webfonts/fa-regular-400.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/fontawesome/webfonts/fa-regular-400.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/fontawesome/webfonts/fa-regular-400.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/fontawesome/webfonts/fa-regular-400.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/fontawesome/webfonts/fa-solid-900.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/fontawesome/webfonts/fa-solid-900.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/fontawesome/webfonts/fa-solid-900.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/fontawesome/webfonts/fa-solid-900.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/fontawesome/webfonts/fa-solid-900.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/magnific/jquery.magnific-popup.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/magnific/magnific-popup.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/maskedinput/maskedinput.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/normalize/normalize.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/slick/slick-theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/slick/slick.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/slick/slick.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/libs/validate/jquery.validate.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/pug/layout/footer.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/pug/layout/header.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/pug/layout/menu.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/pug/main.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/pug/pages/index.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/sass/_libs.sass" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/sass/_media.sass" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/sass/_mixins/_font-face.sass" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/sass/abstract/_fonts.sass" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/sass/abstract/_variables.sass" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/sass/base/_reset.sass" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/sass/base/_typography.sass" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/sass/components/_buttons.sass" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/sass/components/_form.sass" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/sass/components/_user-navigation.sass" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/sass/layout/_footer.sass" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/sass/layout/_header.sass" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/sass/main.sass" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/scss/_libs.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/scss/_media.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/scss/_mixins/_font-face.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/scss/abstract/_fonts.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/scss/abstract/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/scss/base/_reset.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/scss/base/_typography.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/scss/components/_buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/scss/components/_form.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/scss/components/_user-navigation.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/scss/layout/_footer.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/scss/layout/_header.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/app/scss/main.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/gulpfile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-html-template-master/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-kit-master.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-kit-master/.browserslistrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-kit-master/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-kit-master/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-kit-master/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-kit-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-kit-master/gulpfile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-kit-master/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-kit-master/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-kit-master/src/css/base/_global.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-kit-master/src/css/base/_normalize.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-kit-master/src/css/base/_vars.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-kit-master/src/css/helpers/_helpers.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-kit-master/src/css/layout/_header.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-kit-master/src/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-kit-master/src/fonts/rubik/Rubik.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-kit-master/src/fonts/rubik/Rubik.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-kit-master/src/fonts/rubik/Rubik.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-kit-master/src/fonts/rubik/rubik.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-kit-master/src/html/layouts/default.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-kit-master/src/html/mixins/menu.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-kit-master/src/html/pages/index.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-kit-master/src/html/partials/_header.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-kit-master/src/images/img.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-kit-master/src/js/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/starter-kit-master/src/js/modules/module.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/typescript-es7-boilerplate-master.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/typescript-es7-boilerplate-master/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/typescript-es7-boilerplate-master/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/typescript-es7-boilerplate-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/typescript-es7-boilerplate-master/gulpfile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/typescript-es7-boilerplate-master/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/typescript-es7-boilerplate-master/src/lib/CalculatorClass.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/typescript-es7-boilerplate-master/src/lib/Utils/UniqueIdGenerator.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/typescript-es7-boilerplate-master/src/lib/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/typescript-es7-boilerplate-master/src/lib/models/Account.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/typescript-es7-boilerplate-master/src/lib/models/User.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/typescript-es7-boilerplate-master/src/lib/models/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/typescript-es7-boilerplate-master/src/test/sample-test.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/typescript-es7-boilerplate-master/src/test/test-data/numbers.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/typescript-es7-boilerplate-master/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/excd.exa_Gulp/typescript-es7-boilerplate-master/typings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7.1/Examples/cleare/test_ini_module.v.0.1.7.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7.1/Examples/cleare/test_ini_module.v.0.1.7.1.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,7 +1151,7 @@
     <property name="add_unversioned_files" value="$PROJECT_DIR$/Jobs/SetGlobLoggers/ModLogger_1/Core/Logs/eLogs.txt&#10;true" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="14.15.3" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Education/Gulp/Gulp_project_gulp_pug_1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7.2/Examples/cleare" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.jscs" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -162,13 +1177,6 @@
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains_\IntelliJ IDEA 2020.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\Node_projects\Node_Way\Education\Gulp\Gulp_project_gulp_pug_1" />
-      <recent name="F:\Node_projects\Node_Way\Education\Gulp\Gulp_project_1" />
-      <recent name="F:\Node_projects\Node_Way\Education\Gulp\Gulp_2" />
-      <recent name="F:\Node_projects\Node_Way\Education\Gulp\Gulp_0" />
-      <recent name="F:\Node_projects\Node_Way\Store\Global_configs" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\Node_projects\Node_Way\Education\Gulp\Gulp_2\gulp\init" />
       <recent name="F:\Node_projects\Node_Way\Store\Global_configs\BachRc" />
@@ -176,9 +1184,19 @@
       <recent name="F:\Node_projects\Node_Way\ToUse\cloneFileToDir" />
       <recent name="F:\Node_projects\Node_Way\Education\TSH_video" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Node_projects\Node_Way\Jobs\CataloguerFs\CreateCatalog\AFP5_0.1_ctlg_1_to_2.v.0.1.7.2\Examples\cleare" />
+      <recent name="F:\Node_projects\Node_Way\Jobs\CataloguerFs\CreateCatalog" />
+      <recent name="F:\Node_projects\Node_Way\Education" />
+      <recent name="F:\Node_projects\Node_Way\Jobs\CataloguerFs\CreateCatalog\AFP5_0.1_ctlg_1_to_2.v.0.1.7.1\Examples\cleare" />
+      <recent name="F:\Node_projects\Node_Way\Education\Gulp\Gulp_project_gulp_pug_1" />
+    </key>
   </component>
-  <component name="RunManager" selected="Node.js.main_test.js (1)">
+  <component name="RunManager" selected="Node.js.1_test_ini_module_Education.v.0.1.7.1.js">
     <configuration name="a.html" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/Node_Way/Node_Docs/Education/IlKan/learn.javascript.ru/Browser/1/1.1/a.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="1_test_ini_module_Education.v.0.1.7.1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/1_test_ini_module_Education.v.0.1.7.1.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="6-parse_1.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="6-parse_1.js" working-dir="$PROJECT_DIR$/NBase/_Md/_Index/_HPW/Part_I/content/Courses/Fundamentals/basic_sintax/DataTypes-master/JavaScript">
@@ -187,38 +1205,35 @@
     <configuration name="Object.create.js" type="NodeJSConfigurationType" nameIsGenerated="true" node-parameters="ndb" path-to-js-file="$PROJECT_DIR$/node_modules/st_doc1/js_DOCS/Function/_@_FunctionEngendering/InheritsEgeneringModel/Object.create.js" working-dir="$PROJECT_DIR$/node_modules/st_doc1/js_DOCS/Function/_@_FunctionEngendering">
       <method v="2" />
     </configuration>
-    <configuration name="clear.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/CreateDirFile/CreateTechDirHot_1/Test_auto/clear.js" working-dir="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/CreateDirFile/CreateTechDirHot_1/Test_auto">
-      <method v="2" />
-    </configuration>
-    <configuration name="cloneFileToDir_in_num_2_3_level_src_1.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production/cloneFileToDir_in_num_2_3_level_src_1.js" working-dir="$PROJECT_DIR$/node_modules/st_ex1/SetDirFile/SearchDirFile/DirMappingCloneFileToDir_7_src_1/Production">
-      <method v="2" />
-    </configuration>
-    <configuration name="cloneFileToDir_in_num_2_3_level_src_1.js (2)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/NBase/_Md/_Index/_CompArhitecture/Theory/cloneFileToDir_in_num_2_3_level_src_1.js" working-dir="$PROJECT_DIR$/NBase/_Md/_Index/_CompArhitecture/Theory">
-      <method v="2" />
-    </configuration>
-    <configuration name="cloneFileToDir_in_num_2_3_level_src_1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ToUse/cloneFileToDir/Dir_in_num_2_3_level/cloneFileToDir_in_num_2_3_level_src_1.js" working-dir="$PROJECT_DIR$/ToUse/cloneFileToDir/Dir_in_num_2_3_level">
+    <configuration name="anls_gulpfile.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Education/Gulp/excd.Gulp_0/anls_gulpfile.js" working-dir="$PROJECT_DIR$/Education/Gulp/excd.Gulp_0">
       <method v="2" />
     </configuration>
     <configuration name="main_test.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/node_modules/st_ex1_up1/SetCLI/QuesMenuRun/QMR_1_d1/Test/main_test.js" working-dir="$PROJECT_DIR$/node_modules/st_ex1_up1/SetCLI/QuesMenuRun/QMR_1_d1/Test">
+      <method v="2" />
+    </configuration>
+    <configuration name="test_ini_module.v.0.1.7.1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7.1/Examples/cleare/test_ini_module.v.0.1.7.1.js" working-dir="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7.1/Examples/cleare">
+      <method v="2" />
+    </configuration>
+    <configuration name="test_ini_module.v.0.1.7.2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Education/test_ini_module.v.0.1.7.2.js" working-dir="$PROJECT_DIR$/Education">
       <method v="2" />
     </configuration>
     <list>
       <item itemvalue="JavaScript Debug.a.html" />
       <item itemvalue="Node.js.6-parse_1.js" />
       <item itemvalue="Node.js.Object.create.js" />
-      <item itemvalue="Node.js.clear.js" />
-      <item itemvalue="Node.js.cloneFileToDir_in_num_2_3_level_src_1.js" />
-      <item itemvalue="Node.js.cloneFileToDir_in_num_2_3_level_src_1.js (1)" />
-      <item itemvalue="Node.js.cloneFileToDir_in_num_2_3_level_src_1.js (2)" />
       <item itemvalue="Node.js.main_test.js (1)" />
+      <item itemvalue="Node.js.anls_gulpfile.js" />
+      <item itemvalue="Node.js.test_ini_module.v.0.1.7.2.js" />
+      <item itemvalue="Node.js.test_ini_module.v.0.1.7.1.js" />
+      <item itemvalue="Node.js.1_test_ini_module_Education.v.0.1.7.1.js" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.1_test_ini_module_Education.v.0.1.7.1.js" />
+        <item itemvalue="Node.js.test_ini_module.v.0.1.7.2.js" />
+        <item itemvalue="Node.js.test_ini_module.v.0.1.7.1.js" />
+        <item itemvalue="Node.js.anls_gulpfile.js" />
         <item itemvalue="Node.js.main_test.js (1)" />
-        <item itemvalue="Node.js.cloneFileToDir_in_num_2_3_level_src_1.js (2)" />
-        <item itemvalue="Node.js.cloneFileToDir_in_num_2_3_level_src_1.js (1)" />
-        <item itemvalue="Node.js.cloneFileToDir_in_num_2_3_level_src_1.js" />
-        <item itemvalue="Node.js.clear.js" />
       </list>
     </recent_temporary>
   </component>
@@ -490,7 +1505,8 @@
       <workItem from="1610818800663" duration="2626000" />
       <workItem from="1610969974754" duration="2589000" />
       <workItem from="1611036802132" duration="4098000" />
-      <workItem from="1611139324586" duration="14805000" />
+      <workItem from="1611139324586" duration="27610000" />
+      <workItem from="1611246570584" duration="1517000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
@@ -1059,26 +2075,26 @@
     <state x="519" y="178" key="FileChooserDialogImpl/0.0.1440.860/1440.0.1024.728@0.0.1440.860" timestamp="1609601504304" />
     <state x="519" y="178" width="699" height="606" key="FileChooserDialogImpl/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1604737356241" />
     <state x="519" y="178" key="FileChooserDialogImpl/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1611042847961" />
-    <state width="1340" height="166" key="GridCell.Tab.0.bottom" timestamp="1611146022627">
+    <state width="1340" height="166" key="GridCell.Tab.0.bottom" timestamp="1611246511808">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1216" height="199" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1609422715716" />
-    <state width="1340" height="166" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1611146022627" />
-    <state width="1340" height="166" key="GridCell.Tab.0.center" timestamp="1611146022627">
+    <state width="1340" height="166" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1611246511808" />
+    <state width="1340" height="166" key="GridCell.Tab.0.center" timestamp="1611246511808">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1216" height="199" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1609422715715" />
-    <state width="1340" height="166" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1611146022627" />
-    <state width="1340" height="166" key="GridCell.Tab.0.left" timestamp="1611146022627">
+    <state width="1340" height="166" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1611246511808" />
+    <state width="1340" height="166" key="GridCell.Tab.0.left" timestamp="1611246511808">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1216" height="199" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1609422715715" />
-    <state width="1340" height="166" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1611146022627" />
-    <state width="1340" height="166" key="GridCell.Tab.0.right" timestamp="1611146022627">
+    <state width="1340" height="166" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1611246511808" />
+    <state width="1340" height="166" key="GridCell.Tab.0.right" timestamp="1611246511808">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1216" height="199" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1609422715715" />
-    <state width="1340" height="166" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1611146022627" />
+    <state width="1340" height="166" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1611246511808" />
     <state width="1340" height="247" key="GridCell.Tab.1.bottom" timestamp="1610266938301">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
