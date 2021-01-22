@@ -1,12 +1,14 @@
-## {st} - (blob|ident) area :ident{stash}::blob: + :blob:
-## {fs} - (file) area :file:
-## {ws} - (ident) area :wd::file: - label on unstage file 
-## {in} - (ident) area :in::file: - label on stage file
-## {lr} - (blob|ident) area :ident{local repo}::blob: + :blob:
-## {ur} - (blob|ident) area :ident{upstr repo}::blob: + :blob:
+ - {st} - (blob|ident) area :ident{stash}::blob: + :blob:
+ - {fs} - (file) area :file:
+ - {ws} - (ident) area :wd::file: - label on unstage file 
+ - {in} - (ident) area :in::file: - label on stage file
+ - {lr} - (blob|ident) area :ident{local repo}::blob: + :blob:
+ - {ur} - (blob|ident) area :ident{upstr repo}::blob: + :blob:
 
 
-## git init
+ git init
+
+
     $ git init
         Initialized empty Git repository in E:/Node_projects/Pre_Git/Start_set_1/Start_blob_1/.git/
 
@@ -19,7 +21,7 @@
         {ur}={}
         }
 
-## create mas1
+ create mas1
 
     $ touch mas1
 
@@ -44,7 +46,7 @@
         {ur}={}
         }
          
-##  add mas1
+  add mas1
 
     $ git add mas1
     $ git st
@@ -83,7 +85,7 @@
         {ur}={}
         }
 
-## commit mas1
+ commit mas1
 
     $ git commit mas1 -m 'commit mas1'
         [master (root-commit) ae177be] commit mas1
@@ -121,7 +123,7 @@
         {ur}={}
         }
 
-## touch mas2
+ touch mas2
 
    $ touch mas2
 
@@ -220,7 +222,7 @@
             {ur}={}
         }
     
-## sta1 go to {stash}
+ sta1 go to {stash}
 
     $ touch sta1
     $ git add sta1
@@ -280,7 +282,7 @@
         The file will have its original line endings in your working directory
         Saved working directory and index state WIP on master: e3874cc commit mas2
 
-### atten! {stash} add modif {ws}
+# atten! {stash} add modif {ws}
 
     {shape_7}={
             {st}={}
@@ -332,7 +334,7 @@
             {ur}={}
         }
 
-## bring inside mas3   
+ bring inside mas3   
 
     $ touch mas3
     $ git add mas3
@@ -400,7 +402,7 @@
         }
 
 
-## bring clear_workspaced (cl_ws)
+ bring clear_workspaced (cl_ws)
  git_chain = {
     touch cl_ws
 }
@@ -469,7 +471,7 @@
             }
             {ur}={}
         }
-## bring clear_indexed (cl_in)
+ bring clear_indexed (cl_in)
 git_chain = {
     touch cl_in
     git add cl_in
@@ -549,7 +551,7 @@ git_chain = {
             {ur}={}
         }
 
-## bring modifi_indexed (mo_in)
+ bring modifi_indexed (mo_in)
 git_chain = {
     touch mo_in
     git add mo_in

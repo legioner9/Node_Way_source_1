@@ -99,6 +99,10 @@ alias welcome='echo "Welcome $USER."'
 alias gs="git status"
 alias gd="git add ."
 alias gp="git push -u origin master"
+alias gl="git log --pretty=format:\"%h %s\" --graph"
+alias gw="git show --stat --oneline HEAD"
+
+
 
 # Directory
 alias diskusage="df -h"
