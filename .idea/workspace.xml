@@ -31,19 +31,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
-      <change beforePath="$PROJECT_DIR$/Education/Gulp/cat.Gulp/dir.Gulp.md" beforeDir="false" afterPath="$PROJECT_DIR$/Education/Gulp/cat.Gulp/dir.Gulp.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Gulp/excd.Gulp_0/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Education/Gulp/Gulp_0/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Gulp/excd.Gulp_0/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/Education/Gulp/Gulp_0/ReadMe.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Gulp/excd.Gulp_0/a" beforeDir="false" afterPath="$PROJECT_DIR$/Education/Gulp/Gulp_0/a" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Gulp/excd.Gulp_0/anls_gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/Education/Gulp/Gulp_0/anls_gulpfile.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Gulp/excd.Gulp_0/cat.Gulp_0/dir.Gulp_0.md" beforeDir="false" afterPath="$PROJECT_DIR$/Education/Gulp/Gulp_0/cat.Gulp_0/dir.Gulp_0.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Gulp/excd.Gulp_0/dist/file.dist" beforeDir="false" afterPath="$PROJECT_DIR$/Education/Gulp/Gulp_0/dist/file.dist" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Gulp/excd.Gulp_0/gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/Education/Gulp/Gulp_0/gulpfile.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Gulp/excd.Gulp_0/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Education/Gulp/Gulp_0/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/Gulp/excd.Gulp_0/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Education/Gulp/Gulp_0/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7.2/Examples/cleare/DIR_root/cat.DIR_root/dir.DIR_root.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7.2/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7.2/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Store/last_commit.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Store/last_commit.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/cat.Education/dir.Education.md" beforeDir="false" afterPath="$PROJECT_DIR$/Education/cat.Education/dir.Education.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7.2/Examples/cat.Examples/dir.Examples.md" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7.2/Examples/cat.Examples/dir.Examples.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7.2/Examples/cleare/DIR_root_before_test/cat.DIR_root_before_test/dir.DIR_root_before_test.md" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7.2/Examples/cleare/DIR_root_before_test/cat.DIR_root_before_test/dir.DIR_root_before_test.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7.2/Examples/cleare/DIR_root_before_test/dir_1/cat.dir_1/dir.dir_1.md" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7.2/Examples/cleare/DIR_root_before_test/dir_1/cat.dir_1/dir.dir_1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7.2/Examples/cleare/DIR_root_before_test/dir_1/dir_1_1/cat.dir_1_1/dir.dir_1_1.md" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7.2/Examples/cleare/DIR_root_before_test/dir_1/dir_1_1/cat.dir_1_1/dir.dir_1_1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7.2/Examples/cleare/DIR_root_before_test/dir_2/cat.dir_2/dir.dir_2.md" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7.2/Examples/cleare/DIR_root_before_test/dir_2/cat.dir_2/dir.dir_2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7.2/Examples/cleare/cat.cleare/dir.cleare.md" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7.2/Examples/cleare/cat.cleare/dir.cleare.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/cat.CreateCatalog/dir.CreateCatalog.md" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/cat.CreateCatalog/dir.CreateCatalog.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/cat.CataloguerFs/dir.CataloguerFs.md" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/CataloguerFs/cat.CataloguerFs/dir.CataloguerFs.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/cat.Jobs/dir.Jobs.md" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/cat.Jobs/dir.Jobs.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/fsLog/logErr.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/fsLog/logErr.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,7 +145,7 @@
     <property name="add_unversioned_files" value="$PROJECT_DIR$/Jobs/SetGlobLoggers/ModLogger_1/Core/Logs/eLogs.txt&#10;true" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="14.15.3" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Education" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/NBase" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.jscs" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -180,11 +179,11 @@
       <recent name="F:\Node_projects\Node_Way\Education\TSH_video" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Node_projects\Node_Way\NBase" />
+      <recent name="F:\Node_projects\Node_Way" />
       <recent name="F:\Node_projects\Node_Way\Education" />
       <recent name="F:\Node_projects\Node_Way\Jobs\CataloguerFs\CreateCatalog\AFP5_0.1_ctlg_1_to_2.v.0.1.7.2\Examples\cleare\DIR_root" />
       <recent name="F:\Node_projects\Node_Way\Jobs\CataloguerFs\CreateCatalog\AFP5_0.1_ctlg_1_to_2.v.0.1.7.2\Examples\cleare" />
-      <recent name="F:\Node_projects\Node_Way\Jobs\CataloguerFs\CreateCatalog" />
-      <recent name="F:\Node_projects\Node_Way\Jobs\CataloguerFs\CreateCatalog\AFP5_0.1_ctlg_1_to_2.v.0.1.7.1\Examples\cleare" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.test_ini_module.v.0.1.7.2_Gulp.js">
@@ -501,7 +500,7 @@
       <workItem from="1610969974754" duration="2589000" />
       <workItem from="1611036802132" duration="4098000" />
       <workItem from="1611139324586" duration="27610000" />
-      <workItem from="1611246570584" duration="10179000" />
+      <workItem from="1611246570584" duration="14153000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
@@ -1047,11 +1046,11 @@
     <state x="177" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.860/1440.0.1024.728@0.0.1440.860" timestamp="1609602432232" />
     <state x="177" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1604737359205" />
     <state x="177" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1609604887131" />
-    <state x="361" y="199" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1611259744857">
+    <state x="361" y="199" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1611292460965">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="361" y="199" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1608987261738" />
-    <state x="361" y="199" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1611259744857" />
+    <state x="361" y="199" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1611292460965" />
     <state x="505" y="121" key="#xdebugger.XInspectDialog" timestamp="1605848629271">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
@@ -1168,11 +1167,11 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="151" y="91" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1605848299820" />
-    <state x="1521" y="26" width="934" height="909" key="dock-window-1" timestamp="1611259656235">
+    <state x="1523" y="139" width="934" height="909" key="dock-window-1" timestamp="1611287219644">
       <screen x="1440" y="0" width="1280" height="984" />
     </state>
     <state x="1630" y="0" width="914" height="989" key="dock-window-1/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1609499426610" />
-    <state x="1521" y="26" width="934" height="909" key="dock-window-1/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1611259656235" />
+    <state x="1523" y="139" width="934" height="909" key="dock-window-1/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1611287219644" />
     <state x="1497" y="157" width="819" height="752" key="dock-window-10" timestamp="1603162358034">
       <screen x="1440" y="0" width="1280" height="1024" />
     </state>
