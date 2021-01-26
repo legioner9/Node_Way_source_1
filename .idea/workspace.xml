@@ -30,20 +30,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/cat.Education/dir.Education.md" beforeDir="false" afterPath="$PROJECT_DIR$/Education/cat.Education/dir.Education.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7.2/Examples/cat.Examples/dir.Examples.md" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7.2/Examples/cat.Examples/dir.Examples.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7.2/Examples/cleare/DIR_root_before_test/cat.DIR_root_before_test/dir.DIR_root_before_test.md" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7.2/Examples/cleare/DIR_root_before_test/cat.DIR_root_before_test/dir.DIR_root_before_test.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7.2/Examples/cleare/DIR_root_before_test/dir_1/cat.dir_1/dir.dir_1.md" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7.2/Examples/cleare/DIR_root_before_test/dir_1/cat.dir_1/dir.dir_1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7.2/Examples/cleare/DIR_root_before_test/dir_1/dir_1_1/cat.dir_1_1/dir.dir_1_1.md" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7.2/Examples/cleare/DIR_root_before_test/dir_1/dir_1_1/cat.dir_1_1/dir.dir_1_1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7.2/Examples/cleare/DIR_root_before_test/dir_2/cat.dir_2/dir.dir_2.md" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7.2/Examples/cleare/DIR_root_before_test/dir_2/cat.dir_2/dir.dir_2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7.2/Examples/cleare/cat.cleare/dir.cleare.md" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7.2/Examples/cleare/cat.cleare/dir.cleare.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/cat.CreateCatalog/dir.CreateCatalog.md" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/cat.CreateCatalog/dir.CreateCatalog.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/CataloguerFs/cat.CataloguerFs/dir.CataloguerFs.md" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/CataloguerFs/cat.CataloguerFs/dir.CataloguerFs.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/cat.Jobs/dir.Jobs.md" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/cat.Jobs/dir.Jobs.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/fsLog/logErr.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/fsLog/logErr.md" afterDir="false" />
-    </list>
+    <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -166,7 +153,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="settings.editor.splitter.proportion" value="0.23273855" />
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains_\IntelliJ IDEA 2020.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
@@ -501,6 +488,8 @@
       <workItem from="1611036802132" duration="4098000" />
       <workItem from="1611139324586" duration="27610000" />
       <workItem from="1611246570584" duration="14153000" />
+      <workItem from="1611633681230" duration="579000" />
+      <workItem from="1611658104395" duration="96000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
@@ -1149,16 +1138,12 @@
     </state>
     <state width="1247" height="769" key="GridCell.Tab.3.right/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1605966664844" />
     <state width="1340" height="247" key="GridCell.Tab.3.right/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1610266938302" />
-    <state x="155" y="99" key="IDE.errors.dialog" timestamp="1602919313877">
-      <screen x="0" y="0" width="1440" height="860" />
-    </state>
-    <state x="155" y="99" key="IDE.errors.dialog/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1602919313877" />
-    <state x="120" y="148" width="1141" height="710" key="SettingsEditor" timestamp="1610353249597">
-      <screen x="0" y="0" width="1440" height="860" />
+    <state x="1502" y="153" width="1141" height="710" key="SettingsEditor" timestamp="1611658202044">
+      <screen x="1440" y="0" width="1280" height="984" />
     </state>
     <state x="156" y="93" key="SettingsEditor/0.0.1440.860/1440.0.1024.728@0.0.1440.860" timestamp="1609602410130" />
     <state x="1579" y="111" width="1141" height="913" key="SettingsEditor/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1606893966128" />
-    <state x="120" y="148" width="1141" height="710" key="SettingsEditor/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1610353249597" />
+    <state x="1502" y="153" width="1141" height="710" key="SettingsEditor/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1611658202044" />
     <state width="705" height="498" key="SwitcherDM" timestamp="1603509637301">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
