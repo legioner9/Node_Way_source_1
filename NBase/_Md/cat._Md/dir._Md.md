@@ -1552,7 +1552,11 @@
                                     - *### 1.2.4. Элемент \<link>
                                     - *### 1.2.5. Элемент \<script>
                                     - *### 1.3. Элемент \<body>
-                                    - *@@ endPoint HTML5Css3
+                                    - *@@ endPoint HTML5Css3 [train emmet](https://dwstroy.ru/stail/plaginy-rasshireniya/emmet-shpargalka/)
+                            
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_HtmlCss\Containers\Intro_to_this\html5book.ru\1.HTML.dir\Adds\cat.Adds\dir.Adds.md">Adds</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_HtmlCss\Containers\Intro_to_this\html5book.ru\1.HTML.dir\Adds\emmet.md">emmet.md</a>
+                                    - *## [EMMET ШПАРГАЛКА ДЛЯ МОЛНИЕНОСНОСТНОЙ ВЕРСТКИ](https://dwstroy.ru/stail/plaginy-rasshireniya/emmet-shpargalka/)
                             
                         
                     

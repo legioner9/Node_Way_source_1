@@ -21,4 +21,4 @@
         - *### 1.2.4. Элемент \<link>
         - *### 1.2.5. Элемент \<script>
         - *### 1.3. Элемент \<body>
-        - *@@ endPoint HTML5Css3
+        - *@@ endPoint HTML5Css3 [train emmet](https://dwstroy.ru/stail/plaginy-rasshireniya/emmet-shpargalka/)

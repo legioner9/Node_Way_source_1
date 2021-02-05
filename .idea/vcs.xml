@@ -2,5 +2,16 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Use_this/Git_helix/segm.I.v.1.0.0/proj.2.0.0/set.1.0.0" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Use_this/Git_helix/segm.I.v.1.0.0/proj.2.0.0/set.1.0.0 — копия (2)" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Use_this/Git_helix/segm.I.v.1.0.0/proj.2.0.0/set.1.0.0.stash_u" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Use_this/Git_helix/segm.I.v.1.0.0/proj.2.0.0/set.1.0.0.tag" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Use_this/Git_helix/segm.I.v.1.0.0/proj.2.0.0/set.1.0.0.tag_a_hash" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Use_this/Git_helix/segm.I.v.1.0.0/proj.I.1.0.0/clone" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Use_this/Git_helix/segm.I.v.1.0.0/proj.I.1.0.0/set.1.0.0" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Use_this/Git_helix/segm.I.v.1.0.0/proj.I.1.0.0/set.1.0.0.stash" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Use_this/Git_helix/segm.I.v.1.0.0/proj.I.1.0.0/set.1.1.0" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Use_this/Git_helix/segm.I.v.1.0.0/proj.I.1.0.0/set.1.1.0.stash_u" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Use_this/Git_helix/segm.I.v.1.0.0/proj.I.1.0.0/set.1.1.0.stash_u.revert_head" vcs="Git" />
   </component>
 </project>
