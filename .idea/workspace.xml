@@ -30,27 +30,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Use_this/Git_helix/segm.I.v.1.0.0/proj.2.0.0/set.1.0.0 — копия (2)/v1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Use_this/Git_helix/segm.I.v.1.0.0/proj.2.0.0/set.1.0.0.tag/v1" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Use_this/Git_helix/segm.I.v.1.0.0/proj.2.0.0/set.1.0.0.tag/v1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Use_this/Git_helix/segm.I.v.1.0.0/proj.2.0.0/set.1.0.0.tag_a_hash/v1" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Use_this/Git_helix/segm.I.v.1.0.0/proj.2.0.0/set.1.0.0.tag_a_hash/v1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Use_this/Git_helix/segm.I.v.1.0.0/proj.2.0.0/set.1.0.0/v1" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Use_this/Git_helix/segm.I.v.1.0.0/proj.2.0.0/set.1.0.0/v1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Use_this/Git_helix/segm.I.v.1.0.0/proj.I.1.0.0/set.1.0.0/v1" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Use_this/Git_helix/segm.I.v.1.0.0/proj.I.1.0.0/set.1.0.0/v1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Use_this/Git_helix/segm.I.v.1.0.0/proj.I.1.0.0/set.1.1.0/v1" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Use_this/Git_helix/segm.I.v.1.0.0/proj.I.1.0.0/set.1.1.0/v1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_HtmlCss/Containers/Intro_to_this/cat.Intro_to_this/dir.Intro_to_this.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_HtmlCss/Containers/Intro_to_this/cat.Intro_to_this/dir.Intro_to_this.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_HtmlCss/Containers/Intro_to_this/html5book.ru/1.HTML.dir/1.2.1_.2._HTML-теги.dir/1.2.1_.2._HTML-теги.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_HtmlCss/Containers/Intro_to_this/html5book.ru/1.HTML.dir/1.2.1_.2._HTML-теги.dir/1.2.1_.2._HTML-теги.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_HtmlCss/Containers/Intro_to_this/html5book.ru/1.HTML.dir/1.2.1_.2._HTML-теги.dir/_src/1.html" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_HtmlCss/Containers/Intro_to_this/html5book.ru/1.HTML.dir/1.2.1_.2._HTML-теги.dir/_src/1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_HtmlCss/Containers/Intro_to_this/html5book.ru/1.HTML.dir/1.2.1_.2._HTML-теги.dir/cat.1.2.1_.2._HTML-теги.dir/dir.1.2.1_.2._HTML-теги.dir.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_HtmlCss/Containers/Intro_to_this/html5book.ru/1.HTML.dir/1.2.1_.2._HTML-теги.dir/cat.1.2.1_.2._HTML-теги.dir/dir.1.2.1_.2._HTML-теги.dir.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_HtmlCss/Containers/Intro_to_this/html5book.ru/1.HTML.dir/cat.1.HTML.dir/dir.1.HTML.dir.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_HtmlCss/Containers/Intro_to_this/html5book.ru/1.HTML.dir/cat.1.HTML.dir/dir.1.HTML.dir.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_HtmlCss/Containers/Intro_to_this/html5book.ru/cat.html5book.ru/dir.html5book.ru.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_HtmlCss/Containers/Intro_to_this/html5book.ru/cat.html5book.ru/dir.html5book.ru.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_HtmlCss/Containers/cat.Containers/dir.Containers.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_HtmlCss/Containers/cat.Containers/dir.Containers.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_HtmlCss/cat._HtmlCss/dir._HtmlCss.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_HtmlCss/cat._HtmlCss/dir._HtmlCss.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/cat._Index/dir._Index.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/cat._Index/dir._Index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/cat._Md/dir._Md.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/cat._Md/dir._Md.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Store/last_commit.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Store/last_commit.txt" afterDir="false" />
-    </list>
+    <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -510,7 +490,7 @@
       <workItem from="1611246570584" duration="14153000" />
       <workItem from="1611633681230" duration="579000" />
       <workItem from="1611658104395" duration="96000" />
-      <workItem from="1612425917364" duration="16091000" />
+      <workItem from="1612425917364" duration="16636000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
@@ -1079,26 +1059,26 @@
     <state x="519" y="178" key="FileChooserDialogImpl/0.0.1440.860/1440.0.1024.728@0.0.1440.860" timestamp="1609601504304" />
     <state x="519" y="178" width="699" height="606" key="FileChooserDialogImpl/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1604737356241" />
     <state x="519" y="178" key="FileChooserDialogImpl/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1611042847961" />
-    <state width="1340" height="166" key="GridCell.Tab.0.bottom" timestamp="1612550942197">
+    <state width="1340" height="166" key="GridCell.Tab.0.bottom" timestamp="1612553083529">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1216" height="199" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1609422715716" />
-    <state width="1340" height="166" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1612550942197" />
-    <state width="1340" height="166" key="GridCell.Tab.0.center" timestamp="1612550942197">
+    <state width="1340" height="166" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1612553083529" />
+    <state width="1340" height="166" key="GridCell.Tab.0.center" timestamp="1612553083529">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1216" height="199" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1609422715715" />
-    <state width="1340" height="166" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1612550942197" />
-    <state width="1340" height="166" key="GridCell.Tab.0.left" timestamp="1612550942196">
+    <state width="1340" height="166" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1612553083529" />
+    <state width="1340" height="166" key="GridCell.Tab.0.left" timestamp="1612553083528">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1216" height="199" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1609422715715" />
-    <state width="1340" height="166" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1612550942196" />
-    <state width="1340" height="166" key="GridCell.Tab.0.right" timestamp="1612550942197">
+    <state width="1340" height="166" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1612553083528" />
+    <state width="1340" height="166" key="GridCell.Tab.0.right" timestamp="1612553083529">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1216" height="199" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1609422715715" />
-    <state width="1340" height="166" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1612550942197" />
+    <state width="1340" height="166" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1612553083529" />
     <state width="1340" height="247" key="GridCell.Tab.1.bottom" timestamp="1610266938301">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
