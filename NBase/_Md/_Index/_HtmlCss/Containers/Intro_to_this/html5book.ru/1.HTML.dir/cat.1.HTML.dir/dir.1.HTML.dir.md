@@ -22,7 +22,16 @@
             - *### 1.2.4. Элемент \<link>
             - *### 1.2.5. Элемент \<script>
             - *### 1.3. Элемент \<body>
-            - *@@ endPoint HTML5Css3 [train emmet](https://dwstroy.ru/stail/plaginy-rasshireniya/emmet-shpargalka/)
+            - *@@  [train emmet](https://dwstroy.ru/stail/plaginy-rasshireniya/emmet-shpargalka/)
+            - *## [1.1. Основы HTML](https://html5book.ru/osnovy-html/#part4)
+            - *## Все HTML-элементы делятся на пять типов:
+            - *## Property Value of Display types
+            - *## Полный список HTML-элементов
+    
+    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_HtmlCss\Containers\Intro_to_this\html5book.ru\1.HTML.dir\1.3.1_.3._HTML-атрибуты.dir\cat.1.3.1_.3._HTML-атрибуты.dir\dir.1.3.1_.3._HTML-атрибуты.dir.md">1.3.1_.3._HTML-атрибуты.dir</a>
+        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_HtmlCss\Containers\Intro_to_this\html5book.ru\1.HTML.dir\1.3.1_.3._HTML-атрибуты.dir\1.3.1_.3._HTML-атрибуты.md">1.3.1_.3._HTML-атрибуты.md</a>
+            - *## [1.3. HTML-атрибуты](https://html5book.ru/html-attributes/)
+            - *@@ point this learn
     
     - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_HtmlCss\Containers\Intro_to_this\html5book.ru\1.HTML.dir\Adds\cat.Adds\dir.Adds.md">Adds</a>
         - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_HtmlCss\Containers\Intro_to_this\html5book.ru\1.HTML.dir\Adds\emmet.md">emmet.md</a>

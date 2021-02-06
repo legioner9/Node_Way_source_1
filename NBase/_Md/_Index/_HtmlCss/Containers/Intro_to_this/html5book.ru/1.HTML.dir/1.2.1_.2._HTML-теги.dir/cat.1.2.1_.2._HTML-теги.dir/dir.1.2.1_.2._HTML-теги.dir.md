@@ -21,4 +21,8 @@
         - *### 1.2.4. Элемент \<link>
         - *### 1.2.5. Элемент \<script>
         - *### 1.3. Элемент \<body>
-        - *@@ endPoint HTML5Css3 [train emmet](https://dwstroy.ru/stail/plaginy-rasshireniya/emmet-shpargalka/)
+        - *@@  [train emmet](https://dwstroy.ru/stail/plaginy-rasshireniya/emmet-shpargalka/)
+        - *## [1.1. Основы HTML](https://html5book.ru/osnovy-html/#part4)
+        - *## Все HTML-элементы делятся на пять типов:
+        - *## Property Value of Display types
+        - *## Полный список HTML-элементов
