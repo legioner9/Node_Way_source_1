@@ -32,9 +32,20 @@
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_HtmlCss/Containers/Intro_to_this/html5book.ru/1.HTML.dir/1.3.1_.3._HTML-атрибуты.dir/1.3.1_.3._HTML-атрибуты.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_HtmlCss/Containers/Intro_to_this/html5book.ru/1.HTML.dir/1.3.1_.3._HTML-атрибуты.dir/1.3.1_.3._HTML-атрибуты.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/Gulp/Gulp_0/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/Education/Gulp/Gulp_0/ReadMe.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_HtmlCss/Containers/Intro_to_this/html5book.ru/1.HTML.dir/1.4.1_.4._HTML-текст.dir/1.4.1_.4._HTML-текст.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_HtmlCss/Containers/Intro_to_this/html5book.ru/1.HTML.dir/1.4.1_.4._HTML-текст.dir/1.4.1_.4._HTML-текст.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_HtmlCss/Containers/Intro_to_this/html5book.ru/1.HTML.dir/1.4.1_.4._HTML-текст.dir/_src/1.html" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_HtmlCss/Containers/Intro_to_this/html5book.ru/1.HTML.dir/1.4.1_.4._HTML-текст.dir/_src/1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_HtmlCss/Containers/Intro_to_this/html5book.ru/1.HTML.dir/1.5.1_.5._HTML-ссылки.dir/1.5.1_.5._HTML-ссылки.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_HtmlCss/Containers/Intro_to_this/html5book.ru/1.HTML.dir/1.5.1_.5._HTML-ссылки.dir/1.5.1_.5._HTML-ссылки.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_HtmlCss/Containers/Intro_to_this/html5book.ru/1.HTML.dir/1.5.1_.5._HTML-ссылки.dir/_src/1.html" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_HtmlCss/Containers/Intro_to_this/html5book.ru/1.HTML.dir/1.5.1_.5._HTML-ссылки.dir/_src/1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_HtmlCss/Containers/Use_this/cat.Use_this/dir.Use_this.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_HtmlCss/Containers/Use_this/cat.Use_this/dir.Use_this.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_HtmlCss/Containers/Use_this/hipe_from_youtube/cat.hipe_from_youtube/dir.hipe_from_youtube.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_HtmlCss/Containers/Use_this/hipe_from_youtube/cat.hipe_from_youtube/dir.hipe_from_youtube.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_HtmlCss/Containers/Use_this/hipe_from_youtube/gocha_flex/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_HtmlCss/Containers/Use_this/hipe_from_youtube/gocha_flex/ReadMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_HtmlCss/Containers/Use_this/hipe_from_youtube/gocha_flex/_src/examp_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_HtmlCss/Containers/Use_this/hipe_from_youtube/gocha_flex/_src/examp_1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_HtmlCss/Containers/Use_this/hipe_from_youtube/gocha_flex/cat.gocha_flex/dir.gocha_flex.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_HtmlCss/Containers/Use_this/hipe_from_youtube/gocha_flex/cat.gocha_flex/dir.gocha_flex.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_HtmlCss/Containers/cat.Containers/dir.Containers.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_HtmlCss/Containers/cat.Containers/dir.Containers.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_HtmlCss/cat._HtmlCss/dir._HtmlCss.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_HtmlCss/cat._HtmlCss/dir._HtmlCss.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/cat._Index/dir._Index.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/cat._Index/dir._Index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/cat._Md/dir._Md.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/cat._Md/dir._Md.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,7 +169,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="settings.editor.splitter.proportion" value="0.23273855" />
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains_\IntelliJ IDEA 2020.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
@@ -497,7 +508,8 @@
       <workItem from="1611658104395" duration="96000" />
       <workItem from="1612425917364" duration="16636000" />
       <workItem from="1612616110527" duration="3912000" />
-      <workItem from="1612752104927" duration="4997000" />
+      <workItem from="1612752104927" duration="16405000" />
+      <workItem from="1612806240705" duration="1658000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
@@ -1146,12 +1158,16 @@
     </state>
     <state width="1247" height="769" key="GridCell.Tab.3.right/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1605966664844" />
     <state width="1340" height="247" key="GridCell.Tab.3.right/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1610266938302" />
-    <state x="1502" y="153" width="1141" height="710" key="SettingsEditor" timestamp="1612616219404">
+    <state x="1502" y="153" width="1141" height="710" key="SettingsEditor" timestamp="1612798110292">
       <screen x="1440" y="0" width="1280" height="984" />
     </state>
     <state x="156" y="93" key="SettingsEditor/0.0.1440.860/1440.0.1024.728@0.0.1440.860" timestamp="1609602410130" />
     <state x="1579" y="111" width="1141" height="913" key="SettingsEditor/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1606893966128" />
-    <state x="1502" y="153" width="1141" height="710" key="SettingsEditor/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1612616219404" />
+    <state x="1502" y="153" width="1141" height="710" key="SettingsEditor/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1612798110292" />
+    <state x="499" y="317" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1612797732385">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="499" y="317" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1612797732385" />
     <state x="151" y="91" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1605848299820">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
