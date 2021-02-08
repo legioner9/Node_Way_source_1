@@ -32,19 +32,9 @@
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/My_requier/_/cat._/dir._.md" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/My_requier/_/cat._/dir._.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/cat.Jobs/dir.Jobs.md" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/cat.Jobs/dir.Jobs.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_HtmlCss/Containers/Intro_to_this/cat.Intro_to_this/dir.Intro_to_this.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_HtmlCss/Containers/Intro_to_this/cat.Intro_to_this/dir.Intro_to_this.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_HtmlCss/Containers/Intro_to_this/html5book.ru/1.HTML.dir/1.2.1_.2._HTML-теги.dir/1.2.1_.2._HTML-теги.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_HtmlCss/Containers/Intro_to_this/html5book.ru/1.HTML.dir/1.2.1_.2._HTML-теги.dir/1.2.1_.2._HTML-теги.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_HtmlCss/Containers/Intro_to_this/html5book.ru/1.HTML.dir/1.2.1_.2._HTML-теги.dir/_src/meta.html" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_HtmlCss/Containers/Intro_to_this/html5book.ru/1.HTML.dir/1.2.1_.2._HTML-теги.dir/_src/meta.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_HtmlCss/Containers/Intro_to_this/html5book.ru/1.HTML.dir/1.2.1_.2._HTML-теги.dir/cat.1.2.1_.2._HTML-теги.dir/dir.1.2.1_.2._HTML-теги.dir.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_HtmlCss/Containers/Intro_to_this/html5book.ru/1.HTML.dir/1.2.1_.2._HTML-теги.dir/cat.1.2.1_.2._HTML-теги.dir/dir.1.2.1_.2._HTML-теги.dir.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_HtmlCss/Containers/Intro_to_this/html5book.ru/1.HTML.dir/1.3.1_.3._HTML-атрибуты.dir/1.3.1_.3._HTML-атрибуты.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_HtmlCss/Containers/Intro_to_this/html5book.ru/1.HTML.dir/1.3.1_.3._HTML-атрибуты.dir/1.3.1_.3._HTML-атрибуты.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_HtmlCss/Containers/Intro_to_this/html5book.ru/1.HTML.dir/cat.1.HTML.dir/dir.1.HTML.dir.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_HtmlCss/Containers/Intro_to_this/html5book.ru/1.HTML.dir/cat.1.HTML.dir/dir.1.HTML.dir.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_HtmlCss/Containers/Intro_to_this/html5book.ru/cat.html5book.ru/dir.html5book.ru.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_HtmlCss/Containers/Intro_to_this/html5book.ru/cat.html5book.ru/dir.html5book.ru.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_HtmlCss/Containers/cat.Containers/dir.Containers.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_HtmlCss/Containers/cat.Containers/dir.Containers.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_HtmlCss/cat._HtmlCss/dir._HtmlCss.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_HtmlCss/cat._HtmlCss/dir._HtmlCss.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/cat._Index/dir._Index.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/cat._Index/dir._Index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/cat._Md/dir._Md.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/cat._Md/dir._Md.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_HtmlCss/Containers/Intro_to_this/html5book.ru/1.HTML.dir/1.4.1_.4._HTML-текст.dir/1.4.1_.4._HTML-текст.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_HtmlCss/Containers/Intro_to_this/html5book.ru/1.HTML.dir/1.4.1_.4._HTML-текст.dir/1.4.1_.4._HTML-текст.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_HtmlCss/Containers/Intro_to_this/html5book.ru/1.HTML.dir/1.4.1_.4._HTML-текст.dir/_src/1.html" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_HtmlCss/Containers/Intro_to_this/html5book.ru/1.HTML.dir/1.4.1_.4._HTML-текст.dir/_src/1.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,7 +137,7 @@
     <property name="add_unversioned_files" value="$PROJECT_DIR$/Jobs/SetGlobLoggers/ModLogger_1/Core/Logs/eLogs.txt&#10;true" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="14.15.3" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Jobs/My_requier" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/NBase/_Md/_Index/_HtmlCss/Containers/Use_this/hipe_from_youtube" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.jscs" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -173,19 +163,19 @@
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains_\IntelliJ IDEA 2020.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\Node_projects\Node_Way\Jobs\My_requier" />
-      <recent name="F:\Node_projects\Node_Way\node_modules" />
-      <recent name="F:\Node_projects\Node_Way\node_modules_" />
-      <recent name="F:\Node_projects\Node_Way\NBase" />
-      <recent name="F:\Node_projects\Node_Way" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\Node_projects\Node_Way\Education\Gulp\Gulp_2\gulp\init" />
       <recent name="F:\Node_projects\Node_Way\Store\Global_configs\BachRc" />
       <recent name="F:\Node_projects\Node_Way\ToUse\cloneFileToDir\Dir_in_num_2_3_level" />
       <recent name="F:\Node_projects\Node_Way\ToUse\cloneFileToDir" />
       <recent name="F:\Node_projects\Node_Way\Education\TSH_video" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Node_projects\Node_Way\NBase\_Md\_Index\_HtmlCss\Containers\Use_this\hipe_from_youtube" />
+      <recent name="F:\Node_projects\Node_Way\NBase\_Md\_Index\_HtmlCss\Containers\Use_this\hipe_from_youtube\_" />
+      <recent name="F:\Node_projects\Node_Way\NBase\_Md\_Index\_HtmlCss\Containers\Use_this\hipe_from_youtube\_\_src" />
+      <recent name="F:\Node_projects\Node_Way\Jobs\My_requier" />
+      <recent name="F:\Node_projects\Node_Way\node_modules" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.index.js">
@@ -507,6 +497,7 @@
       <workItem from="1611658104395" duration="96000" />
       <workItem from="1612425917364" duration="16636000" />
       <workItem from="1612616110527" duration="3912000" />
+      <workItem from="1612752104927" duration="4304000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
