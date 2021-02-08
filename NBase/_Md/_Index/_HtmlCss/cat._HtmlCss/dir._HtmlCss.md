@@ -35,6 +35,10 @@
                     - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_HtmlCss\Containers\Intro_to_this\html5book.ru\1.HTML.dir\1.3.1_.3._HTML-атрибуты.dir\cat.1.3.1_.3._HTML-атрибуты.dir\dir.1.3.1_.3._HTML-атрибуты.dir.md">1.3.1_.3._HTML-атрибуты.dir</a>
                         - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_HtmlCss\Containers\Intro_to_this\html5book.ru\1.HTML.dir\1.3.1_.3._HTML-атрибуты.dir\1.3.1_.3._HTML-атрибуты.md">1.3.1_.3._HTML-атрибуты.md</a>
                             - *## [1.3. HTML-атрибуты](https://html5book.ru/html-attributes/)
+                    
+                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_HtmlCss\Containers\Intro_to_this\html5book.ru\1.HTML.dir\1.4.1_.4._HTML-текст.dir\cat.1.4.1_.4._HTML-текст.dir\dir.1.4.1_.4._HTML-текст.dir.md">1.4.1_.4._HTML-текст.dir</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_HtmlCss\Containers\Intro_to_this\html5book.ru\1.HTML.dir\1.4.1_.4._HTML-текст.dir\1.4.1_.4._HTML-текст.md">1.4.1_.4._HTML-текст.md</a>
+                            - *## 1.4. [HTML-текст](https://html5book.ru/html-text/)
                             - *@@ point this learn
                     
                     - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_HtmlCss\Containers\Intro_to_this\html5book.ru\1.HTML.dir\Adds\cat.Adds\dir.Adds.md">Adds</a>
@@ -55,6 +59,15 @@
                         - *## Семантика текста
                         - *## Правки в тексте
                         - *## Формы
+                
+            
+        
+        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_HtmlCss\Containers\Use_this\cat.Use_this\dir.Use_this.md">Use_this</a>
+            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_HtmlCss\Containers\Use_this\hipe_from_youtube\cat.hipe_from_youtube\dir.hipe_from_youtube.md">hipe_from_youtube</a>
+                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_HtmlCss\Containers\Use_this\hipe_from_youtube\gocha_flex\cat.gocha_flex\dir.gocha_flex.md">gocha_flex</a>
+                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_HtmlCss\Containers\Use_this\hipe_from_youtube\gocha_flex\ReadMe.md">ReadMe.md</a>
+                        - *## [video](https://www.youtube.com/watch?v=38bMnJ2l4bg&list=PLZn42a9MqrLIxofJ24Vx_-rd00TTa479A&index=3&t=889s&ab_channel=%D0%93%D0%BE%D1%88%D0%B0%D0%94%D1%83%D0%B4%D0%B0%D1%80%D1%8C)
+                        - *@@ Html5Css3 video 
                 
             
         

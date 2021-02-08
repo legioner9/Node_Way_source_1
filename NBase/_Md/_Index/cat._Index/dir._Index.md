@@ -1,6 +1,42 @@
 - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\cat._Index\dir._Index.md">_Index</a>
     - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\Tutorials\cat.Tutorials\dir.Tutorials.md">Tutorials</a>
         - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\Tutorials\vim\cat.vim\dir.vim.md">vim</a>
+            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\Tutorials\vim\file_trane\cat.file_trane\dir.file_trane.md">file_trane</a>
+                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\Tutorials\vim\file_trane\tutor_trane.md">tutor_trane.md</a>
+                    - *## Урок 1.1: ПЕРЕМЕЩЕНИЕ КУРСОРА
+                    - *## Урок 1.2: ЗАВЕРШЕНИЕ РАБОТЫ С VIM
+                    - *## Урок 1.3: РЕДАКТИРОВАНИЕ ТЕКСТА — УДАЛЕНИЕ
+                    - *## Урок 1.4: РЕДАКТИРОВАНИЕ ТЕКСТА — ВСТАВКА
+                    - *## Урок 1.5: РЕДАКТИРОВАНИЕ ТЕКСТА — ДОБАВЛЕНИЕ
+                    - *## Урок 1.6: РЕДАКТИРОВАНИЕ ФАЙЛА
+                    - *## Урок 2.1: КОМАНДЫ УДАЛЕНИЯ
+                    - *## Урок 2.2: ДОПОЛНИТЕЛЬНЫЕ КОМАНДЫ УДАЛЕНИЯ
+                    - *## Урок 2.3: КОМАНДЫ И ОБЪЕКТЫ
+                    - *## Урок 2.4: ИСПОЛЬЗОВАНИЕ СЧЁТЧИКА ДЛЯ ПЕРЕМЕЩЕНИЯ
+                    - *## Урок 2.5: ИСПОЛЬЗОВАНИЕ СЧЁТЧИКА ДЛЯ УДАЛЕНИЯ
+                    - *## Урок 2.6: ОПЕРАЦИИ СО СТРОКАМИ
+                    - *## Урок 2.7: КОМАНДА ‘ОТМЕНА’
+                    - *## Урок 3.1: КОМАНДА ВСТАВКИ
+                    - *## Урок 3.2: КОМАНДА ЗАМЕНЫ
+                    - *## Урок 3.3: КОМАНДА ИЗМЕНЕНИЯ
+                    - *## Урок 3.4: ПРОДОЛЖАЕМ ИЗМЕНЯТЬ С КОМАНДОЙ c
+                    - *## Урок 4.1: ИНФОРМАЦИЯ О ФАЙЛЕ И РАСПОЛОЖЕНИИ В НЕМ
+                    - *## Урок 4.2: КОМАНДА ПОИСКА
+                    - *## Урок 4.3: ПОИСК ПАРНЫХ СКОБОК
+                    - *## Урок 4.4: СПОСОБ ИСПРАВЛЕНИЯ ОШИБОК
+                    - *## Урок 5.1: КАК ВЫПОЛНИТЬ ВНЕШНЮЮ КОМАНДУ
+                    - *## Урок 5.2: КАК ЗАПИСАТЬ ФАЙЛ
+                    - *## Урок 5.3: ВЫБОРОЧНОЕ СОХРАНЕНИЕ
+                    - *## Урок 5.4: ЧТЕНИЕ И ОБЪЕДИНЕНИЕ ФАЙЛОВ
+                    - *## Урок 6.1: КОМАНДА СОЗДАНИЯ
+                    - *## Урок 6.2: КОМАНДА ДОБАВЛЕНИЯ
+                    - *## Урок 6.3: ЕЩЁ ОДИН СПОСОБ ЗАМЕНЫ
+                    - *## Урок 6.4: КОПИРОВАНИЕ И ВСТАВКА ТЕКСТА
+                    - *## Урок 6.5: УСТАНОВКА ПАРАМЕТРОВ
+                    - *## Урок 7.1: ВСТРОЕННАЯ СПРАВКА
+                    - *## Урок 7.2: СОЗДАНИЕ СТАРТОВОГО СЦЕНАРИЯ
+                    - *## Урок 7.3: ДОПОЛНЕНИЕ
+            
             - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\Tutorials\vim\ReadMe.md">ReadMe.md</a>
                 - *## [Vim : Режимы](http://rus-linux.net/MyLDP/BOOKS/Vim/prosto-o-vim-07.html)
                 - *## [vimtutor online на русском – Учебник VIM версия 1.7](https://i-notes.org/vimtutor-uchebnik-vim-versiya-1-7/#%D0%A3%D1%80%D0%BE%D0%BA-3-2-%D0%9A%D0%9E%D0%9C%D0%90%D0%9D%D0%94%D0%90-%D0%97%D0%90%D0%9C%D0%95%D0%9D%D0%AB)
@@ -1636,6 +1672,10 @@
                         - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_HtmlCss\Containers\Intro_to_this\html5book.ru\1.HTML.dir\1.3.1_.3._HTML-атрибуты.dir\cat.1.3.1_.3._HTML-атрибуты.dir\dir.1.3.1_.3._HTML-атрибуты.dir.md">1.3.1_.3._HTML-атрибуты.dir</a>
                             - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_HtmlCss\Containers\Intro_to_this\html5book.ru\1.HTML.dir\1.3.1_.3._HTML-атрибуты.dir\1.3.1_.3._HTML-атрибуты.md">1.3.1_.3._HTML-атрибуты.md</a>
                                 - *## [1.3. HTML-атрибуты](https://html5book.ru/html-attributes/)
+                        
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_HtmlCss\Containers\Intro_to_this\html5book.ru\1.HTML.dir\1.4.1_.4._HTML-текст.dir\cat.1.4.1_.4._HTML-текст.dir\dir.1.4.1_.4._HTML-текст.dir.md">1.4.1_.4._HTML-текст.dir</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_HtmlCss\Containers\Intro_to_this\html5book.ru\1.HTML.dir\1.4.1_.4._HTML-текст.dir\1.4.1_.4._HTML-текст.md">1.4.1_.4._HTML-текст.md</a>
+                                - *## 1.4. [HTML-текст](https://html5book.ru/html-text/)
                                 - *@@ point this learn
                         
                         - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_HtmlCss\Containers\Intro_to_this\html5book.ru\1.HTML.dir\Adds\cat.Adds\dir.Adds.md">Adds</a>
@@ -1656,6 +1696,15 @@
                             - *## Семантика текста
                             - *## Правки в тексте
                             - *## Формы
+                    
+                
+            
+            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_HtmlCss\Containers\Use_this\cat.Use_this\dir.Use_this.md">Use_this</a>
+                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_HtmlCss\Containers\Use_this\hipe_from_youtube\cat.hipe_from_youtube\dir.hipe_from_youtube.md">hipe_from_youtube</a>
+                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_HtmlCss\Containers\Use_this\hipe_from_youtube\gocha_flex\cat.gocha_flex\dir.gocha_flex.md">gocha_flex</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_HtmlCss\Containers\Use_this\hipe_from_youtube\gocha_flex\ReadMe.md">ReadMe.md</a>
+                            - *## [video](https://www.youtube.com/watch?v=38bMnJ2l4bg&list=PLZn42a9MqrLIxofJ24Vx_-rd00TTa479A&index=3&t=889s&ab_channel=%D0%93%D0%BE%D1%88%D0%B0%D0%94%D1%83%D0%B4%D0%B0%D1%80%D1%8C)
+                            - *@@ Html5Css3 video 
                     
                 
             
