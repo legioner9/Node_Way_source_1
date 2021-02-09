@@ -1,6 +1,13 @@
 . ~/git-completion.bash
 . ~/git-prompt.sh
 
+# path to Node_Way
+nw = "/F/Node_projects/Node_Way"
+
+log__(){
+    echo $nw
+}
+
 ___(){ 
     echo -e "__help from ~/.bashrc is Run
 
@@ -15,7 +22,7 @@ a_d1t Autotest::
 
 
 echo_arg :: echo arg
-
+log__ :: InnerInfo log
     "
 }
 
