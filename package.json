@@ -38,6 +38,7 @@
     "eslint": "^7.9.0",
     "hpw": "^0.1.14",
     "metasync": "^0.3.32",
-    "minimist": "^1.2.5"
+    "minimist": "^1.2.5",
+    "st_require": "^1.0.0"
   }
 }

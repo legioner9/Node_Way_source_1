@@ -62,8 +62,9 @@ node_modules/*
 !node_modules/st_catFs
 !node_modules/st_r
 !node_modules/st_inprop
-
-
+!node_modules/st_ini_catFs
+!node_modules/st_require
+!node_modules/st_require_to_npm
 
 
 
