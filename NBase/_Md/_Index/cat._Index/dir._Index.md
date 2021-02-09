@@ -1677,6 +1677,20 @@
                             - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_HtmlCss\Containers\Intro_to_this\html5book.ru\1.HTML.dir\1.4.1_.4._HTML-текст.dir\1.4.1_.4._HTML-текст.md">1.4.1_.4._HTML-текст.md</a>
                                 - *## 1.4. [HTML-текст](https://html5book.ru/html-text/)
                         
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_HtmlCss\Containers\Intro_to_this\html5book.ru\1.HTML.dir\1.6.1_.6._HTML-изображения.dir\cat.1.6.1_.6._HTML-изображения.dir\dir.1.6.1_.6._HTML-изображения.dir.md">1.6.1_.6._HTML-изображения.dir</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_HtmlCss\Containers\Intro_to_this\html5book.ru\1.HTML.dir\1.6.1_.6._HTML-изображения.dir\1.6.1_.6._HTML-изображения.md">1.6.1_.6._HTML-изображения.md</a>
+                                - *## 1.6. HTML-изображения
+                        
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_HtmlCss\Containers\Intro_to_this\html5book.ru\1.HTML.dir\1.7.1_.7._HTML-таблицы.dir\cat.1.7.1_.7._HTML-таблицы.dir\dir.1.7.1_.7._HTML-таблицы.dir.md">1.7.1_.7._HTML-таблицы.dir</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_HtmlCss\Containers\Intro_to_this\html5book.ru\1.HTML.dir\1.7.1_.7._HTML-таблицы.dir\1.7.1_.7._HTML-таблицы.md">1.7.1_.7._HTML-таблицы.md</a>
+                                - *## [1.7. HTML-таблицы](https://html5book.ru/html-table/)
+                        
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_HtmlCss\Containers\Intro_to_this\html5book.ru\1.HTML.dir\1.8.1_.8._HTML-списки.dir\cat.1.8.1_.8._HTML-списки.dir\dir.1.8.1_.8._HTML-списки.dir.md">1.8.1_.8._HTML-списки.dir</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_HtmlCss\Containers\Intro_to_this\html5book.ru\1.HTML.dir\1.8.1_.8._HTML-списки.dir\1.8.1_.8._HTML-списки.md">1.8.1_.8._HTML-списки.md</a>
+                                - *## [1.8. HTML-списки](https://html5book.ru/html-lists/)
+                                - *### 1. Маркированный список
+                                - *@@ html5book.ru point this learn
+                        
                         - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_HtmlCss\Containers\Intro_to_this\html5book.ru\1.HTML.dir\Adds\cat.Adds\dir.Adds.md">Adds</a>
                             - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_HtmlCss\Containers\Intro_to_this\html5book.ru\1.HTML.dir\Adds\emmet.md">emmet.md</a>
                                 - *## [EMMET ШПАРГАЛКА ДЛЯ МОЛНИЕНОСНОСТНОЙ ВЕРСТКИ](https://dwstroy.ru/stail/plaginy-rasshireniya/emmet-shpargalka/)
