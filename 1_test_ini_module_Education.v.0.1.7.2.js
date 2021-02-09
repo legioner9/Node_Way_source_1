@@ -33,7 +33,7 @@ P.S
 - meth(baseName equal)
 */
 funcExamp ( res, [ '#', '@@' ], [ 'excd' ], [ 'excf' ]
-    ,['deg.forDelete'],['node_modules']);
+    ,['deg.forDelete'],['node_modules','node_modules_']);
 
 console.log ( '\n\nThe END __________________________ process.exit ( 0 )\n\n' );
 process.exit ( 0 );

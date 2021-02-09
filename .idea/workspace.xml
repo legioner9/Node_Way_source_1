@@ -31,13 +31,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_HtmlCss/Containers/Intro_to_this/html5book.ru/1.HTML.dir/1.6.1_.6._HTML-изображения.dir/1.6.1_.6._HTML-изображения.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_HtmlCss/Containers/Intro_to_this/html5book.ru/1.HTML.dir/1.6.1_.6._HTML-изображения.dir/1.6.1_.6._HTML-изображения.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_HtmlCss/Containers/Intro_to_this/html5book.ru/1.HTML.dir/1.6.1_.6._HTML-изображения.dir/_src/1.html" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_HtmlCss/Containers/Intro_to_this/html5book.ru/1.HTML.dir/1.6.1_.6._HTML-изображения.dir/_src/1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_HtmlCss/Containers/Intro_to_this/html5book.ru/1.HTML.dir/1.7.1_.7._HTML-таблицы.dir/1.7.1_.7._HTML-таблицы.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_HtmlCss/Containers/Intro_to_this/html5book.ru/1.HTML.dir/1.7.1_.7._HTML-таблицы.dir/1.7.1_.7._HTML-таблицы.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_HtmlCss/Containers/Intro_to_this/html5book.ru/1.HTML.dir/1.7.1_.7._HTML-таблицы.dir/_src/1.html" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_HtmlCss/Containers/Intro_to_this/html5book.ru/1.HTML.dir/1.7.1_.7._HTML-таблицы.dir/_src/1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_HtmlCss/Containers/Intro_to_this/html5book.ru/1.HTML.dir/1.8.1_.8._HTML-списки.dir/1.8.1_.8._HTML-списки.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_HtmlCss/Containers/Intro_to_this/html5book.ru/1.HTML.dir/1.8.1_.8._HTML-списки.dir/1.8.1_.8._HTML-списки.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_HtmlCss/Containers/Intro_to_this/html5book.ru/1.HTML.dir/1.8.1_.8._HTML-списки.dir/_src/1.html" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_HtmlCss/Containers/Intro_to_this/html5book.ru/1.HTML.dir/1.8.1_.8._HTML-списки.dir/_src/1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_test_ini_module_Education.v.0.1.7.2.js" beforeDir="false" afterPath="$PROJECT_DIR$/1_test_ini_module_Education.v.0.1.7.2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_test_ini_module_Jobs.v.0.1.7.2.js" beforeDir="false" afterPath="$PROJECT_DIR$/2_test_ini_module_Jobs.v.0.1.7.2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/test_ini_module__Md.v.0.1.7.2.js" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/test_ini_module__Md.v.0.1.7.2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Store/last_commit.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Store/last_commit.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/st___00/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/st___00/Set___00/__/_/Production/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/st___00/Set___00/__/_/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/st___00/Set___00/__/_/Test/1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/st___00/Set___00/__/_/Test/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/st___00/Set___00/__/_/Test/main_test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/st___00/Set___00/__/_/_versions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/st___00/Set___00/__/_/examp.index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/st___00/Set___00/__/_/index.init.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/st___00/Set___00/__/_/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/st___00/Set___00/__/_/index.v.1.0.0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/st___00/Set___00/__/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/st___00/Set___00/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/st___00/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/st___00/package.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,7 +154,7 @@
     <property name="add_unversioned_files" value="$PROJECT_DIR$/Jobs/SetGlobLoggers/ModLogger_1/Core/Logs/eLogs.txt&#10;true" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="14.15.3" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/NBase/_Md/_Index/_HtmlCss/Containers/Use_this/hipe_from_youtube" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/node_modules_" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.jscs" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -166,19 +180,19 @@
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains_\IntelliJ IDEA 2020.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Node_projects\Node_Way\node_modules_" />
+      <recent name="F:\Node_projects\Node_Way\NBase\_Md\_Index\_HtmlCss\Containers\Use_this\hipe_from_youtube" />
+      <recent name="F:\Node_projects\Node_Way\NBase\_Md\_Index\_HtmlCss\Containers\Use_this\hipe_from_youtube\_" />
+      <recent name="F:\Node_projects\Node_Way\NBase\_Md\_Index\_HtmlCss\Containers\Use_this\hipe_from_youtube\_\_src" />
+      <recent name="F:\Node_projects\Node_Way\Jobs\My_requier" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\Node_projects\Node_Way\Education\Gulp\Gulp_2\gulp\init" />
       <recent name="F:\Node_projects\Node_Way\Store\Global_configs\BachRc" />
       <recent name="F:\Node_projects\Node_Way\ToUse\cloneFileToDir\Dir_in_num_2_3_level" />
       <recent name="F:\Node_projects\Node_Way\ToUse\cloneFileToDir" />
       <recent name="F:\Node_projects\Node_Way\Education\TSH_video" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\Node_projects\Node_Way\NBase\_Md\_Index\_HtmlCss\Containers\Use_this\hipe_from_youtube" />
-      <recent name="F:\Node_projects\Node_Way\NBase\_Md\_Index\_HtmlCss\Containers\Use_this\hipe_from_youtube\_" />
-      <recent name="F:\Node_projects\Node_Way\NBase\_Md\_Index\_HtmlCss\Containers\Use_this\hipe_from_youtube\_\_src" />
-      <recent name="F:\Node_projects\Node_Way\Jobs\My_requier" />
-      <recent name="F:\Node_projects\Node_Way\node_modules" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.index.js">
@@ -502,7 +516,7 @@
       <workItem from="1612616110527" duration="3912000" />
       <workItem from="1612752104927" duration="16405000" />
       <workItem from="1612806240705" duration="2026000" />
-      <workItem from="1612846131546" duration="6036000" />
+      <workItem from="1612846131546" duration="10950000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
@@ -910,6 +924,34 @@
         <option value="$PROJECT_DIR$/Store/myNpm/st_doc1/Init/Codepillir_icons-master/examples/files/source.resolver.js" />
         <option value="$PROJECT_DIR$/Store/myNpm/st_doc1/Init/Codepillir_icons-master/examples/files/source.component.js" />
         <option value="$PROJECT_DIR$/Store/myNpm/st_doc1/Init/Codepillir_icons-master/examples/files/source.directive.js" />
+        <option value="$PROJECT_DIR$/node_modules_/st_doc1/Init/Codepillir_icons-master/examples/files/app.js" />
+        <option value="$PROJECT_DIR$/node_modules_/st_doc1/Init/Codepillir_icons-master/examples/files/server.js" />
+        <option value="$PROJECT_DIR$/node_modules_/st_doc1/Init/Codepillir_icons-master/examples/files/source.js" />
+        <option value="$PROJECT_DIR$/node_modules_/st_doc1/Init/Codepillir_icons-master/examples/files/source.jsx" />
+        <option value="$PROJECT_DIR$/node_modules_/st_doc1/Init/Codepillir_icons-master/examples/files/source.d.ts" />
+        <option value="$PROJECT_DIR$/node_modules_/st_doc1/Init/Codepillir_icons-master/examples/files/source.js.map" />
+        <option value="$PROJECT_DIR$/node_modules_/st_doc1/Init/Codepillir_icons-master/examples/files/source.pipe.js" />
+        <option value="$PROJECT_DIR$/node_modules_/st_doc1/Init/Codepillir_icons-master/examples/files/source.spec.js" />
+        <option value="$PROJECT_DIR$/node_modules_/st_doc1/Init/Codepillir_icons-master/examples/files/source.test.js" />
+        <option value="$PROJECT_DIR$/node_modules_/st_doc1/Init/Codepillir_icons-master/examples/files/sourceStore.js" />
+        <option value="$PROJECT_DIR$/node_modules_/st_doc1/Init/Codepillir_icons-master/examples/files/source.guard.js" />
+        <option value="$PROJECT_DIR$/node_modules_/st_doc1/Init/Codepillir_icons-master/examples/files/source.spec.jsx" />
+        <option value="$PROJECT_DIR$/node_modules_/st_doc1/Init/Codepillir_icons-master/examples/files/source.store.js" />
+        <option value="$PROJECT_DIR$/node_modules_/st_doc1/Init/Codepillir_icons-master/examples/files/source.story.js" />
+        <option value="$PROJECT_DIR$/node_modules_/st_doc1/Init/Codepillir_icons-master/examples/files/source.test.jsx" />
+        <option value="$PROJECT_DIR$/node_modules_/st_doc1/Init/Codepillir_icons-master/examples/files/sourceAction.js" />
+        <option value="$PROJECT_DIR$/node_modules_/st_doc1/Init/Codepillir_icons-master/examples/files/source.story.jsx" />
+        <option value="$PROJECT_DIR$/node_modules_/st_doc1/Init/Codepillir_icons-master/examples/files/sourceActions.js" />
+        <option value="$PROJECT_DIR$/node_modules_/st_doc1/Init/Codepillir_icons-master/examples/files/sourceReducer.js" />
+        <option value="$PROJECT_DIR$/node_modules_/st_doc1/Init/Codepillir_icons-master/examples/files/source.actions.js" />
+        <option value="$PROJECT_DIR$/node_modules_/st_doc1/Init/Codepillir_icons-master/examples/files/source.reducer.js" />
+        <option value="$PROJECT_DIR$/node_modules_/st_doc1/Init/Codepillir_icons-master/examples/files/source.routing.js" />
+        <option value="$PROJECT_DIR$/node_modules_/st_doc1/Init/Codepillir_icons-master/examples/files/source.service.js" />
+        <option value="$PROJECT_DIR$/node_modules_/st_doc1/Init/Codepillir_icons-master/examples/files/stencil.config.js" />
+        <option value="$PROJECT_DIR$/node_modules_/st_doc1/Init/Codepillir_icons-master/examples/files/webpack.config.js" />
+        <option value="$PROJECT_DIR$/node_modules_/st_doc1/Init/Codepillir_icons-master/examples/files/source.resolver.js" />
+        <option value="$PROJECT_DIR$/node_modules_/st_doc1/Init/Codepillir_icons-master/examples/files/source.component.js" />
+        <option value="$PROJECT_DIR$/node_modules_/st_doc1/Init/Codepillir_icons-master/examples/files/source.directive.js" />
       </list>
     </option>
   </component>
