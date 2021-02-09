@@ -33,25 +33,7 @@
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_test_ini_module_Education.v.0.1.7.2.js" beforeDir="false" afterPath="$PROJECT_DIR$/1_test_ini_module_Education.v.0.1.7.2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2_test_ini_module_Jobs.v.0.1.7.2.js" beforeDir="false" afterPath="$PROJECT_DIR$/2_test_ini_module_Jobs.v.0.1.7.2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/test_ini_module__Md.v.0.1.7.2.js" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/test_ini_module__Md.v.0.1.7.2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Store/last_commit.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Store/last_commit.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/st___00/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/st___00/Set___00/__/_/Production/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/st___00/Set___00/__/_/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/st___00/Set___00/__/_/Test/1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/st___00/Set___00/__/_/Test/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/st___00/Set___00/__/_/Test/main_test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/st___00/Set___00/__/_/_versions.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/st___00/Set___00/__/_/examp.index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/st___00/Set___00/__/_/index.init.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/st___00/Set___00/__/_/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/st___00/Set___00/__/_/index.v.1.0.0.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/st___00/Set___00/__/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/st___00/Set___00/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/st___00/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/st___00/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -154,7 +136,7 @@
     <property name="add_unversioned_files" value="$PROJECT_DIR$/Jobs/SetGlobLoggers/ModLogger_1/Core/Logs/eLogs.txt&#10;true" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="14.15.3" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/node_modules_" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/node_modules" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.jscs" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -180,19 +162,19 @@
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains_\IntelliJ IDEA 2020.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\Node_projects\Node_Way\node_modules_" />
-      <recent name="F:\Node_projects\Node_Way\NBase\_Md\_Index\_HtmlCss\Containers\Use_this\hipe_from_youtube" />
-      <recent name="F:\Node_projects\Node_Way\NBase\_Md\_Index\_HtmlCss\Containers\Use_this\hipe_from_youtube\_" />
-      <recent name="F:\Node_projects\Node_Way\NBase\_Md\_Index\_HtmlCss\Containers\Use_this\hipe_from_youtube\_\_src" />
-      <recent name="F:\Node_projects\Node_Way\Jobs\My_requier" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\Node_projects\Node_Way\Education\Gulp\Gulp_2\gulp\init" />
       <recent name="F:\Node_projects\Node_Way\Store\Global_configs\BachRc" />
       <recent name="F:\Node_projects\Node_Way\ToUse\cloneFileToDir\Dir_in_num_2_3_level" />
       <recent name="F:\Node_projects\Node_Way\ToUse\cloneFileToDir" />
       <recent name="F:\Node_projects\Node_Way\Education\TSH_video" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Node_projects\Node_Way\node_modules" />
+      <recent name="F:\Node_projects\Node_Way\node_modules_" />
+      <recent name="F:\Node_projects\Node_Way\NBase\_Md\_Index\_HtmlCss\Containers\Use_this\hipe_from_youtube" />
+      <recent name="F:\Node_projects\Node_Way\NBase\_Md\_Index\_HtmlCss\Containers\Use_this\hipe_from_youtube\_" />
+      <recent name="F:\Node_projects\Node_Way\NBase\_Md\_Index\_HtmlCss\Containers\Use_this\hipe_from_youtube\_\_src" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.index.js">
@@ -517,6 +499,7 @@
       <workItem from="1612752104927" duration="16405000" />
       <workItem from="1612806240705" duration="2026000" />
       <workItem from="1612846131546" duration="10950000" />
+      <workItem from="1612885286011" duration="2031000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
@@ -1103,10 +1086,11 @@
       <screen x="1440" y="0" width="1280" height="1024" />
     </state>
     <state x="1824" y="294" width="726" height="727" key="#xdebugger.evaluate/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1605863622075" />
-    <state x="188" y="110" width="1094" height="614" key="DiffContextDialog" timestamp="1608266478938">
+    <state x="188" y="110" width="1094" height="614" key="DiffContextDialog" timestamp="1612887045712">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="188" y="110" width="1094" height="614" key="DiffContextDialog/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1608266478938" />
+    <state x="188" y="110" width="1094" height="614" key="DiffContextDialog/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1612887045712" />
     <state x="519" y="178" width="699" height="606" key="FileChooserDialogImpl" timestamp="1611042847961">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
