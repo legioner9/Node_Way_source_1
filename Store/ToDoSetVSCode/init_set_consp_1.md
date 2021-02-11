@@ -2,16 +2,24 @@
 
 ##  [Самый подробный гайд по настройке и установке плагинов для начинающих](https://habr.com/ru/post/490754/)
 
+### Autosave
+
+"files.autoSave": "afterDelay",
+
 ### Запуск на слабой машине
 
-    "C:\Users\79059\AppData\Local\Programs\Microsoft VS Code\Code.exe --disable-gpu"
+    "C:\Users\79059\AppData\Local\Programs\Microsoft VS Code\Code.exe" --disable-gpu
 
 
 ### [VS Code: вам не нужно это расширение](https://techrocks.ru/2020/08/06/vs-code-extensions-vs-settings/)
 
-#### 1. Автоматическое переименование тегов и закрывающие теги
 
-    "editor.renameOnType": true
+
+
+    %APPDATA% = C:\Users\79059\AppData\Roaming\
+    %APPDATA%\Code\User\settings.json
+
+
 
 ### Edit default terminal    
 
@@ -31,6 +39,94 @@
     "editor.fontFamily": "'Pragmata Pro Mono',Consolas, 'Courier New', monospace"
 
 ### 1. Auto Import
+
+### Bracket Pair Colorizer
+
+### Markdown All in One
+
+### Instant Markdown 
+
+http://localhost:8090
+
+### Markdown TOC
+
+### Colorful Comments
+
+- Red (!)
+- Blue (?)
+- Green (*)
+- Yellow (^)
+- Pink (&)
+- Purple (~)
+- Mustard (todo)
+- Grey (//)
+
+    "colorful-comments.tags": [
+    {
+        "tag": "!",
+        "color": "#FF2D00",
+        "strikethrough": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false
+    },
+    {
+        "tag": "?",
+        "color": "#0076FF",
+        "strikethrough": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false
+    },
+    {
+        "tag": "//",
+        "color": "#474747",
+        "strikethrough": true,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false
+    },
+    {
+        "tag": "^",
+        "color": "#EAF622",
+        "strikethrough": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false
+    },
+    {
+        "tag": "*",
+        "color": "#28FF00",
+        "strikethrough": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false
+    },
+    {
+        "tag": "&", 
+        "color": "#FF06A0",
+        "strikethrough": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false
+    },
+    {
+        "tag": "~",
+        "color": "#BE00FF",
+        "strikethrough": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false
+    },
+    {
+        "tag": "todo",
+        "color": "#FF8C00",
+        "strikethrough": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false
+    }
+    ]
 
 ### 2. Add jsdoc comments
 
@@ -64,7 +160,10 @@
 
     "editor.minimap.enabled": false
 
+### Go to MDN
 
+
+### Html Css
 
 
 

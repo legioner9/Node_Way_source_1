@@ -1,1 +1,0 @@
-- [stash] example with restore indexed files
