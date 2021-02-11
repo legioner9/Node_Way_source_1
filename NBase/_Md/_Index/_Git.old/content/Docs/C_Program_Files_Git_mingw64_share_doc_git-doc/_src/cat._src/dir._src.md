@@ -1,7 +1,7 @@
-- <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\_src\cat._src\dir._src.md">_src</a>
-    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\_src\doc\cat.doc\dir.doc.md">doc</a>
-        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\_src\doc\git-lfs\cat.git-lfs\dir.git-lfs.md">git-lfs</a>
-            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\_src\doc\git-lfs\README.md">README.md</a>
+- <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git.old\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\_src\cat._src\dir._src.md">_src</a>
+    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git.old\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\_src\doc\cat.doc\dir.doc.md">doc</a>
+        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git.old\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\_src\doc\git-lfs\cat.git-lfs\dir.git-lfs.md">git-lfs</a>
+            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git.old\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\_src\doc\git-lfs\README.md">README.md</a>
                 - *# Git Large File Storage
                 - *## Getting Started
                 - *### Downloading
@@ -18,9 +18,9 @@
                 - *### Alumni
         
     
-    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\_src\Git_store{}@1_1\cat.Git_store{}@1_1\dir.Git_store{}@1_1.md">Git_store{}@1_1</a>
-        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\_src\Git_store{}@1_1\Git_what_trane{}@1\cat.Git_what_trane{}@1\dir.Git_what_trane{}@1.md">Git_what_trane{}@1</a>
-            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\_src\Git_store{}@1_1\Git_what_trane{}@1\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
+    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git.old\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\_src\Git_store{}@1_1\cat.Git_store{}@1_1\dir.Git_store{}@1_1.md">Git_store{}@1_1</a>
+        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git.old\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\_src\Git_store{}@1_1\Git_what_trane{}@1\cat.Git_what_trane{}@1\dir.Git_what_trane{}@1.md">Git_what_trane{}@1</a>
+            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git.old\content\Docs\C_Program_Files_Git_mingw64_share_doc_git-doc\_src\Git_store{}@1_1\Git_what_trane{}@1\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
                 - *## {st} - (blob|ident) area :ident{stash}::blob: + :blob:
                 - *## {fs} - (file) area :file:
                 - *## {ws} - (ident) area :wd::file: - label on unstage file 

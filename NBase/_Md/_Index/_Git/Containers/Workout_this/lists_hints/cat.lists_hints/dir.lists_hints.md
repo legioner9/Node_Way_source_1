@@ -1,5 +1,5 @@
-- <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\lists_hints\cat.lists_hints\dir.lists_hints.md">lists_hints</a>
-    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\lists_hints\contentim.ru_bash.md">contentim.ru_bash.md</a>
+- <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\Containers\Workout_this\lists_hints\cat.lists_hints\dir.lists_hints.md">lists_hints</a>
+    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\Containers\Workout_this\lists_hints\contentim.ru_bash.md">contentim.ru_bash.md</a>
         - *# [Шпаргалка по bash](https://github.com/cyberspacedk/BASH-Commands)
         - *## Файловая система
         - *### Просмотр содержимого папки
@@ -8,7 +8,7 @@
         - *### Копирование файлов
         - *### Удаление папок и файлов
         - *## Алиасы
-    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\lists_hints\contentim.ru_git.md">contentim.ru_git.md</a>
+    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\Containers\Workout_this\lists_hints\contentim.ru_git.md">contentim.ru_git.md</a>
         - *# [Шпаргалка по консольным командам Git](https://contentim.ru/git)
         - *## Создать новый репозиторий
         - *## Клонирование репозитория
@@ -45,7 +45,7 @@
         - *### Ошибка в работе: закоммитили в мастер, но поняли, что нужно было коммитить в новую ветку
         - *### Нужно вернуть содержимое файла к состоянию, бывшему в каком-либо коммите (известен хеш коммита)
         - *### При любом действии с github (или другим удалённым сервисом) запрашивается логин и пароль
-    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\lists_hints\habr.com.201922.md">habr.com.201922.md</a>
+    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\Containers\Workout_this\lists_hints\habr.com.201922.md">habr.com.201922.md</a>
         - *# [Изменение коммитов в Git](https://habr.com/ru/post/201922/)
-    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\lists_hints\nikolaj-sarry.info.md">nikolaj-sarry.info.md</a>
+    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\Containers\Workout_this\lists_hints\nikolaj-sarry.info.md">nikolaj-sarry.info.md</a>
         - *# [GIT-ШПАРГАЛКА: ОСНОВНЫЕ КОМАНДЫ](https://nikolaj-sarry.info/razrabotka/git/git-shpargalka-osnovnye-komandy/)

@@ -1,8 +1,8 @@
-- <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\Git_what_trane{}@1_{repo} - копия (2)\cat.Git_what_trane{}@1_{repo} - копия (2)\dir.Git_what_trane{}@1_{repo} - копия (2).md">Git_what_trane{}@1_{repo} - копия (2)</a>
-    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\Git_what_trane{}@1_{repo} - копия (2)\create_bind_repo.md">create_bind_repo.md</a>
+- <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\Containers\Workout_this\blobs_for_taining\Git_what_trane{}@1_{repo} - копия (2)\cat.Git_what_trane{}@1_{repo} - копия (2)\dir.Git_what_trane{}@1_{repo} - копия (2).md">Git_what_trane{}@1_{repo} - копия (2)</a>
+    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\Containers\Workout_this\blobs_for_taining\Git_what_trane{}@1_{repo} - копия (2)\create_bind_repo.md">create_bind_repo.md</a>
         - *# create repo
         - *# bind repo
-    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\Git_what_trane{}@1_{repo} - копия (2)\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
+    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\Containers\Workout_this\blobs_for_taining\Git_what_trane{}@1_{repo} - копия (2)\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
         - *## {st} - (blob|ident) area :ident{stash}::blob: + :blob:
         - *## {fs} - (file) area :file:
         - *## {ws} - (ident) area :wd::file: - label on unstage file 

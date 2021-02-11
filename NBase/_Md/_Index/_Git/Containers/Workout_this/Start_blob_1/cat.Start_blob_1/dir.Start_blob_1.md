@@ -1,5 +1,5 @@
-- <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\Start_blob_1\cat.Start_blob_1\dir.Start_blob_1.md">Start_blob_1</a>
-    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\Start_blob_1\create_start_blob_1.bak.md">create_start_blob_1.bak.md</a>
+- <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\Containers\Workout_this\Start_blob_1\cat.Start_blob_1\dir.Start_blob_1.md">Start_blob_1</a>
+    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\Containers\Workout_this\Start_blob_1\create_start_blob_1.bak.md">create_start_blob_1.bak.md</a>
         - *## create {shape_}
         - *## create (change of) {wd} 
         - *## create (change of) {in}
@@ -9,7 +9,7 @@
         - *## {wd} dn {sh}
         - *### {{in} dn {wd}}
         - *## second commit comm2
-    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\Start_blob_1\create_start_blob_1.md">create_start_blob_1.md</a>
+    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\Containers\Workout_this\Start_blob_1\create_start_blob_1.md">create_start_blob_1.md</a>
         - *## {st} - (blob|ident) area :ident{stash}::blob: + :blob:
         - *## {fs} - (file) area :file:
         - *## {ws} - (ident) area :wd::file: - label on unstage file 
@@ -24,7 +24,7 @@
         - *## sta1 go to {stash}
         - *### atten! {stash} add modif {ws}
         - *## bring inside mas3   
-    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\Start_blob_1\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
+    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\Containers\Workout_this\Start_blob_1\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
         - *## {st} - (blob|ident) area :ident{stash}::blob: + :blob:
         - *## {fs} - (file) area :file:
         - *## {ws} - (ident) area :wd::file: - label on unstage file 

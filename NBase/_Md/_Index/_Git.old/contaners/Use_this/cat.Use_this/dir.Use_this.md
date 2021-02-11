@@ -1,6 +1,6 @@
-- <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Use_this\cat.Use_this\dir.Use_this.md">Use_this</a>
-    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Use_this\First_steps\cat.First_steps\dir.First_steps.md">First_steps</a>
-        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Use_this\First_steps\7_советов_по.md">7_советов_по.md</a>
+- <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git.old\contaners\Use_this\cat.Use_this\dir.Use_this.md">Use_this</a>
+    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git.old\contaners\Use_this\First_steps\cat.First_steps\dir.First_steps.md">First_steps</a>
+        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git.old\contaners\Use_this\First_steps\7_советов_по.md">7_советов_по.md</a>
             - *# [Как стать Git-мастером: 7 советов по повышению производительности](https://nuancesprog.ru/p/5142/)
             - *## Автозаполнение команд Git в терминале
             - *## Локальное удаление ветки в удаленном репозитории
@@ -10,7 +10,7 @@
             - *## Выборочная фиксация изменений из файла
             - *## Обработка больших файлов с помощью Git LFS
             - *## Бонусный совет: отладка с помощью Git
-        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Use_this\First_steps\backcommit.md">backcommit.md</a>
+        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git.old\contaners\Use_this\First_steps\backcommit.md">backcommit.md</a>
             - *# [Как вернуться (откатиться) к более раннему коммиту?](https://ru.stackoverflow.com/questions/431520/%D0%9A%D0%B0%D0%BA-%D0%B2%D0%B5%D1%80%D0%BD%D1%83%D1%82%D1%8C%D1%81%D1%8F-%D0%BE%D1%82%D0%BA%D0%B0%D1%82%D0%B8%D1%82%D1%8C%D1%81%D1%8F-%D0%BA-%D0%B1%D0%BE%D0%BB%D0%B5%D0%B5-%D1%80%D0%B0%D0%BD%D0%BD%D0%B5%D0%BC%D1%83-%D0%BA%D0%BE%D0%BC%D0%BC%D0%B8%D1%82%D1%83)
             - *## 1. Временно переключиться на другой коммит
             - *## 2. Переключиться на коммит и продолжить работу с него
@@ -24,15 +24,15 @@
             - *### 4.2 Сохранить изменения в рабочей области, но не в индексе.
             - *### 4.3 Просто выбросить изменения.
             - *## 5. Отменить уже опубликованные коммиты с помощью новых коммитов
-        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Use_this\First_steps\custom.md">custom.md</a>
+        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git.old\contaners\Use_this\First_steps\custom.md">custom.md</a>
             - *## Установка из исходников
             - *## Первоначальная настройка Git
-        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Use_this\First_steps\Индексирование_коммитов_с_Git_Add_Patch.md">Индексирование_коммитов_с_Git_Add_Patch.md</a>
+        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git.old\contaners\Use_this\First_steps\Индексирование_коммитов_с_Git_Add_Patch.md">Индексирование_коммитов_с_Git_Add_Patch.md</a>
             - *# [Индексирование коммитов с Git Add Patch](https://nuancesprog.ru/p/7502/)
             - *## Что такое git add -patch?
             - *## Для чего это нужно?
             - *## Заключение
-        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Use_this\First_steps\Отмена_действий_в_Git.md">Отмена_действий_в_Git.md</a>
+        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git.old\contaners\Use_this\First_steps\Отмена_действий_в_Git.md">Отмена_действий_в_Git.md</a>
             - *# [Отмена действий в Git](https://nuancesprog.ru/p/7659/)
             - *## Отмена Git Add
             - *## Как откатить Git Merge
@@ -41,8 +41,8 @@
             - *## Отмена Git Rebase
             - *## Заключение
     
-    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Use_this\Hints\cat.Hints\dir.Hints.md">Hints</a>
-        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Use_this\Hints\Как_стать_продуктивнее _на_GitHub.md">Как_стать_продуктивнее _на_GitHub.md</a>
+    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git.old\contaners\Use_this\Hints\cat.Hints\dir.Hints.md">Hints</a>
+        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git.old\contaners\Use_this\Hints\Как_стать_продуктивнее _на_GitHub.md">Как_стать_продуктивнее _на_GitHub.md</a>
             - *# [Как стать продуктивнее на GitHub](https://nuancesprog.ru/p/3111/)
             - *## Быстрый поиск файлов в репозиториях по неточному соответствию
             - *## Предложение правок на включение
@@ -53,7 +53,7 @@
             - *## Расширенный поиск по коду
             - *## Сохраненные ответы 
             - *## Заключение 
-        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Use_this\Hints\Репозитории_GitHub_в_помощь.md">Репозитории_GitHub_в_помощь.md</a>
+        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git.old\contaners\Use_this\Hints\Репозитории_GitHub_в_помощь.md">Репозитории_GitHub_в_помощь.md</a>
             - *# [Репозитории GitHub в помощь каждому веб-разработчику](https://nuancesprog.ru/p/7074/)
             - *## [1.Список полезных ресурсов для фронтенд разработчиков.](https://github.com/RitikPatni/Front-End-Web-Development-Resources)
             - *## [2. WTFJS](https://github.com/denysdovhan/wtfjs)
@@ -64,7 +64,7 @@
             - *## [8. Список бесплатных обучающих ресурсов](https://github.com/EbookFoundation/free-programming-books)
             - *## [9. Отличные возможности для старта](https://github.com/MunGell/awesome-for-beginners)
             - *## [10. Ежедневный вопрос для собеседования](https://github.com/Advanced-Frontend/Daily-Interview-Question)
-        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Use_this\Hints\создать_сайт_на_GitHub_Pages.md">создать_сайт_на_GitHub_Pages.md</a>
+        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git.old\contaners\Use_this\Hints\создать_сайт_на_GitHub_Pages.md">создать_сайт_на_GitHub_Pages.md</a>
             - *# [Как создать бесплатный сайт на GitHub Pages](https://nuancesprog.ru/p/4318/)
             - *## А зачем мне сайт?
             - *## Начинаем!
@@ -73,5 +73,5 @@
             - *## Чего-то не хватает
             - *## Уже хорошо, но может быть еще лучше
     
-    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Use_this\ReadMe.md">ReadMe.md</a>
+    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git.old\contaners\Use_this\ReadMe.md">ReadMe.md</a>
         - *@@ Git_helix the way of git 

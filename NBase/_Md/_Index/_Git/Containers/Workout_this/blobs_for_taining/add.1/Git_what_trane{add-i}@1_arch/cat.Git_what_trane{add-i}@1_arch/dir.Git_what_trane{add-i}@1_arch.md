@@ -1,5 +1,5 @@
-- <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\add.1\Git_what_trane{add-i}@1_arch\cat.Git_what_trane{add-i}@1_arch\dir.Git_what_trane{add-i}@1_arch.md">Git_what_trane{add-i}@1_arch</a>
-    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\contaners\Workout_this\blobs_for_taining\add.1\Git_what_trane{add-i}@1_arch\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
+- <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\Containers\Workout_this\blobs_for_taining\add.1\Git_what_trane{add-i}@1_arch\cat.Git_what_trane{add-i}@1_arch\dir.Git_what_trane{add-i}@1_arch.md">Git_what_trane{add-i}@1_arch</a>
+    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\Containers\Workout_this\blobs_for_taining\add.1\Git_what_trane{add-i}@1_arch\create_start_blob_1@1.1.md">create_start_blob_1@1.1.md</a>
         - *## {st} - (blob|ident) area :ident{stash}::blob: + :blob:
         - *## {fs} - (file) area :file:
         - *## {ws} - (ident) area :wd::file: - label on unstage file 
