@@ -1,4 +1,6 @@
 {
     "restructuredtext.confPath": "",
-    "git.ignoreLimitWarning": true
+    "git.ignoreLimitWarning": true,
+    "editor.fontFamily": "'Pragmata Pro Mono',Consolas, 'Courier New', monospace",
+    "editor.minimap.enabled": false
 }

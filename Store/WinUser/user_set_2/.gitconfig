@@ -1,0 +1,18 @@
+[user]
+	email = legioner9@inbox.ru
+	name = Legioner9
+[core]
+	editor = 'C:/Program Files (x86)/Notepad++/notepad++.exe' -multiInst -notabbar -nosession -noPlugin
+	autocrlf = true
+	safecrlf = warn
+	quotepath = off
+	longpaths = true
+[alias]
+	type = cat-file -t
+	dump = cat-file -p
+[merge]
+	tool = kdiff3
+[diff]
+	guitool = kdiff3
+[color]
+	ui = true
