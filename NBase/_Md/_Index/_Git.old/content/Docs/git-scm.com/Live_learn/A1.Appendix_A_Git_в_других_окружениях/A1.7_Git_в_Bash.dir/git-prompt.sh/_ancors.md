@@ -1,1 +1,0 @@
-- [Настройка bash prompt для Subversion, Git и Mercurial](https://debianworld.ru/articles/nastrojka-bash-prompt-dlya-subversion-git-i-mercurial/)
