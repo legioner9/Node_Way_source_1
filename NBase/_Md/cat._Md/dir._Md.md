@@ -262,6 +262,17 @@
                 
             
         
+        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Fedora\cat._Fedora\dir._Fedora.md">_Fedora</a>
+            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Fedora\Containers\cat.Containers\dir.Containers.md">Containers</a>
+                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Fedora\Containers\Intro_to_this\cat.Intro_to_this\dir.Intro_to_this.md">Intro_to_this</a>
+                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Fedora\Containers\Intro_to_this\www.comss.ru\cat.www.comss.ru\dir.www.comss.ru.md">www.comss.ru</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Fedora\Containers\Intro_to_this\www.comss.ru\www_this.md">www_this.md</a>
+                            - *## [Настройка Fedora 30 после установки](https://www.comss.ru/page.php?id=6456)
+                            - *@@ intro Fedora 
+                    
+                
+            
+        
         - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\cat._Git\dir._Git.md">_Git</a>
             - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\Containers\cat.Containers\dir.Containers.md">Containers</a>
                 - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\Containers\Use_this\cat.Use_this\dir.Use_this.md">Use_this</a>
