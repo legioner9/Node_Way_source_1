@@ -2,11 +2,11 @@
 . ~/git-prompt.sh
 
 # path to Node_Way
-# nw = "/F/Node_projects/Node_Way"
+nw = "/F/Node_projects/Node_Way"
 
-# log__(){
-#     echo $nw
-# }
+log__(){
+    echo $nw
+}
 
 ___(){ 
     echo -e "__help from ~/.bashrc is Run
@@ -19,9 +19,6 @@ test__ :: a_d1t Autotest
 a_d1 :: create [[ arg, arg + '.md','ReadMe.md',['_src',0] ]]
 a_d1t Autotest::
 /f/Node_projects/Node_Way/node_modules/st_ex1/SetDirFile/CreateDirFile/CreateTechDirHot_1/Test_auto
-gph :: [git push \$1] | [git push \$2]
-gm :: [git merge \$1] | [git difftool]
-
 
 
 echo_arg :: echo arg
@@ -95,21 +92,7 @@ copy_bash(){
 
 }
 
-gph(){
 
-    # cd F:\\Node_projects\\Node_Way\\NBase\\_Md\\_Index\\_Git\\Containers\\Use_this\\Git_helix\\segm.I.v.1.0.0\\proj.3.0.0\\set.3.0.0_copy\\set.2.0.0
-
-    git push bare $1
-    git push bare $2
-
-
-
-}
-
-gm(){
-    git merge $1
-    git mergetool
-}
 
 
 
@@ -121,10 +104,9 @@ alias welcome='echo "Welcome $USER."'
 
 # Version Control
 alias gs="git status"
-alias ga="git add"
+alias gd="git add ."
 alias gc="git commit"
-alias gb="git branch"
-alias gh="git checkout"
+alias gc="git checkout"
 alias gp="git push -u origin master"
 alias gl="git log --pretty=format:\"%h %s\" --graph"
 alias gw="git show --stat --oneline HEAD"
@@ -156,11 +138,3 @@ function lazyman() {
 # }
 
 # alias iffi = "/C/Bash_scripts/iffile.sh"
-
-# --------------------footer---------------------
-
-# [merge]
-#     tool = kdiff3
-# [mergetool "kdiff3"]
-#     path = C:/Program Files/KDiff3/kdiff3.exe
-#     trustExitCode = false
