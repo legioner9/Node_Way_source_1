@@ -2297,6 +2297,11 @@
                 - *## Поместить выше (в дереве HTML): ^
                 - *@@ emmet continue far
         
+        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\__\event_loop\cat.event_loop\dir.event_loop.md">event_loop</a>
+            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\__\event_loop\fiches_of_this.md">fiches_of_this.md</a>
+                - *## [Don't Block the Event Loop](https://nodejs.org/en/docs/guides/dont-block-the-event-loop/)
+                - *## [Про цикл событий в JavaScript или "как на самом деле работает асинхронность"?](https://www.youtube.com/watch?v=8cV4ZvHXQL4&feature=youtu.be&ab_channel=MakeWeb.me)
+        
         - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\__\Fan_fiches\cat.Fan_fiches\dir.Fan_fiches.md">Fan_fiches</a>
             - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\__\Fan_fiches\14_Awesome_JavaScript_Array_Tips.md">14_Awesome_JavaScript_Array_Tips.md</a>
                 - *# https://dev.to/kais_blog/14-awesome-javascript-array-tips-you-should-know-about-1d0m?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email
