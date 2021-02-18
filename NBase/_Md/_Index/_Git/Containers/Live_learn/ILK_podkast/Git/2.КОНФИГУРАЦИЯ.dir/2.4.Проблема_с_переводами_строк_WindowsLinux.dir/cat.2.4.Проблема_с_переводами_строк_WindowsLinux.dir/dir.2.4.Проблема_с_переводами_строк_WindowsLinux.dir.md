@@ -1,0 +1,4 @@
+- <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\Containers\Live_learn\ILK_podkast\Git\2.КОНФИГУРАЦИЯ.dir\2.4.Проблема_с_переводами_строк_WindowsLinux.dir\cat.2.4.Проблема_с_переводами_строк_WindowsLinux.dir\dir.2.4.Проблема_с_переводами_строк_WindowsLinux.dir.md">2.4.Проблема_с_переводами_строк_WindowsLinux.dir</a>
+    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\Containers\Live_learn\ILK_podkast\Git\2.КОНФИГУРАЦИЯ.dir\2.4.Проблема_с_переводами_строк_WindowsLinux.dir\ReadMe.md">ReadMe.md</a>
+        - *## CRLF?
+        - *@@ go from ILK scrincast

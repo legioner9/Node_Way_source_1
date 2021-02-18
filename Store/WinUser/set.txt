@@ -1,3 +1,7 @@
+sistem env create: setx /m MYWEBPC "C:\mywebpc"
+user env create: setx MYWEBPC "C:\News\"
+remove env: setx MYWEBPC ""
+
 cmd>set > this_file.txt
 
 ALLUSERSPROFILE=C:\ProgramData
