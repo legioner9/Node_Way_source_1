@@ -345,8 +345,53 @@
                                     - *### simple aliases
                             
                             - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\Containers\Live_learn\ILK_podkast\Git\2.КОНФИГУРАЦИЯ.dir\2.4.Проблема_с_переводами_строк_WindowsLinux.dir\cat.2.4.Проблема_с_переводами_строк_WindowsLinux.dir\dir.2.4.Проблема_с_переводами_строк_WindowsLinux.dir.md">2.4.Проблема_с_переводами_строк_WindowsLinux.dir</a>
-                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\Containers\Live_learn\ILK_podkast\Git\2.КОНФИГУРАЦИЯ.dir\2.4.Проблема_с_переводами_строк_WindowsLinux.dir\ReadMe.md">ReadMe.md</a>
-                                    - *## CRLF?
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\Containers\Live_learn\ILK_podkast\Git\2.КОНФИГУРАЦИЯ.dir\2.4.Проблема_с_переводами_строк_WindowsLinux.dir\2.4.Проблема_с_переводами_строк_WindowsLinux.md">2.4.Проблема_с_переводами_строк_WindowsLinux.md</a>
+                                    - *## CRLF
+                            
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\Containers\Live_learn\ILK_podkast\Git\2.КОНФИГУРАЦИЯ.dir\2.6.Атрибуты_.gitattributes,_text,_eol.dir\cat.2.6.Атрибуты_.gitattributes,_text,_eol.dir\dir.2.6.Атрибуты_.gitattributes,_text,_eol.dir.md">2.6.Атрибуты_.gitattributes,_text,_eol.dir</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\Containers\Live_learn\ILK_podkast\Git\2.КОНФИГУРАЦИЯ.dir\2.6.Атрибуты_.gitattributes,_text,_eol.dir\2.6.Атрибуты_.gitattributes,_text,_eol.md">2.6.Атрибуты_.gitattributes,_text,_eol.md</a>
+                                    - *##  proj .gitattributes
+                                    - *## GRNERATOR .gitattributes https://gitattributes.io/
+                            
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\Containers\Live_learn\ILK_podkast\Git\2.КОНФИГУРАЦИЯ.dir\2.7.Игнорирование_.gitignore.dir\cat.2.7.Игнорирование_.gitignore.dir\dir.2.7.Игнорирование_.gitignore.dir.md">2.7.Игнорирование_.gitignore.dir</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\Containers\Live_learn\ILK_podkast\Git\2.КОНФИГУРАЦИЯ.dir\2.7.Игнорирование_.gitignore.dir\2.7.Игнорирование_.gitignore.md">2.7.Игнорирование_.gitignore.md</a>
+                                    - *## [examp .gitignoge](https://github.com/github/gitignore)
+                            
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\Containers\Live_learn\ILK_podkast\Git\2.КОНФИГУРАЦИЯ.dir\2.8.Подключение_файлов_в_конфиг_include.dir\cat.2.8.Подключение_файлов_в_конфиг_include.dir\dir.2.8.Подключение_файлов_в_конфиг_include.dir.md">2.8.Подключение_файлов_в_конфиг_include.dir</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\Containers\Live_learn\ILK_podkast\Git\2.КОНФИГУРАЦИЯ.dir\2.8.Подключение_файлов_в_конфиг_include.dir\2.8.Подключение_файлов_в_конфиг_include.md">2.8.Подключение_файлов_в_конфиг_include.md</a>
+                                    - *## include .gitconfig
+                                    - *### conditional include
+                            
+                        
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\Containers\Live_learn\ILK_podkast\Git\3.ОСНОВЫ.dir\cat.3.ОСНОВЫ.dir\dir.3.ОСНОВЫ.dir.md">3.ОСНОВЫ.dir</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\Containers\Live_learn\ILK_podkast\Git\3.ОСНОВЫ.dir\3.1.Создание_репозитория,_первый_коммит.dir\cat.3.1.Создание_репозитория,_первый_коммит.dir\dir.3.1.Создание_репозитория,_первый_коммит.dir.md">3.1.Создание_репозитория,_первый_коммит.dir</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\Containers\Live_learn\ILK_podkast\Git\3.ОСНОВЫ.dir\3.1.Создание_репозитория,_первый_коммит.dir\3.1.Создание_репозитория,_первый_коммит.md">3.1.Создание_репозитория,_первый_коммит.md</a>
+                                    - *## first commit
+                                    - *### git update-index
+                            
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\Containers\Live_learn\ILK_podkast\Git\3.ОСНОВЫ.dir\3.4.Добавление_файлов_и_директорий,_git_status.dir\cat.3.4.Добавление_файлов_и_директорий,_git_status.dir\dir.3.4.Добавление_файлов_и_директорий,_git_status.dir.md">3.4.Добавление_файлов_и_директорий,_git_status.dir</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\Containers\Live_learn\ILK_podkast\Git\3.ОСНОВЫ.dir\3.4.Добавление_файлов_и_директорий,_git_status.dir\3.4.Добавление_файлов_и_директорий,_git_status.md">3.4.Добавление_файлов_и_директорий,_git_status.md</a>
+                                    - *## git add
+                            
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\Containers\Live_learn\ILK_podkast\Git\3.ОСНОВЫ.dir\3.5.Хороший_коммит.dir\cat.3.5.Хороший_коммит.dir\dir.3.5.Хороший_коммит.dir.md">3.5.Хороший_коммит.dir</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\Containers\Live_learn\ILK_podkast\Git\3.ОСНОВЫ.dir\3.5.Хороший_коммит.dir\3.5.Хороший_коммит.md">3.5.Хороший_коммит.md</a>
+                                    - *## commit : atomic and consistent
+                                    - *## stile of commit 
+                                    - *### Message : from uppercase + \#(Number 0f Fiches)
+                                    - *### Action + comment : [(fix|build|test|refactor|...)(item to act): comment]
+                                    - *## fastCommits for as => reducting all history (for example git rebase -i)
+                            
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\Containers\Live_learn\ILK_podkast\Git\3.ОСНОВЫ.dir\3.6.Зачем_нужен_индекс&.dir\cat.3.6.Зачем_нужен_индекс&.dir\dir.3.6.Зачем_нужен_индекс&.dir.md">3.6.Зачем_нужен_индекс&.dir</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\Containers\Live_learn\ILK_podkast\Git\3.ОСНОВЫ.dir\3.6.Зачем_нужен_индекс&.dir\3.6.Зачем_нужен_индекс&.md">3.6.Зачем_нужен_индекс&.md</a>
+                                    - *## Good index
+                            
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\Containers\Live_learn\ILK_podkast\Git\3.ОСНОВЫ.dir\3.7.Коммиты_без_git_add.dir\cat.3.7.Коммиты_без_git_add.dir\dir.3.7.Коммиты_без_git_add.dir.md">3.7.Коммиты_без_git_add.dir</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\Containers\Live_learn\ILK_podkast\Git\3.ОСНОВЫ.dir\3.7.Коммиты_без_git_add.dir\3.7.Коммиты_без_git_add.md">3.7.Коммиты_без_git_add.md</a>
+                                    - *## commit -a
+                            
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\Containers\Live_learn\ILK_podkast\Git\3.ОСНОВЫ.dir\3.8.Удаление_и_переименование_файлов.dir\cat.3.8.Удаление_и_переименование_файлов.dir\dir.3.8.Удаление_и_переименование_файлов.dir.md">3.8.Удаление_и_переименование_файлов.dir</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\Containers\Live_learn\ILK_podkast\Git\3.ОСНОВЫ.dir\3.8.Удаление_и_переименование_файлов.dir\3.8.Удаление_и_переименование_файлов.md">3.8.Удаление_и_переименование_файлов.md</a>
+                                    - *## git rm
                                     - *@@ go from ILK scrincast
                             
                         
@@ -395,6 +440,36 @@
                         - *## Отмена последних коммитов в Git
                         - *## Отмена Git Rebase
                         - *## Заключение
+                
+                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\Containers\Use_this\Git_helix\cat.Git_helix\dir.Git_helix.md">Git_helix</a>
+                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\Containers\Use_this\Git_helix\ReadMe.md">ReadMe.md</a>
+                        - *@@ Git helix - main practise flow
+                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\Containers\Use_this\Git_helix\segm.I\cat.segm.I\dir.segm.I.md">segm.I</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\Containers\Use_this\Git_helix\segm.I\flow.3.0.0\cat.flow.3.0.0\dir.flow.3.0.0.md">flow.3.0.0</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\Containers\Use_this\Git_helix\segm.I\flow.3.0.0\1.0.0\cat.1.0.0\dir.1.0.0.md">1.0.0</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\Containers\Use_this\Git_helix\segm.I\flow.3.0.0\1.0.0\tag\cat.tag\dir.tag.md">tag</a>
+                                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\Containers\Use_this\Git_helix\segm.I\flow.3.0.0\1.0.0\tag\tag.md">tag.md</a>
+                                        - *## git show tag_lw
+                                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\Containers\Use_this\Git_helix\segm.I\flow.3.0.0\1.0.0\tag\tag_a.md">tag_a.md</a>
+                                        - *## git tag -a tag_0 -m create_tag_0
+                                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\Containers\Use_this\Git_helix\segm.I\flow.3.0.0\1.0.0\tag\tag_a_hash.gh_tag.md">tag_a_hash.gh_tag.md</a>
+                                        - *## git tag -a tag_0 -m create_tag_0
+                                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\Containers\Use_this\Git_helix\segm.I\flow.3.0.0\1.0.0\tag\tag_a_hash.md">tag_a_hash.md</a>
+                                        - *## git tag -a tag_0 -m create_tag_0
+                                
+                            
+                        
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\Containers\Use_this\Git_helix\segm.I\tmp\cat.tmp\dir.tmp.md">tmp</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\Containers\Use_this\Git_helix\segm.I\tmp\create_this_blob@.md">create_this_blob@.md</a>
+                                - *@@ this start blob_0 for any command
+                                - *## single file v1
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\Containers\Use_this\Git_helix\segm.I\tmp\Flow.v.1.4.0\cat.Flow.v.1.4.0\dir.Flow.v.1.4.0.md">Flow.v.1.4.0</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\Containers\Use_this\Git_helix\segm.I\tmp\Flow.v.1.4.0\create_this_blob@.md">create_this_blob@.md</a>
+                                    - *@@ this start blob_0 for any command
+                                    - *## single file v1
+                            
+                        
+                    
                 
                 - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\Containers\Use_this\Hints\cat.Hints\dir.Hints.md">Hints</a>
                     - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\Containers\Use_this\Hints\Как_стать_продуктивнее _на_GitHub.md">Как_стать_продуктивнее _на_GitHub.md</a>
@@ -1605,28 +1680,40 @@
             
         
     
-    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Linux_LG2\cat._Linux_LG2\dir._Linux_LG2.md">_Linux_LG2</a>
-        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Linux_LG2\Containers\cat.Containers\dir.Containers.md">Containers</a>
-            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Linux_LG2\Containers\Intro_to_this\cat.Intro_to_this\dir.Intro_to_this.md">Intro_to_this</a>
-                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Linux_LG2\Containers\Intro_to_this\fiches_cli\cat.fiches_cli\dir.fiches_cli.md">fiches_cli</a>
-                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Linux_LG2\Containers\Intro_to_this\fiches_cli\fiches_1.md">fiches_1.md</a>
+    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Linux\cat._Linux\dir._Linux.md">_Linux</a>
+        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Linux\Containers\cat.Containers\dir.Containers.md">Containers</a>
+            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Linux\Containers\Intro_to_this\cat.Intro_to_this\dir.Intro_to_this.md">Intro_to_this</a>
+                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Linux\Containers\Intro_to_this\cli_commands\cat.cli_commands\dir.cli_commands.md">cli_commands</a>
+                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Linux\Containers\Intro_to_this\cli_commands\set_commands.md">set_commands.md</a>
+                        - *## [42 КОМАНДЫ LINUX КОТОРЫЕ ВЫ ДОЛЖНЫ ЗНАТЬ](https://losst.ru/42-komandy-linux-kotorye-vy-dolzhny-znat)
+                
+                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Linux\Containers\Intro_to_this\fiches_cli\cat.fiches_cli\dir.fiches_cli.md">fiches_cli</a>
+                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Linux\Containers\Intro_to_this\fiches_cli\fiches_1.md">fiches_1.md</a>
                         - *## [20 приёмов работы в командной строке Linux, которые сэкономят уйму времени](https://habr.com/ru/company/ruvds/blog/339820/)
                         - *## [Самые полезные приёмы работы в командной строке Linux](https://habr.com/ru/company/ruvds/blog/323330/)
                         - *## [10 приёмов работы в терминале Linux, о которых мало кто знает](https://habr.com/ru/company/ruvds/blog/336060/)
                         - *## [Linux: перенаправление](https://habr.com/ru/company/ruvds/blog/336320/)
                 
-                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Linux_LG2\Containers\Intro_to_this\review_utils\cat.review_utils\dir.review_utils.md">review_utils</a>
-                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Linux_LG2\Containers\Intro_to_this\review_utils\htop.md">htop.md</a>
+                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Linux\Containers\Intro_to_this\file_exeqtion_rights\cat.file_exeqtion_rights\dir.file_exeqtion_rights.md">file_exeqtion_rights</a>
+                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Linux\Containers\Intro_to_this\file_exeqtion_rights\right.md">right.md</a>
+                        - *## file exeqtion rights
+                        - *## [Права в Linux (chown, chmod, SUID, GUID, sticky bit, ACL, umask)](https://habr.com/ru/post/469667/)
+                        - *# file: media/User123
+                        - *# owner: root
+                        - *# group: root
+                
+                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Linux\Containers\Intro_to_this\review_utils\cat.review_utils\dir.review_utils.md">review_utils</a>
+                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Linux\Containers\Intro_to_this\review_utils\htop.md">htop.md</a>
                         - *## [Установка HTOP в RHEL, CentOS и Fedora Linux](https://linux-notes.org/ustanovka-htop-v-rhel-centos-i-fedora-linux/)
-                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Linux_LG2\Containers\Intro_to_this\review_utils\lsof.md">lsof.md</a>
+                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Linux\Containers\Intro_to_this\review_utils\lsof.md">lsof.md</a>
                         - *## default [Удивительно полезный инструмент: lsof](https://habr.com/ru/company/ruvds/blog/337934/)
-                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Linux_LG2\Containers\Intro_to_this\review_utils\ncdu.md">ncdu.md</a>
+                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Linux\Containers\Intro_to_this\review_utils\ncdu.md">ncdu.md</a>
                         - *## [ncdu: графический интерфейс du чтобы быстро узнать, какие файлы и папки израсходовали место на диске](https://zalinux.ru/?p=3011)
-                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Linux_LG2\Containers\Intro_to_this\review_utils\neofetch.md">neofetch.md</a>
+                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Linux\Containers\Intro_to_this\review_utils\neofetch.md">neofetch.md</a>
                         - *## [NEOFETCH - ИНФОРМАЦИЯ О СИСТЕМЕ LINUX И ЛОГОТИП В ТЕРМИНАЛЕ](https://losst.ru/neofetch-informatsiya-o-sisteme-linux-i-logotip-v-terminale)
-                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Linux_LG2\Containers\Intro_to_this\review_utils\ranger.md">ranger.md</a>
+                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Linux\Containers\Intro_to_this\review_utils\ranger.md">ranger.md</a>
                         - *## [Ranger — консольный файловый менеджер с привязками клавиш VI](https://blog.sedicomm.com/2019/10/10/ranger-konsolnyj-fajlovyj-menedzher-s-privyazkami-klavish-vi/)
-                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Linux_LG2\Containers\Intro_to_this\review_utils\trash-cli.md">trash-cli.md</a>
+                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Linux\Containers\Intro_to_this\review_utils\trash-cli.md">trash-cli.md</a>
                         - *## [Trash-Cli : Command line interface for Trash in Linux](https://www.2daygeek.com/trash-cli-command-line-trashcan-linux-system/)
                 
             

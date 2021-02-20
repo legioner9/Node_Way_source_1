@@ -1,5 +1,5 @@
-- <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Linux_LG2\Containers\Intro_to_this\fiches_cli\cat.fiches_cli\dir.fiches_cli.md">fiches_cli</a>
-    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Linux_LG2\Containers\Intro_to_this\fiches_cli\fiches_1.md">fiches_1.md</a>
+- <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Linux\Containers\Intro_to_this\fiches_cli\cat.fiches_cli\dir.fiches_cli.md">fiches_cli</a>
+    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Linux\Containers\Intro_to_this\fiches_cli\fiches_1.md">fiches_1.md</a>
         - *## [20 приёмов работы в командной строке Linux, которые сэкономят уйму времени](https://habr.com/ru/company/ruvds/blog/339820/)
         - *## [Самые полезные приёмы работы в командной строке Linux](https://habr.com/ru/company/ruvds/blog/323330/)
         - *## [10 приёмов работы в терминале Linux, о которых мало кто знает](https://habr.com/ru/company/ruvds/blog/336060/)
