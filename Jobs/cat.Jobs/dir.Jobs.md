@@ -429,3 +429,9 @@
                 - *## 1.0.1
         
     
+    - <a href = "F:\Node_projects\Node_Way\Jobs\SetGlobLoggers\cat.SetGlobLoggers\dir.SetGlobLoggers.md">SetGlobLoggers</a>
+        - <a href = "F:\Node_projects\Node_Way\Jobs\SetGlobLoggers\ReabMe.md">ReabMe.md</a>
+            - *% Lake Tag
+            - *%% Lake Tag two
+            - *%%% Lake tag three
+    

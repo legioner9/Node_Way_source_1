@@ -32,7 +32,7 @@ P.S
 - meth(preextend equal)
 - meth(baseName equal)
 */
-funcExamp ( res, [ '#', '@@' ], [ 'excd' ], [ 'excf' ]
+funcExamp ( res, [ '#', '@@','%' ], [ 'excd' ], [ 'excf' ]
     ,['deg.forDelete'],['node_modules','node_modules_']);
 
 console.log ( '\n\nThe END __________________________ process.exit ( 0 )\n\n' );
