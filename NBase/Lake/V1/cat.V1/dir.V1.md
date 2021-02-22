@@ -1,7 +1,7 @@
 - <a href = "F:\Node_projects\Node_Way\NBase\Lake\V1\cat.V1\dir.V1.md">V1</a>
     - <a href = "F:\Node_projects\Node_Way\NBase\Lake\V1\V1.md">V1.md</a>
         - *## teach clean code
-        - *%% [Clean Code in js](https://www.youtube.com/watch?v=XT6XkIJIVbA&ab_channel=webDev)
+        - *%% WalkToSea [Clean Code in js](https://www.youtube.com/watch?v=XT6XkIJIVbA&ab_channel=webDev)
         - *## Переменные
         - *### Избегайте интуитивных маппингов
         - *### Не добавляйте ненужный контекст

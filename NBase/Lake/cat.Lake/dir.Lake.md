@@ -2,7 +2,7 @@
     - <a href = "F:\Node_projects\Node_Way\NBase\Lake\V1\cat.V1\dir.V1.md">V1</a>
         - <a href = "F:\Node_projects\Node_Way\NBase\Lake\V1\V1.md">V1.md</a>
             - *## teach clean code
-            - *%% [Clean Code in js](https://www.youtube.com/watch?v=XT6XkIJIVbA&ab_channel=webDev)
+            - *%% WalkToSea [Clean Code in js](https://www.youtube.com/watch?v=XT6XkIJIVbA&ab_channel=webDev)
             - *## Переменные
             - *### Избегайте интуитивных маппингов
             - *### Не добавляйте ненужный контекст
@@ -33,4 +33,10 @@
             - *### Не комментируйте ненужный код
             - *### Никогда не ведите журнал комментариев
             - *### Не используйте позиционные маркеры
+    
+    - <a href = "F:\Node_projects\Node_Way\NBase\Lake\V2\cat.V2\dir.V2.md">V2</a>
+        - <a href = "F:\Node_projects\Node_Way\NBase\Lake\V2\V2.md">V2.md</a>
+            - *## Принципы SOLID: объяснение человеческим языком
+            - *%% WalkToSea [Принципы SOLID: объяснение человеческим языком](https://techrocks.ru/2020/08/26/solid-principles-in-plain-russian/)
+            - *### Single Responsibility Principle («Принцип единой ответственности», SRP)
     

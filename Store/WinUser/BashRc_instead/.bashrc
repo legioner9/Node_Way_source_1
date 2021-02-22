@@ -44,7 +44,7 @@ lla :: ls -l -a
 rel__ :: rel__ ~/.bashrc and ~/.custom_aliases
 copy_bash :: copy ~/.bashrc to Node_Way/Store/WinUser/BashRc_instead/.bashrc
 
-cat__ :: to catigorize _Education _Jobs _Md Lake
+cat__ :: to catigorize _Education _Jobs _Md Lake LFlow
 test__ :: a_d1t Autotest
 
 a_d1 :: create [[ arg, arg + '.md','ReadMe.md',['_src',0] ]]
@@ -115,6 +115,8 @@ cat__(){
     node /F/Node_projects/Node_Way/2_test_ini_module_Jobs.v.0.1.7.2.js
     node /F/Node_projects/Node_Way/NBase/test_ini_module__Md.v.0.1.7.2.js
     node /F/Node_projects/Node_Way/NBase/test_ini_module_Lake.v.0.1.7.2.js
+    node /F/Node_projects/Node_Way/NBase/test_ini_module_LFlow.v.0.1.7.2.js
+
 
 
     echo 'cat__ DONE'
