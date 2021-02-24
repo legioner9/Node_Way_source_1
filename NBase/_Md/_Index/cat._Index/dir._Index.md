@@ -15,6 +15,10 @@
                 - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\Clean_Architeсture\ru\2.Глава_2._История_о_двух_ценностях_35.dir\2.Глава_2._История_о_двух_ценностях_35.md">2.Глава_2._История_о_двух_ценностях_35.md</a>
                     - *## Всякая программная система имеет две разные ценности: поведение и структуру.
             
+            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\Clean_Architeсture\ru\3.Глава_3._Обзор_парадигм_43.dir\cat.3.Глава_3._Обзор_парадигм_43.dir\dir.3.Глава_3._Обзор_парадигм_43.dir.md">3.Глава_3._Обзор_парадигм_43.dir</a>
+                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\Clean_Architeсture\ru\3.Глава_3._Обзор_парадигм_43.dir\ReadMe.md">ReadMe.md</a>
+                    - *@@ far Clean Arcitecture 
+            
         
     
     - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\Clean_Code\cat.Clean_Code\dir.Clean_Code.md">Clean_Code</a>
