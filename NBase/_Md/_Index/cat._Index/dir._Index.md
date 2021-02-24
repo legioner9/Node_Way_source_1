@@ -1,4 +1,8 @@
 - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\cat._Index\dir._Index.md">_Index</a>
+    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\Clean_Architeture\cat.Clean_Architeture\dir.Clean_Architeture.md">Clean_Architeture</a>
+        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\Clean_Architeture\ReadMe.md">ReadMe.md</a>
+            - *## Clean_Architeture
+    
     - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\Perfect_Code\cat.Perfect_Code\dir.Perfect_Code.md">Perfect_Code</a>
         - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\Perfect_Code\ru\cat.ru\dir.ru.md">ru</a>
             - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\Perfect_Code\ru\exdf.ancors_2.md">exdf.ancors_2.md</a>
