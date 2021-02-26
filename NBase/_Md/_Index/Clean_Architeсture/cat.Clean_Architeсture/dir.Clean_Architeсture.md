@@ -18,4 +18,10 @@
             - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\Clean_Architeсture\ru\3.Глава_3._Обзор_парадигм_43.dir\ReadMe.md">ReadMe.md</a>
                 - *@@ far Clean Arcitecture 
         
+        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\Clean_Architeсture\ru\4.Глава_4._Структурное_программирование_47.dir\cat.4.Глава_4._Структурное_программирование_47.dir\dir.4.Глава_4._Структурное_программирование_47.dir.md">4.Глава_4._Структурное_программирование_47.dir</a>
+            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\Clean_Architeсture\ru\4.Глава_4._Структурное_программирование_47.dir\4.5.Наука_во_спасение_52.dir\cat.4.5.Наука_во_спасение_52.dir\dir.4.5.Наука_во_спасение_52.dir.md">4.5.Наука_во_спасение_52.dir</a>
+                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\Clean_Architeсture\ru\4.Глава_4._Структурное_программирование_47.dir\4.5.Наука_во_спасение_52.dir\4.5.Наука_во_спасение_52.md">4.5.Наука_во_спасение_52.md</a>
+                    - *## Наука во спасение
+            
+        
     
