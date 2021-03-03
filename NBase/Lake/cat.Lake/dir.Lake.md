@@ -40,3 +40,18 @@
             - *%% WalkToSea [Принципы SOLID: объяснение человеческим языком](https://techrocks.ru/2020/08/26/solid-principles-in-plain-russian/)
             - *### Single Responsibility Principle («Принцип единой ответственности», SRP)
     
+    - <a href = "F:\Node_projects\Node_Way\NBase\Lake\V3\cat.V3\dir.V3.md">V3</a>
+        - <a href = "F:\Node_projects\Node_Way\NBase\Lake\V3\V3.md">V3.md</a>
+            - *## [Функциональное программирование в мире JavaScript](https://www.youtube.com/watch?v=2QAUAZ5qgJM&ab_channel=%D0%A4%D1%80%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D0%B4)
+            - *%% _WTS functionl programming
+    
+    - <a href = "F:\Node_projects\Node_Way\NBase\Lake\V4\cat.V4\dir.V4.md">V4</a>
+        - <a href = "F:\Node_projects\Node_Way\NBase\Lake\V4\V4.md">V4.md</a>
+            - *## [Node.js основное](https://www.youtube.com/watch?v=qZ5xzkEdkhg&t=7479s&ab_channel=%D0%A4%D1%80%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D0%B4)
+            - *%% _WTS functionl programming
+    
+    - <a href = "F:\Node_projects\Node_Way\NBase\Lake\V5\cat.V5\dir.V5.md">V5</a>
+        - <a href = "F:\Node_projects\Node_Way\NBase\Lake\V5\V5.md">V5.md</a>
+            - *## ILK new [Node.js: подробный курс (2021, в процессе)](https://www.youtube.com/watch?v=gYU0pFtbNAw&list=PLDyvV36pndZEs5ZKs7ckHoZNcTjUOSVWi&ab_channel=JavaScript.ru)
+            - *%% WTS Nodejs доходчиво
+    

@@ -5,6 +5,22 @@
                 - *# v.0.0.1 learn and examples node + .bat
         
     
+    - <a href = "F:\Node_projects\Node_Way\Jobs\CaseArcht\cat.CaseArcht\dir.CaseArcht.md">CaseArcht</a>
+        - <a href = "F:\Node_projects\Node_Way\Jobs\CaseArcht\Examp\cat.Examp\dir.Examp.md">Examp</a>
+            - <a href = "F:\Node_projects\Node_Way\Jobs\CaseArcht\Examp\v.1\cat.v.1\dir.v.1.md">v.1</a>
+                - <a href = "F:\Node_projects\Node_Way\Jobs\CaseArcht\Examp\v.1\_versions.md">_versions.md</a>
+                    - *# init 
+                    - *# 1.0.0
+                    - *## 1.0.1
+            
+            - <a href = "F:\Node_projects\Node_Way\Jobs\CaseArcht\Examp\_v.2\cat._v.2\dir._v.2.md">_v.2</a>
+                - <a href = "F:\Node_projects\Node_Way\Jobs\CaseArcht\Examp\_v.2\_versions.md">_versions.md</a>
+                    - *# init 
+                    - *# 1.0.0
+                    - *## 1.0.1
+            
+        
+    
     - <a href = "F:\Node_projects\Node_Way\Jobs\CataloguerFs\cat.CataloguerFs\dir.CataloguerFs.md">CataloguerFs</a>
         - <a href = "F:\Node_projects\Node_Way\Jobs\CataloguerFs\CreateCatalog\cat.CreateCatalog\dir.CreateCatalog.md">CreateCatalog</a>
             - <a href = "F:\Node_projects\Node_Way\Jobs\CataloguerFs\CreateCatalog\AFP5_0.1_ctlg_1_to_2\cat.AFP5_0.1_ctlg_1_to_2\dir.AFP5_0.1_ctlg_1_to_2.md">AFP5_0.1_ctlg_1_to_2</a>

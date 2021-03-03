@@ -125,6 +125,36 @@
                     - *## Отмена Git Rebase
                     - *## Заключение
             
+            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\Containers\Use_this\Git_helix\cat.Git_helix\dir.Git_helix.md">Git_helix</a>
+                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\Containers\Use_this\Git_helix\ReadMe.md">ReadMe.md</a>
+                    - *@@ Git helix - main practise flow
+                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\Containers\Use_this\Git_helix\segm.I\cat.segm.I\dir.segm.I.md">segm.I</a>
+                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\Containers\Use_this\Git_helix\segm.I\flow.3.0.0\cat.flow.3.0.0\dir.flow.3.0.0.md">flow.3.0.0</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\Containers\Use_this\Git_helix\segm.I\flow.3.0.0\1.0.0\cat.1.0.0\dir.1.0.0.md">1.0.0</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\Containers\Use_this\Git_helix\segm.I\flow.3.0.0\1.0.0\tag\cat.tag\dir.tag.md">tag</a>
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\Containers\Use_this\Git_helix\segm.I\flow.3.0.0\1.0.0\tag\tag.md">tag.md</a>
+                                    - *## git show tag_lw
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\Containers\Use_this\Git_helix\segm.I\flow.3.0.0\1.0.0\tag\tag_a.md">tag_a.md</a>
+                                    - *## git tag -a tag_0 -m create_tag_0
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\Containers\Use_this\Git_helix\segm.I\flow.3.0.0\1.0.0\tag\tag_a_hash.gh_tag.md">tag_a_hash.gh_tag.md</a>
+                                    - *## git tag -a tag_0 -m create_tag_0
+                                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\Containers\Use_this\Git_helix\segm.I\flow.3.0.0\1.0.0\tag\tag_a_hash.md">tag_a_hash.md</a>
+                                    - *## git tag -a tag_0 -m create_tag_0
+                            
+                        
+                    
+                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\Containers\Use_this\Git_helix\segm.I\tmp\cat.tmp\dir.tmp.md">tmp</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\Containers\Use_this\Git_helix\segm.I\tmp\create_this_blob@.md">create_this_blob@.md</a>
+                            - *@@ this start blob_0 for any command
+                            - *## single file v1
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\Containers\Use_this\Git_helix\segm.I\tmp\Flow.v.1.4.0\cat.Flow.v.1.4.0\dir.Flow.v.1.4.0.md">Flow.v.1.4.0</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\Containers\Use_this\Git_helix\segm.I\tmp\Flow.v.1.4.0\create_this_blob@.md">create_this_blob@.md</a>
+                                - *@@ this start blob_0 for any command
+                                - *## single file v1
+                        
+                    
+                
+            
             - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\Containers\Use_this\Hints\cat.Hints\dir.Hints.md">Hints</a>
                 - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\Containers\Use_this\Hints\Как_стать_продуктивнее _на_GitHub.md">Как_стать_продуктивнее _на_GitHub.md</a>
                     - *# [Как стать продуктивнее на GitHub](https://nuancesprog.ru/p/3111/)

@@ -31,9 +31,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/cat.Jobs/dir.Jobs.md" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/cat.Jobs/dir.Jobs.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/LFlow/Reade.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/LFlow/Reade.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/LFlow/cat.LFlow/dir.LFlow.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/LFlow/cat.LFlow/dir.LFlow.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/Lake/cat.Lake/dir.Lake.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/Lake/cat.Lake/dir.Lake.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Объектно-ориентированное программирование/_src/1/tutor.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Store/N viza 10.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Store/N viza 10.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/st_require/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_require/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/st_ini_arht/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/st_ini_arht/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,7 +142,7 @@
     <property name="add_unversioned_files" value="$PROJECT_DIR$/Jobs/SetGlobLoggers/ModLogger_1/Core/Logs/eLogs.txt&#10;true" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="14.15.3" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/node_modules" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Jobs/CaseArcht/Examp" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.jscs" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -157,24 +163,24 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
     <property name="settings.editor.splitter.proportion" value="0.23273855" />
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains_\IntelliJ IDEA 2020.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Node_projects\Node_Way\Jobs\CaseArcht\Examp" />
+      <recent name="F:\Node_projects\Node_Way\node_modules_\st___00\Set___00\__" />
+      <recent name="F:\Node_projects\Node_Way\node_modules_\st_arht\SetArchetype\FunctionARHT" />
+      <recent name="F:\Node_projects\Node_Way\node_modules" />
+      <recent name="F:\Node_projects\Node_Way\node_modules_" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\Node_projects\Node_Way\Education\Gulp\Gulp_2\gulp\init" />
       <recent name="F:\Node_projects\Node_Way\Store\Global_configs\BachRc" />
       <recent name="F:\Node_projects\Node_Way\ToUse\cloneFileToDir\Dir_in_num_2_3_level" />
       <recent name="F:\Node_projects\Node_Way\ToUse\cloneFileToDir" />
       <recent name="F:\Node_projects\Node_Way\Education\TSH_video" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\Node_projects\Node_Way\node_modules" />
-      <recent name="F:\Node_projects\Node_Way\node_modules_" />
-      <recent name="F:\Node_projects\Node_Way\NBase\_Md\_Index\_HtmlCss\Containers\Use_this\hipe_from_youtube" />
-      <recent name="F:\Node_projects\Node_Way\NBase\_Md\_Index\_HtmlCss\Containers\Use_this\hipe_from_youtube\_" />
-      <recent name="F:\Node_projects\Node_Way\NBase\_Md\_Index\_HtmlCss\Containers\Use_this\hipe_from_youtube\_\_src" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.index.js">
@@ -500,6 +506,7 @@
       <workItem from="1612806240705" duration="2026000" />
       <workItem from="1612846131546" duration="10950000" />
       <workItem from="1612885286011" duration="2031000" />
+      <workItem from="1614527333584" duration="9837000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
@@ -1071,32 +1078,26 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="177" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.860/1440.0.1024.728@0.0.1440.860" timestamp="1609602432232" />
-    <state x="177" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1604737359205" />
     <state x="177" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1609604887131" />
     <state x="361" y="199" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1611292460965">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="361" y="199" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1608987261738" />
     <state x="361" y="199" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1611292460965" />
-    <state x="505" y="121" key="#xdebugger.XInspectDialog" timestamp="1605848629271">
+    <state x="405" y="56" key="#main_test.js" timestamp="1614532551541">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="505" y="121" key="#xdebugger.XInspectDialog/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1605848629271" />
-    <state x="1824" y="294" width="726" height="727" key="#xdebugger.evaluate" timestamp="1605863622075">
-      <screen x="1440" y="0" width="1280" height="1024" />
-    </state>
-    <state x="1824" y="294" width="726" height="727" key="#xdebugger.evaluate/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1605863622075" />
+    <state x="405" y="56" key="#main_test.js/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1614532551541" />
     <state x="188" y="110" width="1094" height="614" key="DiffContextDialog" timestamp="1612887045712">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="188" y="110" width="1094" height="614" key="DiffContextDialog/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1608266478938" />
     <state x="188" y="110" width="1094" height="614" key="DiffContextDialog/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1612887045712" />
-    <state x="519" y="178" width="699" height="606" key="FileChooserDialogImpl" timestamp="1611042847961">
+    <state x="519" y="178" width="699" height="606" key="FileChooserDialogImpl" timestamp="1614559309388">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="519" y="178" key="FileChooserDialogImpl/0.0.1440.860/1440.0.1024.728@0.0.1440.860" timestamp="1609601504304" />
-    <state x="519" y="178" width="699" height="606" key="FileChooserDialogImpl/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1604737356241" />
-    <state x="519" y="178" key="FileChooserDialogImpl/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1611042847961" />
+    <state x="519" y="178" key="FileChooserDialogImpl/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1614559309388" />
     <state width="1340" height="166" key="GridCell.Tab.0.bottom" timestamp="1612553083529">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
@@ -1177,25 +1178,21 @@
     </state>
     <state width="1247" height="769" key="GridCell.Tab.3.right/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1605966664844" />
     <state width="1340" height="247" key="GridCell.Tab.3.right/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1610266938302" />
-    <state x="1502" y="153" width="1141" height="710" key="SettingsEditor" timestamp="1612798110292">
+    <state x="1502" y="153" width="1141" height="710" key="SettingsEditor" timestamp="1614559437264">
       <screen x="1440" y="0" width="1280" height="984" />
     </state>
     <state x="156" y="93" key="SettingsEditor/0.0.1440.860/1440.0.1024.728@0.0.1440.860" timestamp="1609602410130" />
     <state x="1579" y="111" width="1141" height="913" key="SettingsEditor/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1606893966128" />
-    <state x="1502" y="153" width="1141" height="710" key="SettingsEditor/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1612798110292" />
+    <state x="1502" y="153" width="1141" height="710" key="SettingsEditor/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1614559437264" />
     <state x="499" y="317" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1612797732385">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="499" y="317" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1612797732385" />
-    <state x="151" y="91" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1605848299820">
-      <screen x="0" y="0" width="1440" height="860" />
-    </state>
-    <state x="151" y="91" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1605848299820" />
-    <state x="1523" y="139" width="934" height="909" key="dock-window-1" timestamp="1611287219644">
+    <state x="1621" y="0" width="996" height="921" key="dock-window-1" timestamp="1614532331105">
       <screen x="1440" y="0" width="1280" height="984" />
     </state>
     <state x="1630" y="0" width="914" height="989" key="dock-window-1/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1609499426610" />
-    <state x="1523" y="139" width="934" height="909" key="dock-window-1/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1611287219644" />
+    <state x="1621" y="0" width="996" height="921" key="dock-window-1/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1614532331105" />
     <state x="1832" y="27" width="881" height="969" key="dock-window-2" timestamp="1608978415212">
       <screen x="1440" y="0" width="1280" height="1024" />
     </state>
@@ -1220,18 +1217,6 @@
       <screen x="1440" y="0" width="1280" height="1024" />
     </state>
     <state x="1654" y="17" width="928" height="995" key="dock-window-7/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1607280403654" />
-    <state x="1451" y="18" width="793" height="891" key="dock-window-8" timestamp="1604658565757">
-      <screen x="1440" y="0" width="1280" height="1024" />
-    </state>
-    <state x="1451" y="18" width="793" height="891" key="dock-window-8/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1604658565757" />
-    <state x="1943" y="50" width="793" height="917" key="dock-window-9" timestamp="1604658565758">
-      <screen x="1440" y="0" width="1280" height="1024" />
-    </state>
-    <state x="1943" y="50" width="793" height="917" key="dock-window-9/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1604658565758" />
-    <state x="374" y="190" key="jetbrains.nodejs.interpreters-dialog" timestamp="1604737357372">
-      <screen x="0" y="0" width="1440" height="860" />
-    </state>
-    <state x="374" y="190" key="jetbrains.nodejs.interpreters-dialog/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1604737357372" />
     <state x="376" y="197" key="run.anything.popup" timestamp="1610253483046">
       <screen x="0" y="0" width="1440" height="860" />
     </state>

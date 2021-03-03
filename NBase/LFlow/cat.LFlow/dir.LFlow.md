@@ -6,6 +6,9 @@
         - *## segment - сегмент
         - *## milestone - мильный камень
         - *## stage - стадия 
+        - *# _WTS
         - *### WalkToSee
+        - *# _WOS
         - *### WriteOnStone
-        - *### BuildPathGoal
+        - *# _BPF 
+        - *### BuildPathFuture
