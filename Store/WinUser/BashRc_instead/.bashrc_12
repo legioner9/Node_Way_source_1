@@ -54,9 +54,6 @@ a_d1t Autotest::
 gpp :: [git push \$1] | [git push \$2]
 gmt :: [git merge \$1] | [git difftool]
 qals :: show git aliases
-gha :: git checkout
-ghp :: git cherry-pick
-
 
 
 echo_arg :: echo arg
@@ -186,7 +183,7 @@ alias gs="git status"
 alias ga="git add"
 alias gc="git commit"
 alias gb="git branch"
-alias gha="git checkout"
+alias gh="git checkout"
 alias gp="git push -u origin master"
 alias gl="git log --pretty=format:\"%h %s\" --graph"
 alias gw="git show --stat --oneline HEAD"
@@ -198,13 +195,9 @@ alias gk="gitk --all&"
 
 
 alias grb="git rebase"
-alias ghp="git cherry-pick"
-
 alias grbc="git rebase --continue"
 
 alias gmt="git mergetool"
-alias gm="git merge"
-
 
 qals(){
     echo 'RUN qals :: show git aliases'
@@ -213,24 +206,21 @@ alias gs="git status"
 alias ga="git add"
 alias gc="git commit"
 alias gb="git branch"
-alias gha="git checkout"
+alias gh="git checkout"
 alias gp="git push -u origin master"
 alias gl="git log --pretty=format:\"%h %s\" --graph"
 alias gw="git show --stat --oneline HEAD"
-alias gg="git log --graph --abbrev-commit --decorate --date=relative --all"
+alias gg="git log --graph --abbrev-commit --decorate --date=relative --format=format: ANY REGEXP  --all"
 alias gk="gitk --all&"
 
-# pseudoalias gpp= "[git push \$1] | [git push \$2]"
+# pseudoalias gph= "[git push \$1] | [git push \$2]"
 # pseudoalias gmd= "[git merge \$1] | [git difftool]"
 
 
 alias grb="git rebase"
-alias ghp="git cherry-pick"
-
 alias grbc="git rebase --continue"
 
 alias gmt="git mergetool"
-alias gm="git merge"
     
     '
 

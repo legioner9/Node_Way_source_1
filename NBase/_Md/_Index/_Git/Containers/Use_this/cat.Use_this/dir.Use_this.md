@@ -59,6 +59,22 @@
                     
                 
             
+            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\Containers\Use_this\Git_helix\segm.I\proj.2.0.0\cat.proj.2.0.0\dir.proj.2.0.0.md">proj.2.0.0</a>
+                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\Containers\Use_this\Git_helix\segm.I\proj.2.0.0\SandBoxes\cat.SandBoxes\dir.SandBoxes.md">SandBoxes</a>
+                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\Containers\Use_this\Git_helix\segm.I\proj.2.0.0\SandBoxes\FlowMerge\cat.FlowMerge\dir.FlowMerge.md">FlowMerge</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\Containers\Use_this\Git_helix\segm.I\proj.2.0.0\SandBoxes\FlowMerge\_docs\cat._docs\dir._docs.md">_docs</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\Containers\Use_this\Git_helix\segm.I\proj.2.0.0\SandBoxes\FlowMerge\_docs\ReadMe.md">ReadMe.md</a>
+                                - *## [ Тонкости благополучного git-merge](https://habr.com/ru/post/195674/)
+                        
+                    
+                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\Containers\Use_this\Git_helix\segm.I\proj.2.0.0\SandBoxes\FlowReflog\cat.FlowReflog\dir.FlowReflog.md">FlowReflog</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\Containers\Use_this\Git_helix\segm.I\proj.2.0.0\SandBoxes\FlowReflog\_docs\cat._docs\dir._docs.md">_docs</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\Containers\Use_this\Git_helix\segm.I\proj.2.0.0\SandBoxes\FlowReflog\_docs\ReadMe.md">ReadMe.md</a>
+                                - *## [Объяснение полезных Git команд с помощью визуализации](https://bool.dev/blog/detail/vizualizatsiya-poleznykh-git-komand)
+                        
+                    
+                
+            
             - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\Containers\Use_this\Git_helix\segm.I\tmp\cat.tmp\dir.tmp.md">tmp</a>
                 - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_Git\Containers\Use_this\Git_helix\segm.I\tmp\create_this_blob@.md">create_this_blob@.md</a>
                     - *@@ this start blob_0 for any command
