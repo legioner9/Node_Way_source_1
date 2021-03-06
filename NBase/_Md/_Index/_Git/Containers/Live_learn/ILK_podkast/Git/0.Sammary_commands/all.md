@@ -34,4 +34,10 @@
 
 `git show :/<match>` - show commit where be searches by \<mach>
 
+`git branch -d fix` - delete branch 'fix'
+
+`git checkout -b <new_branch> ` - create new_branch 
+
+
+
 

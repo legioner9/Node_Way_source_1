@@ -31,15 +31,77 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
+      <change afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/segm.I/proj.2.0.0/SandBoxes/TMP/examp/fan" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/cat.Jobs/dir.Jobs.md" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/cat.Jobs/dir.Jobs.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/LFlow/Reade.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/LFlow/Reade.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/LFlow/cat.LFlow/dir.LFlow.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/LFlow/cat.LFlow/dir.LFlow.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/Lake/cat.Lake/dir.Lake.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/Lake/cat.Lake/dir.Lake.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Объектно-ориентированное программирование/_src/1/tutor.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Store/N viza 10.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Store/N viza 10.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/st_require/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/st_require/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/st_ini_arht/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/st_ini_arht/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bat/win_10/docs/mainCommands/[в закладки] Bash для начинающих_ 21 полезная команда _ Блог компании RUVDS.com _ Хабр.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bat/win_10/docs/mainCommands/[в закладки] Bash для начинающих_ 21 полезная команда _ Блог компании RUVDS.com _ Хабр_files/1ba550d25e8846ce8805de564da6aa63.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bat/win_10/docs/mainCommands/[в закладки] Bash для начинающих_ 21 полезная команда _ Блог компании RUVDS.com _ Хабр_files/33133886afe8468a2d80df4d4bbe9f13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bat/win_10/docs/mainCommands/[в закладки] Bash для начинающих_ 21 полезная команда _ Блог компании RUVDS.com _ Хабр_files/3771c429666a2ff970b46e8a6969ec85.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bat/win_10/docs/mainCommands/[в закладки] Bash для начинающих_ 21 полезная команда _ Блог компании RUVDS.com _ Хабр_files/3c2ab0e18393d78d2453c4f55eb09c78.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bat/win_10/docs/mainCommands/[в закладки] Bash для начинающих_ 21 полезная команда _ Блог компании RUVDS.com _ Хабр_files/4204454c659bababa2571cde03dc75b8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bat/win_10/docs/mainCommands/[в закладки] Bash для начинающих_ 21 полезная команда _ Блог компании RUVDS.com _ Хабр_files/490042467235705be332ed72af4e2a17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bat/win_10/docs/mainCommands/[в закладки] Bash для начинающих_ 21 полезная команда _ Блог компании RUVDS.com _ Хабр_files/543f4e05d7559b6a392e375c96df4675.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bat/win_10/docs/mainCommands/[в закладки] Bash для начинающих_ 21 полезная команда _ Блог компании RUVDS.com _ Хабр_files/6704fa9b298c593b69a5826f72042954.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bat/win_10/docs/mainCommands/[в закладки] Bash для начинающих_ 21 полезная команда _ Блог компании RUVDS.com _ Хабр_files/6ee74bd87dbf84e43cdcc0abd0d13a3f.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bat/win_10/docs/mainCommands/[в закладки] Bash для начинающих_ 21 полезная команда _ Блог компании RUVDS.com _ Хабр_files/76873eabd0fd4fc321ba8a70d580c2e4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bat/win_10/docs/mainCommands/[в закладки] Bash для начинающих_ 21 полезная команда _ Блог компании RUVDS.com _ Хабр_files/803892bfe548499aa763df324d40fd01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bat/win_10/docs/mainCommands/[в закладки] Bash для начинающих_ 21 полезная команда _ Блог компании RUVDS.com _ Хабр_files/9fd5476a9c0109ff8ae609909ed4f952.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bat/win_10/docs/mainCommands/[в закладки] Bash для начинающих_ 21 полезная команда _ Блог компании RUVDS.com _ Хабр_files/adriver.js.Без названия" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bat/win_10/docs/mainCommands/[в закладки] Bash для начинающих_ 21 полезная команда _ Блог компании RUVDS.com _ Хабр_files/advertise.js.Без названия" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bat/win_10/docs/mainCommands/[в закладки] Bash для начинающих_ 21 полезная команда _ Блог компании RUVDS.com _ Хабр_files/analytics.js.Без названия" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bat/win_10/docs/mainCommands/[в закладки] Bash для начинающих_ 21 полезная команда _ Блог компании RUVDS.com _ Хабр_files/b778d5a41f83016379c6630262c3294c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bat/win_10/docs/mainCommands/[в закладки] Bash для начинающих_ 21 полезная команда _ Блог компании RUVDS.com _ Хабр_files/bb8e6803b768a2ec5d8ca4c6edc9cd98.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bat/win_10/docs/mainCommands/[в закладки] Bash для начинающих_ 21 полезная команда _ Блог компании RUVDS.com _ Хабр_files/c45e2fd33f8bb04e5dbaf1fcd1b6acc4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bat/win_10/docs/mainCommands/[в закладки] Bash для начинающих_ 21 полезная команда _ Блог компании RUVDS.com _ Хабр_files/c46e84413e5b6733fc2e4258995a6a8a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bat/win_10/docs/mainCommands/[в закладки] Bash для начинающих_ 21 полезная команда _ Блог компании RUVDS.com _ Хабр_files/c6534e2ec60a1d413c86ebda63e2a6c3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bat/win_10/docs/mainCommands/[в закладки] Bash для начинающих_ 21 полезная команда _ Блог компании RUVDS.com _ Хабр_files/c9638a5d0734b168240e1fedde5c131e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bat/win_10/docs/mainCommands/[в закладки] Bash для начинающих_ 21 полезная команда _ Блог компании RUVDS.com _ Хабр_files/chance.min.js.Без названия" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bat/win_10/docs/mainCommands/[в закладки] Bash для начинающих_ 21 полезная команда _ Блог компании RUVDS.com _ Хабр_files/e1228e7f11865e9e73aeeb89a805f1f2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bat/win_10/docs/mainCommands/[в закладки] Bash для начинающих_ 21 полезная команда _ Блог компании RUVDS.com _ Хабр_files/e36812d3de38eb3d479d7a13228717ef.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bat/win_10/docs/mainCommands/[в закладки] Bash для начинающих_ 21 полезная команда _ Блог компании RUVDS.com _ Хабр_files/e504f5fbf1cdfe2c5b270449c3e54a62.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bat/win_10/docs/mainCommands/[в закладки] Bash для начинающих_ 21 полезная команда _ Блог компании RUVDS.com _ Хабр_files/f27ea85bd62fbd985c308110885af7e0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bat/win_10/docs/mainCommands/[в закладки] Bash для начинающих_ 21 полезная команда _ Блог компании RUVDS.com _ Хабр_files/f45024bcc7d7567f4c4296de5d36c0b3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bat/win_10/docs/mainCommands/[в закладки] Bash для начинающих_ 21 полезная команда _ Блог компании RUVDS.com _ Хабр_files/highlight.langs.js.Без названия" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bat/win_10/docs/mainCommands/[в закладки] Bash для начинающих_ 21 полезная команда _ Блог компании RUVDS.com _ Хабр_files/highlight.pack.js.Без названия" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bat/win_10/docs/mainCommands/[в закладки] Bash для начинающих_ 21 полезная команда _ Блог компании RUVDS.com _ Хабр_files/html2canvas.min.js.Без названия" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bat/win_10/docs/mainCommands/[в закладки] Bash для начинающих_ 21 полезная команда _ Блог компании RUVDS.com _ Хабр_files/index.js.Без названия" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bat/win_10/docs/mainCommands/[в закладки] Bash для начинающих_ 21 полезная команда _ Блог компании RUVDS.com _ Хабр_files/jquery-1.8.3.min.js.Без названия" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bat/win_10/docs/mainCommands/[в закладки] Bash для начинающих_ 21 полезная команда _ Блог компании RUVDS.com _ Хабр_files/js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bat/win_10/docs/mainCommands/[в закладки] Bash для начинающих_ 21 полезная команда _ Блог компании RUVDS.com _ Хабр_files/main.bundle.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bat/win_10/docs/mainCommands/[в закладки] Bash для начинающих_ 21 полезная команда _ Блог компании RUVDS.com _ Хабр_files/main.bundle.js.Без названия" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bat/win_10/docs/mainCommands/[в закладки] Bash для начинающих_ 21 полезная команда _ Блог компании RUVDS.com _ Хабр_files/neuro-habr.js.Без названия" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bat/win_10/docs/mainCommands/[в закладки] Bash для начинающих_ 21 полезная команда _ Блог компании RUVDS.com _ Хабр_files/raven.min.js.Без названия" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bat/win_10/docs/mainCommands/[в закладки] Bash для начинающих_ 21 полезная команда _ Блог компании RUVDS.com _ Хабр_files/rtrg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bat/win_10/docs/mainCommands/[в закладки] Bash для начинающих_ 21 полезная команда _ Блог компании RUVDS.com _ Хабр_files/saved_resource" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bat/win_10/docs/mainCommands/[в закладки] Bash для начинающих_ 21 полезная команда _ Блог компании RUVDS.com _ Хабр_files/tag.js.Без названия" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bat/win_10/docs/mainCommands/[в закладки] Bash для начинающих_ 21 полезная команда _ Блог компании RUVDS.com _ Хабр_files/tr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bat/win_10/docs/mainCommands/[в закладки] Bash для начинающих_ 21 полезная команда _ Блог компании RUVDS.com _ Хабр_files/vendors.bundle.js.Без названия" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/fsLog/logErr.md" beforeDir="false" afterPath="$PROJECT_DIR$/Education/fsLog/logErr.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Live_learn/ILK_podkast/Git/0.Sammary_commands/all.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Live_learn/ILK_podkast/Git/0.Sammary_commands/all.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Live_learn/ILK_podkast/Git/0.Sammary_commands/cat.0.Sammary_commands/dir.0.Sammary_commands.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Live_learn/ILK_podkast/Git/0.Sammary_commands/cat.0.Sammary_commands/dir.0.Sammary_commands.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Live_learn/ILK_podkast/Git/cat.Git/dir.Git.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Live_learn/ILK_podkast/Git/cat.Git/dir.Git.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Live_learn/ILK_podkast/cat.ILK_podkast/dir.ILK_podkast.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Live_learn/ILK_podkast/cat.ILK_podkast/dir.ILK_podkast.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Live_learn/cat.Live_learn/dir.Live_learn.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Live_learn/cat.Live_learn/dir.Live_learn.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/segm.I/proj.2.0.0/SandBoxes/FlowRebase_brn/set.2.0.0.rebase.1.0.0.fix.add/v1" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/segm.I/proj.2.0.0/SandBoxes/FlowRebase_brn/set.2.0.0.rebase.1.0.0.fix.add/v1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/segm.I/proj.2.0.0/SandBoxes/FlowRebase_brn/set.2.0.0.rebase.1.0.0.fix.add__continue/v1" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/segm.I/proj.2.0.0/SandBoxes/FlowRebase_brn/set.2.0.0.rebase.1.0.0.fix.add__continue/v1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/segm.I/proj.2.0.0/SandBoxes/FlowRebase_brn/set.2.0.0.rebase.1.0.0/v1" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/segm.I/proj.2.0.0/SandBoxes/FlowRebase_brn/set.2.0.0.rebase.1.0.0/v1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/segm.I/proj.2.0.0/SandBoxes/FlowRebase_brn/set.2.0.0.rebase.1.0.0__continue/v1" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/segm.I/proj.2.0.0/SandBoxes/FlowRebase_brn/set.2.0.0.rebase.1.0.0__continue/v1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/segm.I/proj.2.0.0/SandBoxes/FlowRebase_brn/set.2.0.0.rebase.1.0.0__skip/v1" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/segm.I/proj.2.0.0/SandBoxes/FlowRebase_brn/set.2.0.0.rebase.1.0.0__skip/v1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/segm.I/proj.2.0.0/SandBoxes/SpawningNewBranch/create.1.0.0_to_2.0.0/set.1.0.0._to.2.0.0.v.1/v1" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/segm.I/proj.2.0.0/SandBoxes/SpawningNewBranch/create.1.0.0_to_2.0.0/set.1.0.0._to.2.0.0.v.1/v1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/segm.I/proj.2.0.0/SandBoxes/SpawningNewBranch/create.1.0.0_to_2.0.0/set.1.0.0._to.2.0.0.v.4/v1" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/segm.I/proj.2.0.0/SandBoxes/SpawningNewBranch/create.1.0.0_to_2.0.0/set.1.0.0._to.2.0.0.v.4/v1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/segm.I/proj.2.0.0/SandBoxes/TMP/examp/v1" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/segm.I/proj.2.0.0/SandBoxes/TMP/examp/v1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/segm.I/proj.2.0.0/set.1.0.0.tag/v1" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/segm.I/proj.2.0.0/set.1.0.0.tag/v1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/segm.I/proj.2.0.0/set.1.0.0.tag_a_hash/v1" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/segm.I/proj.2.0.0/set.1.0.0.tag_a_hash/v1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/segm.I/proj.2.0.0/set.1.0.0/v1" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/segm.I/proj.2.0.0/set.1.0.0/v1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/segm.I/proj.2.0.0/set.2.0.0.rebase.1.0.0/v1" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/segm.I/proj.2.0.0/set.2.0.0.rebase.1.0.0/v1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/segm.I/proj.I.1.0.0/set.1.0.0/v1" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/segm.I/proj.I.1.0.0/set.1.0.0/v1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/segm.I/proj.I.1.0.0/set.1.1.0/v1" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/segm.I/proj.I.1.0.0/set.1.1.0/v1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/cat.Containers/dir.Containers.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/cat.Containers/dir.Containers.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/cat._Git/dir._Git.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_Git/cat._Git/dir._Git.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/cat._Index/dir._Index.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/cat._Index/dir._Index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/excd._Bash_LG2/Containers/Live_learn/Advanced_Bash-Scripting_Guide/_src/Html_issue/Advanced Bash-Scripting Guide_files/checking.js.Без названия" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/cat._Md/dir._Md.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/cat._Md/dir._Md.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,7 +204,7 @@
     <property name="add_unversioned_files" value="$PROJECT_DIR$/Jobs/SetGlobLoggers/ModLogger_1/Core/Logs/eLogs.txt&#10;true" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="14.15.3" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Jobs/CaseArcht/Examp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.jscs" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -507,6 +569,7 @@
       <workItem from="1612846131546" duration="10950000" />
       <workItem from="1612885286011" duration="2031000" />
       <workItem from="1614527333584" duration="9837000" />
+      <workItem from="1614952420272" duration="5782000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
@@ -1093,11 +1156,11 @@
     </state>
     <state x="188" y="110" width="1094" height="614" key="DiffContextDialog/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1608266478938" />
     <state x="188" y="110" width="1094" height="614" key="DiffContextDialog/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1612887045712" />
-    <state x="519" y="178" width="699" height="606" key="FileChooserDialogImpl" timestamp="1614559309388">
+    <state x="519" y="178" width="699" height="606" key="FileChooserDialogImpl" timestamp="1615005857486">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="519" y="178" key="FileChooserDialogImpl/0.0.1440.860/1440.0.1024.728@0.0.1440.860" timestamp="1609601504304" />
-    <state x="519" y="178" key="FileChooserDialogImpl/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1614559309388" />
+    <state x="519" y="178" key="FileChooserDialogImpl/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1615005857486" />
     <state width="1340" height="166" key="GridCell.Tab.0.bottom" timestamp="1612553083529">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
@@ -1121,69 +1184,57 @@
     <state width="1340" height="247" key="GridCell.Tab.1.bottom" timestamp="1610266938301">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1247" height="769" key="GridCell.Tab.1.bottom/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1605966686878" />
     <state width="1340" height="247" key="GridCell.Tab.1.bottom/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1610266938301" />
     <state width="1340" height="247" key="GridCell.Tab.1.center" timestamp="1610266938300">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1247" height="769" key="GridCell.Tab.1.center/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1605966686878" />
     <state width="1340" height="247" key="GridCell.Tab.1.center/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1610266938300" />
     <state width="1340" height="247" key="GridCell.Tab.1.left" timestamp="1610266938300">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1247" height="769" key="GridCell.Tab.1.left/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1605966686878" />
     <state width="1340" height="247" key="GridCell.Tab.1.left/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1610266938300" />
     <state width="1340" height="247" key="GridCell.Tab.1.right" timestamp="1610266938301">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1247" height="769" key="GridCell.Tab.1.right/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1605966686878" />
     <state width="1340" height="247" key="GridCell.Tab.1.right/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1610266938301" />
     <state width="1340" height="247" key="GridCell.Tab.2.bottom" timestamp="1610266938302">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1247" height="769" key="GridCell.Tab.2.bottom/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1605966686880" />
     <state width="1340" height="247" key="GridCell.Tab.2.bottom/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1610266938302" />
     <state width="1340" height="247" key="GridCell.Tab.2.center" timestamp="1610266938301">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1247" height="769" key="GridCell.Tab.2.center/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1605966686879" />
     <state width="1340" height="247" key="GridCell.Tab.2.center/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1610266938301" />
     <state width="1340" height="247" key="GridCell.Tab.2.left" timestamp="1610266938301">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1247" height="769" key="GridCell.Tab.2.left/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1605966686878" />
     <state width="1340" height="247" key="GridCell.Tab.2.left/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1610266938301" />
     <state width="1340" height="247" key="GridCell.Tab.2.right" timestamp="1610266938301">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1247" height="769" key="GridCell.Tab.2.right/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1605966686879" />
     <state width="1340" height="247" key="GridCell.Tab.2.right/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1610266938301" />
     <state width="1340" height="247" key="GridCell.Tab.3.bottom" timestamp="1610266938302">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1247" height="769" key="GridCell.Tab.3.bottom/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1605966664844" />
     <state width="1340" height="247" key="GridCell.Tab.3.bottom/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1610266938302" />
     <state width="1340" height="247" key="GridCell.Tab.3.center" timestamp="1610266938302">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1247" height="769" key="GridCell.Tab.3.center/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1605966664844" />
     <state width="1340" height="247" key="GridCell.Tab.3.center/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1610266938302" />
     <state width="1340" height="247" key="GridCell.Tab.3.left" timestamp="1610266938302">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1247" height="769" key="GridCell.Tab.3.left/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1605966664844" />
     <state width="1340" height="247" key="GridCell.Tab.3.left/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1610266938302" />
     <state width="1340" height="247" key="GridCell.Tab.3.right" timestamp="1610266938302">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1247" height="769" key="GridCell.Tab.3.right/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1605966664844" />
     <state width="1340" height="247" key="GridCell.Tab.3.right/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1610266938302" />
-    <state x="1502" y="153" width="1141" height="710" key="SettingsEditor" timestamp="1614559437264">
+    <state x="1502" y="153" width="1141" height="710" key="SettingsEditor" timestamp="1615010319388">
       <screen x="1440" y="0" width="1280" height="984" />
     </state>
     <state x="156" y="93" key="SettingsEditor/0.0.1440.860/1440.0.1024.728@0.0.1440.860" timestamp="1609602410130" />
     <state x="1579" y="111" width="1141" height="913" key="SettingsEditor/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1606893966128" />
-    <state x="1502" y="153" width="1141" height="710" key="SettingsEditor/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1614559437264" />
+    <state x="1502" y="153" width="1141" height="710" key="SettingsEditor/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1615010319388" />
     <state x="499" y="317" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1612797732385">
       <screen x="0" y="0" width="1440" height="860" />
     </state>

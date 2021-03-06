@@ -1,3 +1,9 @@
+if [ -f ~/.bash_aliases ]; then
+
+. ~/.bash_aliases
+
+fi
+
 
 lla() {
     echo -e '
@@ -129,6 +135,7 @@ copy_bash(){
     echo 'RUN copy_bash  :: copy ~/.bashrc to Node_Way/Store/WinUser/BashRc_instead/.bashrc'
 
     cp  /C/Users/79059/.bashrc /F/Node_projects/Node_Way/Store/WinUser/BashRc_instead/.bashrc
+    cp  /C/Users/79059/.bash_aliases /F/Node_projects/Node_Way/Store/WinUser/BashRc_instead/.bash_aliases
 
     echo 'copy_bash DONE'
 
