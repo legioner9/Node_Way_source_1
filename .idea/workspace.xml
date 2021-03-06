@@ -30,12 +30,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/1.Документ.dir/1.4.Поиск_getElement(aster),_querySelector(aster).dir/_src/1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/1.Документ.dir/1.4.Поиск_getElement(aster),_querySelector(aster).dir/_src/1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/1.Документ.dir/1.4.Поиск_getElement(aster),_querySelector(aster).dir/_src/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Education/IlKan/js.ru/Part_1/1.Документ.dir/1.4.Поиск_getElement(aster),_querySelector(aster).dir/_src/Readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/Puppeteer/Examples/proj_1/package.json" beforeDir="false" />
-    </list>
+    <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -163,19 +158,19 @@
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains_\IntelliJ IDEA 2020.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\Node_projects\Node_Way\Jobs\CaseArcht\Examp" />
-      <recent name="F:\Node_projects\Node_Way\node_modules_\st___00\Set___00\__" />
-      <recent name="F:\Node_projects\Node_Way\node_modules_\st_arht\SetArchetype\FunctionARHT" />
-      <recent name="F:\Node_projects\Node_Way\node_modules" />
-      <recent name="F:\Node_projects\Node_Way\node_modules_" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\Node_projects\Node_Way\Education\Gulp\Gulp_2\gulp\init" />
       <recent name="F:\Node_projects\Node_Way\Store\Global_configs\BachRc" />
       <recent name="F:\Node_projects\Node_Way\ToUse\cloneFileToDir\Dir_in_num_2_3_level" />
       <recent name="F:\Node_projects\Node_Way\ToUse\cloneFileToDir" />
       <recent name="F:\Node_projects\Node_Way\Education\TSH_video" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Node_projects\Node_Way\Jobs\CaseArcht\Examp" />
+      <recent name="F:\Node_projects\Node_Way\node_modules_\st___00\Set___00\__" />
+      <recent name="F:\Node_projects\Node_Way\node_modules_\st_arht\SetArchetype\FunctionARHT" />
+      <recent name="F:\Node_projects\Node_Way\node_modules" />
+      <recent name="F:\Node_projects\Node_Way\node_modules_" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.index.js">
@@ -502,7 +497,7 @@
       <workItem from="1612846131546" duration="10950000" />
       <workItem from="1612885286011" duration="2031000" />
       <workItem from="1614527333584" duration="9837000" />
-      <workItem from="1614952420272" duration="6862000" />
+      <workItem from="1614952420272" duration="7474000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
@@ -1075,11 +1070,11 @@
     </state>
     <state x="177" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.860/1440.0.1024.728@0.0.1440.860" timestamp="1609602432232" />
     <state x="177" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1609604887131" />
-    <state x="361" y="199" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1611292460965">
+    <state x="361" y="199" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1615042177958">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="361" y="199" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1608987261738" />
-    <state x="361" y="199" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1611292460965" />
+    <state x="361" y="199" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1615042177958" />
     <state x="405" y="56" key="#main_test.js" timestamp="1614532551541">
       <screen x="0" y="0" width="1440" height="860" />
     </state>

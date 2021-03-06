@@ -10,6 +10,12 @@
                     - <a href = "F:\Node_projects\Node_Way\Education\IlKan\js.ru\Part_1\1.Документ.dir\1.11.Координаты.dir\1.11.Координаты.md">1.11.Координаты.md</a>
                         - *# [Координаты](https://learn.javascript.ru/coordinates)
                 
+                - <a href = "F:\Node_projects\Node_Way\Education\IlKan\js.ru\Part_1\1.Документ.dir\1.4.Поиск_getElement(aster),_querySelector(aster).dir\cat.1.4.Поиск_getElement(aster),_querySelector(aster).dir\dir.1.4.Поиск_getElement(aster),_querySelector(aster).dir.md">1.4.Поиск_getElement(aster),_querySelector(aster).dir</a>
+                    - <a href = "F:\Node_projects\Node_Way\Education\IlKan\js.ru\Part_1\1.Документ.dir\1.4.Поиск_getElement(aster),_querySelector(aster).dir\_src\cat._src\dir._src.md">_src</a>
+                        - <a href = "F:\Node_projects\Node_Way\Education\IlKan\js.ru\Part_1\1.Документ.dir\1.4.Поиск_getElement(aster),_querySelector(aster).dir\_src\Readme.md">Readme.md</a>
+                            - *## main example for Search in DOM
+                    
+                
                 - <a href = "F:\Node_projects\Node_Way\Education\IlKan\js.ru\Part_1\1.Документ.dir\1.5.Свойства_узлов_тип,_тег_и_содержимое.dir\cat.1.5.Свойства_узлов_тип,_тег_и_содержимое.dir\dir.1.5.Свойства_узлов_тип,_тег_и_содержимое.dir.md">1.5.Свойства_узлов_тип,_тег_и_содержимое.dir</a>
                     - <a href = "F:\Node_projects\Node_Way\Education\IlKan\js.ru\Part_1\1.Документ.dir\1.5.Свойства_узлов_тип,_тег_и_содержимое.dir\1.5.Свойства_узлов_тип,_тег_и_содержимое.md">1.5.Свойства_узлов_тип,_тег_и_содержимое.md</a>
                         - *# https://learn.javascript.ru/basic-dom-node-properties
