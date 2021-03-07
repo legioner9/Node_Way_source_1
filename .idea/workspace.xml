@@ -30,7 +30,84 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2" />
+    <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/tsh/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/tsh/Set___00/__/_/Production/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/Set___00/__/_/Production/ReadMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/tsh/Set___00/__/_/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/Set___00/__/_/ReadMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/tsh/Set___00/__/_/Test/1.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/Set___00/__/_/Test/1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/tsh/Set___00/__/_/Test/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/Set___00/__/_/Test/ReadMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/tsh/Set___00/__/_/Test/main_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/Set___00/__/_/Test/main_test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/tsh/Set___00/__/_/_versions.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/Set___00/__/_/_versions.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/tsh/Set___00/__/_/examp.index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/Set___00/__/_/examp.index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/tsh/Set___00/__/_/index.init.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/Set___00/__/_/index.init.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/tsh/Set___00/__/_/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/Set___00/__/_/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/tsh/Set___00/__/_/index.v.1.0.0.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/Set___00/__/_/index.v.1.0.0.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/tsh/Set___00/__/_v.2/Production/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/Set___00/__/_v.2/Production/ReadMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/tsh/Set___00/__/_v.2/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/Set___00/__/_v.2/ReadMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/tsh/Set___00/__/_v.2/Test/1.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/Set___00/__/_v.2/Test/1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/tsh/Set___00/__/_v.2/Test/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/Set___00/__/_v.2/Test/ReadMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/tsh/Set___00/__/_v.2/Test/main_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/Set___00/__/_v.2/Test/main_test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/tsh/Set___00/__/_v.2/_versions.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/Set___00/__/_v.2/_versions.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/tsh/Set___00/__/_v.2/examp.index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/Set___00/__/_v.2/examp.index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/tsh/Set___00/__/_v.2/index.init.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/Set___00/__/_v.2/index.init.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/tsh/Set___00/__/_v.2/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/Set___00/__/_v.2/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/tsh/Set___00/__/_v.2/index.v.1.0.0.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/Set___00/__/_v.2/index.v.1.0.0.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/tsh/Set___00/__/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/Set___00/__/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/tsh/Set___00/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/Set___00/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/tsh/hpw/LinkedList/_/Production/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/hpw/LinkedList/_/Production/ReadMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/tsh/hpw/LinkedList/_/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/hpw/LinkedList/_/ReadMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/tsh/hpw/LinkedList/_/Test/1.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/hpw/LinkedList/_/Test/1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/tsh/hpw/LinkedList/_/Test/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/hpw/LinkedList/_/Test/ReadMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/tsh/hpw/LinkedList/_/Test/main_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/hpw/LinkedList/_/Test/main_test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/tsh/hpw/LinkedList/_/_versions.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/hpw/LinkedList/_/_versions.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/tsh/hpw/LinkedList/_/examp.index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/hpw/LinkedList/_/examp.index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/tsh/hpw/LinkedList/_/index.init.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/hpw/LinkedList/_/index.init.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/tsh/hpw/LinkedList/_/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/hpw/LinkedList/_/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/tsh/hpw/LinkedList/_/index.v.1.0.0.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/hpw/LinkedList/_/index.v.1.0.0.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/tsh/hpw/LinkedList/_1_single_proto/1-single-proto.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/hpw/LinkedList/_1_single_proto/1-single-proto.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/tsh/hpw/LinkedList/_1_single_proto/JavaScript/1-single-proto.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/hpw/LinkedList/_1_single_proto/JavaScript/1-single-proto.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/tsh/hpw/LinkedList/_1_single_proto/JavaScript/2-single-factory.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/hpw/LinkedList/_1_single_proto/JavaScript/2-single-factory.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/tsh/hpw/LinkedList/_1_single_proto/JavaScript/3-single-fn.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/hpw/LinkedList/_1_single_proto/JavaScript/3-single-fn.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/tsh/hpw/LinkedList/_1_single_proto/JavaScript/4-single-iterable.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/hpw/LinkedList/_1_single_proto/JavaScript/4-single-iterable.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/tsh/hpw/LinkedList/_1_single_proto/JavaScript/5-single-class.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/hpw/LinkedList/_1_single_proto/JavaScript/5-single-class.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/tsh/hpw/LinkedList/_1_single_proto/JavaScript/6-doubly-proto.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/hpw/LinkedList/_1_single_proto/JavaScript/6-doubly-proto.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/tsh/hpw/LinkedList/_1_single_proto/Production/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/hpw/LinkedList/_1_single_proto/Production/ReadMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/tsh/hpw/LinkedList/_1_single_proto/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/hpw/LinkedList/_1_single_proto/ReadMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/tsh/hpw/LinkedList/_1_single_proto/Test/1.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/hpw/LinkedList/_1_single_proto/Test/1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/tsh/hpw/LinkedList/_1_single_proto/Test/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/hpw/LinkedList/_1_single_proto/Test/ReadMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/tsh/hpw/LinkedList/_1_single_proto/Test/main_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/hpw/LinkedList/_1_single_proto/Test/main_test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/tsh/hpw/LinkedList/_1_single_proto/_versions.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/hpw/LinkedList/_1_single_proto/_versions.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/tsh/hpw/LinkedList/_1_single_proto/examp.index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/hpw/LinkedList/_1_single_proto/examp.index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/tsh/hpw/LinkedList/_1_single_proto/index.init.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/hpw/LinkedList/_1_single_proto/index.init.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/tsh/hpw/LinkedList/_1_single_proto/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/hpw/LinkedList/_1_single_proto/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/tsh/hpw/LinkedList/_1_single_proto/index.v.1.0.0.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/hpw/LinkedList/_1_single_proto/index.v.1.0.0.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/tsh/hpw/LinkedList/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/hpw/LinkedList/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/tsh/hpw/__/_/Production/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/hpw/__/_/Production/ReadMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/tsh/hpw/__/_/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/hpw/__/_/ReadMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/tsh/hpw/__/_/Test/1.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/hpw/__/_/Test/1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/tsh/hpw/__/_/Test/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/hpw/__/_/Test/ReadMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/tsh/hpw/__/_/Test/main_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/hpw/__/_/Test/main_test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/tsh/hpw/__/_/_versions.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/hpw/__/_/_versions.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/tsh/hpw/__/_/examp.index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/hpw/__/_/examp.index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/tsh/hpw/__/_/index.init.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/hpw/__/_/index.init.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/tsh/hpw/__/_/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/hpw/__/_/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/tsh/hpw/__/_/index.v.1.0.0.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/hpw/__/_/index.v.1.0.0.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/tsh/hpw/__/_v.2/Production/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/hpw/__/_v.2/Production/ReadMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/tsh/hpw/__/_v.2/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/hpw/__/_v.2/ReadMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/tsh/hpw/__/_v.2/Test/1.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/hpw/__/_v.2/Test/1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/tsh/hpw/__/_v.2/Test/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/hpw/__/_v.2/Test/ReadMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/tsh/hpw/__/_v.2/Test/main_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/hpw/__/_v.2/Test/main_test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/tsh/hpw/__/_v.2/_versions.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/hpw/__/_v.2/_versions.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/tsh/hpw/__/_v.2/examp.index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/hpw/__/_v.2/examp.index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/tsh/hpw/__/_v.2/index.init.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/hpw/__/_v.2/index.init.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/tsh/hpw/__/_v.2/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/hpw/__/_v.2/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/tsh/hpw/__/_v.2/index.v.1.0.0.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/hpw/__/_v.2/index.v.1.0.0.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/tsh/hpw/__/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/hpw/__/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/tsh/hpw/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/hpw/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/tsh/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/tsh/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -132,7 +209,7 @@
     <property name="add_unversioned_files" value="$PROJECT_DIR$/Jobs/SetGlobLoggers/ModLogger_1/Core/Logs/eLogs.txt&#10;true" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="14.15.3" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/node_modules_/_aop/archetypes/options" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.jscs" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -158,19 +235,19 @@
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains_\IntelliJ IDEA 2020.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Node_projects\Node_Way\node_modules_\_aop\archetypes\options" />
+      <recent name="F:\Node_projects\Node_Way\node_modules_\_aop\archetypes\func" />
+      <recent name="F:\Node_projects\Node_Way\node_modules_\_aop\archetypes" />
+      <recent name="F:\Node_projects\Node_Way\node_modules_\_aop" />
+      <recent name="F:\Node_projects\Node_Way\node_modules_" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\Node_projects\Node_Way\Education\Gulp\Gulp_2\gulp\init" />
       <recent name="F:\Node_projects\Node_Way\Store\Global_configs\BachRc" />
       <recent name="F:\Node_projects\Node_Way\ToUse\cloneFileToDir\Dir_in_num_2_3_level" />
       <recent name="F:\Node_projects\Node_Way\ToUse\cloneFileToDir" />
       <recent name="F:\Node_projects\Node_Way\Education\TSH_video" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\Node_projects\Node_Way\Jobs\CaseArcht\Examp" />
-      <recent name="F:\Node_projects\Node_Way\node_modules_\st___00\Set___00\__" />
-      <recent name="F:\Node_projects\Node_Way\node_modules_\st_arht\SetArchetype\FunctionARHT" />
-      <recent name="F:\Node_projects\Node_Way\node_modules" />
-      <recent name="F:\Node_projects\Node_Way\node_modules_" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.index.js">
@@ -497,7 +574,8 @@
       <workItem from="1612846131546" duration="10950000" />
       <workItem from="1612885286011" duration="2031000" />
       <workItem from="1614527333584" duration="9837000" />
-      <workItem from="1614952420272" duration="7474000" />
+      <workItem from="1614952420272" duration="8275000" />
+      <workItem from="1615089969127" duration="4360000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
