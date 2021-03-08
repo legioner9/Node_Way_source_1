@@ -22,7 +22,7 @@ Func_examp.mode.stack = true;
 
 // BOUNDEN CALL define root_path
 arht_fm.before ( Func_examp, module );
-
+debugger
 Func_examp ();
 
 // AFTER Func_examp () , s.t. 'externalState' not exists yet > event transport to (import to) Func_examp:
