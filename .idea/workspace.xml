@@ -31,90 +31,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Production/AFP.v.3_funname/1.js" beforeDir="false" afterPath="$PROJECT_DIR$/Production/_arhive/AFP.v.3_funname/1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Production/AFP.v.3_funname/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/Production/_arhive/AFP.v.3_funname/ReadMe.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Production/AFP.v.3_funname/SelfTest/_selftest_func.js" beforeDir="false" afterPath="$PROJECT_DIR$/Production/_arhive/AFP.v.3_funname/SelfTest/_selftest_func.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Production/AFP.v.3_funname/SelfTest/fsLog/log.md" beforeDir="false" afterPath="$PROJECT_DIR$/Production/_arhive/AFP.v.3_funname/SelfTest/fsLog/log.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Production/AFP.v.3_funname/SelfTest/mane_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/Production/_arhive/AFP.v.3_funname/SelfTest/mane_test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Production/AFP.v.3_funname/SelfTest/mod_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/Production/_arhive/AFP.v.3_funname/SelfTest/mod_test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Production/AFP.v.3_funname/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Production/_arhive/AFP.v.3_funname/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Production/AFP.v.4_funname/1.js" beforeDir="false" afterPath="$PROJECT_DIR$/Production/_arhive/AFP.v.4_funname/1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Production/AFP.v.4_funname/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/Production/_arhive/AFP.v.4_funname/ReadMe.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Production/AFP.v.4_funname/Test_behavior_func_0.1/1.js" beforeDir="false" afterPath="$PROJECT_DIR$/Production/_arhive/AFP.v.4_funname/Test_behavior_func_0.1/1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Production/AFP.v.4_funname/Test_behavior_func_0.1/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/Production/_arhive/AFP.v.4_funname/Test_behavior_func_0.1/ReadMe.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Production/AFP.v.4_funname/Test_behavior_func_0.1/Test_behavior_0.1/_selftest_func.js" beforeDir="false" afterPath="$PROJECT_DIR$/Production/_arhive/AFP.v.4_funname/Test_behavior_func_0.1/Test_behavior_0.1/_selftest_func.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Production/AFP.v.4_funname/Test_behavior_func_0.1/Test_behavior_0.1/fsLog/log.md" beforeDir="false" afterPath="$PROJECT_DIR$/Production/_arhive/AFP.v.4_funname/Test_behavior_func_0.1/Test_behavior_0.1/fsLog/log.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Production/AFP.v.4_funname/Test_behavior_func_0.1/Test_behavior_0.1/mane_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/Production/_arhive/AFP.v.4_funname/Test_behavior_func_0.1/Test_behavior_0.1/mane_test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Production/AFP.v.4_funname/Test_behavior_func_0.1/Test_behavior_0.1/mod_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/Production/_arhive/AFP.v.4_funname/Test_behavior_func_0.1/Test_behavior_0.1/mod_test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Production/AFP.v.4_funname/Test_behavior_func_0.1/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Production/_arhive/AFP.v.4_funname/Test_behavior_func_0.1/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Production/AFP.v.4_funname/Test_behavior_func_empty/_selftest_func.js" beforeDir="false" afterPath="$PROJECT_DIR$/Production/_arhive/AFP.v.4_funname/Test_behavior_func_empty/_selftest_func.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Production/AFP.v.4_funname/Test_behavior_func_empty/mane_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/Production/_arhive/AFP.v.4_funname/Test_behavior_func_empty/mane_test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Production/AFP.v.4_funname/Test_behavior_func_empty/mod_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/Production/_arhive/AFP.v.4_funname/Test_behavior_func_empty/mod_test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Production/AFP.v.4_funname/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Production/_arhive/AFP.v.4_funname/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Production/AFP.v.5_err_behavior_func_0.1_funname__AFP5_0.1_funname/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/Production/_arhive/AFP.v.5_err_behavior_func_0.1_funname__AFP5_0.1_funname/ReadMe.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Production/AFP.v.5_err_behavior_func_0.1_funname__AFP5_0.1_funname/_1.js" beforeDir="false" afterPath="$PROJECT_DIR$/Production/_arhive/AFP.v.5_err_behavior_func_0.1_funname__AFP5_0.1_funname/_1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Production/AFP.v.5_err_behavior_func_0.1_funname__AFP5_0.1_funname/_Examples/_cleare/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/Production/_arhive/AFP.v.5_err_behavior_func_0.1_funname__AFP5_0.1_funname/_Examples/_cleare/ReadMe.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Production/AFP.v.5_err_behavior_func_0.1_funname__AFP5_0.1_funname/_Examples/_cleare/function_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/Production/_arhive/AFP.v.5_err_behavior_func_0.1_funname__AFP5_0.1_funname/_Examples/_cleare/function_test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Production/AFP.v.5_err_behavior_func_0.1_funname__AFP5_0.1_funname/_Examples/_cleare/test_ini_module.js" beforeDir="false" afterPath="$PROJECT_DIR$/Production/_arhive/AFP.v.5_err_behavior_func_0.1_funname__AFP5_0.1_funname/_Examples/_cleare/test_ini_module.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Production/AFP.v.5_err_behavior_func_0.1_funname__AFP5_0.1_funname/_Examples/_with_err/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/Production/_arhive/AFP.v.5_err_behavior_func_0.1_funname__AFP5_0.1_funname/_Examples/_with_err/ReadMe.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Production/AFP.v.5_err_behavior_func_0.1_funname__AFP5_0.1_funname/_Examples/_with_err/test_ini_module.js" beforeDir="false" afterPath="$PROJECT_DIR$/Production/_arhive/AFP.v.5_err_behavior_func_0.1_funname__AFP5_0.1_funname/_Examples/_with_err/test_ini_module.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Production/AFP.v.5_err_behavior_func_0.1_funname__AFP5_0.1_funname/_Test_behavior_0.1/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/Production/_arhive/AFP.v.5_err_behavior_func_0.1_funname__AFP5_0.1_funname/_Test_behavior_0.1/ReadMe.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Production/AFP.v.5_err_behavior_func_0.1_funname__AFP5_0.1_funname/_Test_behavior_0.1/_selftest_func.js" beforeDir="false" afterPath="$PROJECT_DIR$/Production/_arhive/AFP.v.5_err_behavior_func_0.1_funname__AFP5_0.1_funname/_Test_behavior_0.1/_selftest_func.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Production/AFP.v.5_err_behavior_func_0.1_funname__AFP5_0.1_funname/_Test_behavior_0.1/mane_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/Production/_arhive/AFP.v.5_err_behavior_func_0.1_funname__AFP5_0.1_funname/_Test_behavior_0.1/mane_test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Production/AFP.v.5_err_behavior_func_0.1_funname__AFP5_0.1_funname/_Test_behavior_0.1/mod_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/Production/_arhive/AFP.v.5_err_behavior_func_0.1_funname__AFP5_0.1_funname/_Test_behavior_0.1/mod_test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Production/AFP.v.5_err_behavior_func_0.1_funname__AFP5_0.1_funname/_Test_behavior_own_1/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/Production/_arhive/AFP.v.5_err_behavior_func_0.1_funname__AFP5_0.1_funname/_Test_behavior_own_1/ReadMe.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Production/AFP.v.5_err_behavior_func_0.1_funname__AFP5_0.1_funname/_Test_behavior_own_1/_selftest_func.js" beforeDir="false" afterPath="$PROJECT_DIR$/Production/_arhive/AFP.v.5_err_behavior_func_0.1_funname__AFP5_0.1_funname/_Test_behavior_own_1/_selftest_func.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Production/AFP.v.5_err_behavior_func_0.1_funname__AFP5_0.1_funname/_Test_behavior_own_1/mane_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/Production/_arhive/AFP.v.5_err_behavior_func_0.1_funname__AFP5_0.1_funname/_Test_behavior_own_1/mane_test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Production/AFP.v.5_err_behavior_func_0.1_funname__AFP5_0.1_funname/_Test_behavior_own_1/mod_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/Production/_arhive/AFP.v.5_err_behavior_func_0.1_funname__AFP5_0.1_funname/_Test_behavior_own_1/mod_test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Production/AFP.v.5_err_behavior_func_0.1_funname__AFP5_0.1_funname/_Test_behavior_toProduction/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/Production/_arhive/AFP.v.5_err_behavior_func_0.1_funname__AFP5_0.1_funname/_Test_behavior_toProduction/ReadMe.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Production/AFP.v.5_err_behavior_func_0.1_funname__AFP5_0.1_funname/_Test_behavior_toProduction/_selftest_func.js" beforeDir="false" afterPath="$PROJECT_DIR$/Production/_arhive/AFP.v.5_err_behavior_func_0.1_funname__AFP5_0.1_funname/_Test_behavior_toProduction/_selftest_func.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Production/AFP.v.5_err_behavior_func_0.1_funname__AFP5_0.1_funname/_Test_behavior_toProduction/mane_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/Production/_arhive/AFP.v.5_err_behavior_func_0.1_funname__AFP5_0.1_funname/_Test_behavior_toProduction/mane_test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Production/AFP.v.5_err_behavior_func_0.1_funname__AFP5_0.1_funname/_Test_behavior_toProduction/mod_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/Production/_arhive/AFP.v.5_err_behavior_func_0.1_funname__AFP5_0.1_funname/_Test_behavior_toProduction/mod_test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Production/AFP.v.5_err_behavior_func_0.1_funname__AFP5_0.1_funname/_Test_behavior_toProduction/test_ini_module.js" beforeDir="false" afterPath="$PROJECT_DIR$/Production/_arhive/AFP.v.5_err_behavior_func_0.1_funname__AFP5_0.1_funname/_Test_behavior_toProduction/test_ini_module.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Production/AFP.v.5_err_behavior_func_0.1_funname__AFP5_0.1_funname/_techical_task.md" beforeDir="false" afterPath="$PROJECT_DIR$/Production/_arhive/AFP.v.5_err_behavior_func_0.1_funname__AFP5_0.1_funname/_techical_task.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Production/AFP.v.5_err_behavior_func_0.1_funname__AFP5_0.1_funname/_versions.md" beforeDir="false" afterPath="$PROJECT_DIR$/Production/_arhive/AFP.v.5_err_behavior_func_0.1_funname__AFP5_0.1_funname/_versions.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Production/AFP.v.5_err_behavior_func_0.1_funname__AFP5_0.1_funname/_where_run.md" beforeDir="false" afterPath="$PROJECT_DIR$/Production/_arhive/AFP.v.5_err_behavior_func_0.1_funname__AFP5_0.1_funname/_where_run.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Production/AFP.v.5_err_behavior_func_0.1_funname__AFP5_0.1_funname/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Production/_arhive/AFP.v.5_err_behavior_func_0.1_funname__AFP5_0.1_funname/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Production/AFP.v.5_err_funname/1.js" beforeDir="false" afterPath="$PROJECT_DIR$/Production/_arhive/AFP.v.5_err_funname/1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Production/AFP.v.5_err_funname/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/Production/_arhive/AFP.v.5_err_funname/ReadMe.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Production/AFP.v.5_err_funname/Test_behavior_func_0.1/1.js" beforeDir="false" afterPath="$PROJECT_DIR$/Production/_arhive/AFP.v.5_err_funname/Test_behavior_func_0.1/1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Production/AFP.v.5_err_funname/Test_behavior_func_0.1/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/Production/_arhive/AFP.v.5_err_funname/Test_behavior_func_0.1/ReadMe.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Production/AFP.v.5_err_funname/Test_behavior_func_0.1/Test_behavior_0.1/_selftest_func.js" beforeDir="false" afterPath="$PROJECT_DIR$/Production/_arhive/AFP.v.5_err_funname/Test_behavior_func_0.1/Test_behavior_0.1/_selftest_func.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Production/AFP.v.5_err_funname/Test_behavior_func_0.1/Test_behavior_0.1/fsLog/log.md" beforeDir="false" afterPath="$PROJECT_DIR$/Production/_arhive/AFP.v.5_err_funname/Test_behavior_func_0.1/Test_behavior_0.1/fsLog/log.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Production/AFP.v.5_err_funname/Test_behavior_func_0.1/Test_behavior_0.1/fsLog/logErr.md" beforeDir="false" afterPath="$PROJECT_DIR$/Production/_arhive/AFP.v.5_err_funname/Test_behavior_func_0.1/Test_behavior_0.1/fsLog/logErr.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Production/AFP.v.5_err_funname/Test_behavior_func_0.1/Test_behavior_0.1/mane_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/Production/_arhive/AFP.v.5_err_funname/Test_behavior_func_0.1/Test_behavior_0.1/mane_test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Production/AFP.v.5_err_funname/Test_behavior_func_0.1/Test_behavior_0.1/mod_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/Production/_arhive/AFP.v.5_err_funname/Test_behavior_func_0.1/Test_behavior_0.1/mod_test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Production/AFP.v.5_err_funname/Test_behavior_func_0.1/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Production/_arhive/AFP.v.5_err_funname/Test_behavior_func_0.1/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Production/AFP.v.5_err_funname/Test_behavior_func_empty/_selftest_func.js" beforeDir="false" afterPath="$PROJECT_DIR$/Production/_arhive/AFP.v.5_err_funname/Test_behavior_func_empty/_selftest_func.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Production/AFP.v.5_err_funname/Test_behavior_func_empty/mane_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/Production/_arhive/AFP.v.5_err_funname/Test_behavior_func_empty/mane_test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Production/AFP.v.5_err_funname/Test_behavior_func_empty/mod_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/Production/_arhive/AFP.v.5_err_funname/Test_behavior_func_empty/mod_test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Production/AFP.v.5_err_funname/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Production/_arhive/AFP.v.5_err_funname/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Production/AFP.v.6_err_time_funname/1.js" beforeDir="false" afterPath="$PROJECT_DIR$/Production/_arhive/AFP.v.6_err_time_funname/1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Production/AFP.v.6_err_time_funname/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/Production/_arhive/AFP.v.6_err_time_funname/ReadMe.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Production/AFP.v.6_err_time_funname/Test_behavior_func_0.1/1.js" beforeDir="false" afterPath="$PROJECT_DIR$/Production/_arhive/AFP.v.6_err_time_funname/Test_behavior_func_0.1/1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Production/AFP.v.6_err_time_funname/Test_behavior_func_0.1/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/Production/_arhive/AFP.v.6_err_time_funname/Test_behavior_func_0.1/ReadMe.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Production/AFP.v.6_err_time_funname/Test_behavior_func_0.1/Test_behavior_0.1/_selftest_func.js" beforeDir="false" afterPath="$PROJECT_DIR$/Production/_arhive/AFP.v.6_err_time_funname/Test_behavior_func_0.1/Test_behavior_0.1/_selftest_func.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Production/AFP.v.6_err_time_funname/Test_behavior_func_0.1/Test_behavior_0.1/fsLog/log.md" beforeDir="false" afterPath="$PROJECT_DIR$/Production/_arhive/AFP.v.6_err_time_funname/Test_behavior_func_0.1/Test_behavior_0.1/fsLog/log.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Production/AFP.v.6_err_time_funname/Test_behavior_func_0.1/Test_behavior_0.1/fsLog/logErr.md" beforeDir="false" afterPath="$PROJECT_DIR$/Production/_arhive/AFP.v.6_err_time_funname/Test_behavior_func_0.1/Test_behavior_0.1/fsLog/logErr.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Production/AFP.v.6_err_time_funname/Test_behavior_func_0.1/Test_behavior_0.1/mane_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/Production/_arhive/AFP.v.6_err_time_funname/Test_behavior_func_0.1/Test_behavior_0.1/mane_test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Production/AFP.v.6_err_time_funname/Test_behavior_func_0.1/Test_behavior_0.1/mod_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/Production/_arhive/AFP.v.6_err_time_funname/Test_behavior_func_0.1/Test_behavior_0.1/mod_test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Production/AFP.v.6_err_time_funname/Test_behavior_func_0.1/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Production/_arhive/AFP.v.6_err_time_funname/Test_behavior_func_0.1/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Production/AFP.v.6_err_time_funname/Test_behavior_func_empty/_selftest_func.js" beforeDir="false" afterPath="$PROJECT_DIR$/Production/_arhive/AFP.v.6_err_time_funname/Test_behavior_func_empty/_selftest_func.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Production/AFP.v.6_err_time_funname/Test_behavior_func_empty/mane_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/Production/_arhive/AFP.v.6_err_time_funname/Test_behavior_func_empty/mane_test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Production/AFP.v.6_err_time_funname/Test_behavior_func_empty/mod_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/Production/_arhive/AFP.v.6_err_time_funname/Test_behavior_func_empty/mod_test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Production/AFP.v.6_err_time_funname/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Production/_arhive/AFP.v.6_err_time_funname/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Production/ARHT_function.product.v.3/1.js" beforeDir="false" afterPath="$PROJECT_DIR$/Production/_arhive/ARHT_function.product.v.3/1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Production/ARHT_function.product.v.3/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/Production/_arhive/ARHT_function.product.v.3/ReadMe.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Production/ARHT_function.product.v.3/SelfTest/_selftest_func.js" beforeDir="false" afterPath="$PROJECT_DIR$/Production/_arhive/ARHT_function.product.v.3/SelfTest/_selftest_func.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Production/ARHT_function.product.v.3/SelfTest/fsLog/log.md" beforeDir="false" afterPath="$PROJECT_DIR$/Production/_arhive/ARHT_function.product.v.3/SelfTest/fsLog/log.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Production/ARHT_function.product.v.3/SelfTest/mane_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/Production/_arhive/ARHT_function.product.v.3/SelfTest/mane_test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Production/ARHT_function.product.v.3/SelfTest/mod_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/Production/_arhive/ARHT_function.product.v.3/SelfTest/mod_test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Production/ARHT_function.product.v.3/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Production/_arhive/ARHT_function.product.v.3/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Production/HEADERS/s_Fs.js" beforeDir="false" afterPath="$PROJECT_DIR$/Production/_arhive/HEADERS/s_Fs.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_aop/archetypes/function/arht/flow_function/Test/main_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_aop/archetypes/function/arht/flow_function/Test/main_test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_aop/archetypes/function/arht/flow_function/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_aop/archetypes/function/arht/flow_function/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_aop/archetypes/function/arht/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_aop/archetypes/function/arht/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/TshExamp_to_myModules/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/TshExamp_to_myModules/Test/main_test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/TshExamp_to_myModules/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Production/area_function_v.1.0.0/Test/main_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/Production/area_function_v.1.0.0/Test/main_test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Production/area_function_v.1.0.0/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Production/area_function_v.1.0.0/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -217,7 +138,7 @@
     <property name="add_unversioned_files" value="$PROJECT_DIR$/Jobs/SetGlobLoggers/ModLogger_1/Core/Logs/eLogs.txt&#10;true" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="14.15.3" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Production" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Jobs/TshExamp_to_myModules" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.jscs" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -244,11 +165,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Node_projects\Node_Way\Jobs\TshExamp_to_myModules" />
       <recent name="F:\Node_projects\Node_Way\Production" />
       <recent name="F:\Node_projects\Node_Way\node_modules_\_aop\archetypes\function\arht" />
       <recent name="F:\Node_projects\Node_Way\node_modules_\_aop\archetypes\func\proto_1\Test" />
       <recent name="F:\Node_projects\Node_Way\node_modules_\_aop\archetypes\func\proto_1" />
-      <recent name="F:\Node_projects\Node_Way\node_modules_\_aop\archetypes\options" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\Node_projects\Node_Way\Production\_arhive" />
@@ -583,7 +504,7 @@
       <workItem from="1612885286011" duration="2031000" />
       <workItem from="1614527333584" duration="9837000" />
       <workItem from="1614952420272" duration="8275000" />
-      <workItem from="1615089969127" duration="29094000" />
+      <workItem from="1615089969127" duration="30022000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>

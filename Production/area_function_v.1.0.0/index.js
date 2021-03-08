@@ -21,6 +21,9 @@ const Func_examp = () => {
     _u._emit( '_start', _e);
     _u._emit( '_innerState', _e.INNER);
 
+    const return_in_point = {any:'any_body'}
+    _u._emit('_point_event',return_in_point)
+
 
 };
 

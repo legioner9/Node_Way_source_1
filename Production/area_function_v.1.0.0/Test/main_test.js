@@ -15,6 +15,11 @@ fn.event.once ( '_innerState', function ( innerState ) {
     console.log ( 'current innerState is: ', innerState );
 }, fn );
 
+fn.event.once ( '_point_event', function ( point_object ) {
+    debugger
+    console.log ( 'point event return this any_body: ', point_object );
+}, fn );
+
 // define report behaviour :
 
 fn.mode.log = true;
