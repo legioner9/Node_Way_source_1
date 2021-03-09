@@ -31,11 +31,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
-      <change beforePath="$PROJECT_DIR$/Jobs/TshExamp_to_myModules/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/TshExamp_to_myModules/Test/main_test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/TshExamp_to_myModules/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Production/area_function_v.1.0.0/Test/main_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/Production/area_function_v.1.0.0/Test/main_test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Production/area_function_v.1.0.0/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Production/area_function_v.1.0.0/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/TshExamp_to_myModules/function_v.1.0.0/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/TshExamp_to_myModules/function_v.1.0.0/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -504,7 +500,7 @@
       <workItem from="1612885286011" duration="2031000" />
       <workItem from="1614527333584" duration="9837000" />
       <workItem from="1614952420272" duration="8275000" />
-      <workItem from="1615089969127" duration="30022000" />
+      <workItem from="1615089969127" duration="30677000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
@@ -1164,6 +1160,10 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1340" height="247" key="GridCell.Tab.3.right/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1610266938302" />
+    <state x="471" y="102" key="RollbackChangesDialog" timestamp="1615216355042">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="471" y="102" key="RollbackChangesDialog/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1615216355042" />
     <state x="1502" y="153" width="1141" height="710" key="SettingsEditor" timestamp="1615010319388">
       <screen x="1440" y="0" width="1280" height="984" />
     </state>
