@@ -277,6 +277,10 @@
         
     
     - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\+Учебная практика (ознакомительная практика) 1\cat.+Учебная практика (ознакомительная практика) 1\dir.+Учебная практика (ознакомительная практика) 1.md">+Учебная практика (ознакомительная практика) 1</a>
+        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\+Учебная практика (ознакомительная практика) 1\_ancons\cat._ancons\dir._ancons.md">_ancons</a>
+            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\+Учебная практика (ознакомительная практика) 1\_ancons\ReadMe.md">ReadMe.md</a>
+                - *## [А.И.Стешин ИНФОРМАЦИОННЫЕ СИСТЕМЫВ ОРГАНИЗАЦИИ• 2019](http://www.iprbookshop.ru/epd-reader?publicationId=79629)
+        
         - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\+Учебная практика (ознакомительная практика) 1\_Контрольные мероприятия\cat._Контрольные мероприятия\dir._Контрольные мероприятия.md">_Контрольные мероприятия</a>
             - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\+Учебная практика (ознакомительная практика) 1\_Контрольные мероприятия\Задание_1\cat.Задание_1\dir.Задание_1.md">Задание_1</a>
                 - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\+Учебная практика (ознакомительная практика) 1\_Контрольные мероприятия\Задание_1\ReadMe.md">ReadMe.md</a>
@@ -293,6 +297,14 @@
             - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\+Учебная практика (ознакомительная практика) 1\_Контрольные мероприятия\Задание_4\cat.Задание_4\dir.Задание_4.md">Задание_4</a>
                 - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\+Учебная практика (ознакомительная практика) 1\_Контрольные мероприятия\Задание_4\ReadMe.md">ReadMe.md</a>
                     - *## Результаты, выводы и рекомендации
+            
+        
+    
+    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\+Учебная практика (ознакомительная практика) 2\cat.+Учебная практика (ознакомительная практика) 2\dir.+Учебная практика (ознакомительная практика) 2.md">+Учебная практика (ознакомительная практика) 2</a>
+        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\+Учебная практика (ознакомительная практика) 2\_Контрольные мероприятия\cat._Контрольные мероприятия\dir._Контрольные мероприятия.md">_Контрольные мероприятия</a>
+            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\+Учебная практика (ознакомительная практика) 2\_Контрольные мероприятия\Задание 2\cat.Задание 2\dir.Задание 2.md">Задание 2</a>
+                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\+Учебная практика (ознакомительная практика) 2\_Контрольные мероприятия\Задание 2\_ancors.md">_ancors.md</a>
+                    - *## [Создание функциональной блок-схемы](https://cyberpedia.su/9x12d47.html)
             
         
     
@@ -635,5 +647,11 @@
                     
                 
             
+        
+    
+    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__Init\cat.__Init\dir.__Init.md">__Init</a>
+        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__Init\_ancons\cat._ancons\dir._ancons.md">_ancons</a>
+            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__Init\_ancons\ancors_1.md">ancors_1.md</a>
+                - *## [Стешин, А. И. Информационные системы в организации](http://www.iprbookshop.ru/epd-reader?publicationId=79629)
         
     

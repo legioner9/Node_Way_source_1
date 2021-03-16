@@ -2278,6 +2278,10 @@
                     
                 
                 - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\+Учебная практика (ознакомительная практика) 1\cat.+Учебная практика (ознакомительная практика) 1\dir.+Учебная практика (ознакомительная практика) 1.md">+Учебная практика (ознакомительная практика) 1</a>
+                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\+Учебная практика (ознакомительная практика) 1\_ancons\cat._ancons\dir._ancons.md">_ancons</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\+Учебная практика (ознакомительная практика) 1\_ancons\ReadMe.md">ReadMe.md</a>
+                            - *## [А.И.Стешин ИНФОРМАЦИОННЫЕ СИСТЕМЫВ ОРГАНИЗАЦИИ• 2019](http://www.iprbookshop.ru/epd-reader?publicationId=79629)
+                    
                     - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\+Учебная практика (ознакомительная практика) 1\_Контрольные мероприятия\cat._Контрольные мероприятия\dir._Контрольные мероприятия.md">_Контрольные мероприятия</a>
                         - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\+Учебная практика (ознакомительная практика) 1\_Контрольные мероприятия\Задание_1\cat.Задание_1\dir.Задание_1.md">Задание_1</a>
                             - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\+Учебная практика (ознакомительная практика) 1\_Контрольные мероприятия\Задание_1\ReadMe.md">ReadMe.md</a>
@@ -2294,6 +2298,14 @@
                         - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\+Учебная практика (ознакомительная практика) 1\_Контрольные мероприятия\Задание_4\cat.Задание_4\dir.Задание_4.md">Задание_4</a>
                             - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\+Учебная практика (ознакомительная практика) 1\_Контрольные мероприятия\Задание_4\ReadMe.md">ReadMe.md</a>
                                 - *## Результаты, выводы и рекомендации
+                        
+                    
+                
+                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\+Учебная практика (ознакомительная практика) 2\cat.+Учебная практика (ознакомительная практика) 2\dir.+Учебная практика (ознакомительная практика) 2.md">+Учебная практика (ознакомительная практика) 2</a>
+                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\+Учебная практика (ознакомительная практика) 2\_Контрольные мероприятия\cat._Контрольные мероприятия\dir._Контрольные мероприятия.md">_Контрольные мероприятия</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\+Учебная практика (ознакомительная практика) 2\_Контрольные мероприятия\Задание 2\cat.Задание 2\dir.Задание 2.md">Задание 2</a>
+                            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\+Учебная практика (ознакомительная практика) 2\_Контрольные мероприятия\Задание 2\_ancors.md">_ancors.md</a>
+                                - *## [Создание функциональной блок-схемы](https://cyberpedia.su/9x12d47.html)
                         
                     
                 
@@ -2638,6 +2650,12 @@
                         
                     
                 
+                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__Init\cat.__Init\dir.__Init.md">__Init</a>
+                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__Init\_ancons\cat._ancons\dir._ancons.md">_ancons</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\__Init\_ancons\ancors_1.md">ancors_1.md</a>
+                            - *## [Стешин, А. И. Информационные системы в организации](http://www.iprbookshop.ru/epd-reader?publicationId=79629)
+                    
+                
             
         
         - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_WebJS\cat._WebJS\dir._WebJS.md">_WebJS</a>
@@ -2754,6 +2772,10 @@
             
         
         - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\__\cat.__\dir.__.md">__</a>
+            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\__\AllFusion_Process_Modeler_r7_settings\cat.AllFusion_Process_Modeler_r7_settings\dir.AllFusion_Process_Modeler_r7_settings.md">AllFusion_Process_Modeler_r7_settings</a>
+                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\__\AllFusion_Process_Modeler_r7_settings\fiches.md">fiches.md</a>
+                    - *## Ru 
+            
             - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\__\Emmet\cat.Emmet\dir.Emmet.md">Emmet</a>
                 - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\__\Emmet\webdesign-master.ru.md">webdesign-master.ru.md</a>
                     - *# [webdesign-master.ru](https://webdesign-master.ru/blog/html-css/2.html)
@@ -2857,8 +2879,8 @@
                 - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\__\Pug\ReadMe.md">ReadMe.md</a>
                     - *# [Препроцессор Pug(Jade)](https://gist.github.com/neretin-trike/53aff5afb76153f050c958b82abd9228)
             
-            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\__\Vs settings\cat.Vs settings\dir.Vs settings.md">Vs settings</a>
-                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\__\Vs settings\_ancors.md">_ancors.md</a>
+            - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\__\Vs_settings\cat.Vs_settings\dir.Vs_settings.md">Vs_settings</a>
+                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\__\Vs_settings\_ancors.md">_ancors.md</a>
                     - *## [Как создать резервную копию настроек VS Code и списка установленных расширений?](https://kompsekret.ru/q/how-do-i-back-up-my-vs-code-settings-and-list-of-installed-extensions-2126/)
                     - *## [Visual Studio Code: мощное руководство пользователя](https://dev-gang.ru/article/visual-studio-code-moscznoe-rukovodstvo-polzovatelja-dwedy9wjzg/)
                     - *## [Visual Studio Code. Настройка и применение. Часть 1 ](https://medium.com/@p1t1ch/visual-studio-code-%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0-%D0%B8-%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5-%D1%87%D0%B0%D1%81%D1%82%D1%8C-1-7f1a26806522)

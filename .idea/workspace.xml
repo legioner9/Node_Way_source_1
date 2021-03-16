@@ -32,8 +32,14 @@
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/+Учебная практика (ознакомительная практика) 2/_mail/from/договора_на_практику/~$говор о практической подготовке 2021 Карабельская.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/+Учебная практика (ознакомительная практика) 2/_mail/from/договора_на_практику/~$явление 2021.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dsl/Visual Paradigm/.min_proj.vpp.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/cat.Jobs/dir.Jobs.md" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/cat.Jobs/dir.Jobs.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/+Учебная практика (ознакомительная практика) 1/cat.+Учебная практика (ознакомительная практика) 1/dir.+Учебная практика (ознакомительная практика) 1.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/+Учебная практика (ознакомительная практика) 1/cat.+Учебная практика (ознакомительная практика) 1/dir.+Учебная практика (ознакомительная практика) 1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/cat.I_kurs/dir.I_kurs.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/cat.I_kurs/dir.I_kurs.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/cat._TGUniversitet/dir._TGUniversitet.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/cat._TGUniversitet/dir._TGUniversitet.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__/cat.__/dir.__.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/__/cat.__/dir.__.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/cat._Index/dir._Index.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/cat._Index/dir._Index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/cat._Md/dir._Md.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/cat._Md/dir._Md.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -503,7 +509,7 @@
       <workItem from="1614527333584" duration="9837000" />
       <workItem from="1614952420272" duration="8275000" />
       <workItem from="1615089969127" duration="30677000" />
-      <workItem from="1615794681793" duration="2203000" />
+      <workItem from="1615794681793" duration="3410000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>

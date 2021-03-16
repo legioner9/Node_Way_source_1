@@ -1,4 +1,8 @@
 - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\__\cat.__\dir.__.md">__</a>
+    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\__\AllFusion_Process_Modeler_r7_settings\cat.AllFusion_Process_Modeler_r7_settings\dir.AllFusion_Process_Modeler_r7_settings.md">AllFusion_Process_Modeler_r7_settings</a>
+        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\__\AllFusion_Process_Modeler_r7_settings\fiches.md">fiches.md</a>
+            - *## Ru 
+    
     - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\__\Emmet\cat.Emmet\dir.Emmet.md">Emmet</a>
         - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\__\Emmet\webdesign-master.ru.md">webdesign-master.ru.md</a>
             - *# [webdesign-master.ru](https://webdesign-master.ru/blog/html-css/2.html)
@@ -102,8 +106,8 @@
         - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\__\Pug\ReadMe.md">ReadMe.md</a>
             - *# [Препроцессор Pug(Jade)](https://gist.github.com/neretin-trike/53aff5afb76153f050c958b82abd9228)
     
-    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\__\Vs settings\cat.Vs settings\dir.Vs settings.md">Vs settings</a>
-        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\__\Vs settings\_ancors.md">_ancors.md</a>
+    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\__\Vs_settings\cat.Vs_settings\dir.Vs_settings.md">Vs_settings</a>
+        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\__\Vs_settings\_ancors.md">_ancors.md</a>
             - *## [Как создать резервную копию настроек VS Code и списка установленных расширений?](https://kompsekret.ru/q/how-do-i-back-up-my-vs-code-settings-and-list-of-installed-extensions-2126/)
             - *## [Visual Studio Code: мощное руководство пользователя](https://dev-gang.ru/article/visual-studio-code-moscznoe-rukovodstvo-polzovatelja-dwedy9wjzg/)
             - *## [Visual Studio Code. Настройка и применение. Часть 1 ](https://medium.com/@p1t1ch/visual-studio-code-%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0-%D0%B8-%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5-%D1%87%D0%B0%D1%81%D1%82%D1%8C-1-7f1a26806522)
