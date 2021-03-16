@@ -33,13 +33,14 @@
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Dsl/Visual Paradigm/.min_proj.vpp.lck" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/cat.Jobs/dir.Jobs.md" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/cat.Jobs/dir.Jobs.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/+Учебная практика (ознакомительная практика) 1/cat.+Учебная практика (ознакомительная практика) 1/dir.+Учебная практика (ознакомительная практика) 1.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/+Учебная практика (ознакомительная практика) 1/cat.+Учебная практика (ознакомительная практика) 1/dir.+Учебная практика (ознакомительная практика) 1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/cat.I_kurs/dir.I_kurs.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/cat.I_kurs/dir.I_kurs.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/cat._TGUniversitet/dir._TGUniversitet.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/cat._TGUniversitet/dir._TGUniversitet.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__/cat.__/dir.__.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/__/cat.__/dir.__.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/cat._Index/dir._Index.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/cat._Index/dir._Index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/cat._Md/dir._Md.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/cat._Md/dir._Md.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/my_bpmn/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/my_bpmn/proj_1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/my_bpmn/proj_1/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/my_bpmn/proj_1/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/my_bpmn/proj_1/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/my_bpmn/proj_1/pars.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/my_bpmn/proj_1/xml/1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/my_bpmn/proj_1/xml/min_proj.bpmn.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,7 +143,7 @@
     <property name="add_unversioned_files" value="$PROJECT_DIR$/Jobs/SetGlobLoggers/ModLogger_1/Core/Logs/eLogs.txt&#10;true" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="14.15.3" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Jobs/TshExamp_to_myModules" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Jobs/Bpmn/proj_1" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.jscs" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -163,24 +164,24 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="settings.editor.splitter.proportion" value="0.23273855" />
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains_\IntelliJ IDEA 2020.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\Node_projects\Node_Way\Jobs\TshExamp_to_myModules" />
-      <recent name="F:\Node_projects\Node_Way\Production" />
-      <recent name="F:\Node_projects\Node_Way\node_modules_\_aop\archetypes\function\arht" />
-      <recent name="F:\Node_projects\Node_Way\node_modules_\_aop\archetypes\func\proto_1\Test" />
-      <recent name="F:\Node_projects\Node_Way\node_modules_\_aop\archetypes\func\proto_1" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\Node_projects\Node_Way\Production\_arhive" />
       <recent name="F:\Node_projects\Node_Way\Education\Gulp\Gulp_2\gulp\init" />
       <recent name="F:\Node_projects\Node_Way\Store\Global_configs\BachRc" />
       <recent name="F:\Node_projects\Node_Way\ToUse\cloneFileToDir\Dir_in_num_2_3_level" />
       <recent name="F:\Node_projects\Node_Way\ToUse\cloneFileToDir" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Node_projects\Node_Way\Jobs\Bpmn\proj_1" />
+      <recent name="F:\Node_projects\Node_Way\Jobs\TshExamp_to_myModules" />
+      <recent name="F:\Node_projects\Node_Way\Production" />
+      <recent name="F:\Node_projects\Node_Way\node_modules_\_aop\archetypes\function\arht" />
+      <recent name="F:\Node_projects\Node_Way\node_modules_\_aop\archetypes\func\proto_1\Test" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.index.js">
@@ -509,7 +510,7 @@
       <workItem from="1614527333584" duration="9837000" />
       <workItem from="1614952420272" duration="8275000" />
       <workItem from="1615089969127" duration="30677000" />
-      <workItem from="1615794681793" duration="3410000" />
+      <workItem from="1615794681793" duration="7458000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
@@ -861,90 +862,62 @@
     <option name="version" value="2" />
     <option name="exactExcludedFiles">
       <list>
-        <option value="$PROJECT_DIR$/node_modules/st_doc1/Init/Codepillir_icons-master/examples/files/sourceReducer.js" />
-        <option value="$PROJECT_DIR$/node_modules/st_doc1/Init/Codepillir_icons-master/examples/files/source.test.js" />
-        <option value="$PROJECT_DIR$/node_modules/st_doc1/Init/Codepillir_icons-master/examples/files/source.routing.js" />
-        <option value="$PROJECT_DIR$/node_modules/st_doc1/Init/Codepillir_icons-master/examples/files/source.js.map" />
-        <option value="$PROJECT_DIR$/node_modules/st_doc1/Init/Codepillir_icons-master/examples/files/source.actions.js" />
-        <option value="$PROJECT_DIR$/node_modules/st_doc1/Init/Codepillir_icons-master/examples/files/sourceAction.js" />
-        <option value="$PROJECT_DIR$/node_modules/st_doc1/Init/Codepillir_icons-master/examples/files/source.spec.js" />
-        <option value="$PROJECT_DIR$/node_modules/st_doc1/Init/Codepillir_icons-master/examples/files/source.directive.js" />
-        <option value="$PROJECT_DIR$/node_modules/st_doc1/Init/Codepillir_icons-master/examples/files/source.story.js" />
-        <option value="$PROJECT_DIR$/node_modules/st_doc1/Init/Codepillir_icons-master/examples/files/source.component.js" />
-        <option value="$PROJECT_DIR$/node_modules/st_doc1/Init/Codepillir_icons-master/examples/files/webpack.config.js" />
-        <option value="$PROJECT_DIR$/node_modules/st_doc1/Init/Codepillir_icons-master/examples/files/app.js" />
-        <option value="$PROJECT_DIR$/node_modules/st_doc1/Init/Codepillir_icons-master/examples/files/source.resolver.js" />
-        <option value="$PROJECT_DIR$/node_modules/st_doc1/Init/Codepillir_icons-master/examples/files/source.guard.js" />
-        <option value="$PROJECT_DIR$/node_modules/st_doc1/Init/Codepillir_icons-master/examples/files/source.spec.jsx" />
-        <option value="$PROJECT_DIR$/node_modules/st_doc1/Init/Codepillir_icons-master/examples/files/source.jsx" />
-        <option value="$PROJECT_DIR$/node_modules/st_doc1/Init/Codepillir_icons-master/examples/files/source.store.js" />
-        <option value="$PROJECT_DIR$/node_modules/st_doc1/Init/Codepillir_icons-master/examples/files/server.js" />
-        <option value="$PROJECT_DIR$/node_modules/st_doc1/Init/Codepillir_icons-master/examples/files/source.service.js" />
-        <option value="$PROJECT_DIR$/node_modules/st_doc1/Init/Codepillir_icons-master/examples/files/source.js" />
-        <option value="$PROJECT_DIR$/node_modules/st_doc1/Init/Codepillir_icons-master/examples/files/stencil.config.js" />
-        <option value="$PROJECT_DIR$/node_modules/st_doc1/Init/Codepillir_icons-master/examples/files/source.test.jsx" />
-        <option value="$PROJECT_DIR$/node_modules/st_doc1/Init/Codepillir_icons-master/examples/files/source.pipe.js" />
-        <option value="$PROJECT_DIR$/node_modules/st_doc1/Init/Codepillir_icons-master/examples/files/sourceActions.js" />
-        <option value="$PROJECT_DIR$/node_modules/st_doc1/Init/Codepillir_icons-master/examples/files/sourceStore.js" />
-        <option value="$PROJECT_DIR$/node_modules/st_doc1/Init/Codepillir_icons-master/examples/files/source.reducer.js" />
-        <option value="$PROJECT_DIR$/node_modules/st_doc1/Init/Codepillir_icons-master/examples/files/source.d.ts" />
-        <option value="$PROJECT_DIR$/node_modules/st_doc1/Init/Codepillir_icons-master/examples/files/source.story.jsx" />
-        <option value="$PROJECT_DIR$/Store/myNpm/st_doc1/Init/Codepillir_icons-master/examples/files/app.js" />
-        <option value="$PROJECT_DIR$/Store/myNpm/st_doc1/Init/Codepillir_icons-master/examples/files/server.js" />
-        <option value="$PROJECT_DIR$/Store/myNpm/st_doc1/Init/Codepillir_icons-master/examples/files/source.js" />
-        <option value="$PROJECT_DIR$/Store/myNpm/st_doc1/Init/Codepillir_icons-master/examples/files/source.jsx" />
-        <option value="$PROJECT_DIR$/Store/myNpm/st_doc1/Init/Codepillir_icons-master/examples/files/source.d.ts" />
-        <option value="$PROJECT_DIR$/Store/myNpm/st_doc1/Init/Codepillir_icons-master/examples/files/source.js.map" />
-        <option value="$PROJECT_DIR$/Store/myNpm/st_doc1/Init/Codepillir_icons-master/examples/files/source.pipe.js" />
-        <option value="$PROJECT_DIR$/Store/myNpm/st_doc1/Init/Codepillir_icons-master/examples/files/source.spec.js" />
-        <option value="$PROJECT_DIR$/Store/myNpm/st_doc1/Init/Codepillir_icons-master/examples/files/source.test.js" />
-        <option value="$PROJECT_DIR$/Store/myNpm/st_doc1/Init/Codepillir_icons-master/examples/files/sourceStore.js" />
+        <option value="$PROJECT_DIR$/Store/myNpm/st_doc1/Init/Codepillir_icons-master/examples/files/sourceReducer.js" />
+        <option value="$PROJECT_DIR$/node_modules_/st_doc1/Init/Codepillir_icons-master/examples/files/webpack.config.js" />
         <option value="$PROJECT_DIR$/Store/myNpm/st_doc1/Init/Codepillir_icons-master/examples/files/source.guard.js" />
-        <option value="$PROJECT_DIR$/Store/myNpm/st_doc1/Init/Codepillir_icons-master/examples/files/source.spec.jsx" />
+        <option value="$PROJECT_DIR$/Store/myNpm/st_doc1/Init/Codepillir_icons-master/examples/files/source.reducer.js" />
+        <option value="$PROJECT_DIR$/Store/myNpm/st_doc1/Init/Codepillir_icons-master/examples/files/sourceActions.js" />
+        <option value="$PROJECT_DIR$/Store/myNpm/st_doc1/Init/Codepillir_icons-master/examples/files/stencil.config.js" />
+        <option value="$PROJECT_DIR$/Store/myNpm/st_doc1/Init/Codepillir_icons-master/examples/files/sourceStore.js" />
+        <option value="$PROJECT_DIR$/node_modules_/st_doc1/Init/Codepillir_icons-master/examples/files/source.resolver.js" />
+        <option value="$PROJECT_DIR$/Store/myNpm/st_doc1/Init/Codepillir_icons-master/examples/files/source.service.js" />
         <option value="$PROJECT_DIR$/Store/myNpm/st_doc1/Init/Codepillir_icons-master/examples/files/source.store.js" />
         <option value="$PROJECT_DIR$/Store/myNpm/st_doc1/Init/Codepillir_icons-master/examples/files/source.story.js" />
-        <option value="$PROJECT_DIR$/Store/myNpm/st_doc1/Init/Codepillir_icons-master/examples/files/source.test.jsx" />
-        <option value="$PROJECT_DIR$/Store/myNpm/st_doc1/Init/Codepillir_icons-master/examples/files/sourceAction.js" />
-        <option value="$PROJECT_DIR$/Store/myNpm/st_doc1/Init/Codepillir_icons-master/examples/files/source.story.jsx" />
-        <option value="$PROJECT_DIR$/Store/myNpm/st_doc1/Init/Codepillir_icons-master/examples/files/sourceActions.js" />
-        <option value="$PROJECT_DIR$/Store/myNpm/st_doc1/Init/Codepillir_icons-master/examples/files/sourceReducer.js" />
-        <option value="$PROJECT_DIR$/Store/myNpm/st_doc1/Init/Codepillir_icons-master/examples/files/source.actions.js" />
-        <option value="$PROJECT_DIR$/Store/myNpm/st_doc1/Init/Codepillir_icons-master/examples/files/source.reducer.js" />
-        <option value="$PROJECT_DIR$/Store/myNpm/st_doc1/Init/Codepillir_icons-master/examples/files/source.routing.js" />
-        <option value="$PROJECT_DIR$/Store/myNpm/st_doc1/Init/Codepillir_icons-master/examples/files/source.service.js" />
-        <option value="$PROJECT_DIR$/Store/myNpm/st_doc1/Init/Codepillir_icons-master/examples/files/stencil.config.js" />
-        <option value="$PROJECT_DIR$/Store/myNpm/st_doc1/Init/Codepillir_icons-master/examples/files/webpack.config.js" />
-        <option value="$PROJECT_DIR$/Store/myNpm/st_doc1/Init/Codepillir_icons-master/examples/files/source.resolver.js" />
-        <option value="$PROJECT_DIR$/Store/myNpm/st_doc1/Init/Codepillir_icons-master/examples/files/source.component.js" />
-        <option value="$PROJECT_DIR$/Store/myNpm/st_doc1/Init/Codepillir_icons-master/examples/files/source.directive.js" />
-        <option value="$PROJECT_DIR$/node_modules_/st_doc1/Init/Codepillir_icons-master/examples/files/app.js" />
-        <option value="$PROJECT_DIR$/node_modules_/st_doc1/Init/Codepillir_icons-master/examples/files/server.js" />
-        <option value="$PROJECT_DIR$/node_modules_/st_doc1/Init/Codepillir_icons-master/examples/files/source.js" />
-        <option value="$PROJECT_DIR$/node_modules_/st_doc1/Init/Codepillir_icons-master/examples/files/source.jsx" />
-        <option value="$PROJECT_DIR$/node_modules_/st_doc1/Init/Codepillir_icons-master/examples/files/source.d.ts" />
-        <option value="$PROJECT_DIR$/node_modules_/st_doc1/Init/Codepillir_icons-master/examples/files/source.js.map" />
+        <option value="$PROJECT_DIR$/Store/myNpm/st_doc1/Init/Codepillir_icons-master/examples/files/source.jsx" />
+        <option value="$PROJECT_DIR$/node_modules_/st_doc1/Init/Codepillir_icons-master/examples/files/source.component.js" />
+        <option value="$PROJECT_DIR$/node_modules_/st_doc1/Init/Codepillir_icons-master/examples/files/source.directive.js" />
         <option value="$PROJECT_DIR$/node_modules_/st_doc1/Init/Codepillir_icons-master/examples/files/source.pipe.js" />
+        <option value="$PROJECT_DIR$/node_modules_/st_doc1/Init/Codepillir_icons-master/examples/files/source.js" />
         <option value="$PROJECT_DIR$/node_modules_/st_doc1/Init/Codepillir_icons-master/examples/files/source.spec.js" />
         <option value="$PROJECT_DIR$/node_modules_/st_doc1/Init/Codepillir_icons-master/examples/files/source.test.js" />
+        <option value="$PROJECT_DIR$/node_modules_/st_doc1/Init/Codepillir_icons-master/examples/files/source.jsx" />
         <option value="$PROJECT_DIR$/node_modules_/st_doc1/Init/Codepillir_icons-master/examples/files/sourceStore.js" />
+        <option value="$PROJECT_DIR$/node_modules_/st_doc1/Init/Codepillir_icons-master/examples/files/app.js" />
+        <option value="$PROJECT_DIR$/node_modules_/st_doc1/Init/Codepillir_icons-master/examples/files/source.d.ts" />
         <option value="$PROJECT_DIR$/node_modules_/st_doc1/Init/Codepillir_icons-master/examples/files/source.guard.js" />
         <option value="$PROJECT_DIR$/node_modules_/st_doc1/Init/Codepillir_icons-master/examples/files/source.spec.jsx" />
         <option value="$PROJECT_DIR$/node_modules_/st_doc1/Init/Codepillir_icons-master/examples/files/source.store.js" />
         <option value="$PROJECT_DIR$/node_modules_/st_doc1/Init/Codepillir_icons-master/examples/files/source.story.js" />
         <option value="$PROJECT_DIR$/node_modules_/st_doc1/Init/Codepillir_icons-master/examples/files/source.test.jsx" />
         <option value="$PROJECT_DIR$/node_modules_/st_doc1/Init/Codepillir_icons-master/examples/files/sourceAction.js" />
+        <option value="$PROJECT_DIR$/Store/myNpm/st_doc1/Init/Codepillir_icons-master/examples/files/source.test.js" />
+        <option value="$PROJECT_DIR$/Store/myNpm/st_doc1/Init/Codepillir_icons-master/examples/files/source.d.ts" />
         <option value="$PROJECT_DIR$/node_modules_/st_doc1/Init/Codepillir_icons-master/examples/files/source.story.jsx" />
+        <option value="$PROJECT_DIR$/Store/myNpm/st_doc1/Init/Codepillir_icons-master/examples/files/webpack.config.js" />
+        <option value="$PROJECT_DIR$/Store/myNpm/st_doc1/Init/Codepillir_icons-master/examples/files/source.actions.js" />
         <option value="$PROJECT_DIR$/node_modules_/st_doc1/Init/Codepillir_icons-master/examples/files/sourceActions.js" />
         <option value="$PROJECT_DIR$/node_modules_/st_doc1/Init/Codepillir_icons-master/examples/files/sourceReducer.js" />
+        <option value="$PROJECT_DIR$/Store/myNpm/st_doc1/Init/Codepillir_icons-master/examples/files/source.component.js" />
+        <option value="$PROJECT_DIR$/Store/myNpm/st_doc1/Init/Codepillir_icons-master/examples/files/source.resolver.js" />
+        <option value="$PROJECT_DIR$/Store/myNpm/st_doc1/Init/Codepillir_icons-master/examples/files/source.spec.js" />
+        <option value="$PROJECT_DIR$/Store/myNpm/st_doc1/Init/Codepillir_icons-master/examples/files/source.js.map" />
+        <option value="$PROJECT_DIR$/Store/myNpm/st_doc1/Init/Codepillir_icons-master/examples/files/server.js" />
         <option value="$PROJECT_DIR$/node_modules_/st_doc1/Init/Codepillir_icons-master/examples/files/source.actions.js" />
+        <option value="$PROJECT_DIR$/Store/myNpm/st_doc1/Init/Codepillir_icons-master/examples/files/app.js" />
+        <option value="$PROJECT_DIR$/node_modules_/st_doc1/Init/Codepillir_icons-master/examples/files/source.js.map" />
+        <option value="$PROJECT_DIR$/Store/myNpm/st_doc1/Init/Codepillir_icons-master/examples/files/source.js" />
+        <option value="$PROJECT_DIR$/Store/myNpm/st_doc1/Init/Codepillir_icons-master/examples/files/source.test.jsx" />
         <option value="$PROJECT_DIR$/node_modules_/st_doc1/Init/Codepillir_icons-master/examples/files/source.reducer.js" />
+        <option value="$PROJECT_DIR$/Store/myNpm/st_doc1/Init/Codepillir_icons-master/examples/files/source.spec.jsx" />
+        <option value="$PROJECT_DIR$/Store/myNpm/st_doc1/Init/Codepillir_icons-master/examples/files/source.routing.js" />
         <option value="$PROJECT_DIR$/node_modules_/st_doc1/Init/Codepillir_icons-master/examples/files/source.routing.js" />
         <option value="$PROJECT_DIR$/node_modules_/st_doc1/Init/Codepillir_icons-master/examples/files/source.service.js" />
+        <option value="$PROJECT_DIR$/Store/myNpm/st_doc1/Init/Codepillir_icons-master/examples/files/source.pipe.js" />
+        <option value="$PROJECT_DIR$/Store/myNpm/st_doc1/Init/Codepillir_icons-master/examples/files/source.directive.js" />
+        <option value="$PROJECT_DIR$/node_modules_/st_doc1/Init/Codepillir_icons-master/examples/files/server.js" />
         <option value="$PROJECT_DIR$/node_modules_/st_doc1/Init/Codepillir_icons-master/examples/files/stencil.config.js" />
-        <option value="$PROJECT_DIR$/node_modules_/st_doc1/Init/Codepillir_icons-master/examples/files/webpack.config.js" />
-        <option value="$PROJECT_DIR$/node_modules_/st_doc1/Init/Codepillir_icons-master/examples/files/source.resolver.js" />
-        <option value="$PROJECT_DIR$/node_modules_/st_doc1/Init/Codepillir_icons-master/examples/files/source.component.js" />
-        <option value="$PROJECT_DIR$/node_modules_/st_doc1/Init/Codepillir_icons-master/examples/files/source.directive.js" />
+        <option value="$PROJECT_DIR$/Store/myNpm/st_doc1/Init/Codepillir_icons-master/examples/files/source.story.jsx" />
+        <option value="$PROJECT_DIR$/Store/myNpm/st_doc1/Init/Codepillir_icons-master/examples/files/sourceAction.js" />
       </list>
     </option>
   </component>
@@ -1173,12 +1146,11 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="471" y="102" key="RollbackChangesDialog/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1615216355042" />
-    <state x="1502" y="153" width="1141" height="710" key="SettingsEditor" timestamp="1615010319388">
+    <state x="1502" y="153" width="1141" height="710" key="SettingsEditor" timestamp="1615908951707">
       <screen x="1440" y="0" width="1280" height="984" />
     </state>
     <state x="156" y="93" key="SettingsEditor/0.0.1440.860/1440.0.1024.728@0.0.1440.860" timestamp="1609602410130" />
-    <state x="1579" y="111" width="1141" height="913" key="SettingsEditor/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1606893966128" />
-    <state x="1502" y="153" width="1141" height="710" key="SettingsEditor/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1615010319388" />
+    <state x="1502" y="153" width="1141" height="710" key="SettingsEditor/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1615908951707" />
     <state x="499" y="317" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1612797732385">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
