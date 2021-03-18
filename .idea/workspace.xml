@@ -32,15 +32,10 @@
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dsl/Visual Paradigm/.min_proj.vpp.lck" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/my_bpmn/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/my_bpmn/proj_1/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/my_bpmn/proj_1/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/my_bpmn/proj_1/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/my_bpmn/proj_1/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/my_bpmn/proj_1/pars.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/my_bpmn/proj_1/xml/1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/my_bpmn/proj_1/xml/min_proj.bpmn.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/Bpmn/proj_1/lib/pars.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/Bpmn/proj_1/lib/pars.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/Bpmn/proj_1/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/Bpmn/proj_1/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/Bpmn/proj_1/pars.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Store/Bpmn_js_apps/set_ancors.md" beforeDir="false" afterPath="$PROJECT_DIR$/Store/Bpmn_js_apps/set_ancors.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -510,7 +505,8 @@
       <workItem from="1614527333584" duration="9837000" />
       <workItem from="1614952420272" duration="8275000" />
       <workItem from="1615089969127" duration="30677000" />
-      <workItem from="1615794681793" duration="7458000" />
+      <workItem from="1615794681793" duration="8071000" />
+      <workItem from="1615945872951" duration="4405000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
