@@ -32,10 +32,8 @@
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/Bpmn/proj_1/lib/pars.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/Bpmn/proj_1/lib/pars.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Jobs/Bpmn/proj_1/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/Bpmn/proj_1/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/Bpmn/proj_1/pars.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Store/Bpmn_js_apps/set_ancors.md" beforeDir="false" afterPath="$PROJECT_DIR$/Store/Bpmn_js_apps/set_ancors.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Store/N viza 10.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Store/N viza 10.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,7 +136,7 @@
     <property name="add_unversioned_files" value="$PROJECT_DIR$/Jobs/SetGlobLoggers/ModLogger_1/Core/Logs/eLogs.txt&#10;true" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="14.15.3" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Jobs/Bpmn/proj_1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Jobs/Bpmn/area_function_v.1.0.0_dir_requier_to_object/Test" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.jscs" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -159,24 +157,24 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="settings.editor.splitter.proportion" value="0.23273855" />
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains_\IntelliJ IDEA 2020.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Node_projects\Node_Way\Jobs\Bpmn\area_function_v.1.0.0_dir_requier_to_object\Test" />
+      <recent name="F:\Node_projects\Node_Way\Production\area_function_v.1.0.0\Test" />
+      <recent name="F:\Node_projects\Node_Way\Jobs\Bpmn" />
+      <recent name="F:\Node_projects\Node_Way\Jobs\Bpmn\proj_1" />
+      <recent name="F:\Node_projects\Node_Way\Jobs\TshExamp_to_myModules" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\Node_projects\Node_Way\Production\_arhive" />
       <recent name="F:\Node_projects\Node_Way\Education\Gulp\Gulp_2\gulp\init" />
       <recent name="F:\Node_projects\Node_Way\Store\Global_configs\BachRc" />
       <recent name="F:\Node_projects\Node_Way\ToUse\cloneFileToDir\Dir_in_num_2_3_level" />
       <recent name="F:\Node_projects\Node_Way\ToUse\cloneFileToDir" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\Node_projects\Node_Way\Jobs\Bpmn\proj_1" />
-      <recent name="F:\Node_projects\Node_Way\Jobs\TshExamp_to_myModules" />
-      <recent name="F:\Node_projects\Node_Way\Production" />
-      <recent name="F:\Node_projects\Node_Way\node_modules_\_aop\archetypes\function\arht" />
-      <recent name="F:\Node_projects\Node_Way\node_modules_\_aop\archetypes\func\proto_1\Test" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.index.js">
@@ -507,6 +505,8 @@
       <workItem from="1615089969127" duration="30677000" />
       <workItem from="1615794681793" duration="8071000" />
       <workItem from="1615945872951" duration="4405000" />
+      <workItem from="1616078631329" duration="4599000" />
+      <workItem from="1616212280594" duration="581000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
@@ -1013,6 +1013,88 @@
       <path value="$PROJECT_DIR$/NBase/_Md/_Index/_Git/content/Docs/C_Program_Files_Git_mingw64_share_doc_git-doc/Point_learn/git-doc_converted/.git-add.html.dir/_src/Git_store{}@1/Git_what_trane{add}@1/blob_Git_what_trane{add -i}" />
       <path value="$PROJECT_DIR$/NBase/_Md/_Index/_Git/src/Git_what_trane@1.ign/Git_what_trane@1/Start_blob_1@1.1" />
       <path value="$PROJECT_DIR$/NBase/_Md/_Index/_Git/src/Git_what_trane@1.ign/Git_what_trane@1/blob_Git_what_trane" />
+      <path value="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/StartSet/fset.1.0.0" />
+      <path value="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/StartSet/fset.1.0.0/clone" />
+      <path value="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/StartSet/fset.1.0.0/set.2.0.0" />
+      <path value="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/StartSet/set.2.0.0" />
+      <path value="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/StartSet/set.2.0.0.long" />
+      <path value="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/ownFlow/set.2.0.0" />
+      <path value="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/segm.I/proj.2.0.0/SandBoxes/FlowCherry_pick/set.2.0.0.long" />
+      <path value="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/segm.I/proj.2.0.0/SandBoxes/FlowCherry_pick/set.2.0.0.long.cherry_pick_from_brn" />
+      <path value="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/segm.I/proj.2.0.0/SandBoxes/FlowCherry_pick/set.2.0.0.long.cherry_pick_from_master" />
+      <path value="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/segm.I/proj.2.0.0/SandBoxes/FlowMerge/set.2.0.0" />
+      <path value="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/segm.I/proj.2.0.0/SandBoxes/FlowRebase_I/set.2.0.0" />
+      <path value="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/segm.I/proj.2.0.0/SandBoxes/FlowRebase_I/set.2.0.0.long" />
+      <path value="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/segm.I/proj.2.0.0/SandBoxes/FlowRebase_I/set.2.0.0.long.reb_i_head~5" />
+      <path value="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/segm.I/proj.2.0.0/SandBoxes/FlowRebase_I/set.2.0.0.long.reb_i_head~5.break.wtf" />
+      <path value="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/segm.I/proj.2.0.0/SandBoxes/FlowRebase_I/set.2.0.0.long.reb_i_head~5.drop" />
+      <path value="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/segm.I/proj.2.0.0/SandBoxes/FlowRebase_I/set.2.0.0.long.reb_i_head~5.edit" />
+      <path value="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/segm.I/proj.2.0.0/SandBoxes/FlowRebase_I/set.2.0.0.long.reb_i_head~5.exec" />
+      <path value="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/segm.I/proj.2.0.0/SandBoxes/FlowRebase_I/set.2.0.0.long.reb_i_head~5.fixup" />
+      <path value="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/segm.I/proj.2.0.0/SandBoxes/FlowRebase_I/set.2.0.0.long.reb_i_head~5.label.wtf" />
+      <path value="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/segm.I/proj.2.0.0/SandBoxes/FlowRebase_I/set.2.0.0.long.reb_i_head~5.merge.wtf" />
+      <path value="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/segm.I/proj.2.0.0/SandBoxes/FlowRebase_I/set.2.0.0.long.reb_i_head~5.reset" />
+      <path value="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/segm.I/proj.2.0.0/SandBoxes/FlowRebase_I/set.2.0.0.long.reb_i_head~5.reword" />
+      <path value="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/segm.I/proj.2.0.0/SandBoxes/FlowRebase_I/set.2.0.0.long.reb_i_head~5.squash" />
+      <path value="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/segm.I/proj.2.0.0/SandBoxes/FlowRebase_brn/set.2.0.0" />
+      <path value="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/segm.I/proj.2.0.0/SandBoxes/FlowRebase_brn/set.2.0.0.rebase.1.0.0" />
+      <path value="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/segm.I/proj.2.0.0/SandBoxes/FlowRebase_brn/set.2.0.0.rebase.1.0.0.fix.add" />
+      <path value="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/segm.I/proj.2.0.0/SandBoxes/FlowRebase_brn/set.2.0.0.rebase.1.0.0.fix.add__continue" />
+      <path value="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/segm.I/proj.2.0.0/SandBoxes/FlowRebase_brn/set.2.0.0.rebase.1.0.0.fix.add__continue.f.a.cont" />
+      <path value="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/segm.I/proj.2.0.0/SandBoxes/FlowRebase_brn/set.2.0.0.rebase.1.0.0.summary_to_brn" />
+      <path value="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/segm.I/proj.2.0.0/SandBoxes/FlowRebase_brn/set.2.0.0.rebase.1.0.0__abort" />
+      <path value="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/segm.I/proj.2.0.0/SandBoxes/FlowRebase_brn/set.2.0.0.rebase.1.0.0__continue" />
+      <path value="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/segm.I/proj.2.0.0/SandBoxes/FlowRebase_brn/set.2.0.0.rebase.1.0.0__skip" />
+      <path value="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/segm.I/proj.2.0.0/SandBoxes/FlowRebase_master/set.2.0.0.long.gh_master" />
+      <path value="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/segm.I/proj.2.0.0/SandBoxes/FlowRebase_master/set.2.0.0.long.gh_master.grb_brn_fix_contonue" />
+      <path value="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/segm.I/proj.2.0.0/SandBoxes/FlowReflog/set.2.0.0" />
+      <path value="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/segm.I/proj.2.0.0/SandBoxes/SpawningNewBranch/create.1.0.0_to_2.0.0/set.1.0.0._to.2.0.0.v.1" />
+      <path value="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/segm.I/proj.2.0.0/SandBoxes/SpawningNewBranch/create.1.0.0_to_2.0.0/set.1.0.0._to.2.0.0.v.2" />
+      <path value="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/segm.I/proj.2.0.0/SandBoxes/SpawningNewBranch/create.1.0.0_to_2.0.0/set.1.0.0._to.2.0.0.v.3" />
+      <path value="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/segm.I/proj.2.0.0/SandBoxes/SpawningNewBranch/create.1.0.0_to_2.0.0/set.1.0.0._to.2.0.0.v.4" />
+      <path value="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/segm.I/proj.2.0.0/SandBoxes/SpawningNewBranch/create.1.0.0_to_2.0.0/set.1.0.0._to.2.0.0.v.5" />
+      <path value="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/segm.I/proj.2.0.0/SandBoxes/SpawningNewBranch/create.1.0.0_to_2.0.0/set.1.0.0._to.2.0.0.v.6" />
+      <path value="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/segm.I/proj.2.0.0/SandBoxes/SpawningNewBranch/create.1.0.0_to_2.0.0/set.1.0.0._to.2.0.0.v.7" />
+      <path value="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/segm.I/proj.2.0.0/SandBoxes/SpawningNewBranch/create.1.0.0_to_2.0.0/set.2.0.0" />
+      <path value="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/segm.I/proj.2.0.0/SandBoxes/TMP/examp" />
+      <path value="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/segm.I/proj.2.0.0/SandBoxes/TMP/set.2.0.0" />
+      <path value="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/segm.I/proj.2.0.0/SandBoxes/TMP/set.2.0.0 — копия" />
+      <path value="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/segm.I/proj.2.0.0/SandBoxes/TMP/set.2.0.0 — копия (2)" />
+      <path value="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/segm.I/proj.2.0.0/SandBoxes/TMP/set.2.0.0 — копия (3)" />
+      <path value="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/segm.I/proj.2.0.0/set.1.0.0" />
+      <path value="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/segm.I/proj.2.0.0/set.1.0.0.stash_u" />
+      <path value="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/segm.I/proj.2.0.0/set.1.0.0.tag" />
+      <path value="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/segm.I/proj.2.0.0/set.1.0.0.tag_a_hash" />
+      <path value="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/segm.I/proj.2.0.0/set.2.0.0" />
+      <path value="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/segm.I/proj.2.0.0/set.2.0.0.long" />
+      <path value="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/segm.I/proj.2.0.0/set.2.0.0.merge" />
+      <path value="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/segm.I/proj.2.0.0/set.2.0.0.rebase.1.0.0" />
+      <path value="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/segm.I/proj.3.0.0/create2UsingFlow/set.3.0.0.to_set.4.0.0/set.3.0.0" />
+      <path value="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/segm.I/proj.3.0.0/create2UsingFlow/set.3.0.0.to_set.4.0.0/set.3.0.0/clone" />
+      <path value="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/segm.I/proj.3.0.0/create2UsingFlow/set.3.0.0.to_set.4.0.0/set.3.0.0/set.2.0.0" />
+      <path value="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/segm.I/proj.3.0.0/fset.1.0.0" />
+      <path value="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/segm.I/proj.3.0.0/fset.1.0.0/clone" />
+      <path value="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/segm.I/proj.3.0.0/fset.1.0.0/set.2.0.0" />
+      <path value="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/segm.I/proj.I.1.0.0/clone" />
+      <path value="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/segm.I/proj.I.1.0.0/set.1.0.0" />
+      <path value="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/segm.I/proj.I.1.0.0/set.1.0.0.stash" />
+      <path value="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/segm.I/proj.I.1.0.0/set.1.1.0" />
+      <path value="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/segm.I/proj.I.1.0.0/set.1.1.0.stash_u" />
+      <path value="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/segm.I/proj.I.1.0.0/set.1.1.0.stash_u.revert_head" />
+      <path value="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/segm.II/II.set.1.0.0/fset.1.0.0" />
+      <path value="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/segm.II/II.set.1.0.0/fset.1.0.0/clone" />
+      <path value="$PROJECT_DIR$/NBase/_Md/_Index/_Git/Containers/Use_this/Git_helix/segm.II/II.set.1.0.0/fset.1.0.0/set.2.0.0" />
+      <path value="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Use_this/Git_helix/segm.I.v.1.0.0/proj.2.0.0/set.1.0.0" />
+      <path value="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Use_this/Git_helix/segm.I.v.1.0.0/proj.2.0.0/set.1.0.0 — копия (2)" />
+      <path value="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Use_this/Git_helix/segm.I.v.1.0.0/proj.2.0.0/set.1.0.0.stash_u" />
+      <path value="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Use_this/Git_helix/segm.I.v.1.0.0/proj.2.0.0/set.1.0.0.tag" />
+      <path value="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Use_this/Git_helix/segm.I.v.1.0.0/proj.2.0.0/set.1.0.0.tag_a_hash" />
+      <path value="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Use_this/Git_helix/segm.I.v.1.0.0/proj.I.1.0.0/clone" />
+      <path value="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Use_this/Git_helix/segm.I.v.1.0.0/proj.I.1.0.0/set.1.0.0" />
+      <path value="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Use_this/Git_helix/segm.I.v.1.0.0/proj.I.1.0.0/set.1.0.0.stash" />
+      <path value="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Use_this/Git_helix/segm.I.v.1.0.0/proj.I.1.0.0/set.1.1.0" />
+      <path value="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Use_this/Git_helix/segm.I.v.1.0.0/proj.I.1.0.0/set.1.1.0.stash_u" />
+      <path value="$PROJECT_DIR$/NBase/_Md/_Index/_Git/contaners/Use_this/Git_helix/segm.I.v.1.0.0/proj.I.1.0.0/set.1.1.0.stash_u.revert_head" />
     </ignored-roots>
     <MESSAGE value="OwnSyntax NameTag v.3" />
     <MESSAGE value="OwnSyntax NameTag v.4" />
@@ -1142,20 +1224,20 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="471" y="102" key="RollbackChangesDialog/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1615216355042" />
-    <state x="1502" y="153" width="1141" height="710" key="SettingsEditor" timestamp="1615908951707">
+    <state x="1502" y="153" width="1141" height="710" key="SettingsEditor" timestamp="1616213965373">
       <screen x="1440" y="0" width="1280" height="984" />
     </state>
     <state x="156" y="93" key="SettingsEditor/0.0.1440.860/1440.0.1024.728@0.0.1440.860" timestamp="1609602410130" />
-    <state x="1502" y="153" width="1141" height="710" key="SettingsEditor/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1615908951707" />
+    <state x="1502" y="153" width="1141" height="710" key="SettingsEditor/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1616213965373" />
     <state x="499" y="317" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1612797732385">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="499" y="317" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1612797732385" />
-    <state x="1446" y="0" width="573" height="864" key="dock-window-1" timestamp="1615168473276">
+    <state x="1522" y="6" width="949" height="833" key="dock-window-1" timestamp="1616213971374">
       <screen x="1440" y="0" width="1280" height="984" />
     </state>
     <state x="1630" y="0" width="914" height="989" key="dock-window-1/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1609499426610" />
-    <state x="1446" y="0" width="573" height="864" key="dock-window-1/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1615168473276" />
+    <state x="1522" y="6" width="949" height="833" key="dock-window-1/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1616213971374" />
     <state x="2008" y="13" width="728" height="851" key="dock-window-2" timestamp="1615168473276">
       <screen x="1440" y="0" width="1280" height="984" />
     </state>
@@ -1174,16 +1256,7 @@
     <state x="2293" y="0" width="443" height="806" key="dock-window-5" timestamp="1615177695525">
       <screen x="1440" y="0" width="1280" height="984" />
     </state>
-    <state x="1612" y="15" width="819" height="984" key="dock-window-5/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1607272657274" />
     <state x="2293" y="0" width="443" height="806" key="dock-window-5/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1615177695525" />
-    <state x="1611" y="0" width="1024" height="1024" key="dock-window-6" timestamp="1607273854363">
-      <screen x="1440" y="0" width="1280" height="1024" />
-    </state>
-    <state x="1611" y="0" width="1024" height="1024" key="dock-window-6/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1607273854363" />
-    <state x="1654" y="17" width="928" height="995" key="dock-window-7" timestamp="1607280403654">
-      <screen x="1440" y="0" width="1280" height="1024" />
-    </state>
-    <state x="1654" y="17" width="928" height="995" key="dock-window-7/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1607280403654" />
     <state x="376" y="197" key="run.anything.popup" timestamp="1610253483046">
       <screen x="0" y="0" width="1440" height="860" />
     </state>

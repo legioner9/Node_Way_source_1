@@ -1,7 +1,7 @@
 'use strict'
 
 const Fs = require('fs');
-
+console.log(Fs)
 const pars = require('./lib/pars');
 const tasks = require('./lib/tasks')
 debugger
