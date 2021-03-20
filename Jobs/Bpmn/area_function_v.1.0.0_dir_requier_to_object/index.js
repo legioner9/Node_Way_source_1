@@ -1,8 +1,9 @@
 const { _require } = require ( 'st_require' );
 const arht = _require ( '_aop' ).archetypes.function.arht;
 const Fs = require('fs');
+const Path = require('path');
 
-const Func_examp = () => {
+const Func_examp = function() {
 
     // BOUNDEN CALL define inner Env fnd Utils
     const _e = arht.env ( Func_examp );
@@ -29,10 +30,13 @@ const Func_examp = () => {
 
     const obj_exports = {};
     const arr_path = Fs.readdirSync ( __dirname );
+
+    const st_fs = _require( 'st_fs');
     arr_path.forEach ( item => {
+        debugger
         if ( item !== 'index.js' && item !== 'Box' && item !== 'Ctrl' && item !== 'README.md' && item !== 'package.json' ) {
 
-            obj_exports[item] = ( require ( my_path.join ( __dirname, item, 'index.js' ) ) );
+            obj_exports[item] = ( require ( Path.join ( __dirname, item, 'index.js' ) ) );
         }
     } );
 

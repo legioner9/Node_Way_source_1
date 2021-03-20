@@ -31,9 +31,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/Bpmn/proj_1/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/Bpmn/proj_1/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Store/N viza 10.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Store/N viza 10.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/Bpmn/area_function_v.1.0.0_dir_requier_to_object/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/Bpmn/area_function_v.1.0.0_dir_requier_to_object/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/st_fs/ConstructFs/FsCreate/isDirectory/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/st_fs/ConstructFs/FsCreate/isDirectory/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,7 +137,7 @@
     <property name="add_unversioned_files" value="$PROJECT_DIR$/Jobs/SetGlobLoggers/ModLogger_1/Core/Logs/eLogs.txt&#10;true" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="14.15.3" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Jobs/Bpmn/area_function_v.1.0.0_dir_requier_to_object/Test" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/node_modules_" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.jscs" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -162,19 +163,19 @@
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains_\IntelliJ IDEA 2020.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\Node_projects\Node_Way\Jobs\Bpmn\area_function_v.1.0.0_dir_requier_to_object\Test" />
-      <recent name="F:\Node_projects\Node_Way\Production\area_function_v.1.0.0\Test" />
-      <recent name="F:\Node_projects\Node_Way\Jobs\Bpmn" />
-      <recent name="F:\Node_projects\Node_Way\Jobs\Bpmn\proj_1" />
-      <recent name="F:\Node_projects\Node_Way\Jobs\TshExamp_to_myModules" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\Node_projects\Node_Way\Production\_arhive" />
       <recent name="F:\Node_projects\Node_Way\Education\Gulp\Gulp_2\gulp\init" />
       <recent name="F:\Node_projects\Node_Way\Store\Global_configs\BachRc" />
       <recent name="F:\Node_projects\Node_Way\ToUse\cloneFileToDir\Dir_in_num_2_3_level" />
       <recent name="F:\Node_projects\Node_Way\ToUse\cloneFileToDir" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Node_projects\Node_Way\node_modules_" />
+      <recent name="F:\Node_projects\Node_Way\node_modules" />
+      <recent name="F:\Node_projects\Node_Way\Jobs\Bpmn\area_function_v.1.0.0_dir_requier_to_object\Test" />
+      <recent name="F:\Node_projects\Node_Way\Production\area_function_v.1.0.0\Test" />
+      <recent name="F:\Node_projects\Node_Way\Jobs\Bpmn" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.index.js">
@@ -506,7 +507,7 @@
       <workItem from="1615794681793" duration="8071000" />
       <workItem from="1615945872951" duration="4405000" />
       <workItem from="1616078631329" duration="4599000" />
-      <workItem from="1616212280594" duration="581000" />
+      <workItem from="1616212280594" duration="6086000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
@@ -1138,6 +1139,10 @@
     </state>
     <state x="361" y="199" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1608987261738" />
     <state x="361" y="199" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1615042177958" />
+    <state x="514" y="254" key="#com.intellij.ide.actionMacro.EditMacrosDialog" timestamp="1616226156654">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="514" y="254" key="#com.intellij.ide.actionMacro.EditMacrosDialog/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1616226156654" />
     <state x="405" y="56" key="#main_test.js" timestamp="1614532551541">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
@@ -1224,20 +1229,20 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="471" y="102" key="RollbackChangesDialog/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1615216355042" />
-    <state x="1502" y="153" width="1141" height="710" key="SettingsEditor" timestamp="1616213965373">
+    <state x="1502" y="153" width="1141" height="710" key="SettingsEditor" timestamp="1616225947789">
       <screen x="1440" y="0" width="1280" height="984" />
     </state>
     <state x="156" y="93" key="SettingsEditor/0.0.1440.860/1440.0.1024.728@0.0.1440.860" timestamp="1609602410130" />
-    <state x="1502" y="153" width="1141" height="710" key="SettingsEditor/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1616213965373" />
+    <state x="1502" y="153" width="1141" height="710" key="SettingsEditor/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1616225947789" />
     <state x="499" y="317" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1612797732385">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="499" y="317" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1612797732385" />
-    <state x="1522" y="6" width="949" height="833" key="dock-window-1" timestamp="1616213971374">
+    <state x="1475" y="15" width="713" height="856" key="dock-window-1" timestamp="1616227247209">
       <screen x="1440" y="0" width="1280" height="984" />
     </state>
     <state x="1630" y="0" width="914" height="989" key="dock-window-1/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1609499426610" />
-    <state x="1522" y="6" width="949" height="833" key="dock-window-1/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1616213971374" />
+    <state x="1475" y="15" width="713" height="856" key="dock-window-1/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1616227247209" />
     <state x="2008" y="13" width="728" height="851" key="dock-window-2" timestamp="1615168473276">
       <screen x="1440" y="0" width="1280" height="984" />
     </state>
