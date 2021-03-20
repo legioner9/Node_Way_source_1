@@ -31,10 +31,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/Bpmn/area_function_v.1.0.0_dir_requier_to_object/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/Bpmn/area_function_v.1.0.0_dir_requier_to_object/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/Bpmn/area_function_v.1.0.0_dir_requier_to_object/Production/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/Bpmn/area_function_v.1.0.0_dir_requier_to_object/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/Bpmn/area_function_v.1.0.0_dir_requier_to_object/Test/1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/Bpmn/area_function_v.1.0.0_dir_requier_to_object/Test/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/Bpmn/area_function_v.1.0.0_dir_requier_to_object/Test/fsLog/log.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/Bpmn/area_function_v.1.0.0_dir_requier_to_object/Test/fsLog/logErr.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/Bpmn/area_function_v.1.0.0_dir_requier_to_object/Test/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/Bpmn/area_function_v.1.0.0_dir_requier_to_object/Test/main_test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/Bpmn/area_function_v.1.0.0_dir_requier_to_object/_versions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/Bpmn/area_function_v.1.0.0_dir_requier_to_object/examp.index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/Bpmn/area_function_v.1.0.0_dir_requier_to_object/index.init.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/Bpmn/area_function_v.1.0.0_dir_requier_to_object/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/Bpmn/area_function_v.1.0.0_dir_requier_to_object/index.v.1.0.0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Production/area_function_v.1.0.0/examp.index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Production/area_function_v.1.0.0/index.init.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Production/area_function_v.1.0.0/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Production/area_function_v.1.0.0/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Production/area_function_v.1.0.0/index.v.1.0.0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_aop/archetypes/function/arht/Test/main_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_aop/archetypes/function/arht/Test/main_test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_aop/archetypes/function/arht/flow_function/Test/fsLog/log.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_aop/archetypes/function/arht/flow_function/Test/fsLog/logErr.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_aop/archetypes/function/arht/flow_function/Test/main_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_aop/archetypes/function/arht/flow_function/Test/main_test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_aop/archetypes/function/arht/flow_function/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_aop/archetypes/function/arht/flow_function/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_aop/archetypes/function/arht/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_aop/archetypes/function/arht/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules_/st_fs/ConstructFs/FsCreate/isDirectory/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/st_fs/ConstructFs/FsCreate/isDirectory/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/st_ini_deep1/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/st_ini_deep1/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,7 +159,7 @@
     <property name="add_unversioned_files" value="$PROJECT_DIR$/Jobs/SetGlobLoggers/ModLogger_1/Core/Logs/eLogs.txt&#10;true" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="14.15.3" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/node_modules_" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Jobs/Bpmn" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.jscs" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -171,18 +193,15 @@
       <recent name="F:\Node_projects\Node_Way\ToUse\cloneFileToDir" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\Node_projects\Node_Way\node_modules_" />
-      <recent name="F:\Node_projects\Node_Way\node_modules" />
-      <recent name="F:\Node_projects\Node_Way\Jobs\Bpmn\area_function_v.1.0.0_dir_requier_to_object\Test" />
-      <recent name="F:\Node_projects\Node_Way\Production\area_function_v.1.0.0\Test" />
       <recent name="F:\Node_projects\Node_Way\Jobs\Bpmn" />
+      <recent name="F:\Node_projects\Node_Way\Production" />
+      <recent name="F:\Node_projects\Node_Way\node_modules_" />
+      <recent name="F:\Node_projects\Node_Way\node_modules_\st_fs_\ConstructFs\FsCreate\isDirectory" />
+      <recent name="F:\Node_projects\Node_Way\node_modules" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.index.js">
+  <component name="RunManager" selected="Node.js.main_test.js (3)">
     <configuration name="a.html" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/Node_Way/Node_Docs/Education/IlKan/learn.javascript.ru/Browser/1/1.1/a.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <configuration name="1_test_ini_module_Education.v.0.1.7.1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/1_test_ini_module_Education.v.0.1.7.1.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="6-parse_1.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="6-parse_1.js" working-dir="$PROJECT_DIR$/NBase/_Md/_Index/_HPW/Part_I/content/Courses/Fundamentals/basic_sintax/DataTypes-master/JavaScript">
@@ -191,35 +210,38 @@
     <configuration name="Object.create.js" type="NodeJSConfigurationType" nameIsGenerated="true" node-parameters="ndb" path-to-js-file="$PROJECT_DIR$/node_modules/st_doc1/js_DOCS/Function/_@_FunctionEngendering/InheritsEgeneringModel/Object.create.js" working-dir="$PROJECT_DIR$/node_modules/st_doc1/js_DOCS/Function/_@_FunctionEngendering">
       <method v="2" />
     </configuration>
-    <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/node_modules_/st___00/Set___00/__/_/index.js" working-dir="$PROJECT_DIR$/node_modules_/st___00/Set___00/__/_">
+    <configuration name="main.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Jobs/Bpmn/area_function_v.1.0.0_dir_requier_to_object/Test/main.js" working-dir="$PROJECT_DIR$/Jobs/Bpmn/area_function_v.1.0.0_dir_requier_to_object/Test">
       <method v="2" />
     </configuration>
-    <configuration name="test_ini_module.v.0.1.7.2_Gulp.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Education/test_ini_module.v.0.1.7.2_Gulp.js" working-dir="$PROJECT_DIR$/Education">
+    <configuration name="main.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Production/area_function_v.1.0.0/Test/main.js" working-dir="$PROJECT_DIR$/Production/area_function_v.1.0.0/Test">
       <method v="2" />
     </configuration>
-    <configuration name="test_ini_module.v.0.1.7.2.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7.2/Examples/cleare/test_ini_module.v.0.1.7.2.js" working-dir="$PROJECT_DIR$/Jobs/CataloguerFs/CreateCatalog/AFP5_0.1_ctlg_1_to_2.v.0.1.7.2/Examples/cleare">
+    <configuration name="main_test.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/node_modules_/_aop/archetypes/function/arht/flow_function/Test/main_test.js" working-dir="$PROJECT_DIR$/node_modules_/_aop/archetypes/function/arht/flow_function/Test">
       <method v="2" />
     </configuration>
-    <configuration name="test_ini_module.v.0.1.7.2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Education/test_ini_module.v.0.1.7.2.js" working-dir="$PROJECT_DIR$/Education">
+    <configuration name="main_test.js (2)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Production/area_function_v.1.0.0/Test/main_test.js" working-dir="$PROJECT_DIR$/Production/area_function_v.1.0.0/Test">
+      <method v="2" />
+    </configuration>
+    <configuration name="main_test.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Jobs/Bpmn/area_function_v.1.1.0_dir_requier_to_object/Test/main_test.js" working-dir="$PROJECT_DIR$/Jobs/Bpmn/area_function_v.1.1.0_dir_requier_to_object/Test">
       <method v="2" />
     </configuration>
     <list>
       <item itemvalue="JavaScript Debug.a.html" />
       <item itemvalue="Node.js.6-parse_1.js" />
       <item itemvalue="Node.js.Object.create.js" />
-      <item itemvalue="Node.js.test_ini_module.v.0.1.7.2.js" />
-      <item itemvalue="Node.js.1_test_ini_module_Education.v.0.1.7.1.js" />
-      <item itemvalue="Node.js.test_ini_module.v.0.1.7.2.js (1)" />
-      <item itemvalue="Node.js.test_ini_module.v.0.1.7.2_Gulp.js" />
-      <item itemvalue="Node.js.index.js" />
+      <item itemvalue="Node.js.main_test.js (1)" />
+      <item itemvalue="Node.js.main_test.js (2)" />
+      <item itemvalue="Node.js.main.js" />
+      <item itemvalue="Node.js.main.js (1)" />
+      <item itemvalue="Node.js.main_test.js (3)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.index.js" />
-        <item itemvalue="Node.js.test_ini_module.v.0.1.7.2_Gulp.js" />
-        <item itemvalue="Node.js.test_ini_module.v.0.1.7.2.js (1)" />
-        <item itemvalue="Node.js.1_test_ini_module_Education.v.0.1.7.1.js" />
-        <item itemvalue="Node.js.test_ini_module.v.0.1.7.2.js" />
+        <item itemvalue="Node.js.main_test.js (3)" />
+        <item itemvalue="Node.js.main.js (1)" />
+        <item itemvalue="Node.js.main.js" />
+        <item itemvalue="Node.js.main_test.js (2)" />
+        <item itemvalue="Node.js.main_test.js (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -507,7 +529,7 @@
       <workItem from="1615794681793" duration="8071000" />
       <workItem from="1615945872951" duration="4405000" />
       <workItem from="1616078631329" duration="4599000" />
-      <workItem from="1616212280594" duration="6086000" />
+      <workItem from="1616212280594" duration="14555000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
@@ -1157,26 +1179,26 @@
     </state>
     <state x="519" y="178" key="FileChooserDialogImpl/0.0.1440.860/1440.0.1024.728@0.0.1440.860" timestamp="1609601504304" />
     <state x="519" y="178" key="FileChooserDialogImpl/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1615005857486" />
-    <state width="1340" height="166" key="GridCell.Tab.0.bottom" timestamp="1612553083529">
+    <state width="1340" height="175" key="GridCell.Tab.0.bottom" timestamp="1616249291872">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1216" height="199" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1609422715716" />
-    <state width="1340" height="166" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1612553083529" />
-    <state width="1340" height="166" key="GridCell.Tab.0.center" timestamp="1612553083529">
+    <state width="1340" height="175" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1616249291872" />
+    <state width="1340" height="175" key="GridCell.Tab.0.center" timestamp="1616249291872">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1216" height="199" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1609422715715" />
-    <state width="1340" height="166" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1612553083529" />
-    <state width="1340" height="166" key="GridCell.Tab.0.left" timestamp="1612553083528">
+    <state width="1340" height="175" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1616249291872" />
+    <state width="1340" height="175" key="GridCell.Tab.0.left" timestamp="1616249291871">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1216" height="199" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1609422715715" />
-    <state width="1340" height="166" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1612553083528" />
-    <state width="1340" height="166" key="GridCell.Tab.0.right" timestamp="1612553083529">
+    <state width="1340" height="175" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1616249291871" />
+    <state width="1340" height="175" key="GridCell.Tab.0.right" timestamp="1616249291872">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1216" height="199" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1609422715715" />
-    <state width="1340" height="166" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1612553083529" />
+    <state width="1340" height="175" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1616249291872" />
     <state width="1340" height="247" key="GridCell.Tab.1.bottom" timestamp="1610266938301">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
@@ -1238,21 +1260,21 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="499" y="317" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1612797732385" />
-    <state x="1475" y="15" width="713" height="856" key="dock-window-1" timestamp="1616227247209">
+    <state x="1475" y="15" width="1203" height="856" key="dock-window-1" timestamp="1616233433902">
       <screen x="1440" y="0" width="1280" height="984" />
     </state>
     <state x="1630" y="0" width="914" height="989" key="dock-window-1/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1609499426610" />
-    <state x="1475" y="15" width="713" height="856" key="dock-window-1/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1616227247209" />
-    <state x="2008" y="13" width="728" height="851" key="dock-window-2" timestamp="1615168473276">
+    <state x="1475" y="15" width="1203" height="856" key="dock-window-1/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1616233433902" />
+    <state x="1440" y="0" width="949" height="867" key="dock-window-2" timestamp="1616235044290">
       <screen x="1440" y="0" width="1280" height="984" />
     </state>
     <state x="1832" y="27" width="881" height="969" key="dock-window-2/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1608978415212" />
-    <state x="2008" y="13" width="728" height="851" key="dock-window-2/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1615168473276" />
-    <state x="1440" y="0" width="457" height="805" key="dock-window-3" timestamp="1615186631051">
+    <state x="1440" y="0" width="949" height="867" key="dock-window-2/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1616235044290" />
+    <state x="1440" y="0" width="949" height="838" key="dock-window-3" timestamp="1616241425861">
       <screen x="1440" y="0" width="1280" height="984" />
     </state>
     <state x="1664" y="100" width="731" height="457" key="dock-window-3/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1608365486532" />
-    <state x="1440" y="0" width="457" height="805" key="dock-window-3/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1615186631051" />
+    <state x="1440" y="0" width="949" height="838" key="dock-window-3/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1616241425861" />
     <state x="1879" y="4" width="485" height="803" key="dock-window-4" timestamp="1615192736020">
       <screen x="1440" y="0" width="1280" height="984" />
     </state>
