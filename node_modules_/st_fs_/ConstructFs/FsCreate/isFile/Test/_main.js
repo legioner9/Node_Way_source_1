@@ -1,7 +1,9 @@
+const Fs = require ( 'fs' );
+const Path = require ( 'path' );
+
 const { _require } = require ( 'st_require' );
 const arht = _require ( '_aop' ).archetypes.function.arht;
 const ini_fs = _require ( 'st_ini_fs_' );
-const utest = _require ( '_utest_ini' );
 
 // event report out (export from) Func_examp:
 
@@ -14,6 +16,11 @@ const utest = _require ( '_utest_ini' );
 //     debugger
 //     console.log ( 'current innerState is: ', innerState );
 // }, fn );
+//
+// fn.event.once ( '_point_event', function ( point_object ) {
+//     debugger
+//     console.log ( 'point event return this any_body: ', point_object );
+// }, fn );
 
 // define report behaviour :
 
@@ -22,22 +29,19 @@ const utest = _require ( '_utest_ini' );
 // fn.mode.debLog = true;
 // fn.mode.logFs = true;
 // fn.stack = true;
-// fn.exit = true
+// fn.exit = true;
 
 // BOUNDEN CALL define root_path
-// arht.module ( fn, module );
-utest.uall.module = module;
+// fn.module = module;
+ini_fs.s_isDirectory.exit = true;
 
-const isDirectory = require ( '../../../../../st_fs_/ConstructFs/FsCreate/isDirectory/Test/u_test' );
-const isFile = require ( '../../../../../st_fs_/ConstructFs/FsCreate/isFile/Test/u_test')
+const arr = Fs.readdirSync ( __dirname );
 
-const object_result = {
-    isDirectory,
-    isFile,
-};
-
+arr.map ( item => {
+    console.log ( item, ini_fs.s_isDirectory ( Path.join ( __dirname, item ) ) );
+} );
+ini_fs.s_isDirectory ( 'rrr' );
 debugger
-utest.uall (object_result);
 
 // AFTER Func_examp () , s.t. 'externalState' not exists yet > event transport to (import to) Func_examp:
 // fn.event.emit ( 'ev_to_func', 'mes ev_to_func' );
