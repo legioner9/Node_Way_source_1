@@ -21,6 +21,8 @@ const Func_examp = () => {
     _u._emit( '_start', _e);
     _u._emit( '_innerState', _e.INNER);
 
+    if ( _e.EXIT ) process.exit ( 0 );
+
 
 };
 

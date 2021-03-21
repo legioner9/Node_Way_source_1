@@ -22,6 +22,7 @@ fn.mode.deb = true;
 fn.mode.debLog = true;
 fn.mode.logFs = true;
 fn.stack = true;
+fn.exit = true
 
 // BOUNDEN CALL define root_path
 // arht.module ( fn, module );
