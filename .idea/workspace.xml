@@ -32,9 +32,10 @@
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/st_fs_/ConstructFs/FsCreate/isFile/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/st_fs_/ConstructFs/FsCreate/isFile/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/st_fs_/ConstructFs/FsCreate/mkdirSync/Test/_main.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/st_fs_/ConstructFs/FsCreate/mkdirSync/Test/_main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/st_fs_/ConstructFs/FsCreate/mkdirSync/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/st_fs_/ConstructFs/FsCreate/mkdirSync/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/Bpmn/proj_1/lib/pars.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/Bpmn/proj_1/lib/pars.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/Bpmn/proj_1/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/Bpmn/proj_1/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_aop/archetypes/function/arht/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_aop/archetypes/function/arht/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/st_fs_/ConstructFs/FsCreate/mkdirSync/Test/u_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/st_fs_/ConstructFs/FsCreate/mkdirSync/Test/u_test.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,7 +138,7 @@
     <property name="add_unversioned_files" value="$PROJECT_DIR$/Jobs/SetGlobLoggers/ModLogger_1/Core/Logs/eLogs.txt&#10;true" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="14.15.3" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/node_modules_/st_fs_/ConstructFs/FsCreate/mkdirSync" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/node_modules_/_aop/archetypes" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.jscs" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -158,7 +159,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="settings.editor.splitter.proportion" value="0.23273855" />
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains_\IntelliJ IDEA 2020.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
@@ -171,11 +172,11 @@
       <recent name="F:\Node_projects\Node_Way\ToUse\cloneFileToDir" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Node_projects\Node_Way\node_modules_\_aop\archetypes" />
       <recent name="F:\Node_projects\Node_Way\node_modules_\st_fs_\ConstructFs\FsCreate\mkdirSync" />
       <recent name="F:\Node_projects\Node_Way\node_modules_\st_fs_\ConstructFs\FsCreate\isFile" />
       <recent name="F:\Node_projects\Node_Way\Production\area_function_v.1.1.0\Test" />
       <recent name="F:\Node_projects\Node_Way\node_modules_\_utest\node\modules_\all\Test" />
-      <recent name="F:\Node_projects\Node_Way\node_modules_" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.add_require.js">
@@ -509,7 +510,7 @@
       <workItem from="1616078631329" duration="4599000" />
       <workItem from="1616212280594" duration="34764000" />
       <workItem from="1616329230921" duration="4328000" />
-      <workItem from="1616592594424" duration="13500000" />
+      <workItem from="1616592594424" duration="20278000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
@@ -1231,11 +1232,11 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="471" y="102" key="RollbackChangesDialog/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1615216355042" />
-    <state x="1502" y="153" width="1141" height="710" key="SettingsEditor" timestamp="1616306405369">
+    <state x="1502" y="153" width="1141" height="710" key="SettingsEditor" timestamp="1616694297609">
       <screen x="1440" y="0" width="1280" height="984" />
     </state>
     <state x="156" y="93" key="SettingsEditor/0.0.1440.860/1440.0.1024.728@0.0.1440.860" timestamp="1609602410130" />
-    <state x="1502" y="153" width="1141" height="710" key="SettingsEditor/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1616306405369" />
+    <state x="1502" y="153" width="1141" height="710" key="SettingsEditor/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1616694297609" />
     <state x="499" y="317" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1612797732385">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
@@ -1250,11 +1251,11 @@
     </state>
     <state x="1832" y="27" width="881" height="969" key="dock-window-2/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1608978415212" />
     <state x="1570" y="0" width="949" height="942" key="dock-window-2/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1616598166320" />
-    <state x="1596" y="10" width="949" height="850" key="dock-window-3" timestamp="1616592983716">
+    <state x="1566" y="93" width="949" height="873" key="dock-window-3" timestamp="1616690941185">
       <screen x="1440" y="0" width="1280" height="984" />
     </state>
     <state x="1664" y="100" width="731" height="457" key="dock-window-3/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1608365486532" />
-    <state x="1596" y="10" width="949" height="850" key="dock-window-3/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1616592983716" />
+    <state x="1566" y="93" width="949" height="873" key="dock-window-3/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1616690941185" />
     <state x="1440" y="0" width="949" height="734" key="dock-window-4" timestamp="1616331193106">
       <screen x="1440" y="0" width="1280" height="984" />
     </state>

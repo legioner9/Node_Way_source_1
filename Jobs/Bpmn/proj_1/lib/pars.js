@@ -7,7 +7,7 @@ const xml2json = require ( 'xml2json' );
 module.exports = function ( path_to_xml ) {
 
     let xml;
-    debugger
+
     try {
         xml = fs.readFileSync ( path_to_xml, 'utf-8' );
     }
