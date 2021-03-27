@@ -30,13 +30,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/Bpmn/proj_1/lib/pars.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/Bpmn/proj_1/lib/pars.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/Bpmn/proj_1/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/Bpmn/proj_1/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_aop/archetypes/function/arht/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_aop/archetypes/function/arht/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/st_fs_/ConstructFs/FsCreate/mkdirSync/Test/u_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/st_fs_/ConstructFs/FsCreate/mkdirSync/Test/u_test.js" afterDir="false" />
-    </list>
+    <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -511,6 +505,7 @@
       <workItem from="1616212280594" duration="34764000" />
       <workItem from="1616329230921" duration="4328000" />
       <workItem from="1616592594424" duration="20845000" />
+      <workItem from="1616860016026" duration="570000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
@@ -1251,11 +1246,11 @@
     </state>
     <state x="1832" y="27" width="881" height="969" key="dock-window-2/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1608978415212" />
     <state x="1570" y="0" width="949" height="942" key="dock-window-2/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1616598166320" />
-    <state x="1566" y="93" width="949" height="873" key="dock-window-3" timestamp="1616690941185">
+    <state x="1566" y="93" width="949" height="873" key="dock-window-3" timestamp="1616865729152">
       <screen x="1440" y="0" width="1280" height="984" />
     </state>
     <state x="1664" y="100" width="731" height="457" key="dock-window-3/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1608365486532" />
-    <state x="1566" y="93" width="949" height="873" key="dock-window-3/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1616690941185" />
+    <state x="1566" y="93" width="949" height="873" key="dock-window-3/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1616865729152" />
     <state x="1440" y="0" width="949" height="734" key="dock-window-4" timestamp="1616331193106">
       <screen x="1440" y="0" width="1280" height="984" />
     </state>
