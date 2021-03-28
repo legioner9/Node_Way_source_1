@@ -30,10 +30,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-master/starter/modeler.html" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-master/starter/modeler.html" afterDir="false" />
-    </list>
+    <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -511,6 +508,7 @@
       <workItem from="1616860016026" duration="2569000" />
       <workItem from="1616867972015" duration="2610000" />
       <workItem from="1616910901647" duration="3923000" />
+      <workItem from="1616949688951" duration="640000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
