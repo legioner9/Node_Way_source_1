@@ -5,14 +5,20 @@
     <title>Hello World</title>
 
     <!-- required modeler styles -->
-    <link rel="stylesheet" href="https://unpkg.com/bpmn-js@8.2.1/dist/assets/diagram-js.css">
-    <link rel="stylesheet" href="https://unpkg.com/bpmn-js@8.2.1/dist/assets/bpmn-font/css/bpmn.css">
+    <link rel="stylesheet"
+          href="../dist/assets/diagram-js.css">
+    <link rel="stylesheet"
+          href="../dist/assets/bpmn-font/css/bpmn.css">
 
     <!-- modeler distro -->
-    <script src="https://unpkg.com/bpmn-js@8.2.1/dist/bpmn-modeler.development.js"></script>
+    <script
+            src="../dist/save_file.js"></script>
+
+    <script
+            src="../dist/bpmn-modeler.development.js"></script>
 
     <!-- needed for this example only -->
-    <script src="https://unpkg.com/jquery@3.3.1/dist/jquery.js"></script>
+    <script src="../dist/jquery.js"></script>
 
     <!-- example styles -->
     <style>
@@ -43,16 +49,36 @@
         bottom: 20px;
         left: 20px;
       }
+      #path-button {
+        position: fixed;
+        bottom: 20px;
+        left: 200px;
+      }
+
+      #path-button {
+        position: fixed;
+        bottom: 20px;
+        left: 400px;
+      }
     </style>
   </head>
   <body>
+    <div ><button id="path-button">enter path</button></div>
+
     <div id="canvas"></div>
 
-    <button id="save-button">print to console</button>
+
+    <button id="save-button">save to console</button>
+
+
+    <button id="save-button_file">                  save
+      file</button>
+
 
     <script>
 
-      var diagramUrl = 'https://cdn.staticaly.com/gh/bpmn-io/bpmn-js-examples/dfceecba/starter/diagram.bpmn';
+      var diagramUrl = prompt('enter path file',
+      'diagram.bpmn');
 
       // modeler instance
       var bpmnModeler = new BpmnJS({
@@ -74,6 +100,9 @@
           alert('Diagram exported. Check the developer tools!');
 
           console.log('DIAGRAM', result.xml);
+
+          
+
         } catch (err) {
 
           console.error('could not save BPMN 2.0 diagram', err);

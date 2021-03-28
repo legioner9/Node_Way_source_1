@@ -31,7 +31,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
-      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-master/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-master/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-master/starter/modeler.html" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-master/starter/modeler.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -509,7 +510,7 @@
       <workItem from="1616592594424" duration="20845000" />
       <workItem from="1616860016026" duration="2569000" />
       <workItem from="1616867972015" duration="2610000" />
-      <workItem from="1616910901647" duration="212000" />
+      <workItem from="1616910901647" duration="3923000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
@@ -1152,7 +1153,6 @@
     <state x="188" y="110" width="1094" height="614" key="DiffContextDialog" timestamp="1612887045712">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="188" y="110" width="1094" height="614" key="DiffContextDialog/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1608266478938" />
     <state x="188" y="110" width="1094" height="614" key="DiffContextDialog/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1612887045712" />
     <state x="519" y="178" width="699" height="606" key="FileChooserDialogImpl" timestamp="1615005857486">
       <screen x="0" y="0" width="1440" height="860" />
@@ -1236,15 +1236,15 @@
     </state>
     <state x="156" y="93" key="SettingsEditor/0.0.1440.860/1440.0.1024.728@0.0.1440.860" timestamp="1609602410130" />
     <state x="1502" y="153" width="1141" height="710" key="SettingsEditor/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1616694297609" />
-    <state x="499" y="317" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1612797732385">
+    <state x="499" y="317" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1616912740744">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="499" y="317" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1612797732385" />
-    <state x="1440" y="0" width="568" height="874" key="dock-window-1" timestamp="1616869511931">
+    <state x="499" y="317" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1616912740744" />
+    <state x="1440" y="0" width="949" height="926" key="dock-window-1" timestamp="1616911651508">
       <screen x="1440" y="0" width="1280" height="984" />
     </state>
     <state x="1630" y="0" width="914" height="989" key="dock-window-1/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1609499426610" />
-    <state x="1440" y="0" width="568" height="874" key="dock-window-1/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1616869511931" />
+    <state x="1440" y="0" width="949" height="926" key="dock-window-1/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1616911651508" />
     <state x="1917" y="0" width="819" height="976" key="dock-window-2" timestamp="1616869511931">
       <screen x="1440" y="0" width="1280" height="984" />
     </state>
