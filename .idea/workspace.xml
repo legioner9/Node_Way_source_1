@@ -32,6 +32,13 @@
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js_/starter_/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js_/starter_/diagram.bpmn" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js_/starter_/diagram_.bpmn" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js_/starter_/modeler.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js_/starter_/modeler_.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js_/starter_/viewer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js_/starter_/viewer.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -511,7 +518,7 @@
       <workItem from="1616867972015" duration="2610000" />
       <workItem from="1616910901647" duration="3923000" />
       <workItem from="1616949688951" duration="640000" />
-      <workItem from="1616994432158" duration="798000" />
+      <workItem from="1616994432158" duration="2608000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
