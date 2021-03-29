@@ -32,13 +32,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js_/starter_/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js_/starter_/diagram.bpmn" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js_/starter_/diagram_.bpmn" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js_/starter_/modeler.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js_/starter_/modeler_.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js_/starter_/viewer.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js_/starter_/viewer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js_/starter1/modeler_.html" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js_/starter1/modeler_.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,7 +135,7 @@
     <property name="add_unversioned_files" value="$PROJECT_DIR$/Jobs/SetGlobLoggers/ModLogger_1/Core/Logs/eLogs.txt&#10;true" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="14.15.3" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Production" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js_/dist_" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.jscs" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -168,11 +162,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Node_projects\Node_Way\Jobs\excd.bpmn_js\bpmn-js_\dist_" />
       <recent name="F:\Node_projects\Node_Way\Production" />
       <recent name="F:\Node_projects\Node_Way\node_modules_\_aop\archetypes\class\arht" />
       <recent name="F:\Node_projects\Node_Way\node_modules_\_aop\archetypes\class\arht\flow_class" />
       <recent name="F:\Node_projects\Node_Way\node_modules_\_aop\archetypes" />
-      <recent name="F:\Node_projects\Node_Way\node_modules_\st_fs_\ConstructFs\FsCreate\mkdirSync" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\Node_projects\Node_Way\Production\_arhive" />
@@ -518,7 +512,7 @@
       <workItem from="1616867972015" duration="2610000" />
       <workItem from="1616910901647" duration="3923000" />
       <workItem from="1616949688951" duration="640000" />
-      <workItem from="1616994432158" duration="2608000" />
+      <workItem from="1616994432158" duration="3557000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
