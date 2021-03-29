@@ -32,16 +32,8 @@
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js_/starter1/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js_/LS_starter1/.htaccess" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js_/starter1/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js_/LS_starter1/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js_/starter1/diagram.bpmn" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js_/LS_starter1/diagram.bpmn" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js_/starter1/diagram_.bpmn" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js_/LS_starter1/diagram_.bpmn" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js_/starter1/jquery_v.3.3.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js_/LS_starter1/jquery_v.3.3.1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js_/starter1/modeler.html" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js_/LS_starter1/modeler.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js_/starter1/modeler_.html" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js_/LS_starter1/modeler_.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js_/starter1/orig_diag_from_site.bpmn" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js_/LS_starter1/orig_diag_from_site.bpmn" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js_/starter1/viewer.html" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js_/LS_starter1/viewer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js_/starter1/viewer.png" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js_/LS_starter1/viewer.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js_/LSstarter1/jquery_v.3.3.1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js_/LSstarter1/modeler_.html" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js_/LSstarter1/modeler_.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -521,7 +513,7 @@
       <workItem from="1616867972015" duration="2610000" />
       <workItem from="1616910901647" duration="3923000" />
       <workItem from="1616949688951" duration="640000" />
-      <workItem from="1616994432158" duration="5167000" />
+      <workItem from="1616994432158" duration="8463000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
@@ -1148,15 +1140,19 @@
     </state>
     <state x="177" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.860/1440.0.1024.728@0.0.1440.860" timestamp="1609602432232" />
     <state x="177" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1609604887131" />
-    <state x="361" y="199" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1615042177958">
+    <state x="361" y="199" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1617002574158">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="361" y="199" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1608987261738" />
-    <state x="361" y="199" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1615042177958" />
+    <state x="361" y="199" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1617002574158" />
     <state x="514" y="254" key="#com.intellij.ide.actionMacro.EditMacrosDialog" timestamp="1616226156654">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="514" y="254" key="#com.intellij.ide.actionMacro.EditMacrosDialog/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1616226156654" />
+    <state x="405" y="127" key="#copy_to_domane_dir" timestamp="1617003365346">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="405" y="127" key="#copy_to_domane_dir/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1617003365346" />
     <state x="405" y="56" key="#main_test.js" timestamp="1614532551541">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
