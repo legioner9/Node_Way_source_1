@@ -31,7 +31,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
-      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,7 +134,7 @@
     <property name="add_unversioned_files" value="$PROJECT_DIR$/Jobs/SetGlobLoggers/ModLogger_1/Core/Logs/eLogs.txt&#10;true" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="14.15.3" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/node_modules_/_aop/archetypes/class/arht" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Production" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.jscs" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -160,19 +160,19 @@
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains_\IntelliJ IDEA 2020.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Node_projects\Node_Way\Production" />
+      <recent name="F:\Node_projects\Node_Way\node_modules_\_aop\archetypes\class\arht" />
+      <recent name="F:\Node_projects\Node_Way\node_modules_\_aop\archetypes\class\arht\flow_class" />
+      <recent name="F:\Node_projects\Node_Way\node_modules_\_aop\archetypes" />
+      <recent name="F:\Node_projects\Node_Way\node_modules_\st_fs_\ConstructFs\FsCreate\mkdirSync" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\Node_projects\Node_Way\Production\_arhive" />
       <recent name="F:\Node_projects\Node_Way\Education\Gulp\Gulp_2\gulp\init" />
       <recent name="F:\Node_projects\Node_Way\Store\Global_configs\BachRc" />
       <recent name="F:\Node_projects\Node_Way\ToUse\cloneFileToDir\Dir_in_num_2_3_level" />
       <recent name="F:\Node_projects\Node_Way\ToUse\cloneFileToDir" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\Node_projects\Node_Way\node_modules_\_aop\archetypes\class\arht" />
-      <recent name="F:\Node_projects\Node_Way\node_modules_\_aop\archetypes\class\arht\flow_class" />
-      <recent name="F:\Node_projects\Node_Way\node_modules_\_aop\archetypes" />
-      <recent name="F:\Node_projects\Node_Way\node_modules_\st_fs_\ConstructFs\FsCreate\mkdirSync" />
-      <recent name="F:\Node_projects\Node_Way\node_modules_\st_fs_\ConstructFs\FsCreate\isFile" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.add_require.js">
@@ -511,6 +511,7 @@
       <workItem from="1616867972015" duration="2610000" />
       <workItem from="1616910901647" duration="3923000" />
       <workItem from="1616949688951" duration="640000" />
+      <workItem from="1616994432158" duration="798000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
