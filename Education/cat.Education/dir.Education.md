@@ -849,6 +849,17 @@
                 - *## Последовательная программа
                 - *## Отдельные курсы
         
+        - <a href = "F:\Node_projects\Node_Way\Education\TSH_index\TSH_ancors_youtube.md">TSH_ancors_youtube.md</a>
+            - *# [Доклады и выступления v.23_03_2k21](https://github.com/HowProgrammingWorks/Certification/blob/master/Requirements/NodeJS.ru.md) 
+            - *## 2021
+            - *## 2020
+            - *## 2019
+            - *## 2018
+            - *## 2017
+            - *## 2016
+            - *## 2015
+            - *## 2014
+            - *## 2013
     
     - <a href = "F:\Node_projects\Node_Way\Education\TSH_video\cat.TSH_video\dir.TSH_video.md">TSH_video</a>
         - <a href = "F:\Node_projects\Node_Way\Education\TSH_video\PlayLists_youtube\cat.PlayLists_youtube\dir.PlayLists_youtube.md">PlayLists_youtube</a>

@@ -2656,6 +2656,12 @@
                             - *## [Стешин, А. И. Информационные системы в организации](http://www.iprbookshop.ru/epd-reader?publicationId=79629)
                     
                 
+                - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\Основы_моделирования_проектирования_программного обеспечения_курсовая\cat.Основы_моделирования_проектирования_программного обеспечения_курсовая\dir.Основы_моделирования_проектирования_программного обеспечения_курсовая.md">Основы_моделирования_проектирования_программного обеспечения_курсовая</a>
+                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\Основы_моделирования_проектирования_программного обеспечения_курсовая\_ancons\cat._ancons\dir._ancons.md">_ancons</a>
+                        - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_TGUniversitet\I_kurs\Основы_моделирования_проектирования_программного обеспечения_курсовая\_ancons\ancors_1.md">ancors_1.md</a>
+                            - *## [Стешин, А. И. Информационные системы в организации](http://www.iprbookshop.ru/epd-reader?publicationId=79629)
+                    
+                
             
         
         - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\_WebJS\cat._WebJS\dir._WebJS.md">_WebJS</a>
@@ -2832,6 +2838,9 @@
                 - *# И еще немного
             - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\__\Linux_fiches\cat.Linux_fiches\dir.Linux_fiches.md">Linux_fiches</a>
                 - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\__\Linux_fiches\cli\cat.cli\dir.cli.md">cli</a>
+                    - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\__\Linux_fiches\cli\copy_dir_correct.md">copy_dir_correct.md</a>
+                        - *## [correct cp - copy dir recurcsve](https://habr.com/ru/company/ruvds/blog/471092/)
+                        - *## [copy OSWINDOWS](https://ab57.ru/cmdlist/xcopy.html)
                     - <a href = "F:\Node_projects\Node_Way\NBase\_Md\_Index\__\Linux_fiches\cli\Pingvinus.md">Pingvinus.md</a>
                         - *# Секреты и трюки Командной строки Linux. Стань гуру. Впервые конкурс
                         - *## history

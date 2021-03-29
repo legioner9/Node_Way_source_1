@@ -5,6 +5,14 @@
                 - *# v.0.0.1 learn and examples node + .bat
         
     
+    - <a href = "F:\Node_projects\Node_Way\Jobs\Bpmn\cat.Bpmn\dir.Bpmn.md">Bpmn</a>
+        - <a href = "F:\Node_projects\Node_Way\Jobs\Bpmn\area_function_v.1.1.0_dir_requier_to_object\cat.area_function_v.1.1.0_dir_requier_to_object\dir.area_function_v.1.1.0_dir_requier_to_object.md">area_function_v.1.1.0_dir_requier_to_object</a>
+            - <a href = "F:\Node_projects\Node_Way\Jobs\Bpmn\area_function_v.1.1.0_dir_requier_to_object\_versions.md">_versions.md</a>
+                - *# init 
+                - *# 1.0.0
+                - *## 1.0.1
+        
+    
     - <a href = "F:\Node_projects\Node_Way\Jobs\CaseArcht\cat.CaseArcht\dir.CaseArcht.md">CaseArcht</a>
         - <a href = "F:\Node_projects\Node_Way\Jobs\CaseArcht\Examp\cat.Examp\dir.Examp.md">Examp</a>
             - <a href = "F:\Node_projects\Node_Way\Jobs\CaseArcht\Examp\v.1\cat.v.1\dir.v.1.md">v.1</a>
