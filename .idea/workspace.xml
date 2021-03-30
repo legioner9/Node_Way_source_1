@@ -32,9 +32,221 @@
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/+Учебная практика (ознакомительная практика) 2/_Контрольные мероприятия/Задание 1/~$дание 1.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/+Учебная практика (ознакомительная практика) 2/_Контрольные мероприятия/Задание 2/~$дание 2.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/+Учебная практика (ознакомительная практика) 2/_Контрольные мероприятия/Задание 3/~$дание 3.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/.eslintrc" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/.eslintrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/bpmn-properties/.babelrc" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/bpmn-properties/.babelrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/bpmn-properties/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/bpmn-properties/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/bpmn-properties/.npmrc" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/bpmn-properties/.npmrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/bpmn-properties/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/bpmn-properties/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/bpmn-properties/karma.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/bpmn-properties/karma.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/bpmn-properties/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/bpmn-properties/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/bpmn-properties/test/.eslintrc" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/bpmn-properties/test/.eslintrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/bpmn-properties/test/TestHelper.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/bpmn-properties/test/TestHelper.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/bpmn-properties/test/spec/BpmnPropertiesSpec.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/bpmn-properties/test/spec/BpmnPropertiesSpec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/bpmn-properties/test/spec/diagram.bpmn" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/bpmn-properties/test/spec/diagram.bpmn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/bundling/.babelrc" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/bundling/.babelrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/bundling/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/bundling/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/bundling/.npmrc" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/bundling/.npmrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/bundling/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/bundling/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/bundling/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/bundling/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/bundling/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/bundling/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/bundling/resources/pizza-collaboration.bpmn" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/bundling/resources/pizza-collaboration.bpmn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/bundling/resources/screenshot.png" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/bundling/resources/screenshot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/bundling/src/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/bundling/src/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/bundling/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/bundling/webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/colors/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/colors/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/colors/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/colors/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/colors/resources/pizza-collaboration.bpmn" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/colors/resources/pizza-collaboration.bpmn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/colors/screenshot.png" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/colors/screenshot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/commenting/.babelrc" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/commenting/.babelrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/commenting/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/commenting/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/commenting/.npmrc" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/commenting/.npmrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/commenting/Gruntfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/commenting/Gruntfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/commenting/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/commenting/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/commenting/app/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/commenting/app/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/commenting/app/font/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/commenting/app/font/LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/commenting/app/font/bpmn-js-comments.eot" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/commenting/app/font/bpmn-js-comments.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/commenting/app/font/bpmn-js-comments.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/commenting/app/font/bpmn-js-comments.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/commenting/app/font/bpmn-js-comments.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/commenting/app/font/bpmn-js-comments.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/commenting/app/font/bpmn-js-comments.woff" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/commenting/app/font/bpmn-js-comments.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/commenting/app/font/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/commenting/app/font/config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/commenting/app/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/commenting/app/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/commenting/app/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/commenting/app/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/commenting/docs/screenshot.png" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/commenting/docs/screenshot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/commenting/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/commenting/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/commenting/resources/pizza-collaboration-annotated.bpmn" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/commenting/resources/pizza-collaboration-annotated.bpmn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/commenting/resources/pizza-collaboration.bpmn" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/commenting/resources/pizza-collaboration.bpmn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/custom-bower-bundle/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/custom-bower-bundle/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/custom-bundle/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/custom-bundle/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/custom-bundle/.npmrc" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/custom-bundle/.npmrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/custom-bundle/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/custom-bundle/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/custom-bundle/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/custom-bundle/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/custom-bundle/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/custom-bundle/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/custom-bundle/rollup.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/custom-bundle/rollup.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/custom-bundle/src/custom-viewer.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/custom-bundle/src/custom-viewer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/custom-bundle/src/features/logging/InteractionLogger.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/custom-bundle/src/features/logging/InteractionLogger.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/custom-bundle/src/features/logging/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/custom-bundle/src/features/logging/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/custom-elements/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/custom-elements/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/custom-elements/docs/screenshot-custom-editor-controls.png" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/custom-elements/docs/screenshot-custom-editor-controls.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/custom-elements/docs/screenshot-custom-elements.png" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/custom-elements/docs/screenshot-custom-elements.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/custom-elements/docs/screenshot-custom-rendering.png" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/custom-elements/docs/screenshot-custom-rendering.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/custom-elements/docs/screenshot-model-extension.png" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/custom-elements/docs/screenshot-model-extension.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/custom-meta-model/.babelrc" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/custom-meta-model/.babelrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/custom-meta-model/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/custom-meta-model/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/custom-meta-model/.npmrc" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/custom-meta-model/.npmrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/custom-meta-model/Gruntfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/custom-meta-model/Gruntfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/custom-meta-model/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/custom-meta-model/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/custom-meta-model/app/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/custom-meta-model/app/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/custom-meta-model/app/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/custom-meta-model/app/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/custom-meta-model/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/custom-meta-model/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/custom-meta-model/resources/qa.json" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/custom-meta-model/resources/qa.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/custom-meta-model/resources/sample.bpmn" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/custom-meta-model/resources/sample.bpmn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/custom-meta-model/resources/screenshot.png" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/custom-meta-model/resources/screenshot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/custom-modeling-rules/.babelrc" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/custom-modeling-rules/.babelrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/custom-modeling-rules/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/custom-modeling-rules/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/custom-modeling-rules/.npmrc" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/custom-modeling-rules/.npmrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/custom-modeling-rules/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/custom-modeling-rules/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/custom-modeling-rules/karma.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/custom-modeling-rules/karma.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/custom-modeling-rules/lib/custom-rules/CustomRules.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/custom-modeling-rules/lib/custom-rules/CustomRules.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/custom-modeling-rules/lib/custom-rules/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/custom-modeling-rules/lib/custom-rules/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/custom-modeling-rules/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/custom-modeling-rules/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/custom-modeling-rules/test/TestHelper.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/custom-modeling-rules/test/TestHelper.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/custom-modeling-rules/test/spec/CustomRulesSpec.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/custom-modeling-rules/test/spec/CustomRulesSpec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/custom-modeling-rules/test/spec/diagram.bpmn" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/custom-modeling-rules/test/spec/diagram.bpmn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/i18n/.eslintignore" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/i18n/.eslintignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/i18n/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/i18n/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/i18n/.npmrc" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/i18n/.npmrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/i18n/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/i18n/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/i18n/app/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/i18n/app/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/i18n/app/customTranslate/customTranslate.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/i18n/app/customTranslate/customTranslate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/i18n/app/customTranslate/translations.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/i18n/app/customTranslate/translations.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/i18n/app/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/i18n/app/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/i18n/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/i18n/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/i18n/resources/newDiagram.bpmn" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/i18n/resources/newDiagram.bpmn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/i18n/resources/screenshot.png" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/i18n/resources/screenshot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/i18n/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/i18n/webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/interaction/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/interaction/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/interaction/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/interaction/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/minimap/.eslintignore" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/minimap/.eslintignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/minimap/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/minimap/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/minimap/.npmrc" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/minimap/.npmrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/minimap/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/minimap/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/minimap/app/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/minimap/app/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/minimap/app/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/minimap/app/css/app.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/minimap/app/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/minimap/app/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/minimap/docs/screenshot.png" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/minimap/docs/screenshot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/minimap/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/minimap/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/minimap/resources/pizza-collaboration.bpmn" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/minimap/resources/pizza-collaboration.bpmn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/minimap/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/minimap/webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/modeler/.eslintignore" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/modeler/.eslintignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/modeler/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/modeler/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/modeler/.npmrc" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/modeler/.npmrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/modeler/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/modeler/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/modeler/app/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/modeler/app/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/modeler/app/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/modeler/app/css/app.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/modeler/app/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/modeler/app/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/modeler/docs/screenshot.png" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/modeler/docs/screenshot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/modeler/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/modeler/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/modeler/resources/newDiagram.bpmn" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/modeler/resources/newDiagram.bpmn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/modeler/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/modeler/webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/modeling-api/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/modeling-api/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/modeling-api/app/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/modeling-api/app/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/modeling-api/app/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/modeling-api/app/css/app.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/modeling-api/app/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/modeling-api/app/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/modeling-api/app/snippets/businessObjects.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/modeling-api/app/snippets/businessObjects.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/modeling-api/app/snippets/collaborations.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/modeling-api/app/snippets/collaborations.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/modeling-api/app/snippets/connectingShapes.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/modeling-api/app/snippets/connectingShapes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/modeling-api/app/snippets/creatingShapes.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/modeling-api/app/snippets/creatingShapes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/modeling-api/app/snippets/editingElements.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/modeling-api/app/snippets/editingElements.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/modeling-api/app/snippets/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/modeling-api/app/snippets/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/modeling-api/app/snippets/introduction.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/modeling-api/app/snippets/introduction.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/modeling-api/docs/screenshot.png" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/modeling-api/docs/screenshot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/modeling-api/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/modeling-api/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/modeling-api/resources/diagram.bpmn" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/modeling-api/resources/diagram.bpmn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/modeling-api/resources/editingElements.bpmn" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/modeling-api/resources/editingElements.bpmn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/modeling-api/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/modeling-api/webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/overlays/.babelrc" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/overlays/.babelrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/overlays/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/overlays/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/overlays/.npmrc" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/overlays/.npmrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/overlays/Gruntfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/overlays/Gruntfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/overlays/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/overlays/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/overlays/app/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/overlays/app/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/overlays/app/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/overlays/app/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/overlays/docs/qr-code.gif" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/overlays/docs/qr-code.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/overlays/docs/qr-code.png" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/overlays/docs/qr-code.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/overlays/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/overlays/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/overlays/resources/qr-code.bpmn" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/overlays/resources/qr-code.bpmn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/pre-packaged/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/pre-packaged/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/properties-panel-extension/.babelrc" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/properties-panel-extension/.babelrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/properties-panel-extension/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/properties-panel-extension/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/properties-panel-extension/.npmrc" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/properties-panel-extension/.npmrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/properties-panel-extension/Gruntfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/properties-panel-extension/Gruntfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/properties-panel-extension/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/properties-panel-extension/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/properties-panel-extension/app/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/properties-panel-extension/app/css/app.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/properties-panel-extension/app/descriptors/magic.json" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/properties-panel-extension/app/descriptors/magic.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/properties-panel-extension/app/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/properties-panel-extension/app/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/properties-panel-extension/app/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/properties-panel-extension/app/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/properties-panel-extension/app/provider/magic/MagicPropertiesProvider.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/properties-panel-extension/app/provider/magic/MagicPropertiesProvider.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/properties-panel-extension/app/provider/magic/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/properties-panel-extension/app/provider/magic/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/properties-panel-extension/app/provider/magic/parts/SpellProps.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/properties-panel-extension/app/provider/magic/parts/SpellProps.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/properties-panel-extension/docs/screenshot.png" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/properties-panel-extension/docs/screenshot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/properties-panel-extension/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/properties-panel-extension/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/properties-panel-extension/resources/newDiagram.bpmn" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/properties-panel-extension/resources/newDiagram.bpmn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/properties-panel-extension/styles/app.less" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/properties-panel-extension/styles/app.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/properties-panel/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/properties-panel/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/properties-panel/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/properties-panel/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/properties-panel/docs/screenshot.png" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/properties-panel/docs/screenshot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/properties-panel/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/properties-panel/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/properties-panel/resources/newDiagram.bpmn" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/properties-panel/resources/newDiagram.bpmn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/properties-panel/src/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/properties-panel/src/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/properties-panel/src/app.less" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/properties-panel/src/app.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/properties-panel/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/properties-panel/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/properties-panel/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/properties-panel/webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/simple-bower/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/simple-bower/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/simple-commonjs/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/simple-commonjs/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/starter/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/starter/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/starter/diagram.bpmn" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/starter/diagram.bpmn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/starter/modeler.html" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/starter/modeler.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/starter/viewer.html" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/starter/viewer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/starter/viewer.png" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/starter/viewer.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/theming/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/theming/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/theming/.npmrc" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/theming/.npmrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/theming/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/theming/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/theming/docs/screenshot.png" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/theming/docs/screenshot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/theming/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/theming/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/theming/kitchen-sink.bpmn" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/theming/kitchen-sink.bpmn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/theming/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/theming/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/theming/resources/pizza-collaboration.bpmn" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/theming/resources/pizza-collaboration.bpmn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/theming/rollup.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/theming/rollup.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/theming/src/custom-viewer.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/theming/src/custom-viewer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/transaction-boundaries/.babelrc" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/transaction-boundaries/.babelrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/transaction-boundaries/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/transaction-boundaries/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/transaction-boundaries/.npmrc" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/transaction-boundaries/.npmrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/transaction-boundaries/Gruntfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/transaction-boundaries/Gruntfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/transaction-boundaries/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/transaction-boundaries/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/transaction-boundaries/app/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/transaction-boundaries/app/css/app.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/transaction-boundaries/app/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/transaction-boundaries/app/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/transaction-boundaries/app/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/transaction-boundaries/app/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/transaction-boundaries/docs/screenshot.png" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/transaction-boundaries/docs/screenshot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/transaction-boundaries/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/transaction-boundaries/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/transaction-boundaries/resources/transaction-boundaries.bpmn" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/transaction-boundaries/resources/transaction-boundaries.bpmn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/transaction-boundaries/styles/app.less" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/transaction-boundaries/styles/app.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/url-viewer/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/url-viewer/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/url-viewer/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/url-viewer/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/url-viewer/resources/pizza-collaboration.bpmn" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/url-viewer/resources/pizza-collaboration.bpmn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples _/url-viewer/resources/screenshot.png" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js-examples_/url-viewer/resources/screenshot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_utest/node/modules_/all/Test/add_require.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_utest/node/modules_/all/Test/add_require.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/st_fs_/ConstructFs/FsCreate/readdirSync/1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/st_fs_/ConstructFs/FsCreate/readdirSync/Examples/_with_err/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/st_fs_/ConstructFs/FsCreate/readdirSync/Examples/_with_err/fsLog/logErr.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/st_fs_/ConstructFs/FsCreate/readdirSync/Examples/_with_err/test_ini_module.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/st_fs_/ConstructFs/FsCreate/readdirSync/Examples/cleare/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/st_fs_/ConstructFs/FsCreate/readdirSync/Examples/cleare/fsLog/log.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/st_fs_/ConstructFs/FsCreate/readdirSync/Examples/cleare/fsLog/logErr.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/st_fs_/ConstructFs/FsCreate/readdirSync/Examples/cleare/test_ini_module.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/st_fs_/ConstructFs/FsCreate/readdirSync/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/st_fs_/ConstructFs/FsCreate/readdirSync/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/st_fs_/ConstructFs/FsCreate/readdirSync/_index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,7 +349,7 @@
     <property name="add_unversioned_files" value="$PROJECT_DIR$/Jobs/SetGlobLoggers/ModLogger_1/Core/Logs/eLogs.txt&#10;true" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="14.15.3" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Jobs" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/node_modules_/st_fs_/ConstructFs/FsCreate/readdirSync/Test" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.jscs" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -163,19 +375,19 @@
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains_\IntelliJ IDEA 2020.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\Node_projects\Node_Way\Jobs\excd.bpmn_js\bpmn-js_\starter1" />
-      <recent name="F:\Node_projects\Node_Way\Jobs\excd.bpmn_js\bpmn-js_\dist_" />
-      <recent name="F:\Node_projects\Node_Way\Production" />
-      <recent name="F:\Node_projects\Node_Way\node_modules_\_aop\archetypes\class\arht" />
-      <recent name="F:\Node_projects\Node_Way\node_modules_\_aop\archetypes\class\arht\flow_class" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\Node_projects\Node_Way\Production\_arhive" />
       <recent name="F:\Node_projects\Node_Way\Education\Gulp\Gulp_2\gulp\init" />
       <recent name="F:\Node_projects\Node_Way\Store\Global_configs\BachRc" />
       <recent name="F:\Node_projects\Node_Way\ToUse\cloneFileToDir\Dir_in_num_2_3_level" />
       <recent name="F:\Node_projects\Node_Way\ToUse\cloneFileToDir" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Node_projects\Node_Way\node_modules_\st_fs_\ConstructFs\FsCreate\readdirSync\Test" />
+      <recent name="F:\Node_projects\Node_Way\node_modules_\st_fs_\ConstructFs\FsCreate\readdirSync" />
+      <recent name="F:\Node_projects\Node_Way\Jobs" />
+      <recent name="F:\Node_projects\Node_Way\Jobs\excd.bpmn_js\bpmn-js_\starter1" />
+      <recent name="F:\Node_projects\Node_Way\Jobs\excd.bpmn_js\bpmn-js_\dist_" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.add_require.js">
@@ -515,7 +727,7 @@
       <workItem from="1616910901647" duration="3923000" />
       <workItem from="1616949688951" duration="640000" />
       <workItem from="1616994432158" duration="9953000" />
-      <workItem from="1617075939268" duration="1246000" />
+      <workItem from="1617075939268" duration="8043000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
@@ -1249,25 +1461,23 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="499" y="317" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1616912740744" />
-    <state x="1440" y="0" width="949" height="926" key="dock-window-1" timestamp="1616911651508">
+    <state x="1440" y="0" width="761" height="882" key="dock-window-1" timestamp="1617089464017">
       <screen x="1440" y="0" width="1280" height="984" />
     </state>
     <state x="1630" y="0" width="914" height="989" key="dock-window-1/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1609499426610" />
-    <state x="1440" y="0" width="949" height="926" key="dock-window-1/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1616911651508" />
-    <state x="1917" y="0" width="819" height="976" key="dock-window-2" timestamp="1616869511931">
+    <state x="1440" y="0" width="761" height="882" key="dock-window-1/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1617089464016" />
+    <state x="1787" y="0" width="949" height="960" key="dock-window-2" timestamp="1617081736080">
       <screen x="1440" y="0" width="1280" height="984" />
     </state>
     <state x="1832" y="27" width="881" height="969" key="dock-window-2/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1608978415212" />
-    <state x="1917" y="0" width="819" height="976" key="dock-window-2/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1616869511931" />
+    <state x="1787" y="0" width="949" height="960" key="dock-window-2/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1617081736080" />
     <state x="1566" y="93" width="949" height="873" key="dock-window-3" timestamp="1616865729152">
       <screen x="1440" y="0" width="1280" height="984" />
     </state>
-    <state x="1664" y="100" width="731" height="457" key="dock-window-3/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1608365486532" />
     <state x="1566" y="93" width="949" height="873" key="dock-window-3/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1616865729152" />
     <state x="1440" y="0" width="949" height="734" key="dock-window-4" timestamp="1616331193106">
       <screen x="1440" y="0" width="1280" height="984" />
     </state>
-    <state x="1728" y="38" width="825" height="969" key="dock-window-4/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1608367797239" />
     <state x="1440" y="0" width="949" height="734" key="dock-window-4/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1616331193106" />
     <state x="1440" y="0" width="949" height="734" key="dock-window-5" timestamp="1616331193106">
       <screen x="1440" y="0" width="1280" height="984" />
