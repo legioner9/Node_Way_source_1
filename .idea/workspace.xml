@@ -33,11 +33,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
-      <change beforePath="$PROJECT_DIR$/.idea/Node_Docs.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Node_Docs.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/Python_start/proj_1/hello.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/Python_start/proj_1/hello.py" afterDir="false" />
-    </list>
+    <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -555,6 +551,7 @@
       <workItem from="1617095919208" duration="1197000" />
       <workItem from="1617097386978" duration="9799000" />
       <workItem from="1617116385941" duration="2450000" />
+      <workItem from="1617122553607" duration="388000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
@@ -1194,6 +1191,10 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="514" y="254" key="#com.intellij.ide.actionMacro.EditMacrosDialog/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1616226156654" />
+    <state x="446" y="233" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1617123033371">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="446" y="233" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1617123033371" />
     <state x="405" y="127" key="#copy_to_domane_dir" timestamp="1617003365346">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
@@ -1210,11 +1211,11 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="188" y="110" width="1094" height="614" key="DiffContextDialog/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1612887045712" />
-    <state x="519" y="178" width="699" height="606" key="FileChooserDialogImpl" timestamp="1617115639171">
+    <state x="519" y="178" width="699" height="606" key="FileChooserDialogImpl" timestamp="1617123010537">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="519" y="178" key="FileChooserDialogImpl/0.0.1440.860/1440.0.1024.728@0.0.1440.860" timestamp="1609601504304" />
-    <state x="519" y="178" key="FileChooserDialogImpl/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1617115639171" />
+    <state x="519" y="178" key="FileChooserDialogImpl/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1617123010537" />
     <state width="1340" height="175" key="GridCell.Tab.0.bottom" timestamp="1617118614374">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
@@ -1287,11 +1288,11 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="471" y="102" key="RollbackChangesDialog/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1615216355042" />
-    <state x="276" y="139" width="1141" height="710" key="SettingsEditor" timestamp="1617116137412">
+    <state x="276" y="139" width="1141" height="710" key="SettingsEditor" timestamp="1617122980497">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="156" y="93" key="SettingsEditor/0.0.1440.860/1440.0.1024.728@0.0.1440.860" timestamp="1609602410130" />
-    <state x="276" y="139" width="1141" height="710" key="SettingsEditor/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1617116137412" />
+    <state x="276" y="139" width="1141" height="710" key="SettingsEditor/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1617122980497" />
     <state x="499" y="317" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1616912740744">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
