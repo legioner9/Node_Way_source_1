@@ -32,7 +32,9 @@
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js_/LSstarter1/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js_/LSstarter1/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/+Учебная практика (ознакомительная практика) 2/_Контрольные мероприятия/Задание 1/~$дание 1.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/+Учебная практика (ознакомительная практика) 2/_Контрольные мероприятия/Задание 2/~$дание 2.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/+Учебная практика (ознакомительная практика) 2/_Контрольные мероприятия/Задание 3/~$дание 3.docx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,7 +137,7 @@
     <property name="add_unversioned_files" value="$PROJECT_DIR$/Jobs/SetGlobLoggers/ModLogger_1/Core/Logs/eLogs.txt&#10;true" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="14.15.3" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Jobs/excd.bpmn_js/bpmn-js_/starter1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Jobs" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.jscs" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -513,6 +515,7 @@
       <workItem from="1616910901647" duration="3923000" />
       <workItem from="1616949688951" duration="640000" />
       <workItem from="1616994432158" duration="9953000" />
+      <workItem from="1617075939268" duration="1246000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
