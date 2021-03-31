@@ -33,7 +33,19 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2" />
+    <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/st_fs_/ConstructFs/FsCreate/readFileSync/1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/st_fs_/ConstructFs/FsCreate/readFileSync/Examples/_with_err/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/st_fs_/ConstructFs/FsCreate/readFileSync/Examples/_with_err/fsLog/logErr.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/st_fs_/ConstructFs/FsCreate/readFileSync/Examples/_with_err/test_ini_module.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/st_fs_/ConstructFs/FsCreate/readFileSync/Examples/cleare/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/st_fs_/ConstructFs/FsCreate/readFileSync/Examples/cleare/fsLog/log.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/st_fs_/ConstructFs/FsCreate/readFileSync/Examples/cleare/fsLog/logErr.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/st_fs_/ConstructFs/FsCreate/readFileSync/Examples/cleare/test_ini_module.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/st_fs_/ConstructFs/FsCreate/readFileSync/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/st_fs_/ConstructFs/FsCreate/readFileSync/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/st_fs_/ConstructFs/FsCreate/readFileSync/_index.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -135,7 +147,7 @@
     <property name="add_unversioned_files" value="$PROJECT_DIR$/Jobs/SetGlobLoggers/ModLogger_1/Core/Logs/eLogs.txt&#10;true" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="14.15.3" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/node_modules_/st_fs_/ConstructFs/FsCreate/readdirSync/Test" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/node_modules_/st_fs_/ConstructFs/FsCreate/readFileSync" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.jscs" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -551,7 +563,7 @@
       <workItem from="1617095919208" duration="1197000" />
       <workItem from="1617097386978" duration="9799000" />
       <workItem from="1617116385941" duration="2450000" />
-      <workItem from="1617122553607" duration="388000" />
+      <workItem from="1617122553607" duration="1783000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
