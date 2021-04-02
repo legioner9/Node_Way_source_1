@@ -8,6 +8,11 @@ const Func_examp = () => {
     // BOUNDEN CALL define inner Env fnd Utils
     const _e = arht.env ( Func_examp );
     const _u = arht.utils ( Func_examp );
+    const is_1 = _e.EXIT || _e.UTEST || _e.ERR; // far first true
+    const is_2 = _e.EXIT || _e.ERR; // far first true
+
+    if ( !is_1 ) console.log ( 'archetype warning : shot_up_behaviour' );
+    if ( !is_2 ) console.log ( 'archetype warning : no_error_behaviour' );
     // _u._deb ();
     // _u._log ( 'mes _u._log' );
     // _u._log_deb ( 'mes _u._log_deb' );

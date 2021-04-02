@@ -35,116 +35,8 @@
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/.swp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/1.w/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/1.w/_consp/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/1.w/_consp/_author/_src/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/1.w/_consp/from_pdf.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/1.w/_pdf/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/1.w/_pdf/partica/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/1.w/_src/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/1.w/_this_conspect/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/1.w/_this_conspect/_src/src.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/1.w/_this_conspect/consp.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/1.w/_Контрольные мероприятия/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/Course_.accdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/_ancons/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/_ancons/ancors_1.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/_ancons/cat._ancons/dir._ancons.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/_consp/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/_consp/_author/_src/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/_consp/_src/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/_consp/consp.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/_consp/from_pdf.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/_mail/from/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/_pdf/GuschinaOM_1-55-18_Z.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/_pdf/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/_pdf/partica/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/_pdf/Идентификация_проблемной_области/Идентификация проблемной области — Студопедия.Нет.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/_pdf/Идентификация_проблемной_области/Идентификация проблемной области — Студопедия.Нет_files/_minus.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/_pdf/Идентификация_проблемной_области/Идентификация проблемной области — Студопедия.Нет_files/_plus.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/_pdf/Идентификация_проблемной_области/Идентификация проблемной области — Студопедия.Нет_files/all.js.Без названия" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/_pdf/Идентификация_проблемной_области/Идентификация проблемной области — Студопедия.Нет_files/async-ads.js.Без названия" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/_pdf/Идентификация_проблемной_области/Идентификация проблемной области — Студопедия.Нет_files/context.js.Без названия" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/_pdf/Идентификация_проблемной_области/Идентификация проблемной области — Студопедия.Нет_files/cse_element__ru.j.Без названия" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/_pdf/Идентификация_проблемной_области/Идентификация проблемной области — Студопедия.Нет_files/default+ru.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/_pdf/Идентификация_проблемной_области/Идентификация проблемной области — Студопедия.Нет_files/edugr2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/_pdf/Идентификация_проблемной_области/Идентификация проблемной области — Студопедия.Нет_files/edugr3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/_pdf/Идентификация_проблемной_области/Идентификация проблемной области — Студопедия.Нет_files/edugr4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/_pdf/Идентификация_проблемной_области/Идентификация проблемной области — Студопедия.Нет_files/f(1).txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/_pdf/Идентификация_проблемной_области/Идентификация проблемной области — Студопедия.Нет_files/f.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/_pdf/Идентификация_проблемной_области/Идентификация проблемной области — Студопедия.Нет_files/f55cfe317b71b4e7e.Без названия" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/_pdf/Идентификация_проблемной_области/Идентификация проблемной области — Студопедия.Нет_files/greensky.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/_pdf/Идентификация_проблемной_области/Идентификация проблемной области — Студопедия.Нет_files/image002.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/_pdf/Идентификация_проблемной_области/Идентификация проблемной области — Студопедия.Нет_files/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/_pdf/Идентификация_проблемной_области/Идентификация проблемной области — Студопедия.Нет_files/share.js.Без названия" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/_pdf/Идентификация_проблемной_области/Идентификация проблемной области — Студопедия.Нет_files/widget" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/_pdf/Идентификация_проблемной_области/Идентификация проблемной области — Студопедия.Нет_files/widget(1)" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/_pdf/к_пояснительной_записки/Дипломного проекта (работы).html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/_pdf/к_пояснительной_записки/Дипломного проекта (работы)_files/2038943760-postmessagerelay.js.Без названия" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/_pdf/к_пояснительной_записки/Дипломного проекта (работы)_files/714088_html_23a5898.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/_pdf/к_пояснительной_записки/Дипломного проекта (работы)_files/714088_html_4a886251.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/_pdf/к_пояснительной_записки/Дипломного проекта (работы)_files/714088_html_4d54eed2.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/_pdf/к_пояснительной_записки/Дипломного проекта (работы)_files/714088_html_5f4c07f7.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/_pdf/к_пояснительной_записки/Дипломного проекта (работы)_files/714088_html_6b71c2e7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/_pdf/к_пояснительной_записки/Дипломного проекта (работы)_files/714088_html_m173e426.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/_pdf/к_пояснительной_записки/Дипломного проекта (работы)_files/714088_html_m2a92e6be.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/_pdf/к_пояснительной_записки/Дипломного проекта (работы)_files/714088_html_m4956d726.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/_pdf/к_пояснительной_записки/Дипломного проекта (работы)_files/714088_html_m5af5717e.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/_pdf/к_пояснительной_записки/Дипломного проекта (работы)_files/cb=gapi(1).loaded_0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/_pdf/к_пояснительной_записки/Дипломного проекта (работы)_files/cb=gapi.loaded_0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/_pdf/к_пояснительной_записки/Дипломного проекта (работы)_files/cb=gapi.loaded_1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/_pdf/к_пояснительной_записки/Дипломного проекта (работы)_files/doc.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/_pdf/к_пояснительной_записки/Дипломного проекта (работы)_files/fastbutton.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/_pdf/к_пояснительной_записки/Дипломного проекта (работы)_files/hit" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/_pdf/к_пояснительной_записки/Дипломного проекта (работы)_files/iui.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/_pdf/к_пояснительной_записки/Дипломного проекта (работы)_files/plusone.js.Без названия" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/_pdf/к_пояснительной_записки/Дипломного проекта (работы)_files/postmessageRelay.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/_pdf/к_пояснительной_записки/Дипломного проекта (работы)_files/rpc_shindig_random.js.Без названия" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/_pdf/к_пояснительной_записки/Дипломного проекта (работы)_files/rud.exdat.com.37487.js.Без названия" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/_pdf/к_пояснительной_записки/Дипломного проекта (работы)_files/rud.exdat.com.56210.js.Без названия" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/_pdf/к_пояснительной_записки/Дипломного проекта (работы)_files/rud.exdat.com.56233.js.Без названия" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/_pdf/к_пояснительной_записки/Дипломного проекта (работы)_files/rud_logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/_pdf/к_пояснительной_записки/Дипломного проекта (работы)_files/rudexdat.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/_pdf/к_пояснительной_записки/Дипломного проекта (работы)_files/saved_resource(1).html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/_pdf/к_пояснительной_записки/Дипломного проекта (работы)_files/saved_resource.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/_pdf/к_пояснительной_записки/Дипломного проекта (работы)_files/star.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/_pdf/к_пояснительной_записки/Дипломного проекта (работы)_files/view(1).html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/_pdf/к_пояснительной_записки/Дипломного проекта (работы)_files/view(2).html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/_pdf/к_пояснительной_записки/Дипломного проекта (работы)_files/view.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/_src/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/_Контрольные мероприятия/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/_Контрольные мероприятия/Практическое_задание/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/cat.__Init/dir.__Init.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/cat.Основы_моделирования_проектирования_программного обеспечения_курсовая/dir.Основы_моделирования_проектирования_программного обеспечения_курсовая.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/Заявление_закрепление_темы/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/Заявление_закрепление_темы/_consp/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/Заявление_закрепление_темы/_consp/_author/_src/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/Заявление_закрепление_темы/_consp/from_pdf.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/Заявление_закрепление_темы/_pdf/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/Заявление_закрепление_темы/_pdf/partica/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/Заявление_закрепление_темы/_src/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/Заявление_закрепление_темы/_src/Заявление.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/Заявление_закрепление_темы/_src/Заявление_готовое.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/Заявление_закрепление_темы/_this_conspect/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/Заявление_закрепление_темы/_this_conspect/_src/src.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/Заявление_закрепление_темы/_this_conspect/consp.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/Заявление_закрепление_темы/_Контрольные мероприятия/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/Курсовая_работа/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/Курсовая_работа/_consp/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/Курсовая_работа/_consp/_author/_src/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/Курсовая_работа/_consp/from_pdf.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/Курсовая_работа/_pdf/Mill_R_K_Upravlenie_restoranom.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/Курсовая_работа/_pdf/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/Курсовая_работа/_pdf/partica/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/Курсовая_работа/_src/Kursovaya.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/Курсовая_работа/_src/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/Курсовая_работа/_src/titul_kursovay.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/Курсовая_работа/_this_conspect/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/Курсовая_работа/_this_conspect/_src/src.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/Курсовая_работа/_this_conspect/consp.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/_TGUniversitet/I_kurs/Основы_моделирования_проектирования_программного обеспечения_курсовая/Курсовая_работа/_Контрольные мероприятия/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Production/area_function_v.1.1.0/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Production/area_function_v.1.1.0/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_st___00/Set___00/__/_/Test/main_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_st___00/Set___00/__/_/Test/main_test.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -247,7 +139,7 @@
     <property name="add_unversioned_files" value="$PROJECT_DIR$/Jobs/SetGlobLoggers/ModLogger_1/Core/Logs/eLogs.txt&#10;true" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="14.15.3" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/node_modules_/st_fs_/ConstructFs/FsCreate/isDirectory/Test" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/node_modules_/_node" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.jscs" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -283,19 +175,19 @@
     </option>
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Node_projects\Node_Way\node_modules_" />
+      <recent name="F:\Node_projects\Node_Way\node_modules_\st_fs_\UtilFs\__\_" />
+      <recent name="F:\Node_projects\Node_Way\node_modules_\st_fs_" />
+      <recent name="F:\Node_projects\Node_Way\node_modules_\st_fs_\ConstructFs\FsCreate\isDirectory\Test" />
+      <recent name="F:\Node_projects\Node_Way\node_modules_\st_fs_\ConstructFs\FsCreate\readFileSync" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\Node_projects\Node_Way\Production\_arhive" />
       <recent name="F:\Node_projects\Node_Way\Education\Gulp\Gulp_2\gulp\init" />
       <recent name="F:\Node_projects\Node_Way\Store\Global_configs\BachRc" />
       <recent name="F:\Node_projects\Node_Way\ToUse\cloneFileToDir\Dir_in_num_2_3_level" />
       <recent name="F:\Node_projects\Node_Way\ToUse\cloneFileToDir" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\Node_projects\Node_Way\node_modules_\st_fs_\ConstructFs\FsCreate\isDirectory\Test" />
-      <recent name="F:\Node_projects\Node_Way\node_modules_\st_fs_\ConstructFs\FsCreate\readFileSync" />
-      <recent name="F:\Node_projects\Node_Way\node_modules_\st_fs_\ConstructFs\FsCreate\readdirSync\Test" />
-      <recent name="F:\Node_projects\Node_Way\node_modules_\st_fs_\ConstructFs\FsCreate\readdirSync" />
-      <recent name="F:\Node_projects\Node_Way\Jobs" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.add_require.js">
@@ -666,6 +558,9 @@
       <workItem from="1617122553607" duration="2625000" />
       <workItem from="1617204547120" duration="4416000" />
       <workItem from="1617251456121" duration="122000" />
+      <workItem from="1617373412524" duration="3112000" />
+      <workItem from="1617381339529" duration="866000" />
+      <workItem from="1617382505769" duration="212000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
@@ -1402,11 +1297,11 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="471" y="102" key="RollbackChangesDialog/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1615216355042" />
-    <state x="276" y="139" width="1141" height="710" key="SettingsEditor" timestamp="1617122980497">
+    <state x="152" y="115" width="1141" height="710" key="SettingsEditor" timestamp="1617382346486">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="156" y="93" key="SettingsEditor/0.0.1440.860/1440.0.1024.728@0.0.1440.860" timestamp="1609602410130" />
-    <state x="276" y="139" width="1141" height="710" key="SettingsEditor/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1617122980497" />
+    <state x="152" y="115" width="1141" height="710" key="SettingsEditor/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1617382346486" />
     <state x="499" y="317" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1616912740744">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
