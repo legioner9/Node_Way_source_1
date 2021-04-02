@@ -34,9 +34,138 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/appendFileSync/1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/appendFileSync/Examples/1/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/appendFileSync/Examples/1/test_ini_module.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/appendFileSync/Examples/cleare/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/appendFileSync/Examples/cleare/file_for_test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/appendFileSync/Examples/cleare/test_ini_module.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/appendFileSync/Examples/with_err/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/appendFileSync/Examples/with_err/fsLog/logErr.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/appendFileSync/Examples/with_err/test_ini_module.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/appendFileSync/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/appendFileSync/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/isDirectory/Production/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/isDirectory/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/isDirectory/Test/1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/isDirectory/Test/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/isDirectory/Test/fsLog/log.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/isDirectory/Test/fsLog/logErr.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/isDirectory/Test/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/isDirectory/Test/main_test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/isDirectory/Test/s_test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/isDirectory/Test/u_test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/isDirectory/_index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/isDirectory/_versions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/isDirectory/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/isFile/Production/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/isFile/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/isFile/Test/1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/isFile/Test/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/isFile/Test/_main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/isFile/Test/fsLog/log.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/isFile/Test/fsLog/logErr.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/isFile/Test/main_test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/isFile/Test/u_test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/isFile/_index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/isFile/_versions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/isFile/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/mkdirSync/Production/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/mkdirSync/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/mkdirSync/Test/1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/mkdirSync/Test/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/mkdirSync/Test/_main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/mkdirSync/Test/fsLog/log.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/mkdirSync/Test/fsLog/logErr.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/mkdirSync/Test/main_test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/mkdirSync/Test/u_test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/mkdirSync/_index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/mkdirSync/_versions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/mkdirSync/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/readFileSync/Production/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/readFileSync/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/readFileSync/Test/1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/readFileSync/Test/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/readFileSync/Test/_main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/readFileSync/Test/fsLog/log.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/readFileSync/Test/fsLog/logErr.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/readFileSync/Test/main_test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/readFileSync/Test/u_test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/readFileSync/_index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/readFileSync/_versions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/readFileSync/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/readdirSync/Production/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/readdirSync/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/readdirSync/Test/1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/readdirSync/Test/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/readdirSync/Test/_main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/readdirSync/Test/_u_test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/readdirSync/Test/fsLog/log.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/readdirSync/Test/fsLog/logErr.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/readdirSync/Test/main_test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/readdirSync/Test/u_test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/readdirSync/_index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/readdirSync/_versions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/readdirSync/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/rmdirSync/1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/rmdirSync/Examples/_with_err/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/rmdirSync/Examples/_with_err/fsLog/logErr.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/rmdirSync/Examples/_with_err/test_ini_module.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/rmdirSync/Examples/cleare/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/rmdirSync/Examples/cleare/fsLog/logErr.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/rmdirSync/Examples/cleare/test_ini_module.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/rmdirSync/_ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/rmdirSync/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/stats/1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/stats/Examples/cleare/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/stats/Examples/cleare/fsLog/log.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/stats/Examples/cleare/test_ini_module.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/stats/Examples/with_err/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/stats/Examples/with_err/fsLog/logErr.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/stats/Examples/with_err/test_ini_module.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/stats/_ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/stats/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/unlinkSync/1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/unlinkSync/Examples/_with_err/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/unlinkSync/Examples/_with_err/fsLog/logErr.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/unlinkSync/Examples/_with_err/test_ini_module.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/unlinkSync/Examples/cleare/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/unlinkSync/Examples/cleare/fsLog/log.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/unlinkSync/Examples/cleare/test_ini_module.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/unlinkSync/_ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/unlinkSync/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/writeFileSync/1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/writeFileSync/Examples/1/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/writeFileSync/Examples/1/test_ini_module.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/writeFileSync/Examples/cleare/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/writeFileSync/Examples/cleare/file_for_test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/writeFileSync/Examples/cleare/fsLog/log.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/writeFileSync/Examples/cleare/test_ini_module.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/writeFileSync/Examples/with_err/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/writeFileSync/Examples/with_err/fsLog/logErr.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/writeFileSync/Examples/with_err/test_ini_module.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/writeFileSync/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/writeFileSync/Test_behavior_0.1/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/writeFileSync/Test_behavior_0.1/_selftest_func.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/writeFileSync/Test_behavior_0.1/mane_test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/writeFileSync/Test_behavior_0.1/mod_test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/writeFileSync/Test_behavior_own_1/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/writeFileSync/Test_behavior_own_1/_selftest_func.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/writeFileSync/Test_behavior_own_1/mane_test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/writeFileSync/Test_behavior_own_1/mod_test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/writeFileSync/Test_behavior_own_2/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/writeFileSync/Test_behavior_own_2/_selftest_func.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/writeFileSync/Test_behavior_own_2/mane_test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/writeFileSync/Test_behavior_own_2/mod_test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/writeFileSync/Test_behavior_toProduction/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/writeFileSync/Test_behavior_toProduction/_selftest_func.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/writeFileSync/Test_behavior_toProduction/mane_test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/writeFileSync/Test_behavior_toProduction/mod_test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/writeFileSync/Test_behavior_toProduction/test_ini_module.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/writeFileSync/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Production/area_function_v.1.1.0/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Production/area_function_v.1.1.0/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_st___00/Set___00/__/_/Test/main_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_st___00/Set___00/__/_/Test/main_test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_utest/node/modules_/all/Test/add_require.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_utest/node/modules_/all/Test/add_require.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/st_ini_fs_/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/st_ini_fs_/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,7 +268,7 @@
     <property name="add_unversioned_files" value="$PROJECT_DIR$/Jobs/SetGlobLoggers/ModLogger_1/Core/Logs/eLogs.txt&#10;true" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="14.15.3" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/node_modules_/_node" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/node_modules_/_node/_fs" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.jscs" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -175,19 +304,19 @@
     </option>
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\Node_projects\Node_Way\node_modules_" />
-      <recent name="F:\Node_projects\Node_Way\node_modules_\st_fs_\UtilFs\__\_" />
-      <recent name="F:\Node_projects\Node_Way\node_modules_\st_fs_" />
-      <recent name="F:\Node_projects\Node_Way\node_modules_\st_fs_\ConstructFs\FsCreate\isDirectory\Test" />
-      <recent name="F:\Node_projects\Node_Way\node_modules_\st_fs_\ConstructFs\FsCreate\readFileSync" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\Node_projects\Node_Way\Production\_arhive" />
       <recent name="F:\Node_projects\Node_Way\Education\Gulp\Gulp_2\gulp\init" />
       <recent name="F:\Node_projects\Node_Way\Store\Global_configs\BachRc" />
       <recent name="F:\Node_projects\Node_Way\ToUse\cloneFileToDir\Dir_in_num_2_3_level" />
       <recent name="F:\Node_projects\Node_Way\ToUse\cloneFileToDir" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Node_projects\Node_Way\node_modules_\_node\_fs" />
+      <recent name="F:\Node_projects\Node_Way\node_modules_\_node" />
+      <recent name="F:\Node_projects\Node_Way\node_modules_" />
+      <recent name="F:\Node_projects\Node_Way\node_modules_\st_fs_\UtilFs\__\_" />
+      <recent name="F:\Node_projects\Node_Way\node_modules_\st_fs_" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.add_require.js">
@@ -560,7 +689,7 @@
       <workItem from="1617251456121" duration="122000" />
       <workItem from="1617373412524" duration="3112000" />
       <workItem from="1617381339529" duration="866000" />
-      <workItem from="1617382505769" duration="212000" />
+      <workItem from="1617382505769" duration="4382000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
@@ -1297,20 +1426,20 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="471" y="102" key="RollbackChangesDialog/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1615216355042" />
-    <state x="152" y="115" width="1141" height="710" key="SettingsEditor" timestamp="1617382346486">
+    <state x="152" y="115" width="1141" height="710" key="SettingsEditor" timestamp="1617383114043">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="156" y="93" key="SettingsEditor/0.0.1440.860/1440.0.1024.728@0.0.1440.860" timestamp="1609602410130" />
-    <state x="152" y="115" width="1141" height="710" key="SettingsEditor/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1617382346486" />
+    <state x="152" y="115" width="1141" height="710" key="SettingsEditor/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1617383114043" />
     <state x="499" y="317" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1616912740744">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="499" y="317" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1616912740744" />
-    <state x="1440" y="0" width="761" height="882" key="dock-window-1" timestamp="1617089464017">
+    <state x="1440" y="0" width="1109" height="898" key="dock-window-1" timestamp="1617385835668">
       <screen x="1440" y="0" width="1280" height="984" />
     </state>
     <state x="1630" y="0" width="914" height="989" key="dock-window-1/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1609499426610" />
-    <state x="1440" y="0" width="761" height="882" key="dock-window-1/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1617089464016" />
+    <state x="1440" y="0" width="1109" height="898" key="dock-window-1/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1617385835668" />
     <state x="1787" y="0" width="949" height="960" key="dock-window-2" timestamp="1617081736080">
       <screen x="1440" y="0" width="1280" height="984" />
     </state>
