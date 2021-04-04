@@ -35,43 +35,9 @@
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/isDirectory/Test/main_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/isDirectory/Test/main_test.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/isDirectory/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/isDirectory/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_util/Set___00/__/_/Production/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_util/___/__/_/Production/ReadMe.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_util/Set___00/__/_/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_util/___/__/_/ReadMe.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_util/Set___00/__/_/Test/1.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_util/___/__/_/Test/1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_util/Set___00/__/_/Test/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_util/___/__/_/Test/ReadMe.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_util/Set___00/__/_/Test/fsLog/log.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_util/___/__/_/Test/fsLog/log.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_util/Set___00/__/_/Test/fsLog/logErr.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_util/___/__/_/Test/fsLog/logErr.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_util/Set___00/__/_/Test/main_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_util/___/__/_/Test/main_test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_util/Set___00/__/_/_versions.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_util/___/__/_/_versions.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_util/Set___00/__/_/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_util/___/__/_/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_util/Set___00/__/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_util/___/__/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_util/Set___00/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_util/___/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/st___00/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/st___00/Set___00/__/_/Production/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/st___00/Set___00/__/_/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/st___00/Set___00/__/_/Test/1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/st___00/Set___00/__/_/Test/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/st___00/Set___00/__/_/Test/main_test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/st___00/Set___00/__/_/_versions.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/st___00/Set___00/__/_/examp.index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/st___00/Set___00/__/_/index.init.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/st___00/Set___00/__/_/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/st___00/Set___00/__/_/index.v.1.0.0.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/st___00/Set___00/__/_v.2/Production/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/st___00/Set___00/__/_v.2/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/st___00/Set___00/__/_v.2/Test/1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/st___00/Set___00/__/_v.2/Test/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/st___00/Set___00/__/_v.2/Test/main_test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/st___00/Set___00/__/_v.2/_versions.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/st___00/Set___00/__/_v.2/examp.index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/st___00/Set___00/__/_v.2/index.init.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/st___00/Set___00/__/_v.2/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/st___00/Set___00/__/_v.2/index.v.1.0.0.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/st___00/Set___00/__/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/st___00/Set___00/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/st___00/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/st___00/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_util/___/__/wee/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_util/___/__/wee/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
