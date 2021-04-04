@@ -35,17 +35,15 @@
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/isDirectory/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/isDirectory/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/isFile/Test/u_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/isFile/Test/u_test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/isFile/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/isFile/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/mkdirSync/Test/u_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/mkdirSync/Test/u_test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/mkdirSync/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/mkdirSync/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/readFileSync/Test/u_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/readFileSync/Test/u_test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/readFileSync/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/readFileSync/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/readdirSync/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/readdirSync/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/rmdirSync/1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/rmdirSync/Examples/_with_err/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/rmdirSync/Examples/_with_err/fsLog/logErr.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/rmdirSync/Examples/_with_err/test_ini_module.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/rmdirSync/Examples/cleare/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/rmdirSync/Examples/cleare/fsLog/logErr.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/rmdirSync/Examples/cleare/test_ini_module.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/rmdirSync/_ReadMe.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/rmdirSync/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/rmdirSync/_index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_utest/node/modules_/all/Test/add_require.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_utest/node/modules_/all/Test/add_require.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_util/___/__/wee/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_util/___/__/wee/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -148,7 +146,7 @@
     <property name="add_unversioned_files" value="$PROJECT_DIR$/Jobs/SetGlobLoggers/ModLogger_1/Core/Logs/eLogs.txt&#10;true" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="14.15.3" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/node_modules_" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/node_modules_/_node/_fs/rmdirSync/Test" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.jscs" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -185,11 +183,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Node_projects\Node_Way\node_modules_\_node\_fs\rmdirSync\Test" />
+      <recent name="F:\Node_projects\Node_Way\node_modules_\_node\_fs\rmdirSync\Test\TEST_DIR" />
+      <recent name="F:\Node_projects\Node_Way\node_modules_\_node\_fs\rmdirSync" />
       <recent name="F:\Node_projects\Node_Way\node_modules_" />
       <recent name="F:\Node_projects\Node_Way\node_modules_\st_ex1_deep1_\Set___00\__\_" />
-      <recent name="F:\Node_projects\Node_Way\node_modules_\st_ex1_deep1_\Set___00\__" />
-      <recent name="F:\Node_projects\Node_Way\node_modules_\st_ex1_deep1_" />
-      <recent name="F:\Node_projects\Node_Way\node_modules_\_util\___\__" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\Node_projects\Node_Way\Production\_arhive" />
@@ -1333,14 +1331,14 @@
       <screen x="1440" y="0" width="1280" height="984" />
     </state>
     <state x="1476" y="14" width="1189" height="877" key="dock-window-4/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1617529502535" />
-    <state x="1440" y="0" width="949" height="734" key="dock-window-5" timestamp="1616331193106">
+    <state x="1654" y="0" width="785" height="559" key="dock-window-5" timestamp="1617530828486">
       <screen x="1440" y="0" width="1280" height="984" />
     </state>
-    <state x="1440" y="0" width="949" height="734" key="dock-window-5/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1616331193106" />
-    <state x="1437" y="9" width="949" height="735" key="dock-window-6" timestamp="1616592983716">
+    <state x="1654" y="0" width="785" height="559" key="dock-window-5/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1617530828486" />
+    <state x="1483" y="45" width="785" height="891" key="dock-window-6" timestamp="1617531174815">
       <screen x="1440" y="0" width="1280" height="984" />
     </state>
-    <state x="1437" y="9" width="949" height="735" key="dock-window-6/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1616592983716" />
+    <state x="1483" y="45" width="785" height="891" key="dock-window-6/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1617531174815" />
     <state x="376" y="197" key="run.anything.popup" timestamp="1610253483046">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
