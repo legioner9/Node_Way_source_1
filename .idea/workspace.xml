@@ -35,15 +35,15 @@
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/rmdirSync/1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/rmdirSync/Examples/_with_err/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/rmdirSync/Examples/_with_err/fsLog/logErr.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/rmdirSync/Examples/_with_err/test_ini_module.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/rmdirSync/Examples/cleare/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/rmdirSync/Examples/cleare/fsLog/logErr.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/rmdirSync/Examples/cleare/test_ini_module.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/rmdirSync/_ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/rmdirSync/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/rmdirSync/_index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/isDirectory/Test/s_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/isDirectory/Test/s_test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/isDirectory/Test/u_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/isDirectory/Test/_u_test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/isFile/Test/u_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/isFile/Test/u_test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/mkdirSync/Test/u_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/mkdirSync/Test/u_test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/readFileSync/Test/u_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/readFileSync/Test/u_test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/readdirSync/Test/main_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/readdirSync/Test/main_test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/readdirSync/Test/u_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/readdirSync/Test/u_test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/rmdirSync/Test/main_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/rmdirSync/Test/main_test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/st_ini_fs_/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/st_ini_fs_/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,7 +146,7 @@
     <property name="add_unversioned_files" value="$PROJECT_DIR$/Jobs/SetGlobLoggers/ModLogger_1/Core/Logs/eLogs.txt&#10;true" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="14.15.3" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/node_modules_/_node/_fs/rmdirSync/Test" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/node_modules_/_node/_fs/isDirectory/Test" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.jscs" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -183,11 +183,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Node_projects\Node_Way\node_modules_\_node\_fs\isDirectory\Test" />
       <recent name="F:\Node_projects\Node_Way\node_modules_\_node\_fs\rmdirSync\Test" />
       <recent name="F:\Node_projects\Node_Way\node_modules_\_node\_fs\rmdirSync\Test\TEST_DIR" />
       <recent name="F:\Node_projects\Node_Way\node_modules_\_node\_fs\rmdirSync" />
       <recent name="F:\Node_projects\Node_Way\node_modules_" />
-      <recent name="F:\Node_projects\Node_Way\node_modules_\st_ex1_deep1_\Set___00\__\_" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\Node_projects\Node_Way\Production\_arhive" />
@@ -197,7 +197,7 @@
       <recent name="F:\Node_projects\Node_Way\ToUse\cloneFileToDir" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.add_require.js">
+  <component name="RunManager" selected="Node.js.s_test.js">
     <configuration name="a.html" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/Node_Way/Node_Docs/Education/IlKan/learn.javascript.ru/Browser/1/1.1/a.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -213,10 +213,10 @@
     <configuration name="add_require.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/node_modules_/_utest/node/modules_/all/Test/add_require.js" working-dir="$PROJECT_DIR$/node_modules_/_utest/node/modules_/all/Test">
       <method v="2" />
     </configuration>
-    <configuration name="main.js (2)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/node_modules_/st_fs_/ConstructFs/FsCreate/isDirectory/Test/main.js" working-dir="$PROJECT_DIR$/node_modules_/st_fs_/ConstructFs/FsCreate/isDirectory/Test">
+    <configuration name="s_test.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/node_modules_/_node/_fs/isDirectory/Test/s_test.js" working-dir="$PROJECT_DIR$/node_modules_/_node/_fs/isDirectory/Test">
       <method v="2" />
     </configuration>
-    <configuration name="u_test.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/node_modules_/st_fs_/ConstructFs/FsCreate/isDirectory/Test/u_test.js" working-dir="$PROJECT_DIR$/node_modules_/st_fs_/ConstructFs/FsCreate/isDirectory/Test">
+    <configuration name="u_test.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/node_modules_/_node/_fs/isDirectory/Test/u_test.js" working-dir="$PROJECT_DIR$/node_modules_/_node/_fs/isDirectory/Test">
       <method v="2" />
     </configuration>
     <configuration name="hello" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -245,19 +245,19 @@
       <item itemvalue="JavaScript Debug.a.html" />
       <item itemvalue="Node.js.6-parse_1.js" />
       <item itemvalue="Node.js.Object.create.js" />
-      <item itemvalue="Node.js.main.js (2)" />
-      <item itemvalue="Node.js.u_test.js" />
       <item itemvalue="Node.js.3-prompt.js" />
       <item itemvalue="Node.js.add_require.js" />
       <item itemvalue="Python.hello" />
+      <item itemvalue="Node.js.u_test.js (1)" />
+      <item itemvalue="Node.js.s_test.js" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.s_test.js" />
+        <item itemvalue="Node.js.u_test.js (1)" />
         <item itemvalue="Node.js.add_require.js" />
         <item itemvalue="Python.hello" />
         <item itemvalue="Node.js.3-prompt.js" />
-        <item itemvalue="Node.js.u_test.js" />
-        <item itemvalue="Node.js.main.js (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -1232,26 +1232,26 @@
     </state>
     <state x="519" y="178" key="FileChooserDialogImpl/0.0.1440.860/1440.0.1024.728@0.0.1440.860" timestamp="1609601504304" />
     <state x="519" y="178" key="FileChooserDialogImpl/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1617123010537" />
-    <state width="1340" height="175" key="GridCell.Tab.0.bottom" timestamp="1617118614374">
+    <state width="1340" height="175" key="GridCell.Tab.0.bottom" timestamp="1617534213961">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1216" height="199" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1609422715716" />
-    <state width="1340" height="175" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1617118614374" />
-    <state width="1340" height="175" key="GridCell.Tab.0.center" timestamp="1617118614374">
+    <state width="1340" height="175" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1617534213961" />
+    <state width="1340" height="175" key="GridCell.Tab.0.center" timestamp="1617534213961">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1216" height="199" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1609422715715" />
-    <state width="1340" height="175" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1617118614374" />
-    <state width="1340" height="175" key="GridCell.Tab.0.left" timestamp="1617118614373">
+    <state width="1340" height="175" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1617534213961" />
+    <state width="1340" height="175" key="GridCell.Tab.0.left" timestamp="1617534213960">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1216" height="199" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1609422715715" />
-    <state width="1340" height="175" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1617118614373" />
-    <state width="1340" height="175" key="GridCell.Tab.0.right" timestamp="1617118614374">
+    <state width="1340" height="175" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1617534213960" />
+    <state width="1340" height="175" key="GridCell.Tab.0.right" timestamp="1617534213961">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1216" height="199" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1609422715715" />
-    <state width="1340" height="175" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1617118614374" />
+    <state width="1340" height="175" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1617534213961" />
     <state width="1340" height="232" key="GridCell.Tab.1.bottom" timestamp="1617112318073">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
