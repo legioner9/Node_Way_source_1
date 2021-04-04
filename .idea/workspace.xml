@@ -33,24 +33,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/rmdirSync/Test/u_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/rmdirSync/Test/u_test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/rmdirSync/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/rmdirSync/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/stats/1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/stats/Examples/cleare/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/stats/Examples/cleare/fsLog/log.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/stats/Examples/cleare/test_ini_module.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/stats/Examples/with_err/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/stats/Examples/with_err/fsLog/logErr.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/stats/Examples/with_err/test_ini_module.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/stats/_ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/stats/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/writeFileSync/Test/main_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/writeFileSync/Test/main_test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/writeFileSync/Test/u_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/writeFileSync/Test/u_test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/writeFileSync/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/writeFileSync/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_utest/node/modules_/all/Test/add_require.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_utest/node/modules_/all/Test/add_require.js" afterDir="false" />
-    </list>
+    <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
