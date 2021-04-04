@@ -34,10 +34,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/isDirectory/Test/main_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/isDirectory/Test/main_test.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/isDirectory/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/isDirectory/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_util/___/__/wee/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_util/___/__/wee/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/isFile/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/isFile/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -1312,11 +1310,11 @@
     </state>
     <state x="1630" y="0" width="914" height="989" key="dock-window-1/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1609499426610" />
     <state x="1459" y="9" width="785" height="889" key="dock-window-1/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1617512742258" />
-    <state x="1463" y="3" width="785" height="892" key="dock-window-2" timestamp="1617520223577">
+    <state x="1469" y="3" width="785" height="892" key="dock-window-2" timestamp="1617522717058">
       <screen x="1440" y="0" width="1280" height="984" />
     </state>
     <state x="1832" y="27" width="881" height="969" key="dock-window-2/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1608978415212" />
-    <state x="1463" y="3" width="785" height="892" key="dock-window-2/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1617520223577" />
+    <state x="1469" y="3" width="785" height="892" key="dock-window-2/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1617522717058" />
     <state x="1566" y="93" width="949" height="873" key="dock-window-3" timestamp="1616865729152">
       <screen x="1440" y="0" width="1280" height="984" />
     </state>
