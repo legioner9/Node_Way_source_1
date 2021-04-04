@@ -34,9 +34,44 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
-      <change beforePath="$PROJECT_DIR$/node_modules_/_aop/archetypes/class/arht/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_aop/archetypes/class/arht/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/isDirectory/Test/main_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/isDirectory/Test/main_test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/isDirectory/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/isDirectory/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_util/Set___00/__/_/Production/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_util/___/__/_/Production/ReadMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_util/Set___00/__/_/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_util/___/__/_/ReadMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_util/Set___00/__/_/Test/1.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_util/___/__/_/Test/1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_util/Set___00/__/_/Test/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_util/___/__/_/Test/ReadMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_util/Set___00/__/_/Test/fsLog/log.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_util/___/__/_/Test/fsLog/log.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_util/Set___00/__/_/Test/fsLog/logErr.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_util/___/__/_/Test/fsLog/logErr.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_util/Set___00/__/_/Test/main_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_util/___/__/_/Test/main_test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_util/Set___00/__/_/_versions.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_util/___/__/_/_versions.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_util/Set___00/__/_/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_util/___/__/_/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_util/Set___00/__/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_util/___/__/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_util/Set___00/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_util/___/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/st___00/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/st___00/Set___00/__/_/Production/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/st___00/Set___00/__/_/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/st___00/Set___00/__/_/Test/1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/st___00/Set___00/__/_/Test/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/st___00/Set___00/__/_/Test/main_test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/st___00/Set___00/__/_/_versions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/st___00/Set___00/__/_/examp.index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/st___00/Set___00/__/_/index.init.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/st___00/Set___00/__/_/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/st___00/Set___00/__/_/index.v.1.0.0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/st___00/Set___00/__/_v.2/Production/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/st___00/Set___00/__/_v.2/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/st___00/Set___00/__/_v.2/Test/1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/st___00/Set___00/__/_v.2/Test/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/st___00/Set___00/__/_v.2/Test/main_test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/st___00/Set___00/__/_v.2/_versions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/st___00/Set___00/__/_v.2/examp.index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/st___00/Set___00/__/_v.2/index.init.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/st___00/Set___00/__/_v.2/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/st___00/Set___00/__/_v.2/index.v.1.0.0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/st___00/Set___00/__/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/st___00/Set___00/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/st___00/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/st___00/package.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,7 +174,7 @@
     <property name="add_unversioned_files" value="$PROJECT_DIR$/Jobs/SetGlobLoggers/ModLogger_1/Core/Logs/eLogs.txt&#10;true" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="14.15.3" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/node_modules_/_node/_fs/writeFileSync" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/node_modules_" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.jscs" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -163,7 +198,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
     <property name="settings.editor.splitter.proportion" value="0.23273855" />
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains_\IntelliJ IDEA 2020.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
@@ -175,19 +210,19 @@
     </option>
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Node_projects\Node_Way\node_modules_" />
+      <recent name="F:\Node_projects\Node_Way\node_modules_\st_ex1_deep1_\Set___00\__\_" />
+      <recent name="F:\Node_projects\Node_Way\node_modules_\st_ex1_deep1_\Set___00\__" />
+      <recent name="F:\Node_projects\Node_Way\node_modules_\st_ex1_deep1_" />
+      <recent name="F:\Node_projects\Node_Way\node_modules_\_util\___\__" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\Node_projects\Node_Way\Production\_arhive" />
       <recent name="F:\Node_projects\Node_Way\Education\Gulp\Gulp_2\gulp\init" />
       <recent name="F:\Node_projects\Node_Way\Store\Global_configs\BachRc" />
       <recent name="F:\Node_projects\Node_Way\ToUse\cloneFileToDir\Dir_in_num_2_3_level" />
       <recent name="F:\Node_projects\Node_Way\ToUse\cloneFileToDir" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\Node_projects\Node_Way\node_modules_\_node\_fs\writeFileSync" />
-      <recent name="F:\Node_projects\Node_Way\node_modules_\_node\_fs" />
-      <recent name="F:\Node_projects\Node_Way\node_modules_\_node" />
-      <recent name="F:\Node_projects\Node_Way\node_modules_" />
-      <recent name="F:\Node_projects\Node_Way\node_modules_\st_fs_\UtilFs\__\_" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.add_require.js">
@@ -1297,11 +1332,11 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="471" y="102" key="RollbackChangesDialog/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1615216355042" />
-    <state x="152" y="115" width="1141" height="710" key="SettingsEditor" timestamp="1617383114043">
+    <state x="152" y="115" width="1141" height="710" key="SettingsEditor" timestamp="1617519893554">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="156" y="93" key="SettingsEditor/0.0.1440.860/1440.0.1024.728@0.0.1440.860" timestamp="1609602410130" />
-    <state x="152" y="115" width="1141" height="710" key="SettingsEditor/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1617383114043" />
+    <state x="152" y="115" width="1141" height="710" key="SettingsEditor/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1617519893554" />
     <state x="499" y="317" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1616912740744">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
@@ -1311,11 +1346,11 @@
     </state>
     <state x="1630" y="0" width="914" height="989" key="dock-window-1/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1609499426610" />
     <state x="1459" y="9" width="785" height="889" key="dock-window-1/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1617512742258" />
-    <state x="1448" y="0" width="994" height="847" key="dock-window-2" timestamp="1617389046352">
+    <state x="1463" y="3" width="785" height="892" key="dock-window-2" timestamp="1617520223577">
       <screen x="1440" y="0" width="1280" height="984" />
     </state>
     <state x="1832" y="27" width="881" height="969" key="dock-window-2/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1608978415212" />
-    <state x="1448" y="0" width="994" height="847" key="dock-window-2/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1617389046352" />
+    <state x="1463" y="3" width="785" height="892" key="dock-window-2/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1617520223577" />
     <state x="1566" y="93" width="949" height="873" key="dock-window-3" timestamp="1616865729152">
       <screen x="1440" y="0" width="1280" height="984" />
     </state>
