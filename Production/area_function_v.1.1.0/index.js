@@ -1,18 +1,16 @@
 // area_function_v.1.1.0
 
 const { _require } = require ( 'st_require' );
-const arht = _require ( '_aop' ).archetypes.function.arht;
+const arht = new ( _require ( '_aop' ).archetypes.class.arht );
+const Fs = require ( 'fs' );
+const wee = _require ( '_util' ).SetWEE.wee;
 
 const Func_examp = () => {
 
     // BOUNDEN CALL define inner Env fnd Utils
     const _e = arht.env ( Func_examp );
     const _u = arht.utils ( Func_examp );
-    const is_1 = _e.EXIT || _e.UTEST || _e.ERR; // far first true
-    const is_2 = _e.EXIT || _e.ERR; // far first true
 
-    if ( !is_1 ) console.log ( 'archetype warning : shot_up_behaviour' );
-    if ( !is_2 ) console.log ( 'archetype warning : no_error_behaviour' );
     // _u._deb ();
     // _u._log ( 'mes _u._log' );
     // _u._log_deb ( 'mes _u._log_deb' );
@@ -32,6 +30,25 @@ const Func_examp = () => {
 
 //    AREA function
 
+    try {
+        _u._deb ();
+        // const is = Fs.writeFileSync( path ,'data');
+
+        _u._log ( `  ${_e.fname} return is ` );
+        // return is;
+    }
+    catch (e) {
+        _u._deb ();
+
+        //    UTEST response:
+        if ( _e.UTEST ) {
+
+            // return 'ENOENT: no such file or directory, open \'F:\\Node_projects\\Node_Way\\node_modules_\\_node\\_fs\\writeFileSync\\Test\\error_dir\\write_this_file\'' === e.message;
+        }
+        //=========================
+
+        wee ( e, _e );
+    }
 
 };
 

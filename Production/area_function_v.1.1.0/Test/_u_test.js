@@ -3,10 +3,10 @@ const Path = require ( 'path' );
 
 const { _require } = require ( 'st_require' );
 const arht = _require ( '_aop' ).archetypes.function.arht;
-const ini_fs = _require ( 'st_ini_fs_' );
+const _fs = _require ( '_node' )._fs;
 
-const if_utest = {};
 
+const fn = require('../index')
 // event report out (export from) Func_examp:
 
 // fn.event.once ( '_start', function ( ENV ) {
@@ -35,23 +35,21 @@ const if_utest = {};
 
 // BOUNDEN CALL define root_path
 // fn.module = module;
-ini_fs.s_isDirectory.exit = true;
-ini_fs.s_isDirectory.utest = true;
+fn.warn = true;
+fn.exit = true;
+fn.err = true;
 
-const arr = Fs.readdirSync ( __dirname );
+fn.utest = true;
+fn.fname = 'fn'
 
-const arr_res = arr.map ( item => {
-    const is = ini_fs.s_isDirectory ( Path.join ( __dirname, item ) );
-    return is;
-} );
 
-const u1 = ini_fs.s_isDirectory ( 'rrr' );
-const u2 = arr_res[0] === false;
-const u3 = arr_res[1] === true;
 
-if ( !u1 ) console.log ( '>>> s_isDirectory err_test fail' );
-if ( !u2 ) console.log ( '>>> s_isDirectory arr_0 fail' );
-if ( !u3 ) console.log ( '>>> s_isDirectory arr_1 fail' );
+const u1 = fn ( 'false_args' );// return true if fn.utest = true;
+const u2 = fn ( 'true_args' );// return true if fn.utest = true;
+
+
+if ( !u1 ) console.log ( '>>> fn err_test fail' );
+if ( !u2 ) console.log ( '>>> fn fail' );
 
 const res = u1 && u2 && u3;
 debugger

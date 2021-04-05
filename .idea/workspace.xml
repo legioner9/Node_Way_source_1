@@ -35,31 +35,9 @@
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/appendFileSync/Test/u_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/appendFileSync/Test/u_test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/appendFileSync/Test/write_this_file" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/appendFileSync/Test/write_this_file" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/appendFileSync/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/appendFileSync/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/isDirectory/Test/u_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/isDirectory/Test/u_test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/isFile/Test/u_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/isFile/Test/u_test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/isFile/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/isFile/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/mkdirSync/Test/u_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/mkdirSync/Test/u_test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/mkdirSync/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/mkdirSync/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/readFileSync/Test/u_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/readFileSync/Test/u_test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/readFileSync/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/readFileSync/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/readdirSync/Test/u_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/readdirSync/Test/u_test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/rmdirSync/Test/u_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/rmdirSync/Test/u_test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/rmdirSync/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/rmdirSync/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/stats/Test/u_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/stats/Test/u_test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/stats/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/stats/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/writeFileSync/Test/s_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/writeFileSync/Test/s_test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/writeFileSync/Test/u_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/writeFileSync/Test/u_test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/writeFileSync/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/writeFileSync/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_utest/node/modules_/all/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_utest/node/modules_/all/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_utest_ini/Tests/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_utest_ini/Tests/~All.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_utest_ini/Tests/~mWRS.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_utest_ini/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_utest_ini/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_util_ini/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_util_ini/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Production/area_function_v.1.1.0/Test/_u_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/Production/area_function_v.1.1.0/Test/_u_test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Production/area_function_v.1.1.0/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Production/area_function_v.1.1.0/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/isDirectory/Test/s_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/isDirectory/Test/s_test.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -167,7 +145,7 @@
     <property name="add_unversioned_files" value="$PROJECT_DIR$/Jobs/SetGlobLoggers/ModLogger_1/Core/Logs/eLogs.txt&#10;true" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="14.15.3" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/node_modules_/_node/_fs/appendFileSync" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Production/area_function_v.1.1.0/Test" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.jscs" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -211,11 +189,11 @@
       <recent name="F:\Node_projects\Node_Way\ToUse\cloneFileToDir" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Node_projects\Node_Way\Production\area_function_v.1.1.0\Test" />
       <recent name="F:\Node_projects\Node_Way\node_modules_\_node\_fs\appendFileSync" />
       <recent name="F:\Node_projects\Node_Way\node_modules_\_util" />
       <recent name="F:\Node_projects\Node_Way\node_modules_\_node\_fs\rmdirSync\Test" />
       <recent name="F:\Node_projects\Node_Way\node_modules_\_node\_fs\writeFileSync\Test" />
-      <recent name="F:\Node_projects\Node_Way\node_modules_\_node\_fs\stats" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.u_test.js">
@@ -589,7 +567,7 @@
       <workItem from="1617373412524" duration="3112000" />
       <workItem from="1617381339529" duration="866000" />
       <workItem from="1617382505769" duration="6796000" />
-      <workItem from="1617561355118" duration="4673000" />
+      <workItem from="1617561355118" duration="6495000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
@@ -1344,19 +1322,19 @@
       <screen x="1440" y="0" width="1280" height="984" />
     </state>
     <state x="1440" y="0" width="785" height="931" key="dock-window-10/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1617545301401" />
-    <state x="1469" y="3" width="785" height="892" key="dock-window-2" timestamp="1617522717058">
+    <state x="2111" y="0" width="625" height="944" key="dock-window-2" timestamp="1617597889729">
       <screen x="1440" y="0" width="1280" height="984" />
     </state>
     <state x="1832" y="27" width="881" height="969" key="dock-window-2/0.0.1440.860/1440.0.1280.1024@0.0.1440.860" timestamp="1608978415212" />
-    <state x="1469" y="3" width="785" height="892" key="dock-window-2/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1617522717058" />
-    <state x="1629" y="29" width="1009" height="895" key="dock-window-3" timestamp="1617528021332">
+    <state x="2111" y="0" width="625" height="944" key="dock-window-2/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1617597889729" />
+    <state x="1440" y="0" width="634" height="934" key="dock-window-3" timestamp="1617597889729">
       <screen x="1440" y="0" width="1280" height="984" />
     </state>
-    <state x="1629" y="29" width="1009" height="895" key="dock-window-3/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1617528021332" />
-    <state x="1476" y="14" width="1189" height="877" key="dock-window-4" timestamp="1617529502535">
+    <state x="1440" y="0" width="634" height="934" key="dock-window-3/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1617597889729" />
+    <state x="2074" y="0" width="662" height="890" key="dock-window-4" timestamp="1617597889729">
       <screen x="1440" y="0" width="1280" height="984" />
     </state>
-    <state x="1476" y="14" width="1189" height="877" key="dock-window-4/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1617529502535" />
+    <state x="2074" y="0" width="662" height="890" key="dock-window-4/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1617597889729" />
     <state x="1654" y="0" width="785" height="559" key="dock-window-5" timestamp="1617530828486">
       <screen x="1440" y="0" width="1280" height="984" />
     </state>
