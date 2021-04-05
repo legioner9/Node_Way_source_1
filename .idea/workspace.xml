@@ -35,19 +35,31 @@
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/appendFileSync/1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/appendFileSync/Examples/1/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/appendFileSync/Examples/1/test_ini_module.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/appendFileSync/Examples/cleare/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/appendFileSync/Examples/cleare/file_for_test" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/appendFileSync/Examples/cleare/test_ini_module.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/appendFileSync/Examples/with_err/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/appendFileSync/Examples/with_err/fsLog/logErr.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/appendFileSync/Examples/with_err/test_ini_module.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/appendFileSync/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/appendFileSync/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/isDirectory/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/isDirectory/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_utest/node/modules_/all/Test/add_require.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_utest/node/modules_/all/Test/add_require.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/appendFileSync/Test/u_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/appendFileSync/Test/u_test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/appendFileSync/Test/write_this_file" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/appendFileSync/Test/write_this_file" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/appendFileSync/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/appendFileSync/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/isDirectory/Test/u_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/isDirectory/Test/u_test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/isFile/Test/u_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/isFile/Test/u_test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/isFile/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/isFile/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/mkdirSync/Test/u_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/mkdirSync/Test/u_test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/mkdirSync/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/mkdirSync/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/readFileSync/Test/u_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/readFileSync/Test/u_test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/readFileSync/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/readFileSync/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/readdirSync/Test/u_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/readdirSync/Test/u_test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/rmdirSync/Test/u_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/rmdirSync/Test/u_test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/rmdirSync/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/rmdirSync/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/stats/Test/u_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/stats/Test/u_test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/stats/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/stats/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/writeFileSync/Test/s_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/writeFileSync/Test/s_test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/writeFileSync/Test/u_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/writeFileSync/Test/u_test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/writeFileSync/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/writeFileSync/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_utest/node/modules_/all/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_utest/node/modules_/all/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_utest_ini/Tests/0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_utest_ini/Tests/~All.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_utest_ini/Tests/~mWRS.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_utest_ini/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_utest_ini/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_util_ini/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_util_ini/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -577,7 +589,7 @@
       <workItem from="1617373412524" duration="3112000" />
       <workItem from="1617381339529" duration="866000" />
       <workItem from="1617382505769" duration="6796000" />
-      <workItem from="1617561355118" duration="2071000" />
+      <workItem from="1617561355118" duration="4332000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
@@ -1365,6 +1377,10 @@
       <screen x="1440" y="0" width="1280" height="984" />
     </state>
     <state x="1440" y="0" width="785" height="847" key="dock-window-9/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1617538264471" />
+    <state x="413" y="131" width="573" height="530" key="find.popup" timestamp="1617595898494">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="413" y="131" width="573" height="530" key="find.popup/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1617595898494" />
     <state x="376" y="197" key="run.anything.popup" timestamp="1610253483046">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
