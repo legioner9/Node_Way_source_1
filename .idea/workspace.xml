@@ -34,10 +34,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Production/area_function_v.1.1.0/Test/_u_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/Production/area_function_v.1.1.0/Test/_u_test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Production/area_function_v.1.1.0/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Production/area_function_v.1.1.0/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/isDirectory/Test/s_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/isDirectory/Test/s_test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_node/_fs/isFile/Test/s_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_node/_fs/isFile/Test/s_test.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,7 +143,7 @@
     <property name="add_unversioned_files" value="$PROJECT_DIR$/Jobs/SetGlobLoggers/ModLogger_1/Core/Logs/eLogs.txt&#10;true" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="14.15.3" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Production/area_function_v.1.1.0/Test" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/node_modules_/_node/_fs/isFile/Test" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.jscs" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -189,11 +187,11 @@
       <recent name="F:\Node_projects\Node_Way\ToUse\cloneFileToDir" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Node_projects\Node_Way\node_modules_\_node\_fs\isFile\Test" />
       <recent name="F:\Node_projects\Node_Way\Production\area_function_v.1.1.0\Test" />
       <recent name="F:\Node_projects\Node_Way\node_modules_\_node\_fs\appendFileSync" />
       <recent name="F:\Node_projects\Node_Way\node_modules_\_util" />
       <recent name="F:\Node_projects\Node_Way\node_modules_\_node\_fs\rmdirSync\Test" />
-      <recent name="F:\Node_projects\Node_Way\node_modules_\_node\_fs\writeFileSync\Test" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.u_test.js">
@@ -567,7 +565,7 @@
       <workItem from="1617373412524" duration="3112000" />
       <workItem from="1617381339529" duration="866000" />
       <workItem from="1617382505769" duration="6796000" />
-      <workItem from="1617561355118" duration="6495000" />
+      <workItem from="1617561355118" duration="6915000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>

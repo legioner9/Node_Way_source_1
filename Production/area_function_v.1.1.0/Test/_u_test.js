@@ -51,7 +51,7 @@ const u2 = fn ( 'true_args' );// return true if fn.utest = true;
 if ( !u1 ) console.log ( '>>> fn err_test fail' );
 if ( !u2 ) console.log ( '>>> fn fail' );
 
-const res = u1 && u2 && u3;
+const res = u1 && u2;
 debugger
 module.exports = res;
 
