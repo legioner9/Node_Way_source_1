@@ -1,1 +1,1 @@
-extract_to_exel\result.csv NOT exist 04/11/2021 01:16:44
+good end 04/11/2021 14:23:35
