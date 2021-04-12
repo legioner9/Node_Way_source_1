@@ -619,13 +619,16 @@ legioner9@inbox
 legioner9@outlook.com
 124578a124578a124578a
 
-Ric Ric
-mastersruba@outlook.com
+{	Ric Ric
+	mastersruba@outlook.com
 
 
-microsoft
-mastersruba.ru@mail.ru
-124578aa124578aa
+	microsoft настя
+	mastersruba.ru@mail.ru
+	124578aa124578aa
+	dev.azure.com/mastersruba
+	}
+
 
 git
 legioner9@inbox.ru
