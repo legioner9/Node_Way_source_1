@@ -445,6 +445,15 @@
                 - *## 1.0.1
         
     
+    - <a href = "F:\Node_projects\Node_Way\Jobs\Java_start\cat.Java_start\dir.Java_start.md">Java_start</a>
+        - <a href = "F:\Node_projects\Node_Way\Jobs\Java_start\ReadMe.md">ReadMe.md</a>
+            - *## [Первая программа – Hello, World!](https://java-lessons.ru/first-steps/hello-world)
+            - *## [Установка JDK в Windows](https://java-lessons.ru/first-steps/install-jdk-windows)
+    
+    - <a href = "F:\Node_projects\Node_Way\Jobs\LSstarter1\cat.LSstarter1\dir.LSstarter1.md">LSstarter1</a>
+        - <a href = "F:\Node_projects\Node_Way\Jobs\LSstarter1\README.md">README.md</a>
+            - *## User's Manual
+    
     - <a href = "F:\Node_projects\Node_Way\Jobs\My_requier\cat.My_requier\dir.My_requier.md">My_requier</a>
         - <a href = "F:\Node_projects\Node_Way\Jobs\My_requier\_\cat._\dir._.md">_</a>
             - <a href = "F:\Node_projects\Node_Way\Jobs\My_requier\_\_versions.md">_versions.md</a>
@@ -452,6 +461,10 @@
                 - *# 1.0.0
                 - *## 1.0.1
         
+    
+    - <a href = "F:\Node_projects\Node_Way\Jobs\Python_start\cat.Python_start\dir.Python_start.md">Python_start</a>
+        - <a href = "F:\Node_projects\Node_Way\Jobs\Python_start\ReadMe.md">ReadMe.md</a>
+            - *## [РУКОВОДСТВО ПО ИЗУЧЕНИЮ PYTHON С НУЛЯ С ПРИМЕРАМИ](https://wiki.merionet.ru/servernye-resheniya/87/rukovodstvo-po-izucheniyu-python-s-nulya-s-primerami/?utm_source=sendpulse&utm_medium=email&utm_campaign=-rukovodstvo-po-izucheniyu-pyt)
     
     - <a href = "F:\Node_projects\Node_Way\Jobs\SetGlobLoggers\cat.SetGlobLoggers\dir.SetGlobLoggers.md">SetGlobLoggers</a>
         - <a href = "F:\Node_projects\Node_Way\Jobs\SetGlobLoggers\ReabMe.md">ReabMe.md</a>
