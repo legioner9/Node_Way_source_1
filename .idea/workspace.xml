@@ -34,98 +34,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/DDD/DDD-master/.eslintignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/DDD/DDD-master/.eslintrc.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/DDD/DDD-master/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/DDD/DDD-master/JavaScript/1-http-aware/hash.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/DDD/DDD-master/JavaScript/1-http-aware/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/DDD/DDD-master/JavaScript/1-http-aware/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/DDD/DDD-master/JavaScript/1-http-aware/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/DDD/DDD-master/JavaScript/2-controller/body.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/DDD/DDD-master/JavaScript/2-controller/hash.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/DDD/DDD-master/JavaScript/2-controller/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/DDD/DDD-master/JavaScript/2-controller/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/DDD/DDD-master/JavaScript/2-controller/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/DDD/DDD-master/JavaScript/3-crud/db.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/DDD/DDD-master/JavaScript/3-crud/hash.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/DDD/DDD-master/JavaScript/3-crud/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/DDD/DDD-master/JavaScript/3-crud/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/DDD/DDD-master/JavaScript/3-crud/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/DDD/DDD-master/JavaScript/4-service/db.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/DDD/DDD-master/JavaScript/4-service/hash.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/DDD/DDD-master/JavaScript/4-service/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/DDD/DDD-master/JavaScript/4-service/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/DDD/DDD-master/JavaScript/4-service/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/DDD/DDD-master/JavaScript/4-service/user.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/DDD/DDD-master/JavaScript/5-agnostic/db.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/DDD/DDD-master/JavaScript/5-agnostic/hash.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/DDD/DDD-master/JavaScript/5-agnostic/http.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/DDD/DDD-master/JavaScript/5-agnostic/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/DDD/DDD-master/JavaScript/5-agnostic/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/DDD/DDD-master/JavaScript/5-agnostic/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/DDD/DDD-master/JavaScript/5-agnostic/user.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/DDD/DDD-master/JavaScript/6-ws/db.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/DDD/DDD-master/JavaScript/6-ws/hash.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/DDD/DDD-master/JavaScript/6-ws/http.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/DDD/DDD-master/JavaScript/6-ws/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/DDD/DDD-master/JavaScript/6-ws/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/DDD/DDD-master/JavaScript/6-ws/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/DDD/DDD-master/JavaScript/6-ws/static.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/DDD/DDD-master/JavaScript/6-ws/static/client.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/DDD/DDD-master/JavaScript/6-ws/static/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/DDD/DDD-master/JavaScript/6-ws/user.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/DDD/DDD-master/JavaScript/6-ws/ws.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/DDD/DDD-master/JavaScript/7-fs/api/city.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/DDD/DDD-master/JavaScript/7-fs/api/country.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/DDD/DDD-master/JavaScript/7-fs/api/user.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/DDD/DDD-master/JavaScript/7-fs/db.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/DDD/DDD-master/JavaScript/7-fs/hash.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/DDD/DDD-master/JavaScript/7-fs/http.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/DDD/DDD-master/JavaScript/7-fs/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/DDD/DDD-master/JavaScript/7-fs/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/DDD/DDD-master/JavaScript/7-fs/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/DDD/DDD-master/JavaScript/7-fs/static.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/DDD/DDD-master/JavaScript/7-fs/static/client.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/DDD/DDD-master/JavaScript/7-fs/static/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/DDD/DDD-master/JavaScript/7-fs/ws.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/DDD/DDD-master/JavaScript/8-vm/api/.eslintrc.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/DDD/DDD-master/JavaScript/8-vm/api/city.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/DDD/DDD-master/JavaScript/8-vm/api/country.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/DDD/DDD-master/JavaScript/8-vm/api/user.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/DDD/DDD-master/JavaScript/8-vm/db.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/DDD/DDD-master/JavaScript/8-vm/hash.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/DDD/DDD-master/JavaScript/8-vm/http.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/DDD/DDD-master/JavaScript/8-vm/load.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/DDD/DDD-master/JavaScript/8-vm/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/DDD/DDD-master/JavaScript/8-vm/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/DDD/DDD-master/JavaScript/8-vm/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/DDD/DDD-master/JavaScript/8-vm/static.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/DDD/DDD-master/JavaScript/8-vm/static/client.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/DDD/DDD-master/JavaScript/8-vm/static/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/DDD/DDD-master/JavaScript/8-vm/ws.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/DDD/DDD-master/JavaScript/9-logger/api/.eslintrc.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/DDD/DDD-master/JavaScript/9-logger/api/city.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/DDD/DDD-master/JavaScript/9-logger/api/country.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/DDD/DDD-master/JavaScript/9-logger/api/user.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/DDD/DDD-master/JavaScript/9-logger/db.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/DDD/DDD-master/JavaScript/9-logger/hash.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/DDD/DDD-master/JavaScript/9-logger/http.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/DDD/DDD-master/JavaScript/9-logger/load.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/DDD/DDD-master/JavaScript/9-logger/logger.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/DDD/DDD-master/JavaScript/9-logger/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/DDD/DDD-master/JavaScript/9-logger/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/DDD/DDD-master/JavaScript/9-logger/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/DDD/DDD-master/JavaScript/9-logger/static.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/DDD/DDD-master/JavaScript/9-logger/static/client.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/DDD/DDD-master/JavaScript/9-logger/static/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/DDD/DDD-master/JavaScript/9-logger/ws.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/DDD/DDD-master/JavaScript/db/data.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/DDD/DDD-master/JavaScript/db/install.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/DDD/DDD-master/JavaScript/db/setup.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/DDD/DDD-master/JavaScript/db/structure.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/DDD/DDD-master/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/DDD/DDD-master/README.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -258,7 +169,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="settings.editor.selected.configurable" value="SQL Dialects" />
     <property name="settings.editor.splitter.proportion" value="0.23273855" />
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains_\IntelliJ IDEA 2020.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
@@ -644,7 +555,7 @@
       <workItem from="1617382505769" duration="6796000" />
       <workItem from="1617561355118" duration="7201000" />
       <workItem from="1617768512932" duration="3519000" />
-      <workItem from="1618550597634" duration="2051000" />
+      <workItem from="1618550597634" duration="5500000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
@@ -1266,10 +1177,11 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="180" y="0" width="1040" height="758" key="#Project_Structure/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1617770347688" />
-    <state x="177" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1617770485941">
-      <screen x="0" y="0" width="1440" height="860" />
+    <state x="1597" y="84" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1618555627555">
+      <screen x="1440" y="0" width="1280" height="984" />
     </state>
     <state x="177" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1617770485941" />
+    <state x="1597" y="84" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1618555627555" />
     <state x="361" y="199" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1617002574158">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
@@ -1303,26 +1215,26 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="519" y="178" key="FileChooserDialogImpl/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1617772888248" />
-    <state width="1220" height="174" key="GridCell.Tab.0.bottom" timestamp="1618552462493">
+    <state width="833" height="186" key="GridCell.Tab.0.bottom" timestamp="1618558183507">
       <screen x="1440" y="0" width="1280" height="984" />
     </state>
     <state width="1340" height="175" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1617534895184" />
-    <state width="1220" height="174" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1618552462493" />
-    <state width="1220" height="174" key="GridCell.Tab.0.center" timestamp="1618552462493">
+    <state width="833" height="186" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1618558183507" />
+    <state width="833" height="186" key="GridCell.Tab.0.center" timestamp="1618558183507">
       <screen x="1440" y="0" width="1280" height="984" />
     </state>
     <state width="1340" height="175" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1617534895183" />
-    <state width="1220" height="174" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1618552462493" />
-    <state width="1220" height="174" key="GridCell.Tab.0.left" timestamp="1618552462492">
+    <state width="833" height="186" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1618558183507" />
+    <state width="833" height="186" key="GridCell.Tab.0.left" timestamp="1618558183506">
       <screen x="1440" y="0" width="1280" height="984" />
     </state>
     <state width="1340" height="175" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1617534895183" />
-    <state width="1220" height="174" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1618552462492" />
-    <state width="1220" height="174" key="GridCell.Tab.0.right" timestamp="1618552462493">
+    <state width="833" height="186" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1618558183506" />
+    <state width="833" height="186" key="GridCell.Tab.0.right" timestamp="1618558183507">
       <screen x="1440" y="0" width="1280" height="984" />
     </state>
     <state width="1340" height="175" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1617534895183" />
-    <state width="1220" height="174" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1618552462493" />
+    <state width="833" height="186" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1618558183507" />
     <state width="1340" height="232" key="GridCell.Tab.1.bottom" timestamp="1617112318073">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
@@ -1371,22 +1283,28 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1340" height="232" key="GridCell.Tab.3.right/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1617097069735" />
+    <state width="207" height="462" key="HiddenNamespacesPopup" timestamp="1618555474418">
+      <screen x="1440" y="0" width="1280" height="984" />
+    </state>
+    <state width="207" height="462" key="HiddenNamespacesPopup/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1618555474418" />
     <state x="471" y="102" key="RollbackChangesDialog" timestamp="1615216355042">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="471" y="102" key="RollbackChangesDialog/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1615216355042" />
-    <state x="152" y="115" width="1141" height="710" key="SettingsEditor" timestamp="1617526866747">
-      <screen x="0" y="0" width="1440" height="860" />
+    <state x="1575" y="132" width="1141" height="710" key="SettingsEditor" timestamp="1618556520256">
+      <screen x="1440" y="0" width="1280" height="984" />
     </state>
     <state x="152" y="115" width="1141" height="710" key="SettingsEditor/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1617526866747" />
+    <state x="1575" y="132" key="SettingsEditor/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1618556520256" />
     <state x="499" y="317" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1616912740744">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="499" y="317" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1616912740744" />
-    <state x="1467" y="0" width="1199" height="838" key="dock-window-1" timestamp="1617562883614">
-      <screen x="1440" y="0" width="1280" height="984" />
+    <state x="653" y="6" width="501" height="733" key="dock-window-1" timestamp="1618558549295">
+      <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="1467" y="0" width="1199" height="838" key="dock-window-1/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1617562883614" />
+    <state x="653" y="6" width="501" height="733" key="dock-window-1/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1618558549295" />
     <state x="1440" y="0" width="785" height="931" key="dock-window-10" timestamp="1617545301401">
       <screen x="1440" y="0" width="1280" height="984" />
     </state>
