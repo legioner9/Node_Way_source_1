@@ -34,9 +34,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/DDD/DDD-master_/JavaScript/1-http-aware/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/DDD/DDD-master_/JavaScript/1-http-aware/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -555,7 +554,9 @@
       <workItem from="1617382505769" duration="6796000" />
       <workItem from="1617561355118" duration="7201000" />
       <workItem from="1617768512932" duration="3519000" />
-      <workItem from="1618550597634" duration="5500000" />
+      <workItem from="1618550597634" duration="8166000" />
+      <workItem from="1618561626448" duration="440000" />
+      <workItem from="1618562996207" duration="3126000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
@@ -1215,26 +1216,26 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="519" y="178" key="FileChooserDialogImpl/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1617772888248" />
-    <state width="833" height="186" key="GridCell.Tab.0.bottom" timestamp="1618558183507">
+    <state width="833" height="186" key="GridCell.Tab.0.bottom" timestamp="1618566351796">
       <screen x="1440" y="0" width="1280" height="984" />
     </state>
     <state width="1340" height="175" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1617534895184" />
-    <state width="833" height="186" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1618558183507" />
-    <state width="833" height="186" key="GridCell.Tab.0.center" timestamp="1618558183507">
+    <state width="833" height="186" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1618566351796" />
+    <state width="833" height="186" key="GridCell.Tab.0.center" timestamp="1618566351795">
       <screen x="1440" y="0" width="1280" height="984" />
     </state>
     <state width="1340" height="175" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1617534895183" />
-    <state width="833" height="186" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1618558183507" />
-    <state width="833" height="186" key="GridCell.Tab.0.left" timestamp="1618558183506">
+    <state width="833" height="186" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1618566351795" />
+    <state width="833" height="186" key="GridCell.Tab.0.left" timestamp="1618566351795">
       <screen x="1440" y="0" width="1280" height="984" />
     </state>
     <state width="1340" height="175" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1617534895183" />
-    <state width="833" height="186" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1618558183506" />
-    <state width="833" height="186" key="GridCell.Tab.0.right" timestamp="1618558183507">
+    <state width="833" height="186" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1618566351795" />
+    <state width="833" height="186" key="GridCell.Tab.0.right" timestamp="1618566351795">
       <screen x="1440" y="0" width="1280" height="984" />
     </state>
     <state width="1340" height="175" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1617534895183" />
-    <state width="833" height="186" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1618558183507" />
+    <state width="833" height="186" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1618566351795" />
     <state width="1340" height="232" key="GridCell.Tab.1.bottom" timestamp="1617112318073">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
@@ -1283,10 +1284,10 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1340" height="232" key="GridCell.Tab.3.right/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1617097069735" />
-    <state width="207" height="462" key="HiddenNamespacesPopup" timestamp="1618555474418">
+    <state width="207" height="462" key="HiddenNamespacesPopup" timestamp="1618559267645">
       <screen x="1440" y="0" width="1280" height="984" />
     </state>
-    <state width="207" height="462" key="HiddenNamespacesPopup/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1618555474418" />
+    <state width="207" height="462" key="HiddenNamespacesPopup/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1618559267645" />
     <state x="471" y="102" key="RollbackChangesDialog" timestamp="1615216355042">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
@@ -1296,23 +1297,28 @@
     </state>
     <state x="152" y="115" width="1141" height="710" key="SettingsEditor/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1617526866747" />
     <state x="1575" y="132" key="SettingsEditor/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1618556520256" />
+    <state x="1709" y="597" width="472" height="387" key="com.intellij.database.actions.DdlActions$CreateObject$1" timestamp="1618559188816">
+      <screen x="1440" y="0" width="1280" height="984" />
+    </state>
+    <state x="1709" y="597" width="472" height="387" key="com.intellij.database.actions.DdlActions$CreateObject$1/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1618559188816" />
     <state x="499" y="317" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1616912740744">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="499" y="317" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1616912740744" />
-    <state x="653" y="6" width="501" height="733" key="dock-window-1" timestamp="1618558549295">
+    <state x="949" y="0" width="486" height="733" key="dock-window-1" timestamp="1618566554068">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="1467" y="0" width="1199" height="838" key="dock-window-1/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1617562883614" />
-    <state x="653" y="6" width="501" height="733" key="dock-window-1/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1618558549295" />
+    <state x="949" y="0" width="486" height="733" key="dock-window-1/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1618566554068" />
     <state x="1440" y="0" width="785" height="931" key="dock-window-10" timestamp="1617545301401">
       <screen x="1440" y="0" width="1280" height="984" />
     </state>
     <state x="1440" y="0" width="785" height="931" key="dock-window-10/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1617545301401" />
-    <state x="2111" y="0" width="625" height="944" key="dock-window-2" timestamp="1617597889729">
-      <screen x="1440" y="0" width="1280" height="984" />
+    <state x="820" y="13" width="549" height="519" key="dock-window-2" timestamp="1618559433281">
+      <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="2111" y="0" width="625" height="944" key="dock-window-2/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1617597889729" />
+    <state x="820" y="13" width="549" height="519" key="dock-window-2/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1618559433281" />
     <state x="1440" y="0" width="634" height="934" key="dock-window-3" timestamp="1617597889729">
       <screen x="1440" y="0" width="1280" height="984" />
     </state>

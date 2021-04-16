@@ -8,13 +8,13 @@ const hash = require('./hash.js');
 const PORT = 8000;
 
 const app = express();
-
+debugger
 const pool = new pg.Pool({
   host: '127.0.0.1',
   port: 5432,
-  database: 'example',
-  user: 'marcus',
-  password: 'marcus',
+  database: 'postgres',
+  user: 'postgres',
+  password: '123',
 });
 
 app.use(bodyParser.json());
