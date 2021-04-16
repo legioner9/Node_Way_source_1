@@ -3,12 +3,12 @@
 const pg = require('pg');
 
 const pool = new pg.Pool({
-  host: '127.0.0.1',
-  port: 5432,
-  database: 'example',
-  user: 'marcus',
-  password: 'marcus',
-});
+                             host: '127.0.0.1',
+                             port: 5432,
+                             database: 'postgres',
+                             user: 'postgres',
+                             password: '123',
+                         });
 
 module.exports = (table) => ({
   query(sql, args) {
