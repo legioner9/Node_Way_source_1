@@ -35,26 +35,19 @@
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/Up_mind/Project-master/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/Up_mind/Project-master_/.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/Up_mind/Project-master/.eslintignore" beforeDir="false" afterPath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/Up_mind/Project-master_/.eslintignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/Up_mind/Project-master/.eslintrc.json" beforeDir="false" afterPath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/Up_mind/Project-master_/.eslintrc.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/Up_mind/Project-master/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/Up_mind/Project-master_/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/Up_mind/Project-master/.npmignore" beforeDir="false" afterPath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/Up_mind/Project-master_/.npmignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/Up_mind/Project-master/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/Up_mind/Project-master_/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/Up_mind/Project-master/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/Up_mind/Project-master_/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/Up_mind/Project-master/cache.js" beforeDir="false" afterPath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/Up_mind/Project-master_/cache.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/Up_mind/Project-master/export.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/Up_mind/Project-master_/export.mjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/Up_mind/Project-master/import.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/Up_mind/Project-master_/import.mjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/Up_mind/Project-master/import.sh" beforeDir="false" afterPath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/Up_mind/Project-master_/import.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/Up_mind/Project-master/lib/submodule1.js" beforeDir="false" afterPath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/Up_mind/Project-master_/lib/submodule1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/Up_mind/Project-master/lib/submodule2.js" beforeDir="false" afterPath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/Up_mind/Project-master_/lib/submodule2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/Up_mind/Project-master/lib/submodule3.js" beforeDir="false" afterPath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/Up_mind/Project-master_/lib/submodule3.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/Up_mind/Project-master/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/Up_mind/Project-master_/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/Up_mind/Project-master/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/Up_mind/Project-master_/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/Up_mind/Project-master/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/Up_mind/Project-master_/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/Up_mind/Project-master/test/all.js" beforeDir="false" afterPath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/Up_mind/Project-master_/test/all.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/Up_mind/Project-master/test/names.js" beforeDir="false" afterPath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/Up_mind/Project-master_/test/names.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/Up_mind/Project-master/test/submodules.js" beforeDir="false" afterPath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/Up_mind/Project-master_/test/submodules.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_tsh/hpw/Examp_explore/_/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/hpw/Examp_explore/_/_ReadMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_tsh/hpw/Examp_explore/require_cach/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/hpw/Examp_explore/require_cach/ReadMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_tsh/hpw/__/_/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/hpw/__/_/_ReadMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_tsh/hpw/__/_v.2/Production/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_tsh/hpw/__/_v.2/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_tsh/hpw/__/_v.2/Test/1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_tsh/hpw/__/_v.2/Test/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_tsh/hpw/__/_v.2/Test/main_test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_tsh/hpw/__/_v.2/_versions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_tsh/hpw/__/_v.2/examp.index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_tsh/hpw/__/_v.2/index.init.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_tsh/hpw/__/_v.2/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_tsh/hpw/__/_v.2/index.v.1.0.0.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -1236,26 +1229,26 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="519" y="178" key="FileChooserDialogImpl/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1617772888248" />
-    <state width="833" height="186" key="GridCell.Tab.0.bottom" timestamp="1618566351796">
+    <state width="1220" height="174" key="GridCell.Tab.0.bottom" timestamp="1619082396470">
       <screen x="1440" y="0" width="1280" height="984" />
     </state>
     <state width="1340" height="175" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1617534895184" />
-    <state width="833" height="186" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1618566351796" />
-    <state width="833" height="186" key="GridCell.Tab.0.center" timestamp="1618566351795">
+    <state width="1220" height="174" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1619082396470" />
+    <state width="1220" height="174" key="GridCell.Tab.0.center" timestamp="1619082396470">
       <screen x="1440" y="0" width="1280" height="984" />
     </state>
     <state width="1340" height="175" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1617534895183" />
-    <state width="833" height="186" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1618566351795" />
-    <state width="833" height="186" key="GridCell.Tab.0.left" timestamp="1618566351795">
+    <state width="1220" height="174" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1619082396470" />
+    <state width="1220" height="174" key="GridCell.Tab.0.left" timestamp="1619082396469">
       <screen x="1440" y="0" width="1280" height="984" />
     </state>
     <state width="1340" height="175" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1617534895183" />
-    <state width="833" height="186" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1618566351795" />
-    <state width="833" height="186" key="GridCell.Tab.0.right" timestamp="1618566351795">
+    <state width="1220" height="174" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1619082396469" />
+    <state width="1220" height="174" key="GridCell.Tab.0.right" timestamp="1619082396470">
       <screen x="1440" y="0" width="1280" height="984" />
     </state>
     <state width="1340" height="175" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1617534895183" />
-    <state width="833" height="186" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1618566351795" />
+    <state width="1220" height="174" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1619082396470" />
     <state width="1340" height="232" key="GridCell.Tab.1.bottom" timestamp="1617112318073">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
@@ -1375,10 +1368,6 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="135" y="80" key="new project wizard/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1617772894919" />
-    <state x="376" y="197" key="run.anything.popup" timestamp="1610253483046">
-      <screen x="0" y="0" width="1440" height="860" />
-    </state>
-    <state x="376" y="197" key="run.anything.popup/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1610253483046" />
     <state x="105" y="0" width="945" height="858" key="search.everywhere.popup" timestamp="1617528417315">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
