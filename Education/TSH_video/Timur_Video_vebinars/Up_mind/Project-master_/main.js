@@ -8,5 +8,5 @@ const lib = {};
 
 console.log('We combined submodules:');
 console.log(Object.keys(lib).join(', '));
-
+debugger
 module.exports = lib;

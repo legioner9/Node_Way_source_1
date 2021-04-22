@@ -35,6 +35,26 @@
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/Up_mind/Project-master/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/Up_mind/Project-master_/.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/Up_mind/Project-master/.eslintignore" beforeDir="false" afterPath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/Up_mind/Project-master_/.eslintignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/Up_mind/Project-master/.eslintrc.json" beforeDir="false" afterPath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/Up_mind/Project-master_/.eslintrc.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/Up_mind/Project-master/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/Up_mind/Project-master_/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/Up_mind/Project-master/.npmignore" beforeDir="false" afterPath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/Up_mind/Project-master_/.npmignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/Up_mind/Project-master/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/Up_mind/Project-master_/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/Up_mind/Project-master/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/Up_mind/Project-master_/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/Up_mind/Project-master/cache.js" beforeDir="false" afterPath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/Up_mind/Project-master_/cache.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/Up_mind/Project-master/export.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/Up_mind/Project-master_/export.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/Up_mind/Project-master/import.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/Up_mind/Project-master_/import.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/Up_mind/Project-master/import.sh" beforeDir="false" afterPath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/Up_mind/Project-master_/import.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/Up_mind/Project-master/lib/submodule1.js" beforeDir="false" afterPath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/Up_mind/Project-master_/lib/submodule1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/Up_mind/Project-master/lib/submodule2.js" beforeDir="false" afterPath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/Up_mind/Project-master_/lib/submodule2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/Up_mind/Project-master/lib/submodule3.js" beforeDir="false" afterPath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/Up_mind/Project-master_/lib/submodule3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/Up_mind/Project-master/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/Up_mind/Project-master_/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/Up_mind/Project-master/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/Up_mind/Project-master_/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/Up_mind/Project-master/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/Up_mind/Project-master_/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/Up_mind/Project-master/test/all.js" beforeDir="false" afterPath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/Up_mind/Project-master_/test/all.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/Up_mind/Project-master/test/names.js" beforeDir="false" afterPath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/Up_mind/Project-master_/test/names.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/Up_mind/Project-master/test/submodules.js" beforeDir="false" afterPath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/Up_mind/Project-master_/test/submodules.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,7 +163,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="14.15.3" />
     <property name="jdk.selected.JAVA_MODULE" value="openjdk-16" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/node_modules_/_utest/node/modules_/all/Test" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/node_modules_/_tsh/hpw/Examp_explore" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.jscs" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -187,14 +207,14 @@
       <recent name="F:\Node_projects\Node_Way\ToUse\cloneFileToDir" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Node_projects\Node_Way\node_modules_\_tsh\hpw\Examp_explore" />
+      <recent name="F:\Node_projects\Node_Way\node_modules_\_tsh\hpw" />
       <recent name="F:\Node_projects\Node_Way\node_modules_\_utest\node\modules_\all\Test" />
       <recent name="F:\Node_projects\Node_Way\Education\TSH_video\Timur_Video_vebinars\DDD\DDD-master_\JavaScript\9-logger" />
       <recent name="F:\Node_projects\Node_Way\Education\TSH_video\Timur_Video_vebinars\DDD\DDD-master_\JavaScript\8-vm" />
-      <recent name="F:\Node_projects\Node_Way\Education\TSH_video\Timur_Video_vebinars\DDD\DDD-master_\JavaScript\7-fs" />
-      <recent name="F:\Node_projects\Node_Way\Education\TSH_video\Timur_Video_vebinars\DDD\DDD-master_\JavaScript\6-ws" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.hello">
+  <component name="RunManager" selected="Node.js.index.js">
     <configuration name="hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="hello" />
@@ -212,7 +232,7 @@
     <configuration name="Object.create.js" type="NodeJSConfigurationType" nameIsGenerated="true" node-parameters="ndb" path-to-js-file="$PROJECT_DIR$/node_modules/st_doc1/js_DOCS/Function/_@_FunctionEngendering/InheritsEgeneringModel/Object.create.js" working-dir="$PROJECT_DIR$/node_modules/st_doc1/js_DOCS/Function/_@_FunctionEngendering">
       <method v="2" />
     </configuration>
-    <configuration name="add_require.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/node_modules_/_utest/node/modules_/all/Test/add_require.js" working-dir="$PROJECT_DIR$/node_modules_/_utest/node/modules_/all/Test">
+    <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/node_modules_/_tsh/hpw/Examp_explore/require_cach/index.js" working-dir="$PROJECT_DIR$/node_modules_/_tsh/hpw/Examp_explore/require_cach">
       <method v="2" />
     </configuration>
     <configuration name="s_test.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/node_modules_/_node/_fs/isDirectory/Test/s_test.js" working-dir="$PROJECT_DIR$/node_modules_/_node/_fs/isDirectory/Test">
@@ -229,18 +249,18 @@
       <item itemvalue="JavaScript Debug.a.html" />
       <item itemvalue="Node.js.6-parse_1.js" />
       <item itemvalue="Node.js.Object.create.js" />
-      <item itemvalue="Node.js.add_require.js" />
       <item itemvalue="Node.js.u_test.js (1)" />
       <item itemvalue="Node.js.s_test.js" />
       <item itemvalue="Node.js.u_test.js" />
+      <item itemvalue="Node.js.index.js" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.index.js" />
         <item itemvalue="Application.hello" />
         <item itemvalue="Node.js.u_test.js" />
         <item itemvalue="Node.js.s_test.js" />
         <item itemvalue="Node.js.u_test.js (1)" />
-        <item itemvalue="Node.js.add_require.js" />
       </list>
     </recent_temporary>
   </component>
