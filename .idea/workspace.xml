@@ -35,8 +35,9 @@
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_tsh/hpw/Examp_explore/metatests/_ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/hpw/Examp_explore/metatests/ReadMe.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_tsh/hpw/Examp_explore/metatests/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/hpw/Examp_explore/metatests/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_tsh/hpw/Examp_explore/_/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/hpw/Examp_explore/_/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_tsh/hpw/Examp_explore/_/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/hpw/Examp_explore/_/_index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_tsh/hpw/Examp_explore/_/index.v.1.0.0.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/hpw/Examp_explore/_/_index.v.1.0.0.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,7 +146,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="14.15.3" />
     <property name="jdk.selected.JAVA_MODULE" value="openjdk-16" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/node_modules_/_tsh/hpw/Examp_explore/metatests" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/node_modules_/_tsh/hpw/Examp_explore" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.jscs" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -189,9 +190,9 @@
       <recent name="F:\Node_projects\Node_Way\ToUse\cloneFileToDir" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Node_projects\Node_Way\node_modules_\_tsh\hpw\Examp_explore" />
       <recent name="F:\Node_projects\Node_Way\node_modules_\_tsh\hpw\Examp_explore\metatests" />
       <recent name="F:\Node_projects\Node_Way\node_modules_\_tsh\hpw\Examp_explore\_" />
-      <recent name="F:\Node_projects\Node_Way\node_modules_\_tsh\hpw\Examp_explore" />
       <recent name="F:\Node_projects\Node_Way\node_modules_\_tsh\hpw" />
       <recent name="F:\Node_projects\Node_Way\node_modules_\_utest\node\modules_\all\Test" />
     </key>
@@ -1307,11 +1308,11 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="499" y="317" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1616912740744" />
-    <state x="949" y="0" width="486" height="733" key="dock-window-1" timestamp="1618566554068">
+    <state x="949" y="0" width="486" height="733" key="dock-window-1" timestamp="1619087083169">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="1467" y="0" width="1199" height="838" key="dock-window-1/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1617562883614" />
-    <state x="949" y="0" width="486" height="733" key="dock-window-1/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1618566554068" />
+    <state x="949" y="0" width="486" height="733" key="dock-window-1/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1619087083169" />
     <state x="1440" y="0" width="785" height="931" key="dock-window-10" timestamp="1617545301401">
       <screen x="1440" y="0" width="1280" height="984" />
     </state>
