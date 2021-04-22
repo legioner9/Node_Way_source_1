@@ -35,13 +35,9 @@
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/Up_mind/Sandboxes-master/.eslintrc.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/Up_mind/Sandboxes-master_/.eslintrc.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/Up_mind/Sandboxes-master/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/Up_mind/Sandboxes-master_/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/Up_mind/Sandboxes-master/JavaScript/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/Up_mind/Sandboxes-master_/JavaScript/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/Up_mind/Sandboxes-master/JavaScript/application.js" beforeDir="false" afterPath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/Up_mind/Sandboxes-master_/JavaScript/application.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/Up_mind/Sandboxes-master/JavaScript/framework.js" beforeDir="false" afterPath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/Up_mind/Sandboxes-master_/JavaScript/framework.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/Up_mind/Sandboxes-master/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/Up_mind/Sandboxes-master_/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/Up_mind/Sandboxes-master/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Education/TSH_video/Timur_Video_vebinars/Up_mind/Sandboxes-master_/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessons/Node_wm/intro_proj/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/Node_wm/intro_proj/ReadMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessons/Node_wm/intro_proj/function.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/Node_wm/intro_proj/function.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessons/Node_wm/intro_proj/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/Node_wm/intro_proj/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -1333,10 +1329,10 @@
       <screen x="1440" y="0" width="1280" height="984" />
     </state>
     <state x="1440" y="0" width="785" height="931" key="dock-window-10/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1617545301401" />
-    <state x="1484" y="52" width="651" height="818" key="dock-window-2" timestamp="1619099085183">
-      <screen x="1440" y="0" width="1280" height="984" />
+    <state x="707" y="10" width="651" height="859" key="dock-window-2" timestamp="1619099950259">
+      <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="1484" y="52" width="651" height="818" key="dock-window-2/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1619099085183" />
+    <state x="707" y="10" width="651" height="859" key="dock-window-2/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1619099950259" />
     <state x="820" y="13" width="549" height="519" key="dock-window-2/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1618559433281" />
     <state x="1440" y="0" width="634" height="934" key="dock-window-3" timestamp="1617597889729">
       <screen x="1440" y="0" width="1280" height="984" />
