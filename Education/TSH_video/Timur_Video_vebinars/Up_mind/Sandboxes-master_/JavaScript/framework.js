@@ -25,7 +25,7 @@ const context = {
     return require(name);
   }
 };
-
+debugger
 context.global = context;
 const sandbox = vm.createContext(context);
 

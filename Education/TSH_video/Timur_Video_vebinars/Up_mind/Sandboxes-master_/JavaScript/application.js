@@ -12,7 +12,7 @@ console.log('From application global context');
 console.dir({ fs, net }, { depth: 1 });
 console.dir({ global }, { depth: 1 });
 console.dir({ api }, { depth: 2 });
-
+debugger
 module.exports = () => {
   // Print from the exported function context
   console.log('From application exported function');
