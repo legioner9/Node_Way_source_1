@@ -33,22 +33,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_tsh/hpw/Examp_explore/_/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/hpw/Examp_explore/_/_ReadMe.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_tsh/hpw/Examp_explore/require_cach/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/hpw/Examp_explore/require_cach/ReadMe.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_tsh/hpw/__/_/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/hpw/__/_/_ReadMe.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_tsh/hpw/__/_v.2/Production/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_tsh/hpw/__/_v.2/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_tsh/hpw/__/_v.2/Test/1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_tsh/hpw/__/_v.2/Test/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_tsh/hpw/__/_v.2/Test/main_test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_tsh/hpw/__/_v.2/_versions.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_tsh/hpw/__/_v.2/examp.index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_tsh/hpw/__/_v.2/index.init.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_tsh/hpw/__/_v.2/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_tsh/hpw/__/_v.2/index.v.1.0.0.js" beforeDir="false" />
-    </list>
+    <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
