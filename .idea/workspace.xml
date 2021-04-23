@@ -35,7 +35,9 @@
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lessons/Node_ws/Codedojo/websocket-intro-master/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/Node_ws/Codedojo/websocket-intro-master/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessons/Node_ws/Codedojo/far_websocket-intro-master/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/Node_ws/Codedojo/far_websocket-intro-master/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessons/Node_ws/Codedojo/far_websocket-intro-master/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/Node_ws/Codedojo/far_websocket-intro-master/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessons/Node_ws/Codedojo/far_websocket-intro-master/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/Node_ws/Codedojo/far_websocket-intro-master/server.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,7 +146,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="16.0.0" />
     <property name="jdk.selected.JAVA_MODULE" value="openjdk-16" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Lessons/Node_ws/Codedojo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Lessons/Node_ws/Codedojo/far_websocket-intro-master" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.jscs" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -188,11 +190,11 @@
       <recent name="F:\Node_projects\Node_Way\Lessons\Node_wm\vm.Script" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Node_projects\Node_Way\Lessons\Node_ws\Codedojo\far_websocket-intro-master" />
       <recent name="F:\Node_projects\Node_Way\Lessons\Node_ws\Codedojo" />
       <recent name="F:\Node_projects\Node_Way\node_modules_" />
       <recent name="F:\Node_projects\Node_Way\Lessons\Node_ws\NPM.UsageExample\NPM.Sending_receiving" />
       <recent name="F:\Node_projects\Node_Way\Lessons\Node_wm\_exam" />
-      <recent name="F:\Node_projects\Node_Way\Lessons\Node_wm\vm.Module" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.server.js (1)">
@@ -563,7 +565,7 @@
       <workItem from="1619148423243" duration="13473000" />
       <workItem from="1619165023283" duration="9788000" />
       <workItem from="1619192708193" duration="4385000" />
-      <workItem from="1619197834948" duration="6936000" />
+      <workItem from="1619197834948" duration="8400000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>

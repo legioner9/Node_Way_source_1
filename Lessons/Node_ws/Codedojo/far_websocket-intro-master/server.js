@@ -19,6 +19,7 @@ wss.on ( 'connection', ws => {
 
     } );
     debugger
-    console.log('connect is ?')
+    const id = Math.random().toString(36).substring(9);
+    console.log(`connect ${is} `)
     ws.send ( 'Connect is existing' );
 } );
