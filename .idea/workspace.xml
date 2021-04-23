@@ -194,7 +194,7 @@
       <recent name="F:\Node_projects\Node_Way\ToUse\cloneFileToDir" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.main.js (1)">
+  <component name="RunManager" selected="Node.js.main.js (2)">
     <configuration name="hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="hello" />
@@ -218,10 +218,10 @@
     <configuration name="main.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Lessons/Node_wm/runInNewContext/main.js" working-dir="$PROJECT_DIR$/Lessons/Node_wm/runInNewContext">
       <method v="2" />
     </configuration>
-    <configuration name="main.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="main.js" working-dir="$PROJECT_DIR$/Lessons/Node_wm/NORG.runInContext">
+    <configuration name="main.js (2)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Lessons/Node_wm/runInThisContext/main.js" working-dir="$PROJECT_DIR$/Lessons/Node_wm/runInThisContext">
       <method v="2" />
     </configuration>
-    <configuration name="u_test.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/node_modules_/_node/_fs/stats/Test/u_test.js" working-dir="$PROJECT_DIR$/node_modules_/_node/_fs/stats/Test">
+    <configuration name="main.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="main.js" working-dir="$PROJECT_DIR$/Lessons/Node_wm/NORG.runInContext">
       <method v="2" />
     </configuration>
     <list>
@@ -229,18 +229,18 @@
       <item itemvalue="JavaScript Debug.a.html" />
       <item itemvalue="Node.js.main.js" />
       <item itemvalue="Node.js.Object.create.js" />
-      <item itemvalue="Node.js.u_test.js" />
       <item itemvalue="Node.js.index.js" />
       <item itemvalue="Node.js.all.js" />
       <item itemvalue="Node.js.main.js (1)" />
+      <item itemvalue="Node.js.main.js (2)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.main.js (2)" />
         <item itemvalue="Node.js.main.js (1)" />
         <item itemvalue="Node.js.all.js" />
         <item itemvalue="Node.js.index.js" />
         <item itemvalue="Application.hello" />
-        <item itemvalue="Node.js.u_test.js" />
       </list>
     </recent_temporary>
   </component>
@@ -557,7 +557,7 @@
       <workItem from="1618561626448" duration="440000" />
       <workItem from="1618562996207" duration="12874000" />
       <workItem from="1618628779162" duration="7098000" />
-      <workItem from="1619148423243" duration="9819000" />
+      <workItem from="1619148423243" duration="11106000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
@@ -1230,86 +1230,86 @@
     </state>
     <state x="519" y="178" key="FileChooserDialogImpl/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1617772888248" />
     <state x="1901" y="204" key="FileChooserDialogImpl/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1619156122577" />
-    <state width="1220" height="288" key="GridCell.Tab.0.bottom" timestamp="1619160246256">
+    <state width="1220" height="288" key="GridCell.Tab.0.bottom" timestamp="1619161956493">
       <screen x="1440" y="0" width="1280" height="984" />
     </state>
     <state width="1340" height="175" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1617534895184" />
-    <state width="1220" height="288" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1619160246256" />
-    <state width="1220" height="288" key="GridCell.Tab.0.center" timestamp="1619160246256">
+    <state width="1220" height="288" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1619161956493" />
+    <state width="1220" height="288" key="GridCell.Tab.0.center" timestamp="1619161956493">
       <screen x="1440" y="0" width="1280" height="984" />
     </state>
     <state width="1340" height="175" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1617534895183" />
-    <state width="1220" height="288" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1619160246256" />
-    <state width="1220" height="288" key="GridCell.Tab.0.left" timestamp="1619160246256">
+    <state width="1220" height="288" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1619161956493" />
+    <state width="1220" height="288" key="GridCell.Tab.0.left" timestamp="1619161956493">
       <screen x="1440" y="0" width="1280" height="984" />
     </state>
     <state width="1340" height="175" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1617534895183" />
-    <state width="1220" height="288" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1619160246256" />
-    <state width="1220" height="288" key="GridCell.Tab.0.right" timestamp="1619160246256">
+    <state width="1220" height="288" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1619161956493" />
+    <state width="1220" height="288" key="GridCell.Tab.0.right" timestamp="1619161956493">
       <screen x="1440" y="0" width="1280" height="984" />
     </state>
     <state width="1340" height="175" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1617534895183" />
-    <state width="1220" height="288" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1619160246256" />
-    <state width="1220" height="288" key="GridCell.Tab.1.bottom" timestamp="1619160268520">
+    <state width="1220" height="288" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1619161956493" />
+    <state width="1220" height="288" key="GridCell.Tab.1.bottom" timestamp="1619161974683">
       <screen x="1440" y="0" width="1280" height="984" />
     </state>
     <state width="1340" height="232" key="GridCell.Tab.1.bottom/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1617112318073" />
-    <state width="1220" height="288" key="GridCell.Tab.1.bottom/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1619160268520" />
-    <state width="1220" height="288" key="GridCell.Tab.1.center" timestamp="1619160268520">
+    <state width="1220" height="288" key="GridCell.Tab.1.bottom/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1619161974683" />
+    <state width="1220" height="288" key="GridCell.Tab.1.center" timestamp="1619161974683">
       <screen x="1440" y="0" width="1280" height="984" />
     </state>
     <state width="1340" height="232" key="GridCell.Tab.1.center/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1617112318073" />
-    <state width="1220" height="288" key="GridCell.Tab.1.center/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1619160268520" />
-    <state width="1220" height="288" key="GridCell.Tab.1.left" timestamp="1619160268520">
+    <state width="1220" height="288" key="GridCell.Tab.1.center/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1619161974683" />
+    <state width="1220" height="288" key="GridCell.Tab.1.left" timestamp="1619161974683">
       <screen x="1440" y="0" width="1280" height="984" />
     </state>
     <state width="1340" height="232" key="GridCell.Tab.1.left/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1617112318073" />
-    <state width="1220" height="288" key="GridCell.Tab.1.left/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1619160268520" />
-    <state width="1220" height="288" key="GridCell.Tab.1.right" timestamp="1619160268520">
+    <state width="1220" height="288" key="GridCell.Tab.1.left/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1619161974683" />
+    <state width="1220" height="288" key="GridCell.Tab.1.right" timestamp="1619161974683">
       <screen x="1440" y="0" width="1280" height="984" />
     </state>
     <state width="1340" height="232" key="GridCell.Tab.1.right/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1617112318073" />
-    <state width="1220" height="288" key="GridCell.Tab.1.right/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1619160268520" />
-    <state width="1220" height="288" key="GridCell.Tab.2.bottom" timestamp="1619159708669">
+    <state width="1220" height="288" key="GridCell.Tab.1.right/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1619161974683" />
+    <state width="1220" height="288" key="GridCell.Tab.2.bottom" timestamp="1619161976395">
       <screen x="1440" y="0" width="1280" height="984" />
     </state>
     <state width="1340" height="232" key="GridCell.Tab.2.bottom/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1617097069734" />
-    <state width="1220" height="288" key="GridCell.Tab.2.bottom/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1619159708669" />
-    <state width="1220" height="288" key="GridCell.Tab.2.center" timestamp="1619159708669">
+    <state width="1220" height="288" key="GridCell.Tab.2.bottom/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1619161976395" />
+    <state width="1220" height="288" key="GridCell.Tab.2.center" timestamp="1619161976395">
       <screen x="1440" y="0" width="1280" height="984" />
     </state>
     <state width="1340" height="232" key="GridCell.Tab.2.center/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1617097069734" />
-    <state width="1220" height="288" key="GridCell.Tab.2.center/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1619159708669" />
-    <state width="1220" height="288" key="GridCell.Tab.2.left" timestamp="1619159708668">
+    <state width="1220" height="288" key="GridCell.Tab.2.center/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1619161976395" />
+    <state width="1220" height="288" key="GridCell.Tab.2.left" timestamp="1619161976395">
       <screen x="1440" y="0" width="1280" height="984" />
     </state>
     <state width="1340" height="232" key="GridCell.Tab.2.left/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1617097069734" />
-    <state width="1220" height="288" key="GridCell.Tab.2.left/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1619159708668" />
-    <state width="1220" height="288" key="GridCell.Tab.2.right" timestamp="1619159708669">
+    <state width="1220" height="288" key="GridCell.Tab.2.left/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1619161976395" />
+    <state width="1220" height="288" key="GridCell.Tab.2.right" timestamp="1619161976395">
       <screen x="1440" y="0" width="1280" height="984" />
     </state>
     <state width="1340" height="232" key="GridCell.Tab.2.right/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1617097069734" />
-    <state width="1220" height="288" key="GridCell.Tab.2.right/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1619159708669" />
-    <state width="1220" height="288" key="GridCell.Tab.3.bottom" timestamp="1619159708669">
+    <state width="1220" height="288" key="GridCell.Tab.2.right/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1619161976395" />
+    <state width="1220" height="288" key="GridCell.Tab.3.bottom" timestamp="1619161956419">
       <screen x="1440" y="0" width="1280" height="984" />
     </state>
     <state width="1340" height="232" key="GridCell.Tab.3.bottom/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1617097069735" />
-    <state width="1220" height="288" key="GridCell.Tab.3.bottom/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1619159708669" />
-    <state width="1220" height="288" key="GridCell.Tab.3.center" timestamp="1619159708669">
+    <state width="1220" height="288" key="GridCell.Tab.3.bottom/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1619161956419" />
+    <state width="1220" height="288" key="GridCell.Tab.3.center" timestamp="1619161956419">
       <screen x="1440" y="0" width="1280" height="984" />
     </state>
     <state width="1340" height="232" key="GridCell.Tab.3.center/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1617097069734" />
-    <state width="1220" height="288" key="GridCell.Tab.3.center/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1619159708669" />
-    <state width="1220" height="288" key="GridCell.Tab.3.left" timestamp="1619159708669">
+    <state width="1220" height="288" key="GridCell.Tab.3.center/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1619161956419" />
+    <state width="1220" height="288" key="GridCell.Tab.3.left" timestamp="1619161956419">
       <screen x="1440" y="0" width="1280" height="984" />
     </state>
     <state width="1340" height="232" key="GridCell.Tab.3.left/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1617097069734" />
-    <state width="1220" height="288" key="GridCell.Tab.3.left/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1619159708669" />
-    <state width="1220" height="288" key="GridCell.Tab.3.right" timestamp="1619159708669">
+    <state width="1220" height="288" key="GridCell.Tab.3.left/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1619161956419" />
+    <state width="1220" height="288" key="GridCell.Tab.3.right" timestamp="1619161956419">
       <screen x="1440" y="0" width="1280" height="984" />
     </state>
     <state width="1340" height="232" key="GridCell.Tab.3.right/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1617097069735" />
-    <state width="1220" height="288" key="GridCell.Tab.3.right/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1619159708669" />
+    <state width="1220" height="288" key="GridCell.Tab.3.right/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1619161956419" />
     <state width="207" height="462" key="HiddenNamespacesPopup" timestamp="1618559267645">
       <screen x="1440" y="0" width="1280" height="984" />
     </state>
@@ -1402,9 +1402,6 @@
           <option name="timeStamp" value="19" />
         </line-breakpoint>
       </breakpoints>
-      <default-breakpoints>
-        <breakpoint enabled="true" type="javascript-exception" />
-      </default-breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
