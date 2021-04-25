@@ -6,10 +6,12 @@ const _utest = _require ( '_utest' );
 const PRSING_TIMEOUT = 1000;
 const EXECUTION_TIMEOUT = 5000;
 
-const { wm } = _node;
+const { vm } = _node;
 
 const __node = Object.assign ( {}, _node );
-delete __node.fs
+delete __node.fs;
 
+vm.createContext ( { module: {} } );
 
+debugger
 
