@@ -3,30 +3,33 @@ const Path = require ( 'path' );
 
 const clone_Fs = {};
 
-const wrapFunction = ( key, fn ) => {
+const wrapFunction = ( fn, path ) => {
 
     return ( ...args ) => {
         debugger
         const arr_path = args[0].split ( '/' );
-        const wrap_path = Path.join ( arr_path[arr_path.length - 1] );
+        const wrap_path = Path.join ( path, arr_path[arr_path.length - 1] );
         args[0] = wrap_path;
 
         return fn ( ...args );
     };
 };
 
-const cloneInterface = anInterface => {
-
-    const clone = {};
-    for ( const key in anInterface ) {
-        const fn = anInterface[key];
-        clone[key] = wrapFunction ( key, fn );
+const typeFunction = {
+    fileFunctions: {
+        names: [
+            'readFile',
+            'readFileSinc',
+        ],
+        wrapper: wrapFunction,
+    },
+    twoPathFunctions: {
+        names: [
+            'copyFile',
+        ],
+        wrapper: wrapFunction,
     }
-
-    return clone;
 };
-
-
 
 // const clone_Fs = cloneInterface ( Fs );
 
@@ -37,8 +40,24 @@ const cloneInterface = anInterface => {
 // } );
 clone_Fs.bind = path => {
     const wraped = Object.assign ( {}, Fs );
-    debugger
+    for ( const typeName of Object.keys ( typeFunction ) ) {
+        const type = typeFunction[typeName];
+        for ( const name of type.names ) {
+            const fn = Fs[name];
+            if ( !fn ) continue;
+            wraped[name] = type.wrapper ( fn, path );
+        }
+
+    }
     return wraped;
 };
+
+// const b_fs = clone_Fs.bind ( './applications/application1/' );
+//
+// b_fs.readFile ( '../../src/README.md', 'utf-8', ( err, data ) => {
+//     if ( err ) throw err;
+//     console.log ( { data } );
+// } );
+
 module.exports = clone_Fs;
 

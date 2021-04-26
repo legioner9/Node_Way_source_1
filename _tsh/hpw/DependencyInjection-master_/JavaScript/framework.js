@@ -8,8 +8,8 @@
 const api = {};
 api.fs = require('fs');
 api.vm = require('vm');
-api.sandboxedFs = require('./sandboxed-fs_orig');
-// api.sandboxedFs = require('./sandboxed-fs_my');
+// api.sandboxedFs = require('./sandboxed-fs_orig');
+ api.sandboxedFs = require('./sandboxed-fs_my');
 
 const { cloneInterface, wrapFunction } = require('./wrapper');
 
