@@ -9,7 +9,7 @@ api.console.log ( 'From application1 global context' );
 
 module.exports = () => {
     // Print from the exported function context
-
+    debugger
     api.fs.readFile ( '../../README.md', ( err, data ) => {
         if ( err ) {
             api.console.log ( err.message );

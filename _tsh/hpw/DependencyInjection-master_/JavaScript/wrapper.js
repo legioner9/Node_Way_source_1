@@ -1,7 +1,7 @@
 'use strict';
 
 const wrapFunction = ( key, fn ) => {
-    debugger
+
     console.log ( `Wrap function: ${ key }` );
     return ( ...args ) => {
         console.log ( `Called wrapper for: ${ key }` );

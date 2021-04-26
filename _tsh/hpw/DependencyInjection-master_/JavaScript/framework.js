@@ -5,24 +5,24 @@
 // as a global context and receives exported application interface
 
 // The framework can require core libraries
-debugger
+
 const api = {};
 api.fs = require ( 'fs' );
 api.vm = require ( 'vm' );
-api.sandboxedFs = require('./sandboxed-fs');
+api.sandboxedFs = require ( './sandboxed-fs' );
 // api.sandboxedFs = ( ) => {
 //     return api.fs
 // };
 const { cloneInterface, wrapFunction } = require ( './wrapper' );
 
 const log = s => {
-    debugger
+
     console.log ( 'Prints something from sandbox' );
     console.log ( s );
 };
 
 const safeRequire = name => {
-    debugger
+
     if ( name === 'fs' ) {
         const msg = 'You dont have access to fs API';
         console.log ( msg );
@@ -34,7 +34,7 @@ const safeRequire = name => {
 };
 
 const runSandboxed = path => {
-    debugger
+
     const fileName = path + 'main.js';
     const context = {
         module: {},
@@ -44,10 +44,13 @@ const runSandboxed = path => {
             timers: {
                 setTimeout: wrapFunction ( 'setTimeout', setTimeout )
             },
-            fs: cloneInterface ( api.sandboxedFs.bind ( path ) )
+            fs: api.sandboxedFs,
+            path,
         }
     };
+
     context.global = context;
+
     const sandbox = api.vm.createContext ( context );
     // Read an application source code from the file
     api.fs.readFile ( fileName, ( err, src ) => {
