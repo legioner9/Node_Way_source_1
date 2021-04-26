@@ -24,12 +24,16 @@ const cloneInterface = anInterface => {
     return clone;
 };
 
-const clone_Fs = cloneInterface ( Fs );
+// const clone_Fs = cloneInterface ( Fs );
 
 // clone_Fs.readFile ( '../../src/README.md', 'utf-8', ( err, data ) => {
 //     debugger
 //     if ( err ) throw err;
 //     console.log ( { data } );
 // } );
+clone_Fs.bind = path => {
+    const wraped = Object.assign({}, Fs)
+    debugger
+}
 module.exports = clone_Fs;
 

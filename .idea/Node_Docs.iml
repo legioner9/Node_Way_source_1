@@ -13,6 +13,7 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/ee" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/.idea/gen" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/_tsh/hpw/DependencyInjection-master_/JavaScript/node_modules" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/Education/ITVDN_Video_NodeJs" />
       <excludeFolder url="file://$MODULE_DIR$/NPM_/ST_DOC/st_doc1@1.0.11" />
       <excludeFolder url="file://$MODULE_DIR$/NPM_/ST_DOC/st_doc1@1.0.12" />
