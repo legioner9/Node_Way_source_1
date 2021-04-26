@@ -1,6 +1,8 @@
 const Fs = require ( 'fs' );
 const Path = require ( 'path' );
 
+const clone_Fs = {};
+
 const wrapFunction = ( key, fn ) => {
 
     return ( ...args ) => {
@@ -24,6 +26,8 @@ const cloneInterface = anInterface => {
     return clone;
 };
 
+
+
 // const clone_Fs = cloneInterface ( Fs );
 
 // clone_Fs.readFile ( '../../src/README.md', 'utf-8', ( err, data ) => {
@@ -32,8 +36,9 @@ const cloneInterface = anInterface => {
 //     console.log ( { data } );
 // } );
 clone_Fs.bind = path => {
-    const wraped = Object.assign({}, Fs)
+    const wraped = Object.assign ( {}, Fs );
     debugger
-}
+    return wraped;
+};
 module.exports = clone_Fs;
 

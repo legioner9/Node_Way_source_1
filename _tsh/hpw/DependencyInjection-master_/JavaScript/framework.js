@@ -58,4 +58,4 @@ const runSandboxed = path => {
 };
 
 runSandboxed('./applications/application1/');
-runSandboxed('./applications/application2/');
+// runSandboxed('./applications/application2/');
