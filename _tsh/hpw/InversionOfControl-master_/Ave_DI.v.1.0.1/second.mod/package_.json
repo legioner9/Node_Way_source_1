@@ -5,11 +5,9 @@
   "author": "legioner9 <legioner9@inbox.ru>",
   "description": "Dependency Injection Example for Node.js",
   "main": "./component.js",
-  "dependencies": {
-    "colors": "1.1.x",
-    "mkdirp": "0.5.x",
-    "ncp": "2.0.x"
-  },
+  "dependencies": [
+    "fs"
+  ],
   "engines": {
     "node": ">=5"
   },

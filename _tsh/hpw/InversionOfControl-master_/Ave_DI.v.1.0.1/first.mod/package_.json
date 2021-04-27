@@ -5,10 +5,10 @@
   "author": "legioner9 <legioner9@inbox.ru>",
   "description": "Dependency Injection Example for Node.js",
   "main": "./main.js",
-  "dependencies": {
-    "console": "",
-    "ncp": "2.0.x"
-  },
+  "dependencies": [
+    "console",
+    "ncp"
+  ],
   "engines": {
     "node": ">=5"
   },
