@@ -45,6 +45,7 @@ const loadLibrary = ( name, parent ) => {
         mod.config = require ( `./${ name }.json` );
         mod.fileName = `./${ name }.js`;
         api.fs.readFile ( mod.fileName, 'utf8', ( err, src ) => {
+            debugger
             mod.script = api.vm.createScript ( src, mod.fileName );
             mod.script.runInNewContext ( mod.sandbox );
             mod.interface = mod.sandbox.exports;

@@ -1,0 +1,16 @@
+{
+  "name": "first.mod",
+  "version": "1.0.0",
+  "private": true,
+  "author": "legioner9 <legioner9@inbox.ru>",
+  "description": "Dependency Injection Example for Node.js",
+  "main": "./main.js",
+  "dependencies": {
+    "console": "",
+    "ncp": "2.0.x"
+  },
+  "engines": {
+    "node": ">=5"
+  },
+  "readmeFilename": "README.md"
+}
