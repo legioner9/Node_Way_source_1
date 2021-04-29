@@ -6,7 +6,8 @@
   "description": "Dependency Injection Example for Node.js",
   "main": "./component.js",
   "dependencies": [
-    "fs"
+    "fs",
+    "first.mod"
   ],
   "engines": {
     "node": ">=5"

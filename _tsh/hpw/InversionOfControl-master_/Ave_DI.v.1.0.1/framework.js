@@ -11,7 +11,7 @@ const coniunctum = {
 
 const createApi = arr => {
 
-}
+};
 
 const arr_mod = Fs.readdirSync ( __dirname ).filter ( name => {
     const arr = name.split ( '.' );
@@ -32,7 +32,7 @@ const pars_mod_depend = ( item, index, issue ) => {
             value: {
                 code,
                 path,
-                dependencies:obj_json.dependencies,
+                dependencies: obj_json.dependencies,
             },
             writable: false,
         },
