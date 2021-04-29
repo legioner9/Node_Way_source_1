@@ -35,9 +35,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tsh/hpw/InversionOfControl-master_/Ave_DI.v.1.0.1/first.mod/package_.json" beforeDir="false" afterPath="$PROJECT_DIR$/_tsh/hpw/InversionOfControl-master_/Ave_DI.v.1.0.1/first.mod/package_.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tsh/hpw/InversionOfControl-master_/Ave_DI.v.1.0.1/framework.js" beforeDir="false" afterPath="$PROJECT_DIR$/_tsh/hpw/InversionOfControl-master_/Ave_DI.v.1.0.1/framework.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tsh/hpw/InversionOfControl-master_/Ave_DI.v.1.0.1/second.mod/package_.json" beforeDir="false" afterPath="$PROJECT_DIR$/_tsh/hpw/InversionOfControl-master_/Ave_DI.v.1.0.1/second.mod/package_.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -573,6 +570,7 @@
       <workItem from="1619366362625" duration="33326000" />
       <workItem from="1619458029645" duration="155000" />
       <workItem from="1619497834367" duration="27369000" />
+      <workItem from="1619682609823" duration="1235000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
