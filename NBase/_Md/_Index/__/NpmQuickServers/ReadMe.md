@@ -6,3 +6,13 @@
 ### node-static (Node.js)
     npm install -g node-static # install dependency 
     static -p 8000
+    
+### [watch-http-server](https://www.npmjs.com/package/watch-http-server) (cli Node.js)
+
+    curl https://npmjs.org/install.sh | sh
+    curl https://npmjs.org/install.sh | sh   
+
+## [fsweb](https://www.npmjs.com/package/fsweb)
+    
+     npm install fsweb -g
+     fsweb ./directory_to_watch 8080
