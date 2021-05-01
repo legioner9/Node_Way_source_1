@@ -1,3 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\LiveTable-master\cat.LiveTable-master\dir.LiveTable-master.md">LiveTable-master</a>
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\LiveTable-master\README.md">README.md</a>
-        - *# LiveTable

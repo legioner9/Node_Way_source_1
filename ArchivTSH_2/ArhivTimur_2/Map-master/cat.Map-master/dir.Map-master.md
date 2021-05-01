@@ -1,3 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Map-master\cat.Map-master\dir.Map-master.md">Map-master</a>
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Map-master\README.md">README.md</a>
-        - *# Map as Associative Array

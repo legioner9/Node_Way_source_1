@@ -1,3 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\CSRF-master\cat.CSRF-master\dir.CSRF-master.md">CSRF-master</a>
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\CSRF-master\README.md">README.md</a>
-        - *# CSRF

@@ -1,3 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\Partners-master\cat.Partners-master\dir.Partners-master.md">Partners-master</a>
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\Partners-master\README.md">README.md</a>
-        - *# Partners

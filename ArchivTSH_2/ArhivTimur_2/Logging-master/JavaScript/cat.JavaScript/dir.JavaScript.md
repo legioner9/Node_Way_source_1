@@ -1,3 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Logging-master\JavaScript\cat.JavaScript\dir.JavaScript.md">JavaScript</a>
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Logging-master\JavaScript\README.md">README.md</a>
-        - *## Logging

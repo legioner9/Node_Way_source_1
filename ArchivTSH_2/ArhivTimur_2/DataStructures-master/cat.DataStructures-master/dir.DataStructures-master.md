@@ -1,3 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\DataStructures-master\cat.DataStructures-master\dir.DataStructures-master.md">DataStructures-master</a>
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\DataStructures-master\README.md">README.md</a>
-        - *# Data structures basics

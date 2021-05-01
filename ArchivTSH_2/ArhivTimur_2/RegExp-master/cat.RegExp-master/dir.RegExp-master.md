@@ -1,3 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\RegExp-master\cat.RegExp-master\dir.RegExp-master.md">RegExp-master</a>
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\RegExp-master\README.md">README.md</a>
-        - *# RegExp

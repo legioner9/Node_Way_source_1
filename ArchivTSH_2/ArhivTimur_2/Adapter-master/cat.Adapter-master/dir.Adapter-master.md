@@ -1,3 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Adapter-master\cat.Adapter-master\dir.Adapter-master.md">Adapter-master</a>
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Adapter-master\README.md">README.md</a>
-        - *## Pattern Adapter Implementations

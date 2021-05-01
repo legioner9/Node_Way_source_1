@@ -1,3 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\eslint-plugin-impress-master\cat.eslint-plugin-impress-master\dir.eslint-plugin-impress-master.md">eslint-plugin-impress-master</a>
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\eslint-plugin-impress-master\README.md">README.md</a>
-        - *# eslint-plugin-impress

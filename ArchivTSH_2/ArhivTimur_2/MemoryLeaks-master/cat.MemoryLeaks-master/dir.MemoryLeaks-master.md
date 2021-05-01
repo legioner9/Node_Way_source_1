@@ -1,4 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\MemoryLeaks-master\cat.MemoryLeaks-master\dir.MemoryLeaks-master.md">MemoryLeaks-master</a>
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\MemoryLeaks-master\README.md">README.md</a>
-        - *# Memory Leaks
-        - *# Memory

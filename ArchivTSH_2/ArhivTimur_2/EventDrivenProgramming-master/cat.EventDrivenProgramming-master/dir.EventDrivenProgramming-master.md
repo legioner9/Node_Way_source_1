@@ -1,5 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\EventDrivenProgramming-master\cat.EventDrivenProgramming-master\dir.EventDrivenProgramming-master.md">EventDrivenProgramming-master</a>
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\EventDrivenProgramming-master\README.md">README.md</a>
-        - *## Событийно-ориентированное программирование
-        - *## Задания
-        - *## Дополнительные задания

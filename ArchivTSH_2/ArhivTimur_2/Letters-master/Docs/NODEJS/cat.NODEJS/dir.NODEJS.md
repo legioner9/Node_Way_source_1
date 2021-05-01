@@ -1,6 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Letters-master\Docs\NODEJS\cat.NODEJS\dir.NODEJS.md">NODEJS</a>
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Letters-master\Docs\NODEJS\README.md">README.md</a>
-        - *# Планы обучения для "Программной инженерии" по треку Node.js
-        - *## Введение в технологию
-        - *## Курс переподготовки JavaScript разработчиков
-        - *## Курс обучения для студентов КПИ

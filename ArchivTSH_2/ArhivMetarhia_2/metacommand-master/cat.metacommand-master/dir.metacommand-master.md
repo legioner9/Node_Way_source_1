@@ -1,3 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\metacommand-master\cat.metacommand-master\dir.metacommand-master.md">metacommand-master</a>
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\metacommand-master\README.md">README.md</a>
-        - *# Metarhia command-line interface utilities

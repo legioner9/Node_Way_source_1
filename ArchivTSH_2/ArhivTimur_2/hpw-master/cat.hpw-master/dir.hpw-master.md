@@ -1,3 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\hpw-master\cat.hpw-master\dir.hpw-master.md">hpw-master</a>
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\hpw-master\README.md">README.md</a>
-        - *# Laboratory Work for How.Programming.Works Project

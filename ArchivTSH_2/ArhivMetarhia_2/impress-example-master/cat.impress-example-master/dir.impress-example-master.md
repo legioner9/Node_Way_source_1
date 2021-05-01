@@ -1,3 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\impress-example-master\cat.impress-example-master\dir.impress-example-master.md">impress-example-master</a>
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\impress-example-master\README.md">README.md</a>
-        - *# ImpressExample

@@ -1,3 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Semaphore-master\cat.Semaphore-master\dir.Semaphore-master.md">Semaphore-master</a>
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Semaphore-master\README.md">README.md</a>
-        - *## Binary Semaphore, Counting Semaphore

@@ -1,3 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\AsyncAwait-master\cat.AsyncAwait-master\dir.AsyncAwait-master.md">AsyncAwait-master</a>
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\AsyncAwait-master\README.md">README.md</a>
-        - *# AsyncAwait

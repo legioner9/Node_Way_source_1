@@ -1,3 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\metaschema-langserver-master\cat.metaschema-langserver-master\dir.metaschema-langserver-master.md">metaschema-langserver-master</a>
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\metaschema-langserver-master\README.md">README.md</a>
-        - *# metaschema-langserver

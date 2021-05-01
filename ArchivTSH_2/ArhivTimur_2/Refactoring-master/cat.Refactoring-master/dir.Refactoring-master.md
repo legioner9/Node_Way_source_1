@@ -1,3 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Refactoring-master\cat.Refactoring-master\dir.Refactoring-master.md">Refactoring-master</a>
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Refactoring-master\README.md">README.md</a>
-        - *## Refactoring

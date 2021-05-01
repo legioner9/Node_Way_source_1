@@ -1,3 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\AsyncCompose-master\cat.AsyncCompose-master\dir.AsyncCompose-master.md">AsyncCompose-master</a>
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\AsyncCompose-master\README.md">README.md</a>
-        - *## Asynchronous Function Composition

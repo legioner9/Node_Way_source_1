@@ -1,3 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Testing-master\cat.Testing-master\dir.Testing-master.md">Testing-master</a>
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Testing-master\README.md">README.md</a>
-        - *## «Why Testing» in examples

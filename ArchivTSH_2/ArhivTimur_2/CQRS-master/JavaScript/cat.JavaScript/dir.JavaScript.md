@@ -1,4 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\CQRS-master\JavaScript\cat.JavaScript\dir.JavaScript.md">JavaScript</a>
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\CQRS-master\JavaScript\README.md">README.md</a>
-        - *## Separate Command and Query processing at Application Server
-        - *## Scale Read API

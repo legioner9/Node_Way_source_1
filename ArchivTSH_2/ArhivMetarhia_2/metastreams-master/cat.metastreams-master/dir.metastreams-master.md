@@ -1,3 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\metastreams-master\cat.metastreams-master\dir.metastreams-master.md">metastreams-master</a>
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\metastreams-master\README.md">README.md</a>
-        - *# Readable and Writable Streams with buffering

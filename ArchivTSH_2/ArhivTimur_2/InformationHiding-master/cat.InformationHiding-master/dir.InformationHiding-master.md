@@ -1,3 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\InformationHiding-master\cat.InformationHiding-master\dir.InformationHiding-master.md">InformationHiding-master</a>
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\InformationHiding-master\README.md">README.md</a>
-        - *# InformationHiding

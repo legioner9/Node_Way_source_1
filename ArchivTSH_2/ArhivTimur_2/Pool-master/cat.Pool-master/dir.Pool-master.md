@@ -1,3 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Pool-master\cat.Pool-master\dir.Pool-master.md">Pool-master</a>
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Pool-master\README.md">README.md</a>
-        - *# Object Pool

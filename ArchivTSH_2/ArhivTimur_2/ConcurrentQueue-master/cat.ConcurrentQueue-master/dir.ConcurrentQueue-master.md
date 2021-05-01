@@ -1,3 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\ConcurrentQueue-master\cat.ConcurrentQueue-master\dir.ConcurrentQueue-master.md">ConcurrentQueue-master</a>
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\ConcurrentQueue-master\README.md">README.md</a>
-        - *## Asynchronous Concurrent Queue with Priority and Factor

@@ -1,7 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\FunctionalProgramming-master\cat.FunctionalProgramming-master\dir.FunctionalProgramming-master.md">FunctionalProgramming-master</a>
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\FunctionalProgramming-master\JavaScript\cat.JavaScript\dir.JavaScript.md">JavaScript</a>
-        - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\FunctionalProgramming-master\JavaScript\README.md">README.md</a>
-            - *# Другие техники программирования
-    
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\FunctionalProgramming-master\README.md">README.md</a>
-        - *# FunctionalProgramming

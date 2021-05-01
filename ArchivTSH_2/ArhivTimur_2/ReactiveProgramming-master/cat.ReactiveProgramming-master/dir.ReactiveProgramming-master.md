@@ -1,3 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\ReactiveProgramming-master\cat.ReactiveProgramming-master\dir.ReactiveProgramming-master.md">ReactiveProgramming-master</a>
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\ReactiveProgramming-master\README.md">README.md</a>
-        - *# Data Driven Programming

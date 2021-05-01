@@ -1,5 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Certificate-master\5-Lecturer\cat.5-Lecturer\dir.5-Lecturer.md">5-Lecturer</a>
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Certificate-master\5-Lecturer\2019\cat.2019\dir.2019.md">2019</a>
-        - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Certificate-master\5-Lecturer\2019\README.md">README.md</a>
-            - *# Lecturer in Software Engineer
-    

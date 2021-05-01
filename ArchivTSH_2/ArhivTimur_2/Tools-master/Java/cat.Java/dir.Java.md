@@ -1,5 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Tools-master\Java\cat.Java\dir.Java.md">Java</a>
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Tools-master\Java\README.md">README.md</a>
-        - *# Java Development Tools
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Tools-master\Java\README.ru.md">README.ru.md</a>
-        - *# Инструменты разработчика Java

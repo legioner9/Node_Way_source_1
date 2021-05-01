@@ -1,5 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Composition-master\cat.Composition-master\dir.Composition-master.md">Composition-master</a>
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Composition-master\Exercises.ru.md">Exercises.ru.md</a>
-        - *# Композиция
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Composition-master\README.md">README.md</a>
-        - *## Композиция функций

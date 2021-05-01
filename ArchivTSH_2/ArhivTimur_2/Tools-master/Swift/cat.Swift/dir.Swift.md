@@ -1,5 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Tools-master\Swift\cat.Swift\dir.Swift.md">Swift</a>
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Tools-master\Swift\README.md">README.md</a>
-        - *# Swift Development Tools
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Tools-master\Swift\README.ru.md">README.ru.md</a>
-        - *# Инструменты разработчика Python

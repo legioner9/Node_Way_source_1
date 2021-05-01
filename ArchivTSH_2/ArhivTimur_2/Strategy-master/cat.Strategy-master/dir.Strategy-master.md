@@ -1,3 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Strategy-master\cat.Strategy-master\dir.Strategy-master.md">Strategy-master</a>
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Strategy-master\README.md">README.md</a>
-        - *## Strategy Pattern

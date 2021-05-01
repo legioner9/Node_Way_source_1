@@ -1,2 +1,0 @@
-# Exams
-Exams readiness test

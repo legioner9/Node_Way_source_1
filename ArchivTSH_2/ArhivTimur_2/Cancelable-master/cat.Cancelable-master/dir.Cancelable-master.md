@@ -1,3 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Cancelable-master\cat.Cancelable-master\dir.Cancelable-master.md">Cancelable-master</a>
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Cancelable-master\README.md">README.md</a>
-        - *## Cancellable Asynchronous Abstractions

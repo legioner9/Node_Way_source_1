@@ -1,3 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Prototype-master\cat.Prototype-master\dir.Prototype-master.md">Prototype-master</a>
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Prototype-master\README.md">README.md</a>
-        - *# Prototype

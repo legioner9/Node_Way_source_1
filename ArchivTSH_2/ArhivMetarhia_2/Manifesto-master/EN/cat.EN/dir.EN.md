@@ -1,3 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\Manifesto-master\EN\cat.EN\dir.EN.md">EN</a>
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\Manifesto-master\EN\Technology.md">Technology.md</a>
-        - *# Metarhia Technology Stack Manifesto

@@ -1,3 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Singleton-master\cat.Singleton-master\dir.Singleton-master.md">Singleton-master</a>
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Singleton-master\README.md">README.md</a>
-        - *# Single instance

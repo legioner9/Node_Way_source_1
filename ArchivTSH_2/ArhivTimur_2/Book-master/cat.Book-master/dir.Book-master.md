@@ -1,3 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Book-master\cat.Book-master\dir.Book-master.md">Book-master</a>
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Book-master\README.md">README.md</a>
-        - *# Multi-paradigm Approach to the Software Engineering

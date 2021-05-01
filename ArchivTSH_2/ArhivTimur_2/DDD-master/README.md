@@ -1,2 +1,0 @@
-# DDD
-Domain-driven design

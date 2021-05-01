@@ -1,5 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Tools-master\Haskell\cat.Haskell\dir.Haskell.md">Haskell</a>
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Tools-master\Haskell\README.md">README.md</a>
-        - *# Haskell Development Tools
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Tools-master\Haskell\README.ru.md">README.ru.md</a>
-        - *# Инструменты разработчика Haskell

@@ -1,3 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\arhaica-master\cat.arhaica-master\dir.arhaica-master.md">arhaica-master</a>
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\arhaica-master\README.md">README.md</a>
-        - *## Installation

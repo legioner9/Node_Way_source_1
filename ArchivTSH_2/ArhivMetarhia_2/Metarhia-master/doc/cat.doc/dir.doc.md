@@ -1,3 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\Metarhia-master\doc\cat.doc\dir.doc.md">doc</a>
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\Metarhia-master\doc\maintainers.md">maintainers.md</a>
-        - *# Metarhia packages/repositories maintainers

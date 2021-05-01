@@ -1,2 +1,0 @@
-# PureFabrication
-GRASP: Pure Fabrication

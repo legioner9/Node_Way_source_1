@@ -1,7 +1,0 @@
-node_modules/
-dist/
-_book/
-examples/data-formats/
-test/fixtures/json5/
-.nyc_output/
-coverage/

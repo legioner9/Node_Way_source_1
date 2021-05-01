@@ -1,3 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\jstp-master\doc\cli\cat.cli\dir.cli.md">cli</a>
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\jstp-master\doc\cli\README.md">README.md</a>
-        - *# CLI

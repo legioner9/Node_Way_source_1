@@ -1,6 +1,0 @@
-# Node.js and NPM
-node_modules
-*.log
-
-# OS-specific files
-.DS_Store

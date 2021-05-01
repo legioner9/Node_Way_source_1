@@ -1,3 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Buffers-master\cat.Buffers-master\dir.Buffers-master.md">Buffers-master</a>
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Buffers-master\README.md">README.md</a>
-        - *# Binary Buffers

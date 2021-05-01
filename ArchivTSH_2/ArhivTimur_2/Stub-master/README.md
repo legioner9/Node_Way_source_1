@@ -1,1 +1,0 @@
-# Stub function, method, object

@@ -1,3 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Files-master\cat.Files-master\dir.Files-master.md">Files-master</a>
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Files-master\README.md">README.md</a>
-        - *# Files and file system

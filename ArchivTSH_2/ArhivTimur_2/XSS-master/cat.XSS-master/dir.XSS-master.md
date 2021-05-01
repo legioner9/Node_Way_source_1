@@ -1,3 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\XSS-master\cat.XSS-master\dir.XSS-master.md">XSS-master</a>
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\XSS-master\README.md">README.md</a>
-        - *# XSS

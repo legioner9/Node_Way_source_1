@@ -1,3 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\AsyncIterator-master\cat.AsyncIterator-master\dir.AsyncIterator-master.md">AsyncIterator-master</a>
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\AsyncIterator-master\README.md">README.md</a>
-        - *## Asynchronous Iterator and Iterable protocols

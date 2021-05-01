@@ -1,6 +1,0 @@
-{
-  "extends": ["metarhia", "plugin:prettier/recommended"],
-  "rules": {
-    "require-atomic-updates": "off"
-  }
-}

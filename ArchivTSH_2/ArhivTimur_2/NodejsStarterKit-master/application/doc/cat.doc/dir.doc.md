@@ -1,3 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\NodejsStarterKit-master\application\doc\cat.doc\dir.doc.md">doc</a>
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\NodejsStarterKit-master\application\doc\README.md">README.md</a>
-        - *# Application documentation

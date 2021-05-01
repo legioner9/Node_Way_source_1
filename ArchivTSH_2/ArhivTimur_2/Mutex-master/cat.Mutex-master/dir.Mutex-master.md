@@ -1,3 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Mutex-master\cat.Mutex-master\dir.Mutex-master.md">Mutex-master</a>
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Mutex-master\README.md">README.md</a>
-        - *## Mutex: Preventing race conditions with Mutual Exclusion

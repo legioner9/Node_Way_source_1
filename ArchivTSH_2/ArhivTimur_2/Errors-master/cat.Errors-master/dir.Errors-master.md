@@ -1,3 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Errors-master\cat.Errors-master\dir.Errors-master.md">Errors-master</a>
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Errors-master\README.md">README.md</a>
-        - *# Error handling

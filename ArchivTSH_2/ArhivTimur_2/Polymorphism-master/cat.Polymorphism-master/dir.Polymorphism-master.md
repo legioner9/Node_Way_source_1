@@ -1,3 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Polymorphism-master\cat.Polymorphism-master\dir.Polymorphism-master.md">Polymorphism-master</a>
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Polymorphism-master\README.md">README.md</a>
-        - *# Polymorphism

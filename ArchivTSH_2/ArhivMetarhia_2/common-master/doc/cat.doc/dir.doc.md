@@ -1,7 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\common-master\doc\cat.doc\dir.doc.md">doc</a>
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\common-master\doc\footer.md">footer.md</a>
-        - *## Contributors
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\common-master\doc\header.md">header.md</a>
-        - *# Metarhia Common Library
-        - *## Installation
-        - *## API

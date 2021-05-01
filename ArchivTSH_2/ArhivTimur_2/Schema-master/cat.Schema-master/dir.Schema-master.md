@@ -1,3 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Schema-master\cat.Schema-master\dir.Schema-master.md">Schema-master</a>
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Schema-master\README.md">README.md</a>
-        - *# Schema

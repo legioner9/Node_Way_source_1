@@ -1,3 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Isolation-master\cat.Isolation-master\dir.Isolation-master.md">Isolation-master</a>
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Isolation-master\README.md">README.md</a>
-        - *# Request isolation

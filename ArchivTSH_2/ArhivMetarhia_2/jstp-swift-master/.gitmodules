@@ -1,3 +1,0 @@
-[submodule "Carthage/Checkouts/Socket"]
-	path = Carthage/Checkouts/Socket
-	url = https://github.com/Gagnant/Socket.git

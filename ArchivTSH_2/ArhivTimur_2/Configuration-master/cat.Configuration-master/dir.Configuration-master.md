@@ -1,3 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Configuration-master\cat.Configuration-master\dir.Configuration-master.md">Configuration-master</a>
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Configuration-master\README.md">README.md</a>
-        - *# Configuration

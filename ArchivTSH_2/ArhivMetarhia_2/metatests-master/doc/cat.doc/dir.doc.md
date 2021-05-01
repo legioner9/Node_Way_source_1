@@ -1,5 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\metatests-master\doc\cat.doc\dir.doc.md">doc</a>
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\metatests-master\doc\header.md">header.md</a>
-        - *# metatests
-        - *## Contributors
-        - *## API

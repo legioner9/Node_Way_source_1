@@ -1,3 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Promise-master\cat.Promise-master\dir.Promise-master.md">Promise-master</a>
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Promise-master\README.md">README.md</a>
-        - *# Asynchronity with Promise

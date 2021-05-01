@@ -1,4 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\metacom-android-master\cat.metacom-android-master\dir.metacom-android-master.md">metacom-android-master</a>
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\metacom-android-master\README.md">README.md</a>
-        - *## Metacommunicator for Android
-        - *### Now available in [Play Market](https://play.google.com/store/apps/details?id=com.metarhia.metacom) 🎉

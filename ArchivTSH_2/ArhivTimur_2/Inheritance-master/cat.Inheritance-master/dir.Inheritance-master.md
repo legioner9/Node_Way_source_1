@@ -1,3 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Inheritance-master\cat.Inheritance-master\dir.Inheritance-master.md">Inheritance-master</a>
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Inheritance-master\README.md">README.md</a>
-        - *# Inheritance in Different Paradigms

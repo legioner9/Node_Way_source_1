@@ -1,3 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Deadlock-master\cat.Deadlock-master\dir.Deadlock-master.md">Deadlock-master</a>
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Deadlock-master\README.md">README.md</a>
-        - *# Deadlock

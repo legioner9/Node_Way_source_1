@@ -1,3 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Socket-master\cat.Socket-master\dir.Socket-master.md">Socket-master</a>
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Socket-master\README.md">README.md</a>
-        - *# Network Socket Endpoint Interface

@@ -1,5 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Generator-master\cat.Generator-master\dir.Generator-master.md">Generator-master</a>
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Generator-master\Exercises.ru.md">Exercises.ru.md</a>
-        - *## Генераторы
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Generator-master\README.md">README.md</a>
-        - *## Generators

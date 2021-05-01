@@ -1,7 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\iterator-master\doc\cat.doc\dir.doc.md">doc</a>
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\iterator-master\doc\footer.md">footer.md</a>
-        - *## Contributors
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\iterator-master\doc\header.md">header.md</a>
-        - *# `@metarhia/iterator` - efficient and composable iteration
-        - *## Installation
-        - *## API

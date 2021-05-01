@@ -1,3 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Index-master\Calendar\cat.Calendar\dir.Calendar.md">Calendar</a>
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Index-master\Calendar\Calendar.md">Calendar.md</a>
-        - *# Расписание

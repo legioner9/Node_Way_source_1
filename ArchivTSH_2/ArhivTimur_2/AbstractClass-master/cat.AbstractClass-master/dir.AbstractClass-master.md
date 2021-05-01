@@ -1,3 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\AbstractClass-master\cat.AbstractClass-master\dir.AbstractClass-master.md">AbstractClass-master</a>
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\AbstractClass-master\README.md">README.md</a>
-        - *# AbstractClass

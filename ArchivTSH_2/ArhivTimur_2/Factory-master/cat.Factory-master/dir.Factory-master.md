@@ -1,3 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Factory-master\cat.Factory-master\dir.Factory-master.md">Factory-master</a>
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Factory-master\README.md">README.md</a>
-        - *# Factory

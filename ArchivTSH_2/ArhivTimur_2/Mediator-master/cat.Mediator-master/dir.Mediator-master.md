@@ -1,3 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Mediator-master\cat.Mediator-master\dir.Mediator-master.md">Mediator-master</a>
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Mediator-master\README.md">README.md</a>
-        - *# Mediator

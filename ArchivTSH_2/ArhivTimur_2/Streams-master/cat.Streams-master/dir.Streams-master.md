@@ -1,3 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Streams-master\cat.Streams-master\dir.Streams-master.md">Streams-master</a>
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Streams-master\README.md">README.md</a>
-        - *# Read, write, transform data streams

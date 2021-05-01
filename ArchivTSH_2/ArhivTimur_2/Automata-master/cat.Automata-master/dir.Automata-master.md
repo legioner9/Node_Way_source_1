@@ -1,3 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Automata-master\cat.Automata-master\dir.Automata-master.md">Automata-master</a>
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Automata-master\README.md">README.md</a>
-        - *# Automata

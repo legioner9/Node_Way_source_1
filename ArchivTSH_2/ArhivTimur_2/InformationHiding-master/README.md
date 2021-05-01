@@ -1,2 +1,0 @@
-# InformationHiding
-Information Hiding

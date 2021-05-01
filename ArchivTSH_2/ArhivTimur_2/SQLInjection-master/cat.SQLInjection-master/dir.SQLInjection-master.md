@@ -1,3 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\SQLInjection-master\cat.SQLInjection-master\dir.SQLInjection-master.md">SQLInjection-master</a>
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\SQLInjection-master\README.md">README.md</a>
-        - *## SQL Injection

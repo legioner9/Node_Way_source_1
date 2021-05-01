@@ -1,3 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\console-web-master\cat.console-web-master\dir.console-web-master.md">console-web-master</a>
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\console-web-master\README.md">README.md</a>
-        - *# console-web

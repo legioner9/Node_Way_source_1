@@ -1,3 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Future-master\cat.Future-master\dir.Future-master.md">Future-master</a>
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Future-master\README.md">README.md</a>
-        - *## Future as Asynchronous Abstraction

@@ -1,3 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Reflection-master\cat.Reflection-master\dir.Reflection-master.md">Reflection-master</a>
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Reflection-master\README.md">README.md</a>
-        - *## Reflection allows programs to introspect and modify its structure and behavior at runtime

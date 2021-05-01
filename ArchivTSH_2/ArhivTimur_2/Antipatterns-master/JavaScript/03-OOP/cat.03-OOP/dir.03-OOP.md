@@ -1,3 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Antipatterns-master\JavaScript\03-OOP\cat.03-OOP\dir.03-OOP.md">03-OOP</a>
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Antipatterns-master\JavaScript\03-OOP\0-simple.md">0-simple.md</a>
-        - *## Simple antipatterns

@@ -1,3 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Stub-master\cat.Stub-master\dir.Stub-master.md">Stub-master</a>
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Stub-master\README.md">README.md</a>
-        - *# Stub function, method, object

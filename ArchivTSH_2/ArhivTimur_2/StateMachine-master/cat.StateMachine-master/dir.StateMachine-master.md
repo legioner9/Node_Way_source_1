@@ -1,3 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\StateMachine-master\cat.StateMachine-master\dir.StateMachine-master.md">StateMachine-master</a>
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\StateMachine-master\README.md">README.md</a>
-        - *# StateMachine

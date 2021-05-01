@@ -1,1 +1,0 @@
-# Metarhia Data Serialization Format

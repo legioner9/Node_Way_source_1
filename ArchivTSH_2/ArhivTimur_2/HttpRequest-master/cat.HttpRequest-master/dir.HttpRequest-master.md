@@ -1,3 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\HttpRequest-master\cat.HttpRequest-master\dir.HttpRequest-master.md">HttpRequest-master</a>
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\HttpRequest-master\README.md">README.md</a>
-        - *## HTTP Request, XMLHttpRequest, fetch

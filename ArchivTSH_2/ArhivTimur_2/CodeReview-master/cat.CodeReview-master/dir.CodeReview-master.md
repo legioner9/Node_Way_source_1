@@ -1,3 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\CodeReview-master\cat.CodeReview-master\dir.CodeReview-master.md">CodeReview-master</a>
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\CodeReview-master\README.md">README.md</a>
-        - *## Code Review

@@ -1,3 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Mixin-master\cat.Mixin-master\dir.Mixin-master.md">Mixin-master</a>
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Mixin-master\README.md">README.md</a>
-        - *# Примеси в JavaScript

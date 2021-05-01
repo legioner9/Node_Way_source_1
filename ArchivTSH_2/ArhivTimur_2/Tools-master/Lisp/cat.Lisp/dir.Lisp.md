@@ -1,5 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Tools-master\Lisp\cat.Lisp\dir.Lisp.md">Lisp</a>
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Tools-master\Lisp\README.md">README.md</a>
-        - *# Lisp Development Tools
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Tools-master\Lisp\README.ru.md">README.ru.md</a>
-        - *# Инструменты разработчика Lisp

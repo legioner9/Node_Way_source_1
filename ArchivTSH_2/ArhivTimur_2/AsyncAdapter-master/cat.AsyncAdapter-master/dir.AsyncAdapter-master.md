@@ -1,3 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\AsyncAdapter-master\cat.AsyncAdapter-master\dir.AsyncAdapter-master.md">AsyncAdapter-master</a>
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\AsyncAdapter-master\README.md">README.md</a>
-        - *# Contract Adapters for Asynchronous Programming

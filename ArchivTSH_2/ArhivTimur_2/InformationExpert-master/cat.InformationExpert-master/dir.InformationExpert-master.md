@@ -1,3 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\InformationExpert-master\cat.InformationExpert-master\dir.InformationExpert-master.md">InformationExpert-master</a>
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\InformationExpert-master\README.md">README.md</a>
-        - *# InformationExpert

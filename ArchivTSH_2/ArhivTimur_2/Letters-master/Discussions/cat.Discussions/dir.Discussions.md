@@ -1,3 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Letters-master\Discussions\cat.Discussions\dir.Discussions.md">Discussions</a>
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Letters-master\Discussions\method-2017-04-10.md">method-2017-04-10.md</a>
-        - *# Методсеминар по программной инженерии

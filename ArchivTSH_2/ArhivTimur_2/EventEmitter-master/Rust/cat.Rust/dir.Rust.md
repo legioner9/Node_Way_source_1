@@ -1,8 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\EventEmitter-master\Rust\cat.Rust\dir.Rust.md">Rust</a>
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\EventEmitter-master\Rust\README.md">README.md</a>
-        - *# EventEmitter Example in Rust
-        - *## Installing Rust
-        - *## Running examples
-        - *## Running tests
-        - *## Building documentation
-        - *## Contributing

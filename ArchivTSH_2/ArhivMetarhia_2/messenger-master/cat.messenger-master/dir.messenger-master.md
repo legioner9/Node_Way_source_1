@@ -1,7 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\messenger-master\cat.messenger-master\dir.messenger-master.md">messenger-master</a>
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivMetarhia_2\messenger-master\README.md">README.md</a>
-        - *# Metarhia Messenger
-        - *## Installation
-        - *# If you want a developer build with code-watching,
-        - *# fast background rebuild and automatic page reload:
-        - *# If you want a production build:

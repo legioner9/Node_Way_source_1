@@ -1,3 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Dequeue-master\cat.Dequeue-master\dir.Dequeue-master.md">Dequeue-master</a>
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Dequeue-master\README.md">README.md</a>
-        - *# Stack, Queue and Dequeue

@@ -1,3 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Callbacks-master\cat.Callbacks-master\dir.Callbacks-master.md">Callbacks-master</a>
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Callbacks-master\README.md">README.md</a>
-        - *# Callbacks, Listeners and Events

@@ -1,3 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Lenses-master\cat.Lenses-master\dir.Lenses-master.md">Lenses-master</a>
-    - <a href = "E:\Node_projects\Node_Way\ArchivTSH_2\ArhivTimur_2\Lenses-master\README.md">README.md</a>
-        - *## Lenses, fp getter &amp; setter
