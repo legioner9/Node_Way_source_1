@@ -35,8 +35,8 @@
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lessons/React/egghead.io/1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/React/egghead.io/1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NBase/_Md/_Index/__/NpmQuickServers/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/NBase/_Md/_Index/__/NpmQuickServers/ReadMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessons/Html/WebDevLushenco/Intl/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/Html/WebDevLushenco/Intl/ReadMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessons/Html/WebDevLushenco/Intl/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/Html/WebDevLushenco/Intl/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -574,7 +574,7 @@
       <workItem from="1619497834367" duration="27369000" />
       <workItem from="1619682609823" duration="8320000" />
       <workItem from="1619692539577" duration="3250000" />
-      <workItem from="1619803085484" duration="763000" />
+      <workItem from="1619803085484" duration="5405000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
