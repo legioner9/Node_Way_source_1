@@ -35,8 +35,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lessons/Html/WebDevLushenco/Intl/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/Html/WebDevLushenco/Intl/ReadMe.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lessons/Html/WebDevLushenco/Intl/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/Html/WebDevLushenco/Intl/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -575,6 +573,7 @@
       <workItem from="1619682609823" duration="8320000" />
       <workItem from="1619692539577" duration="3250000" />
       <workItem from="1619803085484" duration="5405000" />
+      <workItem from="1620034081327" duration="3015000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
