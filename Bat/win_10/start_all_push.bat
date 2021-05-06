@@ -1,0 +1,1 @@
+F:\Node_projects\Node_Way\Bat\win_10\1_git_gc_push_all.bat
