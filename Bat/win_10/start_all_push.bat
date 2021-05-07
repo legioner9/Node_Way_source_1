@@ -12,7 +12,7 @@ cd F:\Node_projects\AveMetaRu\_bat\win_10\
 pause
 echo ''
 echo {___AveMetaRu___}
-git add .
+git add . 
 git commit
 git push disk_tosh master
 git push github_l9 master
