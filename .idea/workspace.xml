@@ -230,12 +230,12 @@
     </configuration>
     <list>
       <item itemvalue="JavaScript Debug.1.html" />
-      <item itemvalue="Node.js.sandboxed-fs_my.js" />
+      <item itemvalue="Node.js.forEach.js" />
       <item itemvalue="Node.js.framework.js" />
       <item itemvalue="Node.js.main.js" />
-      <item itemvalue="Node.js.test.js (1)" />
       <item itemvalue="Node.js.require_json.js" />
-      <item itemvalue="Node.js.forEach.js" />
+      <item itemvalue="Node.js.sandboxed-fs_my.js" />
+      <item itemvalue="Node.js.test.js (1)" />
     </list>
     <recent_temporary>
       <list>
@@ -1427,8 +1427,5 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Node_Way$hello.coverage" NAME="hello Coverage Results" MODIFIED="1617112195493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jobs/Python_start/proj_1" />
   </component>
 </project>
