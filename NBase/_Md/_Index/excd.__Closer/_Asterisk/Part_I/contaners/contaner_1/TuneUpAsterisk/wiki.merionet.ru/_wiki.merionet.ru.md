@@ -1,1 +1,0 @@
-[ASTERISK - НАСТРОЙКА С НУЛЯ](https://wiki.merionet.ru/ip-telephoniya/72/asterisk-nastrojka-s-nulya/)

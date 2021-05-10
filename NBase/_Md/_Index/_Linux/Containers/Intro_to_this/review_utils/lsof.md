@@ -1,1 +1,0 @@
-## default [Удивительно полезный инструмент: lsof](https://habr.com/ru/company/ruvds/blog/337934/)

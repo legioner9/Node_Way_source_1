@@ -1,7 +1,0 @@
-- <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_HPW\_Repos_HowProgrammingWorks_17_05_2020\InterProcessCommunication-master\cat.InterProcessCommunication-master\dir.InterProcessCommunication-master.md">InterProcessCommunication-master</a>
-    - <a href = "E:\Node_projects\Node_Way\NBase\_Md\_Index\__Closer\_HPW\_Repos_HowProgrammingWorks_17_05_2020\InterProcessCommunication-master\README.md">README.md</a>
-        - *## Межпроцессовое взаимодействие
-        - *### Через IPC в node.js
-        - *### Через TCP сокеты
-        - *## Задания
-        - *## Дополнительные задания

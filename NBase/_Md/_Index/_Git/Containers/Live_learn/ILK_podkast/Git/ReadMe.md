@@ -1,1 +1,0 @@
-## D:\ScrinCasts\ILK\Скринкаст по Git

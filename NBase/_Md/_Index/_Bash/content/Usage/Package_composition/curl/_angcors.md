@@ -1,1 +1,0 @@
-https://losst.ru/tekstovyj-redaktor-nano-v-linux-dlya-novichkov

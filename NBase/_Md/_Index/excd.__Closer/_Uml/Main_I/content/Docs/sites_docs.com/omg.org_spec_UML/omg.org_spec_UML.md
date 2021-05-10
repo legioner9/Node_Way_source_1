@@ -1,1 +1,0 @@
-https://www.omg.org/spec/UML/2.0/#documents

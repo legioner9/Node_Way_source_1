@@ -1,2 +1,0 @@
-# Expirable
-Expirable Promises

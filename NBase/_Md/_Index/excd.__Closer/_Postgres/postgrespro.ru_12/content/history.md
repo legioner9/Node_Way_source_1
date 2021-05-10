@@ -1,1 +1,0 @@
-<https://postgrespro.ru/docs/postgrespro/12/history>

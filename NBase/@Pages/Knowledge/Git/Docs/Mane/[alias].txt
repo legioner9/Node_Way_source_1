@@ -1,7 +1,0 @@
-[alias]
-	gr = log --pretty=format:\"%h %s\" --graph
-	ch = checkout
-	br = branch
-	st = status
-	co = commit
-	reh = reset HEAD 

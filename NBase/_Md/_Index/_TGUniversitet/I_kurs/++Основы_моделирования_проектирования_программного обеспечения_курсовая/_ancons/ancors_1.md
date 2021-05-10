@@ -1,1 +1,0 @@
-## [Стешин, А. И. Информационные системы в организации](http://www.iprbookshop.ru/epd-reader?publicationId=79629)

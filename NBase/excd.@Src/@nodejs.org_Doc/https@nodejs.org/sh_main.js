@@ -1,1 +1,0 @@
-<HTML><HEAD><META HTTP-EQUIV="Refresh" CONTENT="0; URL=static/legacy/sh_main.js"><TITLE>302 File moved</TITLE></HEAD></HTML>

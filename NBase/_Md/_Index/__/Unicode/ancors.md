@@ -1,1 +1,0 @@
-- https://unicode-table.com/ru/

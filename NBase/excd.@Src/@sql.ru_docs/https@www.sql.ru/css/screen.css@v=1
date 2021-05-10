@@ -1,6 +1,0 @@
-@import "layout.css@v=1";
-@import "sides.css";
-@import "vote.css";
-@import "homepage.css";
-@import "articles.css";
-@import "job.css";

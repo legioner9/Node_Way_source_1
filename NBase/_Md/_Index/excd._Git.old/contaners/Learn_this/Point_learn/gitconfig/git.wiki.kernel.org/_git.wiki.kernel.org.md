@@ -1,1 +1,0 @@
-# [Git FAQ](https://git.wiki.kernel.org/index.php/Git_FAQ)
