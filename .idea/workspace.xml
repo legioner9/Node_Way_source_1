@@ -34,12 +34,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
-      <change beforePath="$PROJECT_DIR$/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/.editorconfig_" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_tsh/hpw/_exam/bitwise/_exampls/accessRight.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/hpw/_exam/bitwise/_exampls/accessRight.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_tsh/hpw/_exam/bitwise/_exampls/indexOf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_tsh/hpw/_exam/bitwise/_exampls/passwords.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_tsh/hpw/_exam/bitwise/_exampls/bigint.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/hpw/_exam/bitwise/_exampls/bigint.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -237,11 +233,11 @@
     </configuration>
     <list>
       <item itemvalue="JavaScript Debug.1.html" />
+      <item itemvalue="Node.js.sandboxed-fs_my.js" />
       <item itemvalue="Node.js.forEach.js" />
       <item itemvalue="Node.js.framework.js" />
       <item itemvalue="Node.js.main.js" />
       <item itemvalue="Node.js.require_json.js" />
-      <item itemvalue="Node.js.sandboxed-fs_my.js" />
       <item itemvalue="Node.js.test.js (1)" />
     </list>
     <recent_temporary>
@@ -595,7 +591,7 @@
       <workItem from="1620725832438" duration="703000" />
       <workItem from="1620727362413" duration="378000" />
       <workItem from="1620727756462" duration="11000000" />
-      <workItem from="1620847442602" duration="258000" />
+      <workItem from="1620847442602" duration="1648000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
@@ -1441,4 +1437,7 @@
           <url>file://$PROJECT_DIR$/node_modules/st_ex1/SetConsole/ConsoleLog/Position/Test/1.js</url>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
-      </breakpoi
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
