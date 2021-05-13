@@ -35,6 +35,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_tsh/hpw/_polifills/switch/Test/1.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/hpw/_polifills/switch/Test/1.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,7 +146,7 @@
     <property name="javascript.nodejs.core.library.configured.version" value="16.0.0" />
     <property name="jdk.selected.JAVA_MODULE" value="openjdk-16" />
     <property name="js.linters.configure.manually.selectedeslint" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/node_modules_/_tsh/hpw" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/node_modules_/_theory/dataStructures/arrayJs" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.jscs" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -189,11 +190,11 @@
       <recent name="F:\Node_projects\Node_Way\Lessons\Node_ws\Docs" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\Node_projects\Node_Way\node_modules_\_tsh\hpw\_exam" />
-      <recent name="F:\Node_projects\Node_Way\node_modules_\_tsh\hpw\_exam\bigint" />
-      <recent name="F:\Node_projects\Node_Way" />
-      <recent name="F:\Node_projects\Node_Way\node_modules_\_tsh\hpw\_exam\bitwise\_exampls" />
-      <recent name="F:\Node_projects\Node_Way\_tsh\hpw\InversionOfControl-master_\Ave_DI.v.1.0.1\second.mod" />
+      <recent name="F:\Node_projects\Node_Way\node_modules_\_theory\dataStructures\arrayJs" />
+      <recent name="F:\Node_projects\Node_Way\node_modules_\_theory\dataStructures" />
+      <recent name="F:\Node_projects\Node_Way\node_modules_\_theory" />
+      <recent name="F:\Node_projects\Node_Way\node_modules_" />
+      <recent name="F:\Node_projects\Node_Way\node_modules_\_tsh\hpw\_polifills" />
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.1.html">
@@ -590,7 +591,7 @@
       <workItem from="1620725832438" duration="703000" />
       <workItem from="1620727362413" duration="378000" />
       <workItem from="1620727756462" duration="11000000" />
-      <workItem from="1620847442602" duration="2383000" />
+      <workItem from="1620847442602" duration="5100000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
