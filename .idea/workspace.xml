@@ -145,7 +145,7 @@
     <property name="javascript.nodejs.core.library.configured.version" value="16.0.0" />
     <property name="jdk.selected.JAVA_MODULE" value="openjdk-16" />
     <property name="js.linters.configure.manually.selectedeslint" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Libellus_03052k21" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../AveMetaRu" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.jscs" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -595,7 +595,10 @@
       <workItem from="1621149780841" duration="4051000" />
       <workItem from="1621227493121" duration="5285000" />
       <workItem from="1621315164667" duration="684000" />
-      <workItem from="1621329088059" duration="786000" />
+      <workItem from="1621329088059" duration="1990000" />
+      <workItem from="1621435544268" duration="809000" />
+      <workItem from="1621568271069" duration="1919000" />
+      <workItem from="1621594976237" duration="529000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
@@ -1262,12 +1265,11 @@
     <state x="1607" y="126" width="973" height="703" key="DiffContextDialog" timestamp="1618552949701">
       <screen x="1440" y="0" width="1280" height="984" />
     </state>
-    <state x="188" y="110" width="1094" height="614" key="DiffContextDialog/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1612887045712" />
     <state x="1607" y="126" width="973" height="703" key="DiffContextDialog/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1618552949701" />
-    <state x="519" y="178" width="699" height="606" key="FileChooserDialogImpl" timestamp="1621329181699">
+    <state x="519" y="178" width="699" height="606" key="FileChooserDialogImpl" timestamp="1621584714587">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="519" y="178" key="FileChooserDialogImpl/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1621329181699" />
+    <state x="519" y="178" key="FileChooserDialogImpl/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1621584714587" />
     <state x="1901" y="204" key="FileChooserDialogImpl/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1619417007460" />
     <state width="1099" height="165" key="GridCell.Tab.0.bottom" timestamp="1621150244375">
       <screen x="0" y="0" width="1440" height="860" />
