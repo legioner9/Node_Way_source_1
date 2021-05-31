@@ -18,125 +18,125 @@ from from from from from from from from from from from from from from from from 
 by by by by by by by by by by by by by by by by by by by by by by by by by by by — от
 hot hot hot hot hot hot hot hot hot hot hot hot hot hot hot hot hot— горячий / жарко
 word word word word word word word  — слово
-but — но
-what — что
-some — некоторый
-is — является
-it — это
-you — ты
-or — или
-had — имел
-the 
-of — из / о
-to — в / к
-and — и
-a 
-in — в
-we — мы
-can — может
-out — из / вне
-other — другой
-were — были
-which — который
-do — делать
-their — их
-time — время
-if — если
-will — будет
-how — как
-said — говорить
-an 
-each — каждый
-tell — говорить
-does — делает
-set — задавать / комплект
-three — три
-want — хотеть
-air — воздух
-well — хорошо
-also — также
-play — играть
-small — маленький
-end — конец
-put — ставить
-home — дом
-read — читать
-hand — рука
-port — порт
-large — большой
-spell — читать по буквам / орфография
-add — добавлять
-even — даже
-land — земля
-here — здесь
-must — должен
-big — большой
-high — высокий
-such — такой
-follow — следовать
-act — действовать
-why — почему
-ask — спрашивать
-men — люди
-change — менять
-went — отправился
-light — свет / легкий
-kind — добрый / разновидность
-off — от / выключенный
-need — необходимость
-house — дом
-picture — картина / фото
-try — пробовать / пытаться
-us — нас
-again — снова
-animal — животное
-point — точка
-mother — мать
-world — мир
-near — близко
-build — строить
-self — себя
-earth — земля
-father — отец
-any — любой
-new — новый
-work — работа
-part — часть
-take — брать
-get — получать
-place — место
-made — сделать
-live — жить
-where — где
-after — после
-back — назад
-little — немного
-only — только
-round — круглый / вокруг
-man — мужчина
-year — год
-came — пришел
-show — показывать
-every — каждый
-good — хороший
-me — мне
-give — давать
-our — наш
-under — под
-name — имя
-very — очень
-through — через
-just — только / просто
-form — вид, форма / образовывать
-sentence — предложение
-great — отличный
-think — думать
-say — говорить
-help — помогать, помощь
-low — низкий
-line — линия, черта
-differ — отличаться
-turn — поворачивать
+but but but but but but but but but but but but but but but but but — но
+what what what what what what what what what what what what what  what — что
+some some some some some some some some some some some some some some — некоторый 
+is is is is is is is is is is is is is is is is is is  is — является 
+it it it it it it it it it it it it it it it it it it it it it it  it — это
+you you you you you you you you you you you you you you you you you you — ты
+or or or or or or or or or or or or or or or or or or or or or or or or — или
+had had had had had had had had had had had had had had had — имел 
+the the the the the the the the the the the the the the the the the the the  the 
+of of of of of of of of of of of of of of of of of of of of of of of — из / о
+to to to to to to to to to to to to to to to to to to to to to to to to to to — в / к
+and and and and and and and and and and and and and and and — и
+ a 
+in in in in in in in in in in in in in in in in in in in in in in — в
+we we we we we we we we we we we we we we we we we we we we we we we we we we we — мы
+can can can can can can can can can can can can can cancan can can can can can — может 
+out out out out out out out out out out out out out out out out out out out — из / вне
+other other other other other other other other other other other other — другой
+were were were were were were were were were were were were were were were — были
+which which which which which which which which which which which which which which which which который
+do do do do do do do do do do do do do do do do do do do do do do do do do do do — делать
+their their their their their their their their their their their their — их
+time time time time time time time time time time time time time time time time time time — время
+if if if if if if if if if if if if if if if if if if if if if if if if if if if — если
+will will will will will will will will will will will will will will will — будет
+how how how how how how how how how how how how how how how how how how how how how how how — как
+said said said said said said said said said said said said said said said said — говорить
+an an an an an an an an an an an an an an an an an an an an an an an an an an an an 
+each each each each each each each each each each each each each each each — каждый
+tell tell tell tell tell tell tell tell tell tell tell tell tell tell tell tell — говорить
+dose dose dose dose dose dose dose dose does dose dose dose dose dose — делает
+set set set set set set set set set set set set set set set set set set — задавать / комплект
+three yhre three three three three three rhree three three three three three three — три
+want want want want want want want want want want want want want want want want — хотеть
+air air air air air air air air air air air air air air air air air — воздух
+well well well well well well well well well well well well well well well well — хорошо
+also also also also also also also also also also also also also also also also — также
+play play play play play play play play play play play play play play play play — играть
+small small small small small small small small small small small — маленький
+end end end end end end end end end end end end end end end end end end end — конец 
+put put put put put put put put put put put put put put put put put put put put — ставить
+home home home home home home home home home home home home home home home home — дом
+read read read read read read read read  read read read read read read read — читать
+hand hand hand hand hand hand hand hand hand hand hand hand hand hand hand hand — рука 
+port port port port port port port port port port port port port port port — порт
+large large large laerge large large large large large large large large large — большой
+spell spell spell spell spell spell spell spell spell spell spell spell — читать по буквам / орфография 
+add add add add add add add add add add add add add add add add add add add — добавлять
+even even even even even even even even even even even even even even even even — даже
+land land land land land land land land land land land land land land land land — земля
+here here here here here here here here here here here here — здесь
+must must must must must must must must must must must must must must must must — должен
+big big big big big big big big big big big big big big big big big big big — большой
+higt higt higt higt higt higt higt higt higt higt higt higt higt higt higt high — высокий
+such such such such such such such such such such such such such such such such — такой
+follow follw follw follw follw follw follow follw follw follw follw follw follw — следовать
+act act act act act act act act act act act act act act act act act act act — действовать
+why why why why why why why why why why why why why why why why why why why why — почему
+ask ask ask ask ask ask ask ask ask ask ask ask ask ask ask ask ask ask ask ask — спрашивать
+men men men men men men men men men men men men men men men men men men men — люди 
+change change change change change change change change change change change— менять
+went went went went went went went went went went went went went went went — отправился
+light light light light light light light light light light light light — свет / легкий
+kind kind kind kind kind kind kind kind kind kind kind kind kind kind kind — добрый / разновидность
+off off off off off off off off off off off off off off off off off off off off — от / выключенный
+need need need need need need need need need need need need need need need need — необходимость
+house house house house house house house house house house house house house house — дом
+picture picture picture picture picture picture picture picture picture picture — картина / фото
+try try try try try try try try try try try try try try try try try try try try — пробовать / пытаться
+us us us us us us us us us us us us us us us us us us us us us us us us us us us us — нас
+again again again again again again again again again again again again again — снова
+animal animal animal animal animal animal animal animal animal animal animal animal — животное
+point point point point point point point point point point point point point point — точка
+mother mother mother mother mother mother mother mother mother mother — мать
+world world world world world world world world — мир
+near near near near near near near near near near near near near near near near — близко
+build build build build build build build build build build build build build build— строить
+self self self self self self self self self self self self self self  self — себя
+earth earth earth earth earth earth earth earth earth earth earth earth eaeth — земля
+father father father father father father father father father father father — отец
+any any any any any any any any any any any any any any any any any any any any any any — любой
+new new new new new new new new new new new new new new new new new new new new new — новый
+work work work work work work work work  work work work work work work work — работа
+part part part part part part part part part part part part part part part part part — часть
+take take take take take take take take take take take take take take take take take — брать
+get get get get get get get get get get get get get get get get get get get get get — получать
+place place place place place place place place place place place place place place — место
+made made made made made made made made made made made made made made made made — сделать
+live live live live live live live live live live live live live live live — жить
+where where where where where where where where where where where where where — где
+after after after after after after after after after after after after after after — после
+back back back back back back back back back back back back back back back back back — назад
+little little little little little little little little little little little little — немного
+only only only only only only only only only only only only only only only only only — только
+round round round round round round round round round round round round round — круглый / вокруг
+man man man man man man man man man man man man man man man man man man man man man — мужчина
+year year year year year year year year year year year year year year year year year — год
+came came came came came came came came came came came came came came came came — пришел
+show show show show show show show show show show show show show show show show show — показывать
+every every every every every every every every every every every every every every — каждый
+good good good good good good good good good good good good good good good good good — хороший
+me me me me me me me me me me me me me me me me me me me me me me me me me me me me me — мне
+give give give give give give give give give give give give give give give give give — давать
+our our our our our our our our our our our our our our our our our our our our our our — наш
+under under under under under under under under under under under under under under under — под
+name name name name name name name name name name name name name name name name name — имя
+very very very very very very very very very very very very very very very very — очень
+through through through through through through through through through through through — через
+just just just just just just just just just just just just just just just  just — только / просто
+form form form form form form form form form form form form form form form — вид, форма / образовывать
+sentence sentence sentence sentence sentence sentence sentence sentence sentence — предложение
+great great great great great great great great great great great great great great — отличный
+think think think think think think think think think think think think think think — думать
+say say say say say say say say say say say say say say say say say say say say — говорить
+help help help help help help help help help help help help help help help help — помогать, помощь
+low low low low low low low low low low low low low low low low low low low low low low — низкий
+line line line line line line line line line line line line line line line line line — линия, черта
+differ differ differ differ differ differ differ differ differ differ differ differ — отличаться
+turn turn turn turn — поворачивать
 cause — причина
 much — много
 mean — значить / подлый / средний
