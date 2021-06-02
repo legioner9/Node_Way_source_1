@@ -35,9 +35,16 @@
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_tsh/hpw/_polifills/reduce/Test/main_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/hpw/_polifills/reduce/Test/main_test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_tsh/hpw/_polifills/reduce/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/hpw/_polifills/reduce/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_tsh/hpw/wrapers/functionTypesFs/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/hpw/wrapers/functionTypesFs/index_what.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_tsh/hpw/_polifills/reduce/Production/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/hpw/_polifills/reduce_arr/Production/ReadMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_tsh/hpw/_polifills/reduce/Test/1.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/hpw/_polifills/reduce_arr/Test/1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_tsh/hpw/_polifills/reduce/Test/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/hpw/_polifills/reduce_arr/Test/ReadMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_tsh/hpw/_polifills/reduce/Test/main_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/hpw/_polifills/reduce_arr/Test/main_test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_tsh/hpw/_polifills/reduce/_ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/hpw/_polifills/reduce_arr/_ReadMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_tsh/hpw/_polifills/reduce/_versions.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/hpw/_polifills/reduce_arr/_versions.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_tsh/hpw/_polifills/reduce/examp.index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/hpw/_polifills/reduce_arr/examp.index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_tsh/hpw/_polifills/reduce/index.init.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/hpw/_polifills/reduce_arr/index.init.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_tsh/hpw/_polifills/reduce/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/hpw/_polifills/reduce_arr/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_tsh/hpw/_polifills/reduce/index.v.1.0.0.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/hpw/_polifills/reduce_arr/index.v.1.0.0.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -148,7 +155,7 @@
     <property name="javascript.nodejs.core.library.configured.version" value="16.0.0" />
     <property name="jdk.selected.JAVA_MODULE" value="openjdk-16" />
     <property name="js.linters.configure.manually.selectedeslint" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/node_modules_/_tsh/hpw/wrapers/functionTypesFs" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/node_modules_/_tsh/hpw/_polifills" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.jscs" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -192,8 +199,8 @@
       <recent name="F:\Node_projects\Node_Way\_tsh\hpw\InversionOfControl-master_\dependencyInjection\_qest" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\Node_projects\Node_Way\node_modules_\_tsh\hpw\wrapers\functionTypesFs" />
       <recent name="F:\Node_projects\Node_Way\node_modules_\_tsh\hpw\_polifills" />
+      <recent name="F:\Node_projects\Node_Way\node_modules_\_tsh\hpw\wrapers\functionTypesFs" />
       <recent name="F:\Node_projects\Node_Way\node_modules_\_tsh\hpw\_exam\_\Test" />
       <recent name="F:\Node_projects\Node_Way\node_modules_\_tsh\hpw\__\_" />
       <recent name="F:\Node_projects\Node_Way\node_modules_\_theory\dataStructures\lists" />
@@ -221,10 +228,13 @@
     <configuration name="main.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Lessons/Node_wm/NORG.runInThisContext/main.js" working-dir="$PROJECT_DIR$/Lessons/Node_wm/NORG.runInThisContext">
       <method v="2" />
     </configuration>
-    <configuration name="main_test.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/node_modules_/_tsh/hpw/_polifills/reduce/Test/main_test.js" working-dir="$PROJECT_DIR$/node_modules_/_tsh/hpw/_polifills/reduce/Test">
+    <configuration name="main_test.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/node_modules_/_theory/dataStructures/arrayJs/searchIndexOf/Test/main_test.js" working-dir="$PROJECT_DIR$/node_modules_/_theory/dataStructures/arrayJs/searchIndexOf/Test">
       <method v="2" />
     </configuration>
-    <configuration name="main_test.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/node_modules_/_theory/dataStructures/arrayJs/searchIndexOf/Test/main_test.js" working-dir="$PROJECT_DIR$/node_modules_/_theory/dataStructures/arrayJs/searchIndexOf/Test">
+    <configuration name="main_test.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/node_modules_/_tsh/hpw/_polifills/reduce_arr/Test/main_test.js" working-dir="$PROJECT_DIR$/node_modules_/_tsh/hpw/_polifills/reduce_arr/Test">
+      <method v="2" />
+    </configuration>
+    <configuration name="main_test.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/node_modules_/_tsh/hpw/_polifills/reduce_list/Test/main_test.js" working-dir="$PROJECT_DIR$/node_modules_/_tsh/hpw/_polifills/reduce_list/Test">
       <method v="2" />
     </configuration>
     <configuration name="require_json.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/_tsh/hpw/InversionOfControl-master_/dependencyInjection/_qest/require_json.js" working-dir="$PROJECT_DIR$/_tsh/hpw/InversionOfControl-master_/dependencyInjection">
@@ -245,10 +255,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Node.js.main_test.js (1)" />
+        <item itemvalue="Node.js.main_test.js (1)" />
         <item itemvalue="Node.js.index_what.js" />
         <item itemvalue="Node.js.main_test.js" />
         <item itemvalue="Node.js.forEach.js" />
-        <item itemvalue="Node.js.require_json.js" />
       </list>
     </recent_temporary>
   </component>
@@ -602,7 +612,7 @@
       <workItem from="1621435544268" duration="809000" />
       <workItem from="1621568271069" duration="1919000" />
       <workItem from="1621594976237" duration="529000" />
-      <workItem from="1622609953462" duration="4065000" />
+      <workItem from="1622609953462" duration="10267000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
@@ -1275,26 +1285,26 @@
     </state>
     <state x="519" y="178" key="FileChooserDialogImpl/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1621584714587" />
     <state x="1901" y="204" key="FileChooserDialogImpl/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1619417007460" />
-    <state width="1099" height="178" key="GridCell.Tab.0.bottom" timestamp="1622615099677">
+    <state width="1099" height="178" key="GridCell.Tab.0.bottom" timestamp="1622621967263">
       <screen x="1440" y="0" width="1280" height="984" />
     </state>
     <state width="1099" height="165" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1621150244375" />
-    <state width="1099" height="178" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1622615099677" />
-    <state width="1099" height="178" key="GridCell.Tab.0.center" timestamp="1622615099677">
+    <state width="1099" height="178" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1622621967263" />
+    <state width="1099" height="178" key="GridCell.Tab.0.center" timestamp="1622621967263">
       <screen x="1440" y="0" width="1280" height="984" />
     </state>
     <state width="1099" height="165" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1621150244375" />
-    <state width="1099" height="178" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1622615099677" />
-    <state width="1099" height="178" key="GridCell.Tab.0.left" timestamp="1622615099677">
+    <state width="1099" height="178" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1622621967263" />
+    <state width="1099" height="178" key="GridCell.Tab.0.left" timestamp="1622621967262">
       <screen x="1440" y="0" width="1280" height="984" />
     </state>
     <state width="1099" height="165" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1621150244375" />
-    <state width="1099" height="178" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1622615099677" />
-    <state width="1099" height="178" key="GridCell.Tab.0.right" timestamp="1622615099677">
+    <state width="1099" height="178" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1622621967262" />
+    <state width="1099" height="178" key="GridCell.Tab.0.right" timestamp="1622621967263">
       <screen x="1440" y="0" width="1280" height="984" />
     </state>
     <state width="1099" height="165" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1621150244375" />
-    <state width="1099" height="178" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1622615099677" />
+    <state width="1099" height="178" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1622621967263" />
     <state width="1219" height="148" key="GridCell.Tab.1.bottom" timestamp="1619802430561">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
@@ -1435,10 +1445,11 @@
       <screen x="1440" y="0" width="1280" height="984" />
     </state>
     <state x="1701" y="190" key="run.anything.popup/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1620051051926" />
-    <state x="105" y="0" width="945" height="858" key="search.everywhere.popup" timestamp="1617528417315">
-      <screen x="0" y="0" width="1440" height="860" />
+    <state x="1533" y="0" width="840" height="982" key="search.everywhere.popup" timestamp="1622617428848">
+      <screen x="1440" y="0" width="1280" height="984" />
     </state>
     <state x="105" y="0" width="945" height="858" key="search.everywhere.popup/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1617528417315" />
+    <state x="1533" y="0" width="840" height="982" key="search.everywhere.popup/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1622617428848" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
