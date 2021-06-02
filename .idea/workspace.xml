@@ -35,10 +35,9 @@
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lessons/Keyboard/trane/1000_trane_1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/Keyboard/trane/1000_trane_1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lessons/Keyboard/trane/1000_trane_1.txt.bak" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/Keyboard/trane/1000_trane_1.txt.bak" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_mdn/polifills/js/filterInt/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_mdn/polifills/js/filterInt/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_tsh/hpw/_polifills/_/Test/main_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/hpw/_polifills/_/Test/main_test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_tsh/hpw/_polifills/reduce/Test/main_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/hpw/_polifills/reduce/Test/main_test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_tsh/hpw/_polifills/reduce/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/hpw/_polifills/reduce/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_tsh/hpw/wrapers/functionTypesFs/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/hpw/wrapers/functionTypesFs/index_what.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,7 +148,7 @@
     <property name="javascript.nodejs.core.library.configured.version" value="16.0.0" />
     <property name="jdk.selected.JAVA_MODULE" value="openjdk-16" />
     <property name="js.linters.configure.manually.selectedeslint" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/node_modules_/_tsh/hpw/wrapers/functionTypesFs" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.jscs" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -186,28 +185,28 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Node_projects\Node_Way\node_modules_\_tsh\hpw\__\_\Test" />
       <recent name="F:\Node_projects\Node_Way\node_modules_\_tsh\hpw\_exam\ternary\_examples" />
       <recent name="F:\Node_projects\Node_Way\node_modules_\_tsh\hpw\_exam\bigint\_examples" />
       <recent name="F:\Node_projects\Node_Way\TSH_youtube_libellus_03052k21\Основы программирования\1" />
       <recent name="F:\Node_projects\Node_Way\_tsh\hpw\InversionOfControl-master_\dependencyInjection\_qest" />
-      <recent name="F:\Node_projects\Node_Way\Lessons\Node_ws\Docs" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Node_projects\Node_Way\node_modules_\_tsh\hpw\wrapers\functionTypesFs" />
+      <recent name="F:\Node_projects\Node_Way\node_modules_\_tsh\hpw\_polifills" />
+      <recent name="F:\Node_projects\Node_Way\node_modules_\_tsh\hpw\_exam\_\Test" />
+      <recent name="F:\Node_projects\Node_Way\node_modules_\_tsh\hpw\__\_" />
       <recent name="F:\Node_projects\Node_Way\node_modules_\_theory\dataStructures\lists" />
-      <recent name="F:\Node_projects\Node_Way\node_modules_\_theory\dataStructures" />
-      <recent name="F:\Node_projects\Node_Way\node_modules_\_theory\dataStructures\arrayJs" />
-      <recent name="F:\Node_projects\Node_Way\node_modules_\_theory" />
-      <recent name="F:\Node_projects\Node_Way\node_modules_" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.main_test.js">
+  <component name="RunManager" selected="Node.js.main_test.js (1)">
     <configuration name="1.html" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/Node_Way/Node_Docs/Lessons/React/egghead.io/1.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="forEach.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="forEach.js" working-dir="$PROJECT_DIR$/_tsh/hpw/InversionOfControl-master_/dependencyInjection/_qest">
       <method v="2" />
     </configuration>
-    <configuration name="main.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/node_modules_/_tsh/hpw/sandboxed-fs/Module_test/main.js" working-dir="$PROJECT_DIR$/node_modules_/_tsh/hpw/sandboxed-fs/Module_test">
+    <configuration name="index_what.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/node_modules_/_tsh/hpw/wrapers/functionTypesFs/index_what.js" working-dir="$PROJECT_DIR$/node_modules_/_tsh/hpw/wrapers/functionTypesFs">
       <method v="2" />
     </configuration>
     <configuration name="main.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="main.js" working-dir="$PROJECT_DIR$/Lessons/Node_wm/vm.Script/NORG.measureMemory">
@@ -222,6 +221,9 @@
     <configuration name="main.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Lessons/Node_wm/NORG.runInThisContext/main.js" working-dir="$PROJECT_DIR$/Lessons/Node_wm/NORG.runInThisContext">
       <method v="2" />
     </configuration>
+    <configuration name="main_test.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/node_modules_/_tsh/hpw/_polifills/reduce/Test/main_test.js" working-dir="$PROJECT_DIR$/node_modules_/_tsh/hpw/_polifills/reduce/Test">
+      <method v="2" />
+    </configuration>
     <configuration name="main_test.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/node_modules_/_theory/dataStructures/arrayJs/searchIndexOf/Test/main_test.js" working-dir="$PROJECT_DIR$/node_modules_/_theory/dataStructures/arrayJs/searchIndexOf/Test">
       <method v="2" />
     </configuration>
@@ -231,25 +233,22 @@
     <configuration name="sandboxed-fs_my.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/_tsh/hpw/Seqenti_DependencyInjection-master_/JavaScript/sandboxed-fs_my.js" working-dir="$PROJECT_DIR$/_tsh/hpw/Seqenti_DependencyInjection-master_/JavaScript">
       <method v="2" />
     </configuration>
-    <configuration name="test.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/node_modules_/_tsh/hpw/sandboxed-fs/test.js" working-dir="$PROJECT_DIR$/node_modules_/_tsh/hpw/sandboxed-fs">
-      <method v="2" />
-    </configuration>
     <list>
       <item itemvalue="JavaScript Debug.1.html" />
       <item itemvalue="Node.js.sandboxed-fs_my.js" />
       <item itemvalue="Node.js.forEach.js" />
-      <item itemvalue="Node.js.main.js" />
       <item itemvalue="Node.js.main_test.js" />
       <item itemvalue="Node.js.require_json.js" />
-      <item itemvalue="Node.js.test.js (1)" />
+      <item itemvalue="Node.js.index_what.js" />
+      <item itemvalue="Node.js.main_test.js (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.main_test.js (1)" />
+        <item itemvalue="Node.js.index_what.js" />
         <item itemvalue="Node.js.main_test.js" />
         <item itemvalue="Node.js.forEach.js" />
         <item itemvalue="Node.js.require_json.js" />
-        <item itemvalue="Node.js.main.js" />
-        <item itemvalue="Node.js.test.js (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -603,7 +602,7 @@
       <workItem from="1621435544268" duration="809000" />
       <workItem from="1621568271069" duration="1919000" />
       <workItem from="1621594976237" duration="529000" />
-      <workItem from="1622609953462" duration="859000" />
+      <workItem from="1622609953462" duration="4065000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
@@ -1276,26 +1275,26 @@
     </state>
     <state x="519" y="178" key="FileChooserDialogImpl/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1621584714587" />
     <state x="1901" y="204" key="FileChooserDialogImpl/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1619417007460" />
-    <state width="1099" height="165" key="GridCell.Tab.0.bottom" timestamp="1621150244375">
-      <screen x="0" y="0" width="1440" height="860" />
+    <state width="1099" height="178" key="GridCell.Tab.0.bottom" timestamp="1622615099677">
+      <screen x="1440" y="0" width="1280" height="984" />
     </state>
     <state width="1099" height="165" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1621150244375" />
-    <state width="1099" height="235" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1619434069839" />
-    <state width="1099" height="165" key="GridCell.Tab.0.center" timestamp="1621150244375">
-      <screen x="0" y="0" width="1440" height="860" />
+    <state width="1099" height="178" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1622615099677" />
+    <state width="1099" height="178" key="GridCell.Tab.0.center" timestamp="1622615099677">
+      <screen x="1440" y="0" width="1280" height="984" />
     </state>
     <state width="1099" height="165" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1621150244375" />
-    <state width="1099" height="235" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1619434069839" />
-    <state width="1099" height="165" key="GridCell.Tab.0.left" timestamp="1621150244375">
-      <screen x="0" y="0" width="1440" height="860" />
+    <state width="1099" height="178" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1622615099677" />
+    <state width="1099" height="178" key="GridCell.Tab.0.left" timestamp="1622615099677">
+      <screen x="1440" y="0" width="1280" height="984" />
     </state>
     <state width="1099" height="165" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1621150244375" />
-    <state width="1099" height="235" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1619434069839" />
-    <state width="1099" height="165" key="GridCell.Tab.0.right" timestamp="1621150244375">
-      <screen x="0" y="0" width="1440" height="860" />
+    <state width="1099" height="178" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1622615099677" />
+    <state width="1099" height="178" key="GridCell.Tab.0.right" timestamp="1622615099677">
+      <screen x="1440" y="0" width="1280" height="984" />
     </state>
     <state width="1099" height="165" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1621150244375" />
-    <state width="1099" height="235" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1619434069839" />
+    <state width="1099" height="178" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1622615099677" />
     <state width="1219" height="148" key="GridCell.Tab.1.bottom" timestamp="1619802430561">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
