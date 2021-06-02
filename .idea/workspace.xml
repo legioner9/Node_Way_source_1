@@ -35,16 +35,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_tsh/hpw/_polifills/reduce/Production/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/hpw/_polifills/reduce_arr/Production/ReadMe.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_tsh/hpw/_polifills/reduce/Test/1.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/hpw/_polifills/reduce_arr/Test/1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_tsh/hpw/_polifills/reduce/Test/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/hpw/_polifills/reduce_arr/Test/ReadMe.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_tsh/hpw/_polifills/reduce/Test/main_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/hpw/_polifills/reduce_arr/Test/main_test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_tsh/hpw/_polifills/reduce/_ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/hpw/_polifills/reduce_arr/_ReadMe.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_tsh/hpw/_polifills/reduce/_versions.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/hpw/_polifills/reduce_arr/_versions.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_tsh/hpw/_polifills/reduce/examp.index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/hpw/_polifills/reduce_arr/examp.index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_tsh/hpw/_polifills/reduce/index.init.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/hpw/_polifills/reduce_arr/index.init.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_tsh/hpw/_polifills/reduce/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/hpw/_polifills/reduce_arr/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_tsh/hpw/_polifills/reduce/index.v.1.0.0.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_tsh/hpw/_polifills/reduce_arr/index.v.1.0.0.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -612,7 +602,7 @@
       <workItem from="1621435544268" duration="809000" />
       <workItem from="1621568271069" duration="1919000" />
       <workItem from="1621594976237" duration="529000" />
-      <workItem from="1622609953462" duration="10267000" />
+      <workItem from="1622609953462" duration="11267000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
@@ -1285,26 +1275,26 @@
     </state>
     <state x="519" y="178" key="FileChooserDialogImpl/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1621584714587" />
     <state x="1901" y="204" key="FileChooserDialogImpl/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1619417007460" />
-    <state width="1099" height="178" key="GridCell.Tab.0.bottom" timestamp="1622621967263">
+    <state width="1099" height="178" key="GridCell.Tab.0.bottom" timestamp="1622623693541">
       <screen x="1440" y="0" width="1280" height="984" />
     </state>
     <state width="1099" height="165" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1621150244375" />
-    <state width="1099" height="178" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1622621967263" />
-    <state width="1099" height="178" key="GridCell.Tab.0.center" timestamp="1622621967263">
+    <state width="1099" height="178" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1622623693541" />
+    <state width="1099" height="178" key="GridCell.Tab.0.center" timestamp="1622623693541">
       <screen x="1440" y="0" width="1280" height="984" />
     </state>
     <state width="1099" height="165" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1621150244375" />
-    <state width="1099" height="178" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1622621967263" />
-    <state width="1099" height="178" key="GridCell.Tab.0.left" timestamp="1622621967262">
+    <state width="1099" height="178" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1622623693541" />
+    <state width="1099" height="178" key="GridCell.Tab.0.left" timestamp="1622623693541">
       <screen x="1440" y="0" width="1280" height="984" />
     </state>
     <state width="1099" height="165" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1621150244375" />
-    <state width="1099" height="178" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1622621967262" />
-    <state width="1099" height="178" key="GridCell.Tab.0.right" timestamp="1622621967263">
+    <state width="1099" height="178" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1622623693541" />
+    <state width="1099" height="178" key="GridCell.Tab.0.right" timestamp="1622623693541">
       <screen x="1440" y="0" width="1280" height="984" />
     </state>
     <state width="1099" height="165" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1621150244375" />
-    <state width="1099" height="178" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1622621967263" />
+    <state width="1099" height="178" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1622623693541" />
     <state width="1219" height="148" key="GridCell.Tab.1.bottom" timestamp="1619802430561">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
