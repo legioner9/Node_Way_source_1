@@ -35,10 +35,8 @@
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Store/Bookmarks/bookmarks_03.06.2021.html" beforeDir="false" afterPath="$PROJECT_DIR$/Store/Bookmarks/bookmarks_03.06.2021.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tmp/1.js" beforeDir="false" afterPath="$PROJECT_DIR$/Tmp/1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_praevia/_/Test/main_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_praevia/_/Test/main_test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_praevia/__/_/Test/main_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_praevia/__/_/Test/main_test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_praevia/getPropertyProto/Test/main_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_praevia/getPropertyProto/Test/main_test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_praevia/getPropertyProto/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_praevia/getPropertyProto/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -173,7 +171,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="settings.editor.splitter.proportion" value="0.23273855" />
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains_\IntelliJ IDEA 2020.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
@@ -185,19 +183,19 @@
     </option>
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\Node_projects\Node_Way\node_modules_\_praevia" />
-      <recent name="F:\Node_projects\Node_Way\node_modules_\_tsh\hpw\_polifills" />
-      <recent name="F:\Node_projects\Node_Way\node_modules_\_tsh\hpw\wrapers\functionTypesFs" />
-      <recent name="F:\Node_projects\Node_Way\node_modules_\_tsh\hpw\_exam\_\Test" />
-      <recent name="F:\Node_projects\Node_Way\node_modules_\_tsh\hpw\__\_" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\Node_projects\Node_Way\node_modules_\_tsh\hpw\__\_\Test" />
       <recent name="F:\Node_projects\Node_Way\node_modules_\_tsh\hpw\_exam\ternary\_examples" />
       <recent name="F:\Node_projects\Node_Way\node_modules_\_tsh\hpw\_exam\bigint\_examples" />
       <recent name="F:\Node_projects\Node_Way\TSH_youtube_libellus_03052k21\Основы программирования\1" />
       <recent name="F:\Node_projects\Node_Way\_tsh\hpw\InversionOfControl-master_\dependencyInjection\_qest" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Node_projects\Node_Way\node_modules_\_praevia" />
+      <recent name="F:\Node_projects\Node_Way\node_modules_\_tsh\hpw\_polifills" />
+      <recent name="F:\Node_projects\Node_Way\node_modules_\_tsh\hpw\wrapers\functionTypesFs" />
+      <recent name="F:\Node_projects\Node_Way\node_modules_\_tsh\hpw\_exam\_\Test" />
+      <recent name="F:\Node_projects\Node_Way\node_modules_\_tsh\hpw\__\_" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.main_test.js (1)">
@@ -612,7 +610,8 @@
       <workItem from="1621594976237" duration="529000" />
       <workItem from="1622609953462" duration="14424000" />
       <workItem from="1622649703514" duration="6516000" />
-      <workItem from="1622821290810" duration="1054000" />
+      <workItem from="1622821290810" duration="3891000" />
+      <workItem from="1622947941011" duration="1627000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
@@ -1373,10 +1372,10 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="471" y="102" key="RollbackChangesDialog/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1615216355042" />
-    <state x="1575" y="132" width="1141" height="710" key="SettingsEditor" timestamp="1622610834150">
-      <screen x="1440" y="0" width="1280" height="984" />
+    <state x="234" y="136" width="1141" height="710" key="SettingsEditor" timestamp="1622956845110">
+      <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="234" y="136" width="1141" height="710" key="SettingsEditor/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1621254930060" />
+    <state x="234" y="136" width="1141" height="710" key="SettingsEditor/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1622956845110" />
     <state x="1575" y="132" key="SettingsEditor/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1622610834150" />
     <state width="640" height="463" key="XDebugger.FullValuePopup" timestamp="1619159036937">
       <screen x="1440" y="0" width="1280" height="984" />
