@@ -34,8 +34,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
+      <change beforePath="$PROJECT_DIR$/.idea/Node_Docs.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Node_Docs.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/_praevia/getVisProto/Test/main_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_praevia/getVisProto/Test/main_test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Store/Sis_USER/.bash_profile" beforeDir="false" afterPath="$PROJECT_DIR$/Store/Sis_USER/.bash_profile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules_/_utest/node/modules_/all/Test/add_require.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/_utest/node/modules_/all/Test/add_require.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,6 +117,7 @@
     <other-services-enabled>true</other-services-enabled>
     <auto-save>true</auto-save>
   </component>
+  <component name="JupyterTrust" id="c550f502-7678-41e1-906c-77cf47fcd7cb" />
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -143,10 +146,10 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="$PROJECT_DIR$/Jobs/SetGlobLoggers/ModLogger_1/Core/Logs/eLogs.txt&#10;true" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="javascript.nodejs.core.library.configured.version" value="16.0.0" />
+    <property name="javascript.nodejs.core.library.configured.version" value="16.3.0" />
     <property name="jdk.selected.JAVA_MODULE" value="openjdk-16" />
     <property name="js.linters.configure.manually.selectedeslint" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/node_modules_/_fromMetarhia/common/lib" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.jscs" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -237,6 +240,8 @@
     <list>
       <item itemvalue="JavaScript Debug.1.html" />
       <item itemvalue="Node.js.sandboxed-fs_my.js" />
+      <item itemvalue="Node.js.main.js" />
+      <item itemvalue="Node.js.main_test.js" />
       <item itemvalue="Node.js.require_json.js" />
       <item itemvalue="Node.js.index_what.js" />
       <item itemvalue="Node.js.main_test.js (1)" />
@@ -606,7 +611,11 @@
       <workItem from="1622609953462" duration="14424000" />
       <workItem from="1622649703514" duration="6516000" />
       <workItem from="1622821290810" duration="3891000" />
-      <workItem from="1622947941011" duration="29814000" />
+      <workItem from="1622947941011" duration="30430000" />
+      <workItem from="1623155357805" duration="20000" />
+      <workItem from="1623156186098" duration="346000" />
+      <workItem from="1623156619484" duration="597000" />
+      <workItem from="1623157256670" duration="1813000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
@@ -1242,10 +1251,10 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="514" y="254" key="#com.intellij.ide.actionMacro.EditMacrosDialog/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1616226156654" />
-    <state x="446" y="233" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1620727742462">
+    <state x="446" y="233" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1623156598696">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="446" y="233" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1620727742462" />
+    <state x="446" y="233" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1623156598696" />
     <state x="405" y="127" key="#copy_to_domane_dir" timestamp="1617003365346">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
@@ -1274,10 +1283,10 @@
       <screen x="1440" y="0" width="1280" height="984" />
     </state>
     <state x="1607" y="126" width="973" height="703" key="DiffContextDialog/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1618552949701" />
-    <state x="1901" y="204" width="699" height="606" key="FileChooserDialogImpl" timestamp="1622650000186">
-      <screen x="1440" y="0" width="1280" height="984" />
+    <state x="519" y="178" width="699" height="606" key="FileChooserDialogImpl" timestamp="1623156576378">
+      <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="519" y="178" key="FileChooserDialogImpl/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1621584714587" />
+    <state x="519" y="178" key="FileChooserDialogImpl/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1623156576378" />
     <state x="1901" y="204" key="FileChooserDialogImpl/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1622650000186" />
     <state width="1099" height="178" key="GridCell.Tab.0.bottom" timestamp="1623042995177">
       <screen x="0" y="0" width="1440" height="860" />
@@ -1367,10 +1376,10 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="471" y="102" key="RollbackChangesDialog/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1615216355042" />
-    <state x="234" y="136" width="1141" height="710" key="SettingsEditor" timestamp="1622957025263">
+    <state x="234" y="136" width="1141" height="710" key="SettingsEditor" timestamp="1623156492729">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="234" y="136" width="1141" height="710" key="SettingsEditor/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1622957025263" />
+    <state x="234" y="136" width="1141" height="710" key="SettingsEditor/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1623156492729" />
     <state x="1575" y="132" key="SettingsEditor/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1622610834150" />
     <state width="640" height="463" key="XDebugger.FullValuePopup" timestamp="1619159036937">
       <screen x="1440" y="0" width="1280" height="984" />
