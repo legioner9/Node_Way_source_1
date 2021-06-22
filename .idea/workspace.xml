@@ -35,7 +35,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Store/JsPrototype/new.md" beforeDir="false" afterPath="$PROJECT_DIR$/Store/JsPrototype/new.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -620,7 +619,7 @@
       <workItem from="1623812426261" duration="108000" />
       <workItem from="1623812579905" duration="4171000" />
       <workItem from="1623991153162" duration="1913000" />
-      <workItem from="1624175564258" duration="738000" />
+      <workItem from="1624175564258" duration="1337000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
