@@ -33,7 +33,10 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2" />
+    <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Store/JsPrototype/new.md" beforeDir="false" afterPath="$PROJECT_DIR$/Store/JsPrototype/new.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -615,7 +618,9 @@
       <workItem from="1623778736160" duration="73000" />
       <workItem from="1623780088267" duration="1376000" />
       <workItem from="1623812426261" duration="108000" />
-      <workItem from="1623812579905" duration="3575000" />
+      <workItem from="1623812579905" duration="4171000" />
+      <workItem from="1623991153162" duration="1913000" />
+      <workItem from="1624175564258" duration="738000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
@@ -1279,10 +1284,10 @@
       <screen x="1440" y="0" width="1280" height="984" />
     </state>
     <state x="1607" y="126" width="973" height="703" key="DiffContextDialog/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1618552949701" />
-    <state x="519" y="178" width="699" height="606" key="FileChooserDialogImpl" timestamp="1623780761339">
+    <state x="519" y="178" width="699" height="606" key="FileChooserDialogImpl" timestamp="1623992350182">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="519" y="178" key="FileChooserDialogImpl/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1623780761339" />
+    <state x="519" y="178" key="FileChooserDialogImpl/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1623992350182" />
     <state x="1901" y="204" key="FileChooserDialogImpl/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1622650000186" />
     <state width="1099" height="178" key="GridCell.Tab.0.bottom" timestamp="1623042995177">
       <screen x="0" y="0" width="1440" height="860" />
@@ -1368,10 +1373,6 @@
       <screen x="1440" y="0" width="1280" height="984" />
     </state>
     <state width="207" height="462" key="HiddenNamespacesPopup/0.0.1440.860/1440.0.1280.984@1440.0.1280.984" timestamp="1618559267645" />
-    <state x="471" y="102" key="RollbackChangesDialog" timestamp="1615216355042">
-      <screen x="0" y="0" width="1440" height="860" />
-    </state>
-    <state x="471" y="102" key="RollbackChangesDialog/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1615216355042" />
     <state x="234" y="136" width="1141" height="710" key="SettingsEditor" timestamp="1623812562232">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
