@@ -8,3 +8,6 @@
 ## Instruere
 ### Helix
 ### Segment 
+
+# Regula
+## Constructione Principium
