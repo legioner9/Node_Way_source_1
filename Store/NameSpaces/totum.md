@@ -11,3 +11,7 @@
 
 # Regula
 ## Constructione Principium
+### LegreMe.md
+
+# Definito in lingua
+## el(Verbum)
