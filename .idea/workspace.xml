@@ -35,8 +35,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9afba592-8010-4da3-9a4c-c297e817fafb" name="Default Changelist" comment="TSH AsyncIterator v.2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Store/N_10.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Store/N_10.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules_/st_doc1/js_DOCS/Map/MapSerializeToOther/SimbolIterator.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules_/st_doc1/js_DOCS/Map/MapSerializeToOther/SimbolIterator.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -184,19 +182,19 @@
     </option>
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\Node_projects\Node_Way\node_modules_\_tsh\hpw\__\_\Test" />
-      <recent name="F:\Node_projects\Node_Way\node_modules_\_tsh\hpw\_exam\ternary\_examples" />
-      <recent name="F:\Node_projects\Node_Way\node_modules_\_tsh\hpw\_exam\bigint\_examples" />
-      <recent name="F:\Node_projects\Node_Way\TSH_youtube_libellus_03052k21\Основы программирования\1" />
-      <recent name="F:\Node_projects\Node_Way\_tsh\hpw\InversionOfControl-master_\dependencyInjection\_qest" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\Node_projects\Node_Way\node_modules_\_fromMetarhia\common\lib" />
       <recent name="F:\Node_projects\Node_Way\node_modules_\_fromMetarhia\common" />
       <recent name="F:\Node_projects\Node_Way\node_modules_\_fromMetarhia" />
       <recent name="F:\Node_projects\Node_Way\node_modules_" />
       <recent name="F:\Node_projects\Node_Way\node_modules_\_praevia" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Node_projects\Node_Way\Tmp" />
+      <recent name="F:\Node_projects\Node_Way\node_modules_\_tsh\hpw\__\_\Test" />
+      <recent name="F:\Node_projects\Node_Way\node_modules_\_tsh\hpw\_exam\ternary\_examples" />
+      <recent name="F:\Node_projects\Node_Way\node_modules_\_tsh\hpw\_exam\bigint\_examples" />
+      <recent name="F:\Node_projects\Node_Way\TSH_youtube_libellus_03052k21\Основы программирования\1" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.SimbolIterator.js">
@@ -233,6 +231,8 @@
     <list>
       <item itemvalue="JavaScript Debug.1.html" />
       <item itemvalue="Node.js.sandboxed-fs_my.js" />
+      <item itemvalue="Node.js.main.js" />
+      <item itemvalue="Node.js.main_test.js" />
       <item itemvalue="Node.js.index_what.js" />
       <item itemvalue="Node.js.main_test.js (1)" />
       <item itemvalue="Node.js.main_test.js (2)" />
@@ -615,6 +615,7 @@
       <workItem from="1623991153162" duration="1913000" />
       <workItem from="1624175564258" duration="1337000" />
       <workItem from="1626751685740" duration="2658000" />
+      <workItem from="1629612981519" duration="1521000" />
     </task>
     <task id="LOCAL-00173" summary="AllWaysCreateObject v.1">
       <created>1580024352191</created>
