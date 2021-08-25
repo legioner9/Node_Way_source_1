@@ -1,2 +1,2 @@
 cd '/home/st/data_1/NodeWay'
-git pull origin master&
+git pull origin master
