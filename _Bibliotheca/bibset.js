@@ -7,7 +7,8 @@ const objExport = {};
 
 const checkIgnore = (arrPath) => {
   if (~arrPath.indexOf('.bibignore')) {
-    return fs.readFileSync('./.bibignore', 'utf8')
+    const pathToBibignore = path.join(__dirname, '.bibignore');
+    return fs.readFileSync(pathToBibignore, 'utf8')
     .split('\n')
     .filter(item => item.length || typeof item !== 'string');
   } else throw new Error('.bibignore file not found');
@@ -34,7 +35,7 @@ const filterIgnored = (arrPath, ignoreArray) => {
     return !result;
   });
 };
-
+debugger
 const arrPath = fs.readdirSync(__dirname);
 
 const ignoreArray = checkIgnore(arrPath);
